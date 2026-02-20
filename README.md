@@ -13,6 +13,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[nologin.tools](https://nologin.tools)** — A curated directory of tools and services that work without creating an account or logging in. Browse, search, and filter tools by category, privacy, pricing, and more — all without registration.
   > _No-login task: Browse and search the full directory of no-login tools, filter by category and tags, view tool details_
+- **[tmp.tf](https://tmp.tf)** — A temporary clipboard tool that lets you sync text and content across devices in seconds. No signup required, end-to-end encrypted, and content auto self-destructs. Simply open a named channel and paste from any device.
+  > _No-login task: Open a channel and sync text across devices without any account or login_
 
 ## Media
 
