@@ -16,6 +16,14 @@
     "category": "Productivity"
   },
   {
+    "slug": "til-re",
+    "name": "til.re",
+    "url": "https://til.re",
+    "description": "A URL-based time tool that lets you create countdowns, countups, clocks, and recurring cycles — all embedded in the link itself. No signup required, just craft your URL and share it. Supports multiple themes and time units.",
+    "coreTask": "Create and share countdown timers, countup timers, and clocks via URL — no account needed",
+    "category": "Productivity"
+  },
+  {
     "slug": "tmp-tf",
     "name": "tmp.tf",
     "url": "https://tmp.tf",
