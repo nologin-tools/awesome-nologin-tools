@@ -5,36 +5,7 @@
     "url": "https://led.run",
     "description": "A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.",
     "coreTask": "Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account",
-    "tags": [
-      {
-        "key": "category",
-        "value": "Media"
-      },
-      {
-        "key": "source",
-        "value": "Open Source"
-      },
-      {
-        "key": "data",
-        "value": "Client-Side Only"
-      },
-      {
-        "key": "privacy",
-        "value": "No Trackers"
-      },
-      {
-        "key": "type",
-        "value": "Web App"
-      },
-      {
-        "key": "offline",
-        "value": "Works Offline"
-      },
-      {
-        "key": "pricing",
-        "value": "Free"
-      }
-    ]
+    "category": "Media"
   },
   {
     "slug": "nologin-tools",
@@ -42,31 +13,6 @@
     "url": "https://nologin.tools",
     "description": "A curated directory of tools and services that work without creating an account or logging in. Browse, search, and filter tools by category, privacy, pricing, and more — all without registration.",
     "coreTask": "Browse and search the full directory of no-login tools, filter by category and tags, view tool details",
-    "tags": [
-      {
-        "key": "category",
-        "value": "Productivity"
-      },
-      {
-        "key": "source",
-        "value": "Open Source"
-      },
-      {
-        "key": "privacy",
-        "value": "No Trackers"
-      },
-      {
-        "key": "privacy",
-        "value": "Privacy Focused"
-      },
-      {
-        "key": "type",
-        "value": "Web App"
-      },
-      {
-        "key": "pricing",
-        "value": "Free"
-      }
-    ]
+    "category": "Productivity"
   }
 ]
