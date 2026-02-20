@@ -1,5 +1,261 @@
 [
   {
+    "slug": "audiotrimmer-com",
+    "name": "Audio Trimmer",
+    "url": "https://audiotrimmer.com",
+    "description": "Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.",
+    "coreTask": "Trim and cut audio files online",
+    "category": "Media"
+  },
+  {
+    "slug": "csvjson-com",
+    "name": "CSVJSON",
+    "url": "https://csvjson.com",
+    "description": "Online tool for converting between CSV, JSON, and SQL formats. Also includes data cleaning and transformation utilities. All processing happens in the browser.",
+    "coreTask": "Convert between CSV, JSON, and SQL data formats",
+    "category": "Data"
+  },
+  {
+    "slug": "caniuse-com",
+    "name": "Can I Use",
+    "url": "https://caniuse.com",
+    "description": "Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.",
+    "coreTask": "Check browser compatibility for web technologies",
+    "category": "Development"
+  },
+  {
+    "slug": "carbon-now-sh",
+    "name": "Carbon",
+    "url": "https://carbon.now.sh",
+    "description": "Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.",
+    "coreTask": "Generate beautiful images of source code snippets",
+    "category": "Development"
+  },
+  {
+    "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
+    "name": "Compound Interest Calculator",
+    "url": "https://investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+    "description": "Official SEC compound interest calculator. Estimate how your savings or investments could grow over time with compound interest. Simple, trustworthy, no ads.",
+    "coreTask": "Calculate compound interest growth on savings and investments",
+    "category": "Finance"
+  },
+  {
+    "slug": "convertio-co",
+    "name": "Convertio",
+    "url": "https://convertio.co",
+    "description": "Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.",
+    "coreTask": "Convert files between 300+ formats with drag and drop",
+    "category": "Media"
+  },
+  {
+    "slug": "desmos-com-calculator",
+    "name": "Desmos",
+    "url": "https://desmos.com/calculator",
+    "description": "Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.",
+    "coreTask": "Graph mathematical functions and explore equations visually",
+    "category": "Education"
+  },
+  {
+    "slug": "devdocs-io",
+    "name": "DevDocs",
+    "url": "https://devdocs.io",
+    "description": "Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.",
+    "coreTask": "Search and browse developer documentation for hundreds of APIs",
+    "category": "Development"
+  },
+  {
+    "slug": "dillinger-io",
+    "name": "Dillinger",
+    "url": "https://dillinger.io",
+    "description": "Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.",
+    "coreTask": "Write and preview Markdown documents with live rendering",
+    "category": "Writing"
+  },
+  {
+    "slug": "excalidraw-com",
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.",
+    "coreTask": "Create hand-drawn style diagrams and sketches collaboratively",
+    "category": "Design"
+  },
+  {
+    "slug": "geogebra-org-calculator",
+    "name": "GeoGebra",
+    "url": "https://geogebra.org/calculator",
+    "description": "Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.",
+    "coreTask": "Explore geometry, algebra, and calculus with interactive math tools",
+    "category": "Education"
+  },
+  {
+    "slug": "haveibeenpwned-com",
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com",
+    "description": "Check if your email address or phone number has been compromised in a data breach. Covers billions of records from known breaches and pastes.",
+    "coreTask": "Check if your email or phone was exposed in data breaches",
+    "category": "Privacy"
+  },
+  {
+    "slug": "hemingwayapp-com",
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com",
+    "description": "Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.",
+    "coreTask": "Improve writing clarity by highlighting complex and hard-to-read text",
+    "category": "Writing"
+  },
+  {
+    "slug": "jsoncrack-com",
+    "name": "JSON Crack",
+    "url": "https://jsoncrack.com",
+    "description": "Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.",
+    "coreTask": "Visualize JSON data as interactive node graphs",
+    "category": "Data"
+  },
+  {
+    "slug": "jsonformatter-org",
+    "name": "JSON Formatter",
+    "url": "https://jsonformatter.org",
+    "description": "Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.",
+    "coreTask": "Format, validate, and beautify JSON data",
+    "category": "Development"
+  },
+  {
+    "slug": "meet-jit-si",
+    "name": "Jitsi Meet",
+    "url": "https://meet.jit.si",
+    "description": "Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.",
+    "coreTask": "Start instant video calls without accounts or downloads",
+    "category": "Communication"
+  },
+  {
+    "slug": "languagetool-org",
+    "name": "LanguageTool",
+    "url": "https://languagetool.org",
+    "description": "Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.",
+    "coreTask": "Check grammar, spelling, and style in 30+ languages",
+    "category": "Writing"
+  },
+  {
+    "slug": "omnicalculator-com",
+    "name": "Omni Calculator",
+    "url": "https://omnicalculator.com",
+    "description": "Collection of over 3,000 free calculators for math, physics, finance, health, and everyday life. Each calculator explains the formulas and concepts behind it.",
+    "coreTask": "Calculate anything with 3,000+ specialized calculators",
+    "category": "Productivity"
+  },
+  {
+    "slug": "tools-pdf24-org-en",
+    "name": "PDF24 Tools",
+    "url": "https://tools.pdf24.org/en/",
+    "description": "Free and easy-to-use online PDF tools: merge, split, compress, convert, rotate, watermark, and more. All processing happens in the browser.",
+    "coreTask": "Merge, split, compress, and convert PDF files",
+    "category": "Productivity"
+  },
+  {
+    "slug": "photopea-com",
+    "name": "Photopea",
+    "url": "https://photopea.com",
+    "description": "Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.",
+    "coreTask": "Edit photos and design graphics in a Photoshop-like browser editor",
+    "category": "Design"
+  },
+  {
+    "slug": "pomofocus-io",
+    "name": "Pomofocus",
+    "url": "https://pomofocus.io",
+    "description": "Customizable Pomodoro timer that works on desktop and mobile. Track your focus sessions, set custom durations, and manage tasks with a clean interface.",
+    "coreTask": "Time your work sessions using the Pomodoro technique",
+    "category": "Productivity"
+  },
+  {
+    "slug": "privacytests-org",
+    "name": "PrivacyTests",
+    "url": "https://privacytests.org",
+    "description": "Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.",
+    "coreTask": "Compare web browser privacy features and tracking protection",
+    "category": "Privacy"
+  },
+  {
+    "slug": "regex101-com",
+    "name": "Regex101",
+    "url": "https://regex101.com",
+    "description": "Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.",
+    "coreTask": "Build, test, and debug regular expressions with real-time feedback",
+    "category": "Development"
+  },
+  {
+    "slug": "svgedit-netlify-app-editor-index-html",
+    "name": "SVG Edit",
+    "url": "https://svgedit.netlify.app/editor/index.html",
+    "description": "Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.",
+    "coreTask": "Create and edit SVG vector graphics in the browser",
+    "category": "Design"
+  },
+  {
+    "slug": "squoosh-app",
+    "name": "Squoosh",
+    "url": "https://squoosh.app",
+    "description": "Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.",
+    "coreTask": "Compress and optimize images with visual quality comparison",
+    "category": "Design"
+  },
+  {
+    "slug": "tableconvert-com",
+    "name": "TableConvert",
+    "url": "https://tableconvert.com",
+    "description": "Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.",
+    "coreTask": "Convert tables between Excel, CSV, JSON, Markdown, and more",
+    "category": "Data"
+  },
+  {
+    "slug": "temp-mail-org",
+    "name": "Temp Mail",
+    "url": "https://temp-mail.org",
+    "description": "Disposable temporary email service. Get an instant anonymous email address to receive emails without revealing your real address. Auto-deletes after a period.",
+    "coreTask": "Generate disposable email addresses for anonymous sign-ups",
+    "category": "Privacy"
+  },
+  {
+    "slug": "tinywow-com",
+    "name": "TinyWow",
+    "url": "https://tinywow.com",
+    "description": "Collection of free online tools for PDF, video, image, and file conversion. Files are deleted after processing. No watermarks or file size limits.",
+    "coreTask": "Convert and process PDFs, images, videos, and documents",
+    "category": "Productivity"
+  },
+  {
+    "slug": "wise-com-gb-currency-converter",
+    "name": "Wise Currency Converter",
+    "url": "https://wise.com/gb/currency-converter/",
+    "description": "Currency converter showing the real, mid-market exchange rate. Compare rates from banks and transfer services to see how much you could save.",
+    "coreTask": "Compare real exchange rates across banks and services",
+    "category": "Finance"
+  },
+  {
+    "slug": "wolframalpha-com",
+    "name": "WolframAlpha",
+    "url": "https://wolframalpha.com",
+    "description": "Computational knowledge engine that answers factual questions by computing answers from structured data. Covers math, science, geography, history, and more.",
+    "coreTask": "Compute answers and solve math problems step by step",
+    "category": "Education"
+  },
+  {
+    "slug": "xe-com-currencyconverter",
+    "name": "XE Currency Converter",
+    "url": "https://xe.com/currencyconverter/",
+    "description": "World-trusted currency converter with live exchange rates. Convert between 300+ currencies and precious metals with mid-market rates updated every minute.",
+    "coreTask": "Convert currencies with live mid-market exchange rates",
+    "category": "Finance"
+  },
+  {
+    "slug": "ezgif-com",
+    "name": "ezGIF",
+    "url": "https://ezgif.com",
+    "description": "Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.",
+    "coreTask": "Create, edit, and optimize GIFs and animated images",
+    "category": "Media"
+  },
+  {
     "slug": "led-run",
     "name": "led.run",
     "url": "https://led.run",
@@ -16,12 +272,28 @@
     "category": "Productivity"
   },
   {
+    "slug": "remove-bg",
+    "name": "remove.bg",
+    "url": "https://remove.bg",
+    "description": "AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.",
+    "coreTask": "Remove image backgrounds automatically using AI",
+    "category": "Design"
+  },
+  {
     "slug": "til-re",
     "name": "til.re",
     "url": "https://til.re",
     "description": "A URL-based time tool that lets you create countdowns, countups, clocks, and recurring cycles — all embedded in the link itself. No signup required, just craft your URL and share it. Supports multiple themes and time units.",
     "coreTask": "Create and share countdown timers, countup timers, and clocks via URL — no account needed",
     "category": "Productivity"
+  },
+  {
+    "slug": "tldraw-com",
+    "name": "tldraw",
+    "url": "https://tldraw.com",
+    "description": "A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.",
+    "coreTask": "Draw diagrams and visual notes on an infinite canvas",
+    "category": "Design"
   },
   {
     "slug": "tmp-tf",
