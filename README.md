@@ -12,12 +12,12 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 ## Productivity
 
 - **[nologin.tools](https://nologin.tools)** — A curated directory of tools and services that work without creating an account or logging in. Browse, search, and filter tools by category, privacy, pricing, and more — all without registration.
-  - _No-login task: Browse and search the full directory of no-login tools, filter by category and tags, view tool details_
+  > _No-login task: Browse and search the full directory of no-login tools, filter by category and tags, view tool details_
 
 ## Media
 
 - **[led.run](https://led.run)** — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
-  - _No-login task: Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account_
+  > _No-login task: Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account_
 
 ---
 
