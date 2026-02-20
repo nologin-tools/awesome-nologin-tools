@@ -14,5 +14,13 @@
     "description": "A curated directory of tools and services that work without creating an account or logging in. Browse, search, and filter tools by category, privacy, pricing, and more — all without registration.",
     "coreTask": "Browse and search the full directory of no-login tools, filter by category and tags, view tool details",
     "category": "Productivity"
+  },
+  {
+    "slug": "tmp-tf",
+    "name": "tmp.tf",
+    "url": "https://tmp.tf",
+    "description": "A temporary clipboard tool that lets you sync text and content across devices in seconds. No signup required, end-to-end encrypted, and content auto self-destructs. Simply open a named channel and paste from any device.",
+    "coreTask": "Open a channel and sync text across devices without any account or login",
+    "category": "Productivity"
   }
 ]
