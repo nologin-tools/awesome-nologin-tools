@@ -4,6 +4,9 @@
 [![Tools](https://img.shields.io/badge/Tools-39-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
+[![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
+
+[![NoLogin Verified](https://nologin.tools/badges/flat.svg)](https://nologin.tools/badge/awesome-nologin-tools)
 
 > A curated list of privacy-friendly tools that work without requiring login or registration.
 > Auto-generated from [nologin.tools](https://nologin.tools).
