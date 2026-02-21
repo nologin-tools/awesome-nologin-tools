@@ -1,5 +1,10 @@
 # Awesome NoLogin Tools
 
+[![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
+[![Tools](https://img.shields.io/badge/Tools-39-4c1)](https://nologin.tools)
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
+
 > A curated list of privacy-friendly tools that work without requiring login or registration.
 > Auto-generated from [nologin.tools](https://nologin.tools).
 
@@ -45,6 +50,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Format, validate, and beautify JSON data_
 - **[Regex101](https://regex101.com)** — Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
+- **[quickstart.to](https://quickstart.to)** — A community-driven, open source collection of quick-start guides ("The TL;DR of everything"). Provides 124+ free guides for tools and technologies like Docker, without requiring any account or login.
+  > _No-login task: Browse and read quick-start guides for tools and technologies without any account_
 
 ## Productivity
 
