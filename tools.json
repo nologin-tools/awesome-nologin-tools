@@ -5,7 +5,35 @@
     "url": "https://audiotrimmer.com",
     "description": "Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.",
     "coreTask": "Trim and cut audio files online",
-    "category": "Media"
+    "category": "Media",
+    "featured": false
+  },
+  {
+    "slug": "browserleaks-com",
+    "name": "BrowserLeaks",
+    "url": "https://browserleaks.com",
+    "description": "Comprehensive browser fingerprinting test suite. Check what information your browser reveals: IP, WebRTC, Canvas, fonts, and more.",
+    "coreTask": "Detect browser fingerprint leaks",
+    "category": "Privacy",
+    "featured": false
+  },
+  {
+    "slug": "bundlephobia-com",
+    "name": "Bundlephobia",
+    "url": "https://bundlephobia.com",
+    "description": "Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.",
+    "coreTask": "Analyze npm package bundle size",
+    "category": "Development",
+    "featured": false
+  },
+  {
+    "slug": "cssgridgarden-com",
+    "name": "CSS Grid Garden",
+    "url": "https://cssgridgarden.com",
+    "description": "Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.",
+    "coreTask": "Learn CSS Grid through a game",
+    "category": "Education",
+    "featured": false
   },
   {
     "slug": "csvjson-com",
@@ -13,7 +41,8 @@
     "url": "https://csvjson.com",
     "description": "Online tool for converting between CSV, JSON, and SQL formats. Also includes data cleaning and transformation utilities. All processing happens in the browser.",
     "coreTask": "Convert between CSV, JSON, and SQL data formats",
-    "category": "Data"
+    "category": "Data",
+    "featured": false
   },
   {
     "slug": "caniuse-com",
@@ -21,7 +50,8 @@
     "url": "https://caniuse.com",
     "description": "Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.",
     "coreTask": "Check browser compatibility for web technologies",
-    "category": "Development"
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "carbon-now-sh",
@@ -29,7 +59,8 @@
     "url": "https://carbon.now.sh",
     "description": "Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.",
     "coreTask": "Generate beautiful images of source code snippets",
-    "category": "Development"
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -37,7 +68,8 @@
     "url": "https://investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
     "description": "Official SEC compound interest calculator. Estimate how your savings or investments could grow over time with compound interest. Simple, trustworthy, no ads.",
     "coreTask": "Calculate compound interest growth on savings and investments",
-    "category": "Finance"
+    "category": "Finance",
+    "featured": false
   },
   {
     "slug": "convertio-co",
@@ -45,7 +77,53 @@
     "url": "https://convertio.co",
     "description": "Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.",
     "coreTask": "Convert files between 300+ formats with drag and drop",
-    "category": "Media"
+    "category": "Media",
+    "featured": false
+  },
+  {
+    "slug": "coolors-co",
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "description": "Generate harmonious color palettes instantly. Press spacebar to create beautiful color schemes for your design projects.",
+    "coreTask": "Generate and explore color palettes",
+    "category": "Design",
+    "featured": false
+  },
+  {
+    "slug": "coveryourtracks-eff-org",
+    "name": "Cover Your Tracks",
+    "url": "https://coveryourtracks.eff.org",
+    "description": "Test how well your browser protects you from tracking. By the Electronic Frontier Foundation (EFF).",
+    "coreTask": "Test browser tracking protection",
+    "category": "Privacy",
+    "featured": false
+  },
+  {
+    "slug": "crontab-guru",
+    "name": "Crontab Guru",
+    "url": "https://crontab.guru",
+    "description": "Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.",
+    "coreTask": "Edit and understand cron expressions",
+    "category": "Development",
+    "featured": false
+  },
+  {
+    "slug": "gchq-github-io-cyberchef",
+    "name": "CyberChef",
+    "url": "https://gchq.github.io/CyberChef/",
+    "description": "The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.",
+    "coreTask": "Encode, decode, and transform data",
+    "category": "Development",
+    "featured": false
+  },
+  {
+    "slug": "db-fiddle-com",
+    "name": "DB Fiddle",
+    "url": "https://db-fiddle.com",
+    "description": "Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.",
+    "coreTask": "Run SQL queries online",
+    "category": "Data",
+    "featured": false
   },
   {
     "slug": "desmos-com-calculator",
@@ -53,7 +131,8 @@
     "url": "https://desmos.com/calculator",
     "description": "Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.",
     "coreTask": "Graph mathematical functions and explore equations visually",
-    "category": "Education"
+    "category": "Education",
+    "featured": false
   },
   {
     "slug": "devdocs-io",
@@ -61,7 +140,17 @@
     "url": "https://devdocs.io",
     "description": "Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.",
     "coreTask": "Search and browse developer documentation for hundreds of APIs",
-    "category": "Development"
+    "category": "Development",
+    "featured": false
+  },
+  {
+    "slug": "app-diagrams-net",
+    "name": "Diagrams.net",
+    "url": "https://app.diagrams.net",
+    "description": "Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.",
+    "coreTask": "Create flowcharts and diagrams",
+    "category": "Design",
+    "featured": false
   },
   {
     "slug": "dillinger-io",
@@ -69,7 +158,17 @@
     "url": "https://dillinger.io",
     "description": "Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.",
     "coreTask": "Write and preview Markdown documents with live rendering",
-    "category": "Writing"
+    "category": "Writing",
+    "featured": false
+  },
+  {
+    "slug": "excalideck-com",
+    "name": "Excalideck",
+    "url": "https://excalideck.com",
+    "description": "Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.",
+    "coreTask": "Create hand-drawn style presentations",
+    "category": "Productivity",
+    "featured": false
   },
   {
     "slug": "excalidraw-com",
@@ -77,7 +176,44 @@
     "url": "https://excalidraw.com",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.",
     "coreTask": "Create hand-drawn style diagrams and sketches collaboratively",
-    "category": "Design"
+    "category": "Design",
+    "featured": true
+  },
+  {
+    "slug": "explainshell-com",
+    "name": "ExplainShell",
+    "url": "https://explainshell.com",
+    "description": "Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.",
+    "coreTask": "Explain shell command syntax",
+    "category": "Development",
+    "featured": false
+  },
+  {
+    "slug": "fast-com",
+    "name": "Fast.com",
+    "url": "https://fast.com",
+    "description": "Simple internet speed test by Netflix. Open the page and it instantly starts measuring your download speed.",
+    "coreTask": "Test internet connection speed",
+    "category": "Productivity",
+    "featured": false
+  },
+  {
+    "slug": "favicon-io",
+    "name": "Favicon.io",
+    "url": "https://favicon.io",
+    "description": "Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.",
+    "coreTask": "Generate website favicons",
+    "category": "Design",
+    "featured": false
+  },
+  {
+    "slug": "flexboxfroggy-com",
+    "name": "Flexbox Froggy",
+    "url": "https://flexboxfroggy.com",
+    "description": "Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.",
+    "coreTask": "Learn CSS Flexbox through a game",
+    "category": "Education",
+    "featured": false
   },
   {
     "slug": "geogebra-org-calculator",
@@ -85,7 +221,8 @@
     "url": "https://geogebra.org/calculator",
     "description": "Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.",
     "coreTask": "Explore geometry, algebra, and calculus with interactive math tools",
-    "category": "Education"
+    "category": "Education",
+    "featured": false
   },
   {
     "slug": "haveibeenpwned-com",
@@ -93,7 +230,8 @@
     "url": "https://haveibeenpwned.com",
     "description": "Check if your email address or phone number has been compromised in a data breach. Covers billions of records from known breaches and pastes.",
     "coreTask": "Check if your email or phone was exposed in data breaches",
-    "category": "Privacy"
+    "category": "Privacy",
+    "featured": false
   },
   {
     "slug": "hemingwayapp-com",
@@ -101,7 +239,17 @@
     "url": "https://hemingwayapp.com",
     "description": "Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.",
     "coreTask": "Improve writing clarity by highlighting complex and hard-to-read text",
-    "category": "Writing"
+    "category": "Writing",
+    "featured": false
+  },
+  {
+    "slug": "it-tools-tech",
+    "name": "IT Tools",
+    "url": "https://it-tools.tech",
+    "description": "Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.",
+    "coreTask": "Access 70+ developer utilities",
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "jsoncrack-com",
@@ -109,7 +257,8 @@
     "url": "https://jsoncrack.com",
     "description": "Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.",
     "coreTask": "Visualize JSON data as interactive node graphs",
-    "category": "Data"
+    "category": "Data",
+    "featured": false
   },
   {
     "slug": "jsonformatter-org",
@@ -117,7 +266,8 @@
     "url": "https://jsonformatter.org",
     "description": "Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.",
     "coreTask": "Format, validate, and beautify JSON data",
-    "category": "Development"
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "meet-jit-si",
@@ -125,7 +275,8 @@
     "url": "https://meet.jit.si",
     "description": "Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.",
     "coreTask": "Start instant video calls without accounts or downloads",
-    "category": "Communication"
+    "category": "Communication",
+    "featured": false
   },
   {
     "slug": "languagetool-org",
@@ -133,7 +284,26 @@
     "url": "https://languagetool.org",
     "description": "Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.",
     "coreTask": "Check grammar, spelling, and style in 30+ languages",
-    "category": "Writing"
+    "category": "Writing",
+    "featured": false
+  },
+  {
+    "slug": "mockaroo-com",
+    "name": "Mockaroo",
+    "url": "https://mockaroo.com",
+    "description": "Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.",
+    "coreTask": "Generate realistic test data",
+    "category": "Data",
+    "featured": false
+  },
+  {
+    "slug": "numbeo-com",
+    "name": "Numbeo",
+    "url": "https://numbeo.com",
+    "description": "World's largest cost of living database. Compare prices, rent, groceries, and quality of life across cities worldwide.",
+    "coreTask": "Compare cost of living across cities",
+    "category": "Finance",
+    "featured": false
   },
   {
     "slug": "omnicalculator-com",
@@ -141,7 +311,8 @@
     "url": "https://omnicalculator.com",
     "description": "Collection of over 3,000 free calculators for math, physics, finance, health, and everyday life. Each calculator explains the formulas and concepts behind it.",
     "coreTask": "Calculate anything with 3,000+ specialized calculators",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
   },
   {
     "slug": "tools-pdf24-org-en",
@@ -149,7 +320,17 @@
     "url": "https://tools.pdf24.org/en/",
     "description": "Free and easy-to-use online PDF tools: merge, split, compress, convert, rotate, watermark, and more. All processing happens in the browser.",
     "coreTask": "Merge, split, compress, and convert PDF files",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
+  },
+  {
+    "slug": "pairdrop-net",
+    "name": "PairDrop",
+    "url": "https://pairdrop.net",
+    "description": "Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.",
+    "coreTask": "Share files between devices on LAN",
+    "category": "Communication",
+    "featured": false
   },
   {
     "slug": "photopea-com",
@@ -157,7 +338,8 @@
     "url": "https://photopea.com",
     "description": "Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.",
     "coreTask": "Edit photos and design graphics in a Photoshop-like browser editor",
-    "category": "Design"
+    "category": "Design",
+    "featured": false
   },
   {
     "slug": "pomofocus-io",
@@ -165,7 +347,17 @@
     "url": "https://pomofocus.io",
     "description": "Customizable Pomodoro timer that works on desktop and mobile. Track your focus sessions, set custom durations, and manage tasks with a clean interface.",
     "coreTask": "Time your work sessions using the Pomodoro technique",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
+  },
+  {
+    "slug": "privnote-com",
+    "name": "PrivNote",
+    "url": "https://privnote.com",
+    "description": "Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.",
+    "coreTask": "Send self-destructing encrypted notes",
+    "category": "Communication",
+    "featured": false
   },
   {
     "slug": "privacytests-org",
@@ -173,7 +365,17 @@
     "url": "https://privacytests.org",
     "description": "Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.",
     "coreTask": "Compare web browser privacy features and tracking protection",
-    "category": "Privacy"
+    "category": "Privacy",
+    "featured": false
+  },
+  {
+    "slug": "ray-so",
+    "name": "Ray.so",
+    "url": "https://ray.so",
+    "description": "Create beautiful code screenshots with customizable themes, backgrounds, and padding. By Raycast.",
+    "coreTask": "Generate beautiful code screenshots",
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "regex101-com",
@@ -181,7 +383,8 @@
     "url": "https://regex101.com",
     "description": "Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.",
     "coreTask": "Build, test, and debug regular expressions with real-time feedback",
-    "category": "Development"
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "svgedit-netlify-app-editor-index-html",
@@ -189,7 +392,26 @@
     "url": "https://svgedit.netlify.app/editor/index.html",
     "description": "Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.",
     "coreTask": "Create and edit SVG vector graphics in the browser",
-    "category": "Design"
+    "category": "Design",
+    "featured": false
+  },
+  {
+    "slug": "jakearchibald-github-io-svgomg",
+    "name": "SVGOMG",
+    "url": "https://jakearchibald.github.io/svgomg/",
+    "description": "Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.",
+    "coreTask": "Optimize and compress SVG files",
+    "category": "Design",
+    "featured": false
+  },
+  {
+    "slug": "sharedrop-io",
+    "name": "ShareDrop",
+    "url": "https://sharedrop.io",
+    "description": "P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.",
+    "coreTask": "P2P file sharing across devices",
+    "category": "Communication",
+    "featured": false
   },
   {
     "slug": "squoosh-app",
@@ -197,7 +419,8 @@
     "url": "https://squoosh.app",
     "description": "Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.",
     "coreTask": "Compress and optimize images with visual quality comparison",
-    "category": "Design"
+    "category": "Design",
+    "featured": false
   },
   {
     "slug": "tableconvert-com",
@@ -205,7 +428,8 @@
     "url": "https://tableconvert.com",
     "description": "Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.",
     "coreTask": "Convert tables between Excel, CSV, JSON, Markdown, and more",
-    "category": "Data"
+    "category": "Data",
+    "featured": false
   },
   {
     "slug": "temp-mail-org",
@@ -213,7 +437,26 @@
     "url": "https://temp-mail.org",
     "description": "Disposable temporary email service. Get an instant anonymous email address to receive emails without revealing your real address. Auto-deletes after a period.",
     "coreTask": "Generate disposable email addresses for anonymous sign-ups",
-    "category": "Privacy"
+    "category": "Privacy",
+    "featured": true
+  },
+  {
+    "slug": "themeasureofaplan-com",
+    "name": "The Measure of a Plan",
+    "url": "https://themeasureofaplan.com",
+    "description": "Beautiful personal finance calculators for retirement, investment, mortgage, and budgeting. Interactive visualizations with no data collection.",
+    "coreTask": "Personal finance calculators and planning",
+    "category": "Finance",
+    "featured": false
+  },
+  {
+    "slug": "tinypng-com",
+    "name": "TinyPNG",
+    "url": "https://tinypng.com",
+    "description": "Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.",
+    "coreTask": "Compress PNG, JPEG, and WebP images",
+    "category": "Design",
+    "featured": false
   },
   {
     "slug": "tinywow-com",
@@ -221,7 +464,53 @@
     "url": "https://tinywow.com",
     "description": "Collection of free online tools for PDF, video, image, and file conversion. Files are deleted after processing. No watermarks or file size limits.",
     "coreTask": "Convert and process PDFs, images, videos, and documents",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
+  },
+  {
+    "slug": "typescriptlang-org-play",
+    "name": "TypeScript Playground",
+    "url": "https://typescriptlang.org/play",
+    "description": "Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.",
+    "coreTask": "Write and test TypeScript code online",
+    "category": "Development",
+    "featured": false
+  },
+  {
+    "slug": "unscreen-com",
+    "name": "Unscreen",
+    "url": "https://unscreen.com",
+    "description": "Automatically remove video backgrounds with AI. Upload a video clip and get a transparent background version.",
+    "coreTask": "Remove video backgrounds with AI",
+    "category": "Media",
+    "featured": false
+  },
+  {
+    "slug": "virustotal-com",
+    "name": "VirusTotal",
+    "url": "https://virustotal.com",
+    "description": "Scan files and URLs for malware using 70+ antivirus engines. Google-owned comprehensive threat detection service.",
+    "coreTask": "Scan files and URLs for malware",
+    "category": "Privacy",
+    "featured": false
+  },
+  {
+    "slug": "vocalremover-org",
+    "name": "Vocalremover.org",
+    "url": "https://vocalremover.org",
+    "description": "AI-powered vocal remover that separates vocals from instrumentals in any song. Perfect for karaoke or remix creation.",
+    "coreTask": "Separate vocals from instrumentals",
+    "category": "Media",
+    "featured": false
+  },
+  {
+    "slug": "webhook-site",
+    "name": "Webhook.site",
+    "url": "https://webhook.site",
+    "description": "Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.",
+    "coreTask": "Test and debug webhooks",
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "wise-com-gb-currency-converter",
@@ -229,7 +518,8 @@
     "url": "https://wise.com/gb/currency-converter/",
     "description": "Currency converter showing the real, mid-market exchange rate. Compare rates from banks and transfer services to see how much you could save.",
     "coreTask": "Compare real exchange rates across banks and services",
-    "category": "Finance"
+    "category": "Finance",
+    "featured": false
   },
   {
     "slug": "wolframalpha-com",
@@ -237,7 +527,17 @@
     "url": "https://wolframalpha.com",
     "description": "Computational knowledge engine that answers factual questions by computing answers from structured data. Covers math, science, geography, history, and more.",
     "coreTask": "Compute answers and solve math problems step by step",
-    "category": "Education"
+    "category": "Education",
+    "featured": false
+  },
+  {
+    "slug": "worldtimebuddy-com",
+    "name": "WorldTimeBuddy",
+    "url": "https://worldtimebuddy.com",
+    "description": "Visual time zone converter for scheduling across time zones. Compare multiple cities side by side to find the best meeting time.",
+    "coreTask": "Compare and convert time zones",
+    "category": "Productivity",
+    "featured": false
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -245,7 +545,8 @@
     "url": "https://xe.com/currencyconverter/",
     "description": "World-trusted currency converter with live exchange rates. Convert between 300+ currencies and precious metals with mid-market rates updated every minute.",
     "coreTask": "Convert currencies with live mid-market exchange rates",
-    "category": "Finance"
+    "category": "Finance",
+    "featured": false
   },
   {
     "slug": "ezgif-com",
@@ -253,7 +554,8 @@
     "url": "https://ezgif.com",
     "description": "Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.",
     "coreTask": "Create, edit, and optimize GIFs and animated images",
-    "category": "Media"
+    "category": "Media",
+    "featured": false
   },
   {
     "slug": "led-run",
@@ -261,7 +563,8 @@
     "url": "https://led.run",
     "description": "A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.",
     "coreTask": "Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account",
-    "category": "Media"
+    "category": "Media",
+    "featured": true
   },
   {
     "slug": "nologin-tools",
@@ -269,7 +572,8 @@
     "url": "https://nologin.tools",
     "description": "A curated directory of tools and services that work without creating an account or logging in. Browse, search, and filter tools by category, privacy, pricing, and more — all without registration.",
     "coreTask": "Browse and search the full directory of no-login tools, filter by category and tags, view tool details",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
   },
   {
     "slug": "quickstart-to",
@@ -277,7 +581,8 @@
     "url": "https://quickstart.to",
     "description": "A community-driven, open source collection of quick-start guides (\"The TL;DR of everything\"). Provides 124+ free guides for tools and technologies like Docker, without requiring any account or login.",
     "coreTask": "Browse and read quick-start guides for tools and technologies without any account",
-    "category": "Development"
+    "category": "Development",
+    "featured": false
   },
   {
     "slug": "remove-bg",
@@ -285,7 +590,8 @@
     "url": "https://remove.bg",
     "description": "AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.",
     "coreTask": "Remove image backgrounds automatically using AI",
-    "category": "Design"
+    "category": "Design",
+    "featured": true
   },
   {
     "slug": "til-re",
@@ -293,7 +599,8 @@
     "url": "https://til.re",
     "description": "A URL-based time tool that lets you create countdowns, countups, clocks, and recurring cycles — all embedded in the link itself. No signup required, just craft your URL and share it. Supports multiple themes and time units.",
     "coreTask": "Create and share countdown timers, countup timers, and clocks via URL — no account needed",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
   },
   {
     "slug": "tldraw-com",
@@ -301,7 +608,8 @@
     "url": "https://tldraw.com",
     "description": "A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.",
     "coreTask": "Draw diagrams and visual notes on an infinite canvas",
-    "category": "Design"
+    "category": "Design",
+    "featured": false
   },
   {
     "slug": "tmp-tf",
@@ -309,6 +617,7 @@
     "url": "https://tmp.tf",
     "description": "A temporary clipboard tool that lets you sync text and content across devices in seconds. No signup required, end-to-end encrypted, and content auto self-destructs. Simply open a named channel and paste from any device.",
     "coreTask": "Open a channel and sync text across devices without any account or login",
-    "category": "Productivity"
+    "category": "Productivity",
+    "featured": false
   }
 ]
