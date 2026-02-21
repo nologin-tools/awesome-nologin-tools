@@ -272,6 +272,14 @@
     "category": "Productivity"
   },
   {
+    "slug": "quickstart-to",
+    "name": "quickstart.to",
+    "url": "https://quickstart.to",
+    "description": "A community-driven, open source collection of quick-start guides (\"The TL;DR of everything\"). Provides 124+ free guides for tools and technologies like Docker, without requiring any account or login.",
+    "coreTask": "Browse and read quick-start guides for tools and technologies without any account",
+    "category": "Development"
+  },
+  {
     "slug": "remove-bg",
     "name": "remove.bg",
     "url": "https://remove.bg",
