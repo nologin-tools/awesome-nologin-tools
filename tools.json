@@ -27,6 +27,15 @@
     "featured": false
   },
   {
+    "slug": "askmeanythi-ng",
+    "name": "AskMeAnything",
+    "url": "https://askmeanythi.ng",
+    "description": "The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.",
+    "coreTask": "Create and host AMA sessions, share links, ask and answer questions",
+    "category": "Communication",
+    "featured": true
+  },
+  {
     "slug": "audiotrimmer-com",
     "name": "Audio Trimmer",
     "url": "https://audiotrimmer.com",
