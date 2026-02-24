@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-134-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-135-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -263,6 +263,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Communication
 
+- **[AskMeAnything ★](https://askmeanythi.ng)** — The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.
+  > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[Jitsi Meet](https://meet.jit.si)** — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
 - **[PairDrop](https://pairdrop.net)** — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
