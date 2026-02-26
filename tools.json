@@ -180,6 +180,15 @@
     "featured": false
   },
   {
+    "slug": "cookies-extractor-chekun-me",
+    "name": "Cookies Extractor",
+    "url": "https://cookies-extractor.chekun.me/",
+    "description": "A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.",
+    "coreTask": "Extract Cookies",
+    "category": "Development",
+    "featured": false
+  },
+  {
     "slug": "coolors-co",
     "name": "Coolors",
     "url": "https://coolors.co",
