@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-135-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-136-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -118,6 +118,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate beautiful images of source code snippets_
 - **[Compiler Explorer](https://godbolt.org)** — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
+- **[Cookies Extractor](https://cookies-extractor.chekun.me/)** — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
+  > _No-login task: Extract Cookies_
 - **[Crontab Guru](https://crontab.guru)** — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
