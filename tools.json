@@ -873,6 +873,15 @@
     "featured": false
   },
   {
+    "slug": "siteage-org",
+    "name": "SiteAge",
+    "url": "https://siteage.org",
+    "description": "Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.",
+    "coreTask": "Look up any domain's age, view historical timeline, and get embeddable SVG age badges",
+    "category": "Data",
+    "featured": false
+  },
+  {
     "slug": "sortvisualizer-com",
     "name": "Sort Visualizer",
     "url": "https://sortvisualizer.com",
