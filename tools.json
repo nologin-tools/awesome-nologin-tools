@@ -6,7 +6,9 @@
     "description": "Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.",
     "coreTask": "Explore code abstract syntax trees",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/fkling/astexplorer",
+    "githubStars": 6502
   },
   {
     "slug": "animista-net",
@@ -15,7 +17,9 @@
     "description": "Collection of ready-to-use CSS animations. Preview, customize timing and easing, then copy the generated CSS code.",
     "coreTask": "Generate CSS animation code",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "archive-today",
@@ -24,7 +28,9 @@
     "description": "Save permanent snapshots of web pages. Archive any URL to preserve its content — useful for citations, research, and bypassing paywalls.",
     "coreTask": "Archive web page snapshots",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "askmeanythi-ng",
@@ -33,7 +39,9 @@
     "description": "The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.",
     "coreTask": "Create and host AMA sessions, share links, ask and answer questions",
     "category": "Communication",
-    "featured": true
+    "featured": true,
+    "repoUrl": "https://github.com/nologin-tools/AskMeAnythi.ng",
+    "githubStars": 0
   },
   {
     "slug": "audiotrimmer-com",
@@ -42,7 +50,9 @@
     "description": "Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.",
     "coreTask": "Trim and cut audio files online",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "browserleaks-com",
@@ -51,7 +61,9 @@
     "description": "Comprehensive browser fingerprinting test suite. Check what information your browser reveals: IP, WebRTC, Canvas, fonts, and more.",
     "coreTask": "Detect browser fingerprint leaks",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "bundlephobia-com",
@@ -60,7 +72,9 @@
     "description": "Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.",
     "coreTask": "Analyze npm package bundle size",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/pastelsky/bundlephobia",
+    "githubStars": 9458
   },
   {
     "slug": "flukeout-github-io",
@@ -69,7 +83,9 @@
     "description": "Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.",
     "coreTask": "Learn CSS selectors through a game",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/flukeout/css-diner",
+    "githubStars": 2845
   },
   {
     "slug": "cssgradient-io",
@@ -78,7 +94,9 @@
     "description": "Visual CSS gradient generator with a beautiful UI. Create linear, radial, and conic gradients with instant code output.",
     "coreTask": "Generate CSS gradient code visually",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "cssgridgarden-com",
@@ -87,7 +105,9 @@
     "description": "Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.",
     "coreTask": "Learn CSS Grid through a game",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/thomaspark/gridgarden",
+    "githubStars": 3356
   },
   {
     "slug": "csvjson-com",
@@ -96,7 +116,9 @@
     "description": "Online tool for converting between CSV, JSON, and SQL formats. Also includes data cleaning and transformation utilities. All processing happens in the browser.",
     "coreTask": "Convert between CSV, JSON, and SQL data formats",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/FlatFilers/csvjson-app",
+    "githubStars": 452
   },
   {
     "slug": "caniemail-com",
@@ -105,7 +127,9 @@
     "description": "Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.",
     "coreTask": "Check email client HTML/CSS support",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
+    "githubStars": 919
   },
   {
     "slug": "caniuse-com",
@@ -114,7 +138,9 @@
     "description": "Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.",
     "coreTask": "Check browser compatibility for web technologies",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/fyrd/caniuse",
+    "githubStars": 5814
   },
   {
     "slug": "carbon-now-sh",
@@ -123,7 +149,9 @@
     "description": "Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.",
     "coreTask": "Generate beautiful images of source code snippets",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/carbon-app/carbon",
+    "githubStars": 35942
   },
   {
     "slug": "chatgpt-com",
@@ -132,7 +160,9 @@
     "description": "OpenAI's AI assistant available without login. Handles writing, analysis, coding, math, and conversation with GPT-4o.",
     "coreTask": "Chat with AI for writing, coding, and analysis",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "speed-cloudflare-com",
@@ -141,7 +171,9 @@
     "description": "Comprehensive internet speed and latency test by Cloudflare. Measures download, upload, latency, jitter, and packet loss.",
     "coreTask": "Test internet speed and latency",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "colorhunt-co",
@@ -150,7 +182,9 @@
     "description": "Curated collection of beautiful color palettes. Browse trending palettes or search by color — one-click copy hex codes.",
     "coreTask": "Browse curated color palettes",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "godbolt-org",
@@ -159,7 +193,9 @@
     "description": "Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.",
     "coreTask": "View compiler assembly output interactively",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
+    "githubStars": 18582
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -168,7 +204,9 @@
     "description": "Official SEC compound interest calculator. Estimate how your savings or investments could grow over time with compound interest. Simple, trustworthy, no ads.",
     "coreTask": "Calculate compound interest growth on savings and investments",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "convertio-co",
@@ -177,7 +215,9 @@
     "description": "Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.",
     "coreTask": "Convert files between 300+ formats with drag and drop",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/convertio/convertio-php",
+    "githubStars": 272
   },
   {
     "slug": "cookies-extractor-chekun-me",
@@ -186,7 +226,9 @@
     "description": "A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.",
     "coreTask": "Extract Cookies",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/chekun/cookies-extractor",
+    "githubStars": 0
   },
   {
     "slug": "coolors-co",
@@ -195,7 +237,9 @@
     "description": "Generate harmonious color palettes instantly. Press spacebar to create beautiful color schemes for your design projects.",
     "coreTask": "Generate and explore color palettes",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "copychar-cc",
@@ -204,7 +248,9 @@
     "description": "One-click copy for special characters, symbols, and emoji. Browse categories or search — click any character to copy it instantly.",
     "coreTask": "Copy special characters and symbols",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "coveryourtracks-eff-org",
@@ -213,7 +259,9 @@
     "description": "Test how well your browser protects you from tracking. By the Electronic Frontier Foundation (EFF).",
     "coreTask": "Test browser tracking protection",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/EFForg/cover-your-tracks",
+    "githubStars": 261
   },
   {
     "slug": "craiyon-com",
@@ -222,7 +270,9 @@
     "description": "Free AI image generator that creates 9 images from text prompts. No login required, unlimited generations, commercial use allowed with credit.",
     "coreTask": "Generate images from text descriptions with AI",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "crontab-guru",
@@ -231,7 +281,9 @@
     "description": "Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.",
     "coreTask": "Edit and understand cron expressions",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/cronitorio/cronitor-cli",
+    "githubStars": 372
   },
   {
     "slug": "cubic-bezier-com",
@@ -240,7 +292,9 @@
     "description": "Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.",
     "coreTask": "Edit CSS bezier easing curves",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/LeaVerou/cubic-bezier",
+    "githubStars": 182
   },
   {
     "slug": "gchq-github-io-cyberchef",
@@ -249,7 +303,9 @@
     "description": "The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.",
     "coreTask": "Encode, decode, and transform data",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/gchq/CyberChef",
+    "githubStars": 34177
   },
   {
     "slug": "db-fiddle-com",
@@ -258,7 +314,9 @@
     "description": "Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.",
     "coreTask": "Run SQL queries online",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "dnsleaktest-com",
@@ -267,7 +325,9 @@
     "description": "Check if your DNS requests are leaking outside your VPN tunnel. Run standard or extended tests to verify DNS privacy.",
     "coreTask": "Detect DNS leaks",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "deepl-com-translator",
@@ -276,7 +336,9 @@
     "description": "AI-powered translation engine with superior accuracy across 30+ languages. Free web version translates up to 1,500 characters per request.",
     "coreTask": "Translate text between languages with AI accuracy",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "desmos-com-calculator",
@@ -285,7 +347,9 @@
     "description": "Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.",
     "coreTask": "Graph mathematical functions and explore equations visually",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "devdocs-io",
@@ -294,7 +358,9 @@
     "description": "Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.",
     "coreTask": "Search and browse developer documentation for hundreds of APIs",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/freeCodeCamp/devdocs",
+    "githubStars": 38553
   },
   {
     "slug": "app-diagrams-net",
@@ -303,7 +369,9 @@
     "description": "Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.",
     "coreTask": "Create flowcharts and diagrams",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/jgraph/drawio",
+    "githubStars": 3789
   },
   {
     "slug": "dillinger-io",
@@ -312,7 +380,9 @@
     "description": "Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.",
     "coreTask": "Write and preview Markdown documents with live rendering",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/joemccann/dillinger",
+    "githubStars": 8219
   },
   {
     "slug": "duck-ai",
@@ -321,7 +391,9 @@
     "description": "Privacy-focused AI chat powered by Claude, Llama, Mistral, and GPT-4o mini. All chats are anonymous and never used for AI training.",
     "coreTask": "Chat with AI models privately",
     "category": "AI",
-    "featured": true
+    "featured": true,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "excalideck-com",
@@ -330,7 +402,9 @@
     "description": "Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.",
     "coreTask": "Create hand-drawn style presentations",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/excalideck/excalideck",
+    "githubStars": 194
   },
   {
     "slug": "excalidraw-com",
@@ -339,7 +413,9 @@
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.",
     "coreTask": "Create hand-drawn style diagrams and sketches collaboratively",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/excalidraw/excalidraw",
+    "githubStars": 117701
   },
   {
     "slug": "explainshell-com",
@@ -348,7 +424,9 @@
     "description": "Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.",
     "coreTask": "Explain shell command syntax",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/idank/explainshell",
+    "githubStars": 13967
   },
   {
     "slug": "ficalc-app",
@@ -357,7 +435,9 @@
     "description": "Financial independence retirement calculator. Simulate withdrawal strategies with historical market data and Monte Carlo analysis.",
     "coreTask": "Calculate retirement withdrawal rates",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/johnschoeman/ficalc-app",
+    "githubStars": 2
   },
   {
     "slug": "fast-com",
@@ -366,7 +446,9 @@
     "description": "Simple internet speed test by Netflix. Open the page and it instantly starts measuring your download speed.",
     "coreTask": "Test internet connection speed",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "favicon-io",
@@ -375,7 +457,9 @@
     "description": "Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.",
     "coreTask": "Generate website favicons",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/twitter/twemoji",
+    "githubStars": 17568
   },
   {
     "slug": "financier-io",
@@ -384,7 +468,9 @@
     "description": "Offline-first personal budget manager inspired by YNAB. Envelope budgeting with automatic sync — all data stays on your device.",
     "coreTask": "Manage personal budgets offline",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "flexboxfroggy-com",
@@ -393,7 +479,9 @@
     "description": "Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.",
     "coreTask": "Learn CSS Flexbox through a game",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
+    "githubStars": 7296
   },
   {
     "slug": "fontjoy-com",
@@ -402,7 +490,9 @@
     "description": "AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.",
     "coreTask": "Generate AI font pairings",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/Jack000/fontjoy",
+    "githubStars": 1400
   },
   {
     "slug": "geogebra-org-calculator",
@@ -411,7 +501,9 @@
     "description": "Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.",
     "coreTask": "Explore geometry, algebra, and calculus with interactive math tools",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/geogebra/geogebra",
+    "githubStars": 2160
   },
   {
     "slug": "geojson-io",
@@ -420,7 +512,9 @@
     "description": "Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.",
     "coreTask": "Create and edit GeoJSON on a map",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/mapbox/geojson.io",
+    "githubStars": 2100
   },
   {
     "slug": "getwaves-io",
@@ -429,7 +523,9 @@
     "description": "Generate beautiful SVG wave shapes for section dividers. Customize layers, colors, and complexity with a simple UI.",
     "coreTask": "Generate SVG wave dividers",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "go-dev-play",
@@ -438,7 +534,9 @@
     "description": "Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.",
     "coreTask": "Compile and run Go code online",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/golang/playground",
+    "githubStars": 796
   },
   {
     "slug": "goblin-tools",
@@ -447,7 +545,9 @@
     "description": "AI-powered task management collection designed for neurodivergent users. Magic ToDo breaks overwhelming tasks into manageable steps with adjustable complexity. Free forever, no ads.",
     "coreTask": "Break down complex tasks into manageable steps with AI",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "haikei-app",
@@ -456,7 +556,9 @@
     "description": "Generate unique SVG background shapes — waves, blobs, gradients, stacks, and more. Export as SVG or PNG for your designs.",
     "coreTask": "Generate SVG background patterns",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "happyhues-co",
@@ -465,7 +567,9 @@
     "description": "Color palette inspiration with real-world context. See how color schemes look applied to an actual website layout, not just swatches.",
     "coreTask": "Preview color palettes in context",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "haveibeenpwned-com",
@@ -474,7 +578,9 @@
     "description": "Check if your email address or phone number has been compromised in a data breach. Covers billions of records from known breaches and pastes.",
     "coreTask": "Check if your email or phone was exposed in data breaches",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "hemingwayapp-com",
@@ -483,7 +589,9 @@
     "description": "Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.",
     "coreTask": "Improve writing clarity by highlighting complex and hard-to-read text",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "hoppscotch-io",
@@ -492,7 +600,9 @@
     "description": "Open-source API development ecosystem. Test REST, GraphQL, WebSocket, and more — a lightweight Postman alternative.",
     "coreTask": "Test and debug APIs",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/hoppscotch/hoppscotch",
+    "githubStars": 77955
   },
   {
     "slug": "ipleak-net",
@@ -501,7 +611,9 @@
     "description": "Comprehensive leak detection: IP address, DNS servers, WebRTC, geolocation, and browser fingerprint. Essential VPN verification tool.",
     "coreTask": "Detect IP and DNS leaks",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "it-tools-tech",
@@ -510,7 +622,9 @@
     "description": "Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.",
     "coreTask": "Access 70+ developer utilities",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/CorentinTh/it-tools",
+    "githubStars": 37288
   },
   {
     "slug": "jsoncrack-com",
@@ -519,7 +633,9 @@
     "description": "Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.",
     "coreTask": "Visualize JSON data as interactive node graphs",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
+    "githubStars": 43388
   },
   {
     "slug": "jsonformatter-org",
@@ -528,7 +644,9 @@
     "description": "Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.",
     "coreTask": "Format, validate, and beautify JSON data",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "meet-jit-si",
@@ -537,7 +655,9 @@
     "description": "Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.",
     "coreTask": "Start instant video calls without accounts or downloads",
     "category": "Communication",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/jitsi/jitsi-meet",
+    "githubStars": 28699
   },
   {
     "slug": "languagetool-org",
@@ -546,7 +666,9 @@
     "description": "Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.",
     "coreTask": "Check grammar, spelling, and style in 30+ languages",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/languagetool-org/languagetool",
+    "githubStars": 14126
   },
   {
     "slug": "mp3cut-net",
@@ -555,7 +677,9 @@
     "description": "Cut and trim audio files online. Support for MP3, WAV, OGG, and 300+ formats — process files directly in the browser.",
     "coreTask": "Cut and trim audio files online",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "markmap-js-org",
@@ -564,7 +688,9 @@
     "description": "Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.",
     "coreTask": "Convert Markdown to mind maps",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/markmap/markmap",
+    "githubStars": 12486
   },
   {
     "slug": "mermaid-live",
@@ -573,7 +699,9 @@
     "description": "Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.",
     "coreTask": "Create diagrams with text syntax",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
+    "githubStars": 6235
   },
   {
     "slug": "metatags-io",
@@ -582,7 +710,9 @@
     "description": "Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.",
     "coreTask": "Preview and generate meta tags",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "mockaroo-com",
@@ -591,7 +721,9 @@
     "description": "Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.",
     "coreTask": "Generate realistic test data",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/mockaroo/mockaroo-enterprise",
+    "githubStars": 99
   },
   {
     "slug": "monkeytype-com",
@@ -600,7 +732,9 @@
     "description": "Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.",
     "coreTask": "Test and improve typing speed",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/monkeytypegame/monkeytype",
+    "githubStars": 19501
   },
   {
     "slug": "musicforprogramming-net",
@@ -609,7 +743,9 @@
     "description": "Curated ambient and electronic music mixes designed to aid concentration while programming. 60+ episodes of focus music.",
     "coreTask": "Listen to focus music for coding",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "neumorphism-io",
@@ -618,7 +754,9 @@
     "description": "Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.",
     "coreTask": "Generate CSS neumorphism effects",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/adamgiebl/neumorphism",
+    "githubStars": 6056
   },
   {
     "slug": "numbeo-com",
@@ -627,7 +765,9 @@
     "description": "World's largest cost of living database. Compare prices, rent, groceries, and quality of life across cities worldwide.",
     "coreTask": "Compare cost of living across cities",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "omnicalculator-com",
@@ -636,7 +776,9 @@
     "description": "Collection of over 3,000 free calculators for math, physics, finance, health, and everyday life. Each calculator explains the formulas and concepts behind it.",
     "coreTask": "Calculate anything with 3,000+ specialized calculators",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "tools-pdf24-org-en",
@@ -645,7 +787,9 @@
     "description": "Free and easy-to-use online PDF tools: merge, split, compress, convert, rotate, watermark, and more. All processing happens in the browser.",
     "coreTask": "Merge, split, compress, and convert PDF files",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "pairdrop-net",
@@ -654,7 +798,9 @@
     "description": "Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.",
     "coreTask": "Share files between devices on LAN",
     "category": "Communication",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
+    "githubStars": 9854
   },
   {
     "slug": "perplexity-ai",
@@ -663,7 +809,9 @@
     "description": "AI-powered search engine that provides accurate answers with cited sources. No sign-up required for basic search queries.",
     "coreTask": "Search the web with AI-powered answers and citations",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "photomosh-com",
@@ -672,7 +820,9 @@
     "description": "Apply glitch effects to images and videos. 27 mosh effects including pixel sort, RGB shift, jitter, and VHS — all in the browser.",
     "coreTask": "Apply glitch art effects",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "photopea-com",
@@ -681,7 +831,9 @@
     "description": "Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.",
     "coreTask": "Edit photos and design graphics in a Photoshop-like browser editor",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "pomofocus-io",
@@ -690,7 +842,9 @@
     "description": "Customizable Pomodoro timer that works on desktop and mobile. Track your focus sessions, set custom durations, and manage tasks with a clean interface.",
     "coreTask": "Time your work sessions using the Pomodoro technique",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "prettier-io-playground",
@@ -699,7 +853,9 @@
     "description": "Preview Prettier code formatting results online. Experiment with options and see formatted output for JavaScript, TypeScript, CSS, and more.",
     "coreTask": "Preview Prettier code formatting",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/prettier/prettier",
+    "githubStars": 51703
   },
   {
     "slug": "privnote-com",
@@ -708,7 +864,9 @@
     "description": "Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.",
     "coreTask": "Send self-destructing encrypted notes",
     "category": "Communication",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "privacytests-org",
@@ -717,7 +875,9 @@
     "description": "Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.",
     "coreTask": "Compare web browser privacy features and tracking protection",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/privacytests/privacytests.org",
+    "githubStars": 1145
   },
   {
     "slug": "pythontutor-com",
@@ -726,7 +886,9 @@
     "description": "Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.",
     "coreTask": "Visualize code execution step by step",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "qrcode-monkey-com",
@@ -735,7 +897,9 @@
     "description": "Create custom QR codes with logos, colors, and shapes. High-resolution output in PNG, SVG, PDF, and EPS formats.",
     "coreTask": "Generate custom QR codes",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "quillbot-com",
@@ -744,7 +908,9 @@
     "description": "AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.",
     "coreTask": "Paraphrase and rewrite text with AI",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "rawgraphs-io",
@@ -753,7 +919,9 @@
     "description": "Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.",
     "coreTask": "Visualize data without coding",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
+    "githubStars": 8937
   },
   {
     "slug": "ray-so",
@@ -762,7 +930,9 @@
     "description": "Create beautiful code screenshots with customizable themes, backgrounds, and padding. By Raycast.",
     "coreTask": "Generate beautiful code screenshots",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "realtimecolors-com",
@@ -771,7 +941,9 @@
     "description": "Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.",
     "coreTask": "Preview color schemes on real layouts",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/juxtopposed/realtimecolors",
+    "githubStars": 918
   },
   {
     "slug": "regex101-com",
@@ -780,7 +952,9 @@
     "description": "Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.",
     "coreTask": "Build, test, and debug regular expressions with real-time feedback",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "regexlearn-com",
@@ -789,7 +963,9 @@
     "description": "Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.",
     "coreTask": "Learn regular expressions interactively",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
+    "githubStars": 3964
   },
   {
     "slug": "rentry-co",
@@ -798,7 +974,9 @@
     "description": "Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.",
     "coreTask": "Publish and share Markdown quickly",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "play-rust-lang-org",
@@ -807,7 +985,9 @@
     "description": "Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.",
     "coreTask": "Compile and run Rust code online",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/rust-lang/rust-playground",
+    "githubStars": 1389
   },
   {
     "slug": "mystery-knightlab-com",
@@ -816,7 +996,9 @@
     "description": "Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.",
     "coreTask": "Learn SQL through a detective game",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
+    "githubStars": 2026
   },
   {
     "slug": "svgedit-netlify-app-editor-index-html",
@@ -825,7 +1007,9 @@
     "description": "Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.",
     "coreTask": "Create and edit SVG vector graphics in the browser",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/SVG-Edit/svgedit",
+    "githubStars": 7519
   },
   {
     "slug": "svgrepo-com",
@@ -834,7 +1018,9 @@
     "description": "Browse and download 500,000+ free SVG icons and vectors. Search by keyword, customize colors, and copy SVG code directly.",
     "coreTask": "Find and download free SVG icons",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "jakearchibald-github-io-svgomg",
@@ -843,7 +1029,9 @@
     "description": "Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.",
     "coreTask": "Optimize and compress SVG files",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/jakearchibald/svgomg",
+    "githubStars": 6120
   },
   {
     "slug": "securityheaders-com",
@@ -852,7 +1040,9 @@
     "description": "Analyze HTTP security headers of any website. Get a grade and recommendations for CSP, HSTS, X-Frame-Options, and more.",
     "coreTask": "Analyze HTTP security headers",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "sharedrop-io",
@@ -861,7 +1051,9 @@
     "description": "P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.",
     "coreTask": "P2P file sharing across devices",
     "category": "Communication",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/ShareDropio/sharedrop",
+    "githubStars": 10720
   },
   {
     "slug": "shields-io",
@@ -870,7 +1062,9 @@
     "description": "Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.",
     "coreTask": "Generate README status badges",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/badges/shields",
+    "githubStars": 26160
   },
   {
     "slug": "siteage-org",
@@ -879,7 +1073,9 @@
     "description": "Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.",
     "coreTask": "Look up any domain's age, view historical timeline, and get embeddable SVG age badges",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/SiteAge-org/SiteAge.org",
+    "githubStars": 0
   },
   {
     "slug": "sortvisualizer-com",
@@ -888,7 +1084,9 @@
     "description": "Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.",
     "coreTask": "Visualize sorting algorithms",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/Myphz/sortvisualizer",
+    "githubStars": 149
   },
   {
     "slug": "squoosh-app",
@@ -897,7 +1095,9 @@
     "description": "Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.",
     "coreTask": "Compress and optimize images with visual quality comparison",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
+    "githubStars": 24823
   },
   {
     "slug": "stackedit-io",
@@ -906,7 +1106,9 @@
     "description": "Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.",
     "coreTask": "Edit Markdown in the browser",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/benweet/stackedit",
+    "githubStars": 22813
   },
   {
     "slug": "tableconvert-com",
@@ -915,7 +1117,9 @@
     "description": "Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.",
     "coreTask": "Convert tables between Excel, CSV, JSON, Markdown, and more",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "teachablemachine-withgoogle-com",
@@ -924,7 +1128,9 @@
     "description": "Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.",
     "coreTask": "Train machine learning models without coding",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
+    "githubStars": 1692
   },
   {
     "slug": "temp-mail-org",
@@ -933,7 +1139,9 @@
     "description": "Disposable temporary email service. Get an instant anonymous email address to receive emails without revealing your real address. Auto-deletes after a period.",
     "coreTask": "Generate disposable email addresses for anonymous sign-ups",
     "category": "Privacy",
-    "featured": true
+    "featured": true,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "playground-tensorflow-org",
@@ -942,7 +1150,9 @@
     "description": "Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.",
     "coreTask": "Visualize and experiment with neural networks interactively",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/tensorflow/playground",
+    "githubStars": 12791
   },
   {
     "slug": "themeasureofaplan-com",
@@ -951,7 +1161,9 @@
     "description": "Beautiful personal finance calculators for retirement, investment, mortgage, and budgeting. Interactive visualizations with no data collection.",
     "coreTask": "Personal finance calculators and planning",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "time-is",
@@ -960,7 +1172,9 @@
     "description": "Exact current time synced with atomic clocks. World clock, time zone converter, and countdown timers with millisecond precision.",
     "coreTask": "Check exact world time",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "tinypng-com",
@@ -969,7 +1183,9 @@
     "description": "Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.",
     "coreTask": "Compress PNG, JPEG, and WebP images",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/tinify/iMessage-Panda-sticker",
+    "githubStars": 87
   },
   {
     "slug": "tinywow-com",
@@ -978,7 +1194,9 @@
     "description": "Collection of free online tools for PDF, video, image, and file conversion. Files are deleted after processing. No watermarks or file size limits.",
     "coreTask": "Convert and process PDFs, images, videos, and documents",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "typescale-com",
@@ -987,7 +1205,9 @@
     "description": "Visual type scale calculator for building harmonious typography. Choose a base size, scale ratio, and preview your type hierarchy.",
     "coreTask": "Generate typographic scale",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "typescriptlang-org-play",
@@ -996,7 +1216,9 @@
     "description": "Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.",
     "coreTask": "Write and test TypeScript code online",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/microsoft/TypeScript",
+    "githubStars": 107970
   },
   {
     "slug": "uicolors-app",
@@ -1005,7 +1227,9 @@
     "description": "Generate Tailwind CSS color scales from any color. Get a complete 50–950 shade palette with one click, ready for your config.",
     "coreTask": "Generate Tailwind CSS color scales",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "unscreen-com",
@@ -1014,7 +1238,9 @@
     "description": "Automatically remove video backgrounds with AI. Upload a video clip and get a transparent background version.",
     "coreTask": "Remove video backgrounds with AI",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "virustotal-com",
@@ -1023,7 +1249,9 @@
     "description": "Scan files and URLs for malware using 70+ antivirus engines. Google-owned comprehensive threat detection service.",
     "coreTask": "Scan files and URLs for malware",
     "category": "Privacy",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "visualgo-net",
@@ -1032,7 +1260,9 @@
     "description": "Animated visualizations of data structures and algorithms. Step through sorting, graph traversal, tree operations, and more at your own pace.",
     "coreTask": "Visualize algorithms and data structures",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "vocalremover-org",
@@ -1041,7 +1271,9 @@
     "description": "AI-powered vocal remover that separates vocals from instrumentals in any song. Perfect for karaoke or remix creation.",
     "coreTask": "Separate vocals from instrumentals",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "wave-webaim-org",
@@ -1050,7 +1282,9 @@
     "description": "Web accessibility evaluation tool by WebAIM. Enter any URL to get a detailed accessibility report with WCAG compliance checks.",
     "coreTask": "Evaluate web accessibility",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "webhook-site",
@@ -1059,7 +1293,9 @@
     "description": "Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.",
     "coreTask": "Test and debug webhooks",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/webhooksite/webhook.site",
+    "githubStars": 6442
   },
   {
     "slug": "wise-com-gb-currency-converter",
@@ -1068,7 +1304,9 @@
     "description": "Currency converter showing the real, mid-market exchange rate. Compare rates from banks and transfer services to see how much you could save.",
     "coreTask": "Compare real exchange rates across banks and services",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "wolframalpha-com",
@@ -1077,7 +1315,9 @@
     "description": "Computational knowledge engine that answers factual questions by computing answers from structured data. Covers math, science, geography, history, and more.",
     "coreTask": "Compute answers and solve math problems step by step",
     "category": "Education",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "worldtimebuddy-com",
@@ -1086,7 +1326,9 @@
     "description": "Visual time zone converter for scheduling across time zones. Compare multiple cities side by side to find the best meeting time.",
     "coreTask": "Compare and convert time zones",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "wormhole-app",
@@ -1095,7 +1337,9 @@
     "description": "End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.",
     "coreTask": "Transfer files with E2E encryption",
     "category": "Communication",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -1104,7 +1348,9 @@
     "description": "World-trusted currency converter with live exchange rates. Convert between 300+ currencies and precious metals with mid-market rates updated every minute.",
     "coreTask": "Convert currencies with live mid-market exchange rates",
     "category": "Finance",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "yopass-se",
@@ -1113,7 +1359,9 @@
     "description": "Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.",
     "coreTask": "Share encrypted self-destructing secrets",
     "category": "Communication",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/jhaals/yopass",
+    "githubStars": 2595
   },
   {
     "slug": "z-ai",
@@ -1122,7 +1370,9 @@
     "description": "Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.",
     "coreTask": "Chat with GLM AI models for writing, coding, and analysis",
     "category": "AI",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "zenpen-io",
@@ -1131,7 +1381,9 @@
     "description": "Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.",
     "coreTask": "Write in a distraction-free editor",
     "category": "Writing",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/tholman/zenpen",
+    "githubStars": 3777
   },
   {
     "slug": "ezgif-com",
@@ -1140,7 +1392,9 @@
     "description": "Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.",
     "coreTask": "Create, edit, and optimize GIFs and animated images",
     "category": "Media",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "httpbin-org",
@@ -1149,7 +1403,9 @@
     "description": "Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.",
     "coreTask": "Test HTTP requests and responses",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/requests/httpbin",
+    "githubStars": 0
   },
   {
     "slug": "led-run",
@@ -1158,7 +1414,9 @@
     "description": "A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.",
     "coreTask": "Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account",
     "category": "Media",
-    "featured": true
+    "featured": true,
+    "repoUrl": "https://github.com/led-run/led.run",
+    "githubStars": 93
   },
   {
     "slug": "nologin-tools",
@@ -1167,7 +1425,9 @@
     "description": "A curated directory of tools and services that work without creating an account or logging in. Browse, search, and filter tools by category, privacy, pricing, and more — all without registration.",
     "coreTask": "Browse and search the full directory of no-login tools, filter by category and tags, view tool details",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/nologin-tools/nologin.tools",
+    "githubStars": 0
   },
   {
     "slug": "npmtrends-com",
@@ -1176,7 +1436,9 @@
     "description": "Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.",
     "coreTask": "Compare npm package download trends",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "quickstart-to",
@@ -1185,7 +1447,9 @@
     "description": "A community-driven, open source collection of quick-start guides (\"The TL;DR of everything\"). Provides 124+ free guides for tools and technologies like Docker, without requiring any account or login.",
     "coreTask": "Browse and read quick-start guides for tools and technologies without any account",
     "category": "Development",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/quickstart-to/quickstart.to",
+    "githubStars": 2
   },
   {
     "slug": "remove-bg",
@@ -1194,7 +1458,9 @@
     "description": "AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.",
     "coreTask": "Remove image backgrounds automatically using AI",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "til-re",
@@ -1203,7 +1469,9 @@
     "description": "A URL-based time tool that lets you create countdowns, countups, clocks, and recurring cycles — all embedded in the link itself. No signup required, just craft your URL and share it. Supports multiple themes and time units.",
     "coreTask": "Create and share countdown timers, countup timers, and clocks via URL — no account needed",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "tldraw-com",
@@ -1212,7 +1480,9 @@
     "description": "A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.",
     "coreTask": "Draw diagrams and visual notes on an infinite canvas",
     "category": "Design",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/tldraw/tldraw",
+    "githubStars": 45536
   },
   {
     "slug": "tmp-tf",
@@ -1221,7 +1491,9 @@
     "description": "A temporary clipboard tool that lets you sync text and content across devices in seconds. No signup required, end-to-end encrypted, and content auto self-destructs. Simply open a named channel and paste from any device.",
     "coreTask": "Open a channel and sync text across devices without any account or login",
     "category": "Productivity",
-    "featured": false
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "transform-tools",
@@ -1230,6 +1502,8 @@
     "description": "Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.",
     "coreTask": "Convert between data formats",
     "category": "Data",
-    "featured": false
+    "featured": false,
+    "repoUrl": "https://github.com/ritz078/transform",
+    "githubStars": 9101
   }
 ]
