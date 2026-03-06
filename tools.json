@@ -1419,6 +1419,17 @@
     "githubStars": 93
   },
   {
+    "slug": "next-tools-dev",
+    "name": "next-tools",
+    "url": "https://next-tools.dev",
+    "description": "This is a tool website forked from it-tools, containing 100+ tools.",
+    "coreTask": "all the things",
+    "category": "Development",
+    "featured": false,
+    "repoUrl": "https://github.com/willjayyyy/next-tools",
+    "githubStars": 18
+  },
+  {
     "slug": "nologin-tools",
     "name": "nologin.tools",
     "url": "https://nologin.tools",
