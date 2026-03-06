@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-137-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-138-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -158,6 +158,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test and debug webhooks_
 - **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐0) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
+- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐18) — This is a tool website forked from it-tools, containing 100+ tools.
+  > _No-login task: all the things_
 - **[npm trends](https://npmtrends.com)** — Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.
   > _No-login task: Compare npm package download trends_
 - **[quickstart.to](https://quickstart.to)** ([Source](https://github.com/quickstart-to/quickstart.to) ⭐2) — A community-driven, open source collection of quick-start guides ("The TL;DR of everything"). Provides 124+ free guides for tools and technologies like Docker, without requiring any account or login.
