@@ -140,7 +140,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5814
+    "githubStars": 5817
   },
   {
     "slug": "carbon-now-sh",
@@ -382,7 +382,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8219
+    "githubStars": 8224
   },
   {
     "slug": "duck-ai",
@@ -459,7 +459,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17568
+    "githubStars": 17580
   },
   {
     "slug": "financier-io",
@@ -635,7 +635,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 43388
+    "githubStars": 43420
   },
   {
     "slug": "jsonformatter-org",
@@ -668,7 +668,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 14126
+    "githubStars": 14143
   },
   {
     "slug": "mp3cut-net",
@@ -877,7 +877,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1145
+    "githubStars": 1143
   },
   {
     "slug": "pythontutor-com",
@@ -1097,7 +1097,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 24823
+    "githubStars": 24876
   },
   {
     "slug": "stackedit-io",
