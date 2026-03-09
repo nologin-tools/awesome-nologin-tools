@@ -54,7 +54,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create flowcharts and diagrams_
 - **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐117701) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
-- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17568) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
+- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17580) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
 - **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1400) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
   > _No-login task: Generate AI font pairings_
@@ -74,7 +74,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6120) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐24823) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐24876) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[TinyPNG](https://tinypng.com)** ([Source](https://github.com/tinify/iMessage-Panda-sticker) ⭐87) — Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.
   > _No-login task: Compress PNG, JPEG, and WebP images_
@@ -89,11 +89,11 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Writing
 
-- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8219) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
+- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8224) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
-- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14126) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
+- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14143) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
 - **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐19501) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
   > _No-login task: Test and improve typing speed_
@@ -112,7 +112,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐919) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
-- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5814) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
+- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5817) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐35942) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
@@ -235,7 +235,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check if your email or phone was exposed in data breaches_
 - **[IPLeak](https://ipleak.net)** — Comprehensive leak detection: IP address, DNS servers, WebRTC, geolocation, and browser fingerprint. Essential VPN verification tool.
   > _No-login task: Detect IP and DNS leaks_
-- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1145) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
+- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1143) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
 - **[Security Headers](https://securityheaders.com)** — Analyze HTTP security headers of any website. Get a grade and recommendations for CSP, HSTS, X-Frame-Options, and more.
   > _No-login task: Analyze HTTP security headers_
@@ -252,7 +252,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Run SQL queries online_
 - **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2100) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
-- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐43388) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
+- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐43420) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
 - **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐12486) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
