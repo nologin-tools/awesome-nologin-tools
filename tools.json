@@ -11,6 +11,17 @@
     "githubStars": 6502
   },
   {
+    "slug": "ps-keepmot-com",
+    "name": "All-in-one tool for image cropping, collages, photo walls, and poster creation.",
+    "url": "https://ps.keepmot.com/",
+    "description": "Tool Overview\nA free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.\n\nFeatures\n🖼️ Grid Collage\n🧱 Photo Wall Collage\n📏 Long Image Stitching\n✂️ Image Cropping\n👨‍🎨 Image Effects",
+    "coreTask": "Everything",
+    "category": "Design",
+    "featured": true,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "animista-net",
     "name": "Animista",
     "url": "https://animista.net",
@@ -305,7 +316,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 34177
+    "githubStars": 34241
   },
   {
     "slug": "db-fiddle-com",
@@ -426,7 +437,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 13967
+    "githubStars": 13973
   },
   {
     "slug": "ficalc-app",
@@ -658,6 +669,17 @@
     "featured": false,
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
     "githubStars": 28699
+  },
+  {
+    "slug": "kuakua-app",
+    "name": "Kuakua - Psychology & AI Tools for Well-Being",
+    "url": "https://kuakua.app/",
+    "description": "Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.",
+    "coreTask": "- **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych",
+    "category": "Education",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "languagetool-org",
@@ -1218,7 +1240,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 107970
+    "githubStars": 108066
   },
   {
     "slug": "uicolors-app",
