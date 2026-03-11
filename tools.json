@@ -8,14 +8,14 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6502
+    "githubStars": 6506
   },
   {
     "slug": "ps-keepmot-com",
     "name": "All-in-one tool for image cropping, collages, photo walls, and poster creation.",
     "url": "https://ps.keepmot.com/",
-    "description": "Tool Overview\nA free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.\n\nFeatures\n🖼️ Grid Collage\n🧱 Photo Wall Collage\n📏 Long Image Stitching\n✂️ Image Cropping\n👨‍🎨 Image Effects",
-    "coreTask": "Everything",
+    "description": "A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.",
+    "coreTask": "1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects",
     "category": "Design",
     "featured": true,
     "repoUrl": null,
@@ -85,7 +85,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9458
+    "githubStars": 9464
   },
   {
     "slug": "flukeout-github-io",
@@ -118,7 +118,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3356
+    "githubStars": 3357
   },
   {
     "slug": "csvjson-com",
@@ -206,7 +206,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 18582
+    "githubStars": 18614
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -294,7 +294,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 372
+    "githubStars": 381
   },
   {
     "slug": "cubic-bezier-com",
@@ -822,7 +822,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 9854
+    "githubStars": 9924
   },
   {
     "slug": "perplexity-ai",
@@ -1075,7 +1075,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10720
+    "githubStars": 10725
   },
   {
     "slug": "shields-io",
@@ -1317,7 +1317,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6442
+    "githubStars": 6462
   },
   {
     "slug": "wise-com-gb-currency-converter",
