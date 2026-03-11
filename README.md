@@ -42,16 +42,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Design
 
-- **[All-in-one tool for image cropping, collages, photo walls, and poster creation. ★](https://ps.keepmot.com/)** — Tool Overview
-A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.
-
-Features
-🖼️ Grid Collage
-🧱 Photo Wall Collage
-📏 Long Image Stitching
-✂️ Image Cropping
-👨‍🎨 Image Effects
-  > _No-login task: Everything_
+- **[All-in-one tool for image cropping, collages, photo walls, and poster creation. ★](https://ps.keepmot.com/)** — A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.
+  > _No-login task: 1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects_
 - **[CSS Gradient](https://cssgradient.io)** — Visual CSS gradient generator with a beautiful UI. Create linear, radial, and conic gradients with instant code output.
   > _No-login task: Generate CSS gradient code visually_
 - **[Color Hunt](https://colorhunt.co)** — Curated collection of beautiful color palettes. Browse trending palettes or search by color — one-click copy hex codes.
@@ -116,9 +108,9 @@ Features
 
 ## Development
 
-- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6502) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
+- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6506) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
-- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9458) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
+- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9464) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐919) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
@@ -126,11 +118,11 @@ Features
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐35942) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
-- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18582) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
+- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18614) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐0) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
-- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐372) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
+- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐381) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
 - **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐34241) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
@@ -164,7 +156,7 @@ Features
   > _No-login task: Write and test TypeScript code online_
 - **[WAVE](https://wave.webaim.org)** — Web accessibility evaluation tool by WebAIM. Enter any URL to get a detailed accessibility report with WCAG compliance checks.
   > _No-login task: Evaluate web accessibility_
-- **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6442) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
+- **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6462) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
   > _No-login task: Test and debug webhooks_
 - **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐0) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
@@ -283,11 +275,11 @@ Features
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐28699) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
-- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐9854) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
+- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐9924) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
   > _No-login task: Share files between devices on LAN_
 - **[PrivNote](https://privnote.com)** — Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.
   > _No-login task: Send self-destructing encrypted notes_
-- **[ShareDrop](https://sharedrop.io)** ([Source](https://github.com/ShareDropio/sharedrop) ⭐10720) — P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.
+- **[ShareDrop](https://sharedrop.io)** ([Source](https://github.com/ShareDropio/sharedrop) ⭐10725) — P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.
   > _No-login task: P2P file sharing across devices_
 - **[Wormhole](https://wormhole.app)** — End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.
   > _No-login task: Transfer files with E2E encryption_
@@ -298,7 +290,7 @@ Features
 
 - **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2845) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
   > _No-login task: Learn CSS selectors through a game_
-- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3356) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
+- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3357) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
   > _No-login task: Learn CSS Grid through a game_
 - **[Desmos](https://desmos.com/calculator)** — Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.
   > _No-login task: Graph mathematical functions and explore equations visually_
