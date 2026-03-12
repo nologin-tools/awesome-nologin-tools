@@ -70,7 +70,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
-- **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐918) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
+- **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐917) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
 - **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7519) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
   > _No-login task: Create and edit SVG vector graphics in the browser_
@@ -150,7 +150,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
 - **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1389) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
-- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26160) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
+- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26222) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
 - **[TypeScript Playground](https://typescriptlang.org/play)** ([Source](https://github.com/microsoft/TypeScript) ⭐108066) — Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.
   > _No-login task: Write and test TypeScript code online_
@@ -158,7 +158,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Evaluate web accessibility_
 - **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6462) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
   > _No-login task: Test and debug webhooks_
-- **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐0) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
+- **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13519) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
 - **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐18) — This is a tool website forked from it-tools, containing 100+ tools.
   > _No-login task: all the things_
@@ -256,7 +256,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and edit GeoJSON on a map_
 - **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐43420) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
-- **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐12486) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
+- **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐12519) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐99) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
@@ -302,11 +302,11 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: - **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
   > _No-login task: Visualize code execution step by step_
-- **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐3964) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
+- **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐3974) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
   > _No-login task: Learn regular expressions interactively_
 - **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2026) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
-- **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐149) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
+- **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐150) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
   > _No-login task: Visualize sorting algorithms_
 - **[VisuAlgo](https://visualgo.net)** — Animated visualizations of data structures and algorithms. Step through sorting, graph traversal, tree operations, and more at your own pace.
   > _No-login task: Visualize algorithms and data structures_
