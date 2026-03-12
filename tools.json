@@ -712,7 +712,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 12486
+    "githubStars": 12519
   },
   {
     "slug": "mermaid-live",
@@ -965,7 +965,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 918
+    "githubStars": 917
   },
   {
     "slug": "regex101-com",
@@ -987,7 +987,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 3964
+    "githubStars": 3974
   },
   {
     "slug": "rentry-co",
@@ -1086,7 +1086,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 26160
+    "githubStars": 26222
   },
   {
     "slug": "siteage-org",
@@ -1108,7 +1108,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/Myphz/sortvisualizer",
-    "githubStars": 149
+    "githubStars": 150
   },
   {
     "slug": "squoosh-app",
@@ -1427,7 +1427,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 0
+    "githubStars": 13519
   },
   {
     "slug": "led-run",
