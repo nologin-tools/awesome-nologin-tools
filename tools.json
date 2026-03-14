@@ -382,7 +382,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 3789
+    "githubStars": 4094
   },
   {
     "slug": "dillinger-io",
@@ -426,7 +426,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 117701
+    "githubStars": 118691
   },
   {
     "slug": "explainshell-com",
@@ -514,7 +514,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2160
+    "githubStars": 2165
   },
   {
     "slug": "geojson-io",
@@ -668,7 +668,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 28699
+    "githubStars": 28796
   },
   {
     "slug": "kuakua-app",
@@ -1438,7 +1438,7 @@
     "category": "Media",
     "featured": true,
     "repoUrl": "https://github.com/led-run/led.run",
-    "githubStars": 93
+    "githubStars": 97
   },
   {
     "slug": "next-tools-dev",
@@ -1515,7 +1515,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 45536
+    "githubStars": 45788
   },
   {
     "slug": "tmp-tf",
