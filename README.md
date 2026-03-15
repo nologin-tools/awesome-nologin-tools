@@ -130,11 +130,11 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
 - **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐13973) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
-- **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐796) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
+- **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐797) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
   > _No-login task: Compile and run Go code online_
-- **[Hoppscotch](https://hoppscotch.io)** ([Source](https://github.com/hoppscotch/hoppscotch) ⭐77955) — Open-source API development ecosystem. Test REST, GraphQL, WebSocket, and more — a lightweight Postman alternative.
+- **[Hoppscotch](https://hoppscotch.io)** ([Source](https://github.com/hoppscotch/hoppscotch) ⭐78433) — Open-source API development ecosystem. Test REST, GraphQL, WebSocket, and more — a lightweight Postman alternative.
   > _No-login task: Test and debug APIs_
-- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐37288) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
+- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐37557) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
   > _No-login task: Access 70+ developer utilities_
 - **[JSON Formatter](https://jsonformatter.org)** — Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.
   > _No-login task: Format, validate, and beautify JSON data_
@@ -229,7 +229,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[BrowserLeaks](https://browserleaks.com)** — Comprehensive browser fingerprinting test suite. Check what information your browser reveals: IP, WebRTC, Canvas, fonts, and more.
   > _No-login task: Detect browser fingerprint leaks_
-- **[Cover Your Tracks](https://coveryourtracks.eff.org)** ([Source](https://github.com/EFForg/cover-your-tracks) ⭐261) — Test how well your browser protects you from tracking. By the Electronic Frontier Foundation (EFF).
+- **[Cover Your Tracks](https://coveryourtracks.eff.org)** ([Source](https://github.com/EFForg/cover-your-tracks) ⭐262) — Test how well your browser protects you from tracking. By the Electronic Frontier Foundation (EFF).
   > _No-login task: Test browser tracking protection_
 - **[DNS Leak Test](https://dnsleaktest.com)** — Check if your DNS requests are leaking outside your VPN tunnel. Run standard or extended tests to verify DNS privacy.
   > _No-login task: Detect DNS leaks_
