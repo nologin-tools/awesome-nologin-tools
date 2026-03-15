@@ -272,7 +272,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 261
+    "githubStars": 262
   },
   {
     "slug": "craiyon-com",
@@ -547,7 +547,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 796
+    "githubStars": 797
   },
   {
     "slug": "goblin-tools",
@@ -613,7 +613,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 77955
+    "githubStars": 78433
   },
   {
     "slug": "ipleak-net",
@@ -635,7 +635,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 37288
+    "githubStars": 37557
   },
   {
     "slug": "jsoncrack-com",
