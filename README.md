@@ -50,7 +50,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Browse curated color palettes_
 - **[Coolors](https://coolors.co)** — Generate harmonious color palettes instantly. Press spacebar to create beautiful color schemes for your design projects.
   > _No-login task: Generate and explore color palettes_
-- **[Cubic Bezier](https://cubic-bezier.com)** ([Source](https://github.com/LeaVerou/cubic-bezier) ⭐182) — Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.
+- **[Cubic Bezier](https://cubic-bezier.com)** ([Source](https://github.com/LeaVerou/cubic-bezier) ⭐184) — Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.
   > _No-login task: Edit CSS bezier easing curves_
 - **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐4094) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
@@ -72,7 +72,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
 - **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐917) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
-- **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7519) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
+- **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7543) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
   > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6120) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
@@ -126,7 +126,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit and understand cron expressions_
 - **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐34241) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
-- **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐38553) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
+- **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐38608) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
 - **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐13973) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
@@ -148,7 +148,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate beautiful code screenshots_
 - **[Regex101](https://regex101.com)** — Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
-- **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1389) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
+- **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1394) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
 - **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26222) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
