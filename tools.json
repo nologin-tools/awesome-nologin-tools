@@ -305,7 +305,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/LeaVerou/cubic-bezier",
-    "githubStars": 182
+    "githubStars": 184
   },
   {
     "slug": "gchq-github-io-cyberchef",
@@ -371,7 +371,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 38553
+    "githubStars": 38608
   },
   {
     "slug": "app-diagrams-net",
@@ -1009,7 +1009,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1389
+    "githubStars": 1394
   },
   {
     "slug": "mystery-knightlab-com",
@@ -1031,7 +1031,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/SVG-Edit/svgedit",
-    "githubStars": 7519
+    "githubStars": 7543
   },
   {
     "slug": "svgrepo-com",
