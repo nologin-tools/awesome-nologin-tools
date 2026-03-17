@@ -162,7 +162,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 35942
+    "githubStars": 35996
   },
   {
     "slug": "chatgpt-com",
@@ -778,7 +778,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6056
+    "githubStars": 6063
   },
   {
     "slug": "numbeo-com",
@@ -836,6 +836,28 @@
     "githubStars": null
   },
   {
+    "slug": "phet-colorado-edu",
+    "name": "PhET Interactive Simulations",
+    "url": "https://phet.colorado.edu",
+    "description": "Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.",
+    "coreTask": "Run interactive STEM simulations in the browser to explore science and math concepts visually",
+    "category": "Education",
+    "featured": false,
+    "repoUrl": "https://github.com/phetsims/phet-info",
+    "githubStars": null
+  },
+  {
+    "slug": "phind-com",
+    "name": "Phind",
+    "url": "https://phind.com",
+    "description": "An AI-powered search engine built for developers. Phind searches the web in real time and synthesizes technical answers with code examples, documentation references, and relevant sources — no account required for basic usage.",
+    "coreTask": "Get AI-generated answers to programming and technical questions with real-time web search and working code examples",
+    "category": "AI",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "photomosh-com",
     "name": "PhotoMosh",
     "url": "https://photomosh.com",
@@ -877,7 +899,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 51703
+    "githubStars": 51759
   },
   {
     "slug": "privnote-com",
@@ -1053,7 +1075,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6120
+    "githubStars": 6131
   },
   {
     "slug": "securityheaders-com",
