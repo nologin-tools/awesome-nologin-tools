@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-142-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-144-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -99,13 +99,13 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
 - **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14143) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
-- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐19501) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
+- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐19601) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
   > _No-login task: Test and improve typing speed_
 - **[Rentry](https://rentry.co)** — Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.
   > _No-login task: Publish and share Markdown quickly_
 - **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22837) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
   > _No-login task: Edit Markdown in the browser_
-- **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3777) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
+- **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3778) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
 
 ## Development
@@ -140,7 +140,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Access 70+ developer utilities_
 - **[JSON Formatter](https://jsonformatter.org)** — Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.
   > _No-login task: Format, validate, and beautify JSON data_
-- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6235) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
+- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6306) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
   > _No-login task: Preview and generate meta tags_
@@ -252,6 +252,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[CSVJSON](https://csvjson.com)** ([Source](https://github.com/FlatFilers/csvjson-app) ⭐452) — Online tool for converting between CSV, JSON, and SQL formats. Also includes data cleaning and transformation utilities. All processing happens in the browser.
   > _No-login task: Convert between CSV, JSON, and SQL data formats_
+- **[Convertio.com](https://convertio.com)** — Convert between 200+ formats with precision. Audio, video, images, documents — powered by professional-grade tools.
+  > _No-login task: Drag file and convert it_
 - **[DB Fiddle](https://db-fiddle.com)** — Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.
   > _No-login task: Run SQL queries online_
 - **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2100) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
@@ -262,13 +264,13 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐99) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
-- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐8937) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
+- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐8940) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
   > _No-login task: Visualize data without coding_
 - **[SiteAge](https://siteage.org)** ([Source](https://github.com/SiteAge-org/SiteAge.org) ⭐0) — Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.
   > _No-login task: Look up any domain's age, view historical timeline, and get embeddable SVG age badges_
 - **[TableConvert](https://tableconvert.com)** — Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.
   > _No-login task: Convert tables between Excel, CSV, JSON, Markdown, and more_
-- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9101) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
+- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9115) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
   > _No-login task: Convert between data formats_
 
 ## Communication
@@ -290,19 +292,19 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Education
 
-- **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2845) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
+- **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2847) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
   > _No-login task: Learn CSS selectors through a game_
 - **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3357) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
   > _No-login task: Learn CSS Grid through a game_
 - **[Desmos](https://desmos.com/calculator)** — Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.
   > _No-login task: Graph mathematical functions and explore equations visually_
-- **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7296) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
+- **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7307) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
   > _No-login task: Learn CSS Flexbox through a game_
 - **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2165) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
   > _No-login task: Explore geometry, algebra, and calculus with interactive math tools_
 - **[Kuakua - Psychology & AI Tools for Well-Being](https://kuakua.app/)** — Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.
   > _No-login task: - **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych_
-- **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info)) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
+- **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐95) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
   > _No-login task: Run interactive STEM simulations in the browser to explore science and math concepts visually_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
   > _No-login task: Visualize code execution step by step_
@@ -333,6 +335,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Compare real exchange rates across banks and services_
 - **[XE Currency Converter](https://xe.com/currencyconverter/)** — World-trusted currency converter with live exchange rates. Convert between 300+ currencies and precious metals with mid-market rates updated every minute.
   > _No-login task: Convert currencies with live mid-market exchange rates_
+- **[cFIREsim](https://cfiresim.com)** — Open-source FIRE retirement portfolio simulator that runs your plan against 150+ years of historical US market data. Configure portfolio size, annual spending, asset allocation, withdrawal strategies, Social Security income, and more to see what percentage of historical scenarios your retirement survives.
+  > _No-login task: Simulate retirement portfolio longevity using historical market sequences and Monte Carlo analysis, with configurable withdrawal strategies and income sources_
 
 ---
 
