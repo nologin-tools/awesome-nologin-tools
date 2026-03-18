@@ -96,7 +96,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2845
+    "githubStars": 2847
   },
   {
     "slug": "cssgradient-io",
@@ -229,6 +229,17 @@
     "featured": false,
     "repoUrl": "https://github.com/convertio/convertio-php",
     "githubStars": 272
+  },
+  {
+    "slug": "convertio-com",
+    "name": "Convertio.com",
+    "url": "https://convertio.com",
+    "description": "Convert between 200+ formats with precision. Audio, video, images, documents — powered by professional-grade tools.",
+    "coreTask": "Drag file and convert it",
+    "category": "Data",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "cookies-extractor-chekun-me",
@@ -492,7 +503,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7296
+    "githubStars": 7307
   },
   {
     "slug": "fontjoy-com",
@@ -723,7 +734,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6235
+    "githubStars": 6306
   },
   {
     "slug": "metatags-io",
@@ -756,7 +767,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 19501
+    "githubStars": 19601
   },
   {
     "slug": "musicforprogramming-net",
@@ -844,7 +855,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": null
+    "githubStars": 95
   },
   {
     "slug": "phind-com",
@@ -965,7 +976,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 8937
+    "githubStars": 8940
   },
   {
     "slug": "ray-so",
@@ -1427,7 +1438,18 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/tholman/zenpen",
-    "githubStars": 3777
+    "githubStars": 3778
+  },
+  {
+    "slug": "cfiresim-com",
+    "name": "cFIREsim",
+    "url": "https://cfiresim.com",
+    "description": "Open-source FIRE retirement portfolio simulator that runs your plan against 150+ years of historical US market data. Configure portfolio size, annual spending, asset allocation, withdrawal strategies, Social Security income, and more to see what percentage of historical scenarios your retirement survives.",
+    "coreTask": "Simulate retirement portfolio longevity using historical market sequences and Monte Carlo analysis, with configurable withdrawal strategies and income sources",
+    "category": "Finance",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "ezgif-com",
@@ -1559,6 +1581,6 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9101
+    "githubStars": 9115
   }
 ]
