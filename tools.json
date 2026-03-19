@@ -426,7 +426,7 @@
     "category": "Productivity",
     "featured": false,
     "repoUrl": "https://github.com/excalideck/excalideck",
-    "githubStars": 194
+    "githubStars": 193
   },
   {
     "slug": "excalidraw-com",
@@ -536,7 +536,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2100
+    "githubStars": 2111
   },
   {
     "slug": "getwaves-io",
@@ -627,6 +627,17 @@
     "githubStars": 78433
   },
   {
+    "slug": "huggingface-co-chat",
+    "name": "HuggingChat",
+    "url": "https://huggingface.co/chat",
+    "description": "An open-source AI chat interface by Hugging Face that lets you talk to 100+ state-of-the-art language models — including Llama, DeepSeek, Qwen, and Mistral — directly in your browser. No account needed for basic use. Switch between models freely, with optional login only for saving conversation history.",
+    "coreTask": "Chat with open-source AI models including Llama, DeepSeek, Qwen, and Mistral without signing up",
+    "category": "AI",
+    "featured": false,
+    "repoUrl": "https://github.com/huggingface/chat-ui",
+    "githubStars": null
+  },
+  {
     "slug": "ipleak-net",
     "name": "IPLeak",
     "url": "https://ipleak.net",
@@ -701,7 +712,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 14143
+    "githubStars": 14178
   },
   {
     "slug": "mp3cut-net",
@@ -1152,7 +1163,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 24876
+    "githubStars": 24935
   },
   {
     "slug": "stackedit-io",
@@ -1185,7 +1196,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1692
+    "githubStars": 1695
   },
   {
     "slug": "temp-mail-org",
@@ -1416,7 +1427,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 2595
+    "githubStars": 2663
   },
   {
     "slug": "z-ai",
@@ -1493,7 +1504,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/willjayyyy/next-tools",
-    "githubStars": 18
+    "githubStars": 21
   },
   {
     "slug": "nologin-tools",
