@@ -129,7 +129,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 452
+    "githubStars": 453
   },
   {
     "slug": "caniemail-com",
@@ -151,7 +151,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5817
+    "githubStars": 5826
   },
   {
     "slug": "carbon-now-sh",
@@ -404,7 +404,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8224
+    "githubStars": 8225
   },
   {
     "slug": "duck-ai",
@@ -481,7 +481,18 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17580
+    "githubStars": 17587
+  },
+  {
+    "slug": "fffuel-co",
+    "name": "Fffuel",
+    "url": "https://fffuel.co",
+    "description": "A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.",
+    "coreTask": "Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account.",
+    "category": "Design",
+    "featured": false,
+    "repoUrl": "https://github.com/fffuel/fffuel",
+    "githubStars": null
   },
   {
     "slug": "financier-io",
@@ -635,7 +646,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/huggingface/chat-ui",
-    "githubStars": null
+    "githubStars": 10594
   },
   {
     "slug": "ipleak-net",
@@ -668,7 +679,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 43420
+    "githubStars": 43701
   },
   {
     "slug": "jsonformatter-org",
@@ -943,7 +954,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1143
+    "githubStars": 1146
   },
   {
     "slug": "pythontutor-com",
