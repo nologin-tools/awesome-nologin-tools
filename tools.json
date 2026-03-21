@@ -85,7 +85,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9464
+    "githubStars": 9468
   },
   {
     "slug": "flukeout-github-io",
@@ -305,7 +305,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 381
+    "githubStars": 388
   },
   {
     "slug": "cubic-bezier-com",
@@ -327,7 +327,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 34241
+    "githubStars": 34353
   },
   {
     "slug": "db-fiddle-com",
@@ -448,7 +448,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 13973
+    "githubStars": 13991
   },
   {
     "slug": "ficalc-app",
@@ -855,7 +855,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 9924
+    "githubStars": 9996
   },
   {
     "slug": "perplexity-ai",
@@ -1130,7 +1130,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10725
+    "githubStars": 10729
   },
   {
     "slug": "shields-io",
@@ -1295,7 +1295,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 108066
+    "githubStars": 108218
   },
   {
     "slug": "uicolors-app",
@@ -1372,7 +1372,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6462
+    "githubStars": 6478
   },
   {
     "slug": "wise-com-gb-currency-converter",
@@ -1416,6 +1416,17 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "write-as",
+    "name": "Write.as",
+    "url": "https://write.as",
+    "description": "A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.",
+    "coreTask": "Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds.",
+    "category": "Writing",
+    "featured": false,
+    "repoUrl": "https://github.com/writefreely/writefreely",
     "githubStars": null
   },
   {
