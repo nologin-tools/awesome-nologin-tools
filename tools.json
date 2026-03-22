@@ -118,7 +118,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3357
+    "githubStars": 3360
   },
   {
     "slug": "csvjson-com",
@@ -693,6 +693,17 @@
     "githubStars": null
   },
   {
+    "slug": "jwt-io",
+    "name": "JWT.io",
+    "url": "https://jwt.io",
+    "description": "A browser-based debugger for JSON Web Tokens. Paste any JWT to instantly decode its header, payload, and signature. Verify token signatures with your secret or public key. Supports HS256, RS256, ES256, and other common algorithms — all processing happens in your browser with no account required.",
+    "coreTask": "Decode and verify JSON Web Tokens directly in your browser without sending tokens to any server",
+    "category": "Development",
+    "featured": false,
+    "repoUrl": "https://github.com/auth0/jwt.io",
+    "githubStars": null
+  },
+  {
     "slug": "meet-jit-si",
     "name": "Jitsi Meet",
     "url": "https://meet.jit.si",
@@ -1141,7 +1152,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 26222
+    "githubStars": 26290
   },
   {
     "slug": "siteage-org",
@@ -1427,7 +1438,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": null
+    "githubStars": 5105
   },
   {
     "slug": "xe-com-currencyconverter",
