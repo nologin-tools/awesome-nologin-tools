@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-147-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-148-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -109,7 +109,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Publish and share Markdown quickly_
 - **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22837) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
   > _No-login task: Edit Markdown in the browser_
-- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely)) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
+- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5105) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
 - **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3778) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
@@ -146,6 +146,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Access 70+ developer utilities_
 - **[JSON Formatter](https://jsonformatter.org)** — Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.
   > _No-login task: Format, validate, and beautify JSON data_
+- **[JWT.io](https://jwt.io)** ([Source](https://github.com/auth0/jwt.io)) — A browser-based debugger for JSON Web Tokens. Paste any JWT to instantly decode its header, payload, and signature. Verify token signatures with your secret or public key. Supports HS256, RS256, ES256, and other common algorithms — all processing happens in your browser with no account required.
+  > _No-login task: Decode and verify JSON Web Tokens directly in your browser without sending tokens to any server_
 - **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6306) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
@@ -158,7 +160,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
 - **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1394) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
-- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26222) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
+- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26290) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
 - **[TypeScript Playground](https://typescriptlang.org/play)** ([Source](https://github.com/microsoft/TypeScript) ⭐108218) — Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.
   > _No-login task: Write and test TypeScript code online_
@@ -300,7 +302,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2847) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
   > _No-login task: Learn CSS selectors through a game_
-- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3357) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
+- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3360) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
   > _No-login task: Learn CSS Grid through a game_
 - **[Desmos](https://desmos.com/calculator)** — Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.
   > _No-login task: Graph mathematical functions and explore equations visually_
