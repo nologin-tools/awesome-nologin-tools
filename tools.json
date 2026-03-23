@@ -8,7 +8,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6506
+    "githubStars": 6515
   },
   {
     "slug": "ps-keepmot-com",
@@ -525,7 +525,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1402
+    "githubStars": 1403
   },
   {
     "slug": "geogebra-org-calculator",
@@ -1174,7 +1174,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/Myphz/sortvisualizer",
-    "githubStars": 150
+    "githubStars": 151
   },
   {
     "slug": "squoosh-app",
@@ -1626,5 +1626,16 @@
     "featured": false,
     "repoUrl": "https://github.com/ritz078/transform",
     "githubStars": 9115
+  },
+  {
+    "slug": "www-when2meet-com",
+    "name": "when2meet",
+    "url": "https://www.when2meet.com",
+    "description": "A free group scheduling tool that lets anyone create a meeting availability poll and collect responses without accounts or signups. Participants mark their available times on a shared visual grid, and the best meeting window emerges as a color-coded heat map. No login required for organizers or participants.",
+    "coreTask": "Find the best meeting time for a group by collecting everyone's availability on a shared grid—no login required for organizers or participants.",
+    "category": "Productivity",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   }
 ]
