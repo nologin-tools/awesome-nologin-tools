@@ -66,6 +66,17 @@
     "githubStars": null
   },
   {
+    "slug": "audiomass-co",
+    "name": "AudioMass",
+    "url": "https://audiomass.co",
+    "description": "Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.",
+    "coreTask": "Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed.",
+    "category": "Media",
+    "featured": false,
+    "repoUrl": "https://github.com/pkalogiros/AudioMass",
+    "githubStars": null
+  },
+  {
     "slug": "browserleaks-com",
     "name": "BrowserLeaks",
     "url": "https://browserleaks.com",
@@ -206,7 +217,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 18614
+    "githubStars": 18636
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -756,7 +767,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 12519
+    "githubStars": 12570
   },
   {
     "slug": "mermaid-live",
@@ -1053,7 +1064,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 3974
+    "githubStars": 3976
   },
   {
     "slug": "rentry-co",
@@ -1086,7 +1097,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2035
+    "githubStars": 2043
   },
   {
     "slug": "svgedit-netlify-app-editor-index-html",
@@ -1196,7 +1207,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 22837
+    "githubStars": 22850
   },
   {
     "slug": "tableconvert-com",
@@ -1240,7 +1251,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 12808
+    "githubStars": 12831
   },
   {
     "slug": "themeasureofaplan-com",
@@ -1515,7 +1526,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13519
+    "githubStars": 13531
   },
   {
     "slug": "led-run",
