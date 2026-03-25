@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-150-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-151-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -58,7 +58,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit CSS bezier easing curves_
 - **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐4094) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
-- **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐118691) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
+- **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐119455) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
 - **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17587) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
@@ -92,7 +92,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate Tailwind CSS color scales_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
   > _No-login task: Remove image backgrounds automatically using AI_
-- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐45788) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
+- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐46012) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
   > _No-login task: Draw diagrams and visual notes on an infinite canvas_
 
 ## Writing
@@ -220,7 +220,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS animation code_
 - **[Audio Trimmer](https://audiotrimmer.com)** — Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.
   > _No-login task: Trim and cut audio files online_
-- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass)) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
+- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2281) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
   > _No-login task: Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed._
 - **[Convertio](https://convertio.co)** ([Source](https://github.com/convertio/convertio-php) ⭐272) — Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.
   > _No-login task: Convert files between 300+ formats with drag and drop_
@@ -236,7 +236,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Separate vocals from instrumentals_
 - **[ezGIF](https://ezgif.com)** — Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.
   > _No-login task: Create, edit, and optimize GIFs and animated images_
-- **[led.run ★](https://led.run)** ([Source](https://github.com/led-run/led.run) ⭐97) — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
+- **[led.run ★](https://led.run)** ([Source](https://github.com/led-run/led.run) ⭐98) — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
   > _No-login task: Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account_
 
 ## Privacy
@@ -259,6 +259,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate disposable email addresses for anonymous sign-ups_
 - **[VirusTotal](https://virustotal.com)** — Scan files and URLs for malware using 70+ antivirus engines. Google-owned comprehensive threat detection service.
   > _No-login task: Scan files and URLs for malware_
+- **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh)) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
+  > _No-login task: Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement._
 
 ## Data
 
@@ -289,7 +291,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[AskMeAnything ★](https://askmeanythi.ng)** ([Source](https://github.com/nologin-tools/AskMeAnythi.ng) ⭐0) — The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
-- **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐28796) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
+- **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐28873) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
 - **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐9996) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
   > _No-login task: Share files between devices on LAN_
