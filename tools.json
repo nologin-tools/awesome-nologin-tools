@@ -74,7 +74,7 @@
     "category": "Media",
     "featured": false,
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": null
+    "githubStars": 2281
   },
   {
     "slug": "browserleaks-com",
@@ -448,7 +448,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 118691
+    "githubStars": 119455
   },
   {
     "slug": "explainshell-com",
@@ -723,7 +723,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 28796
+    "githubStars": 28873
   },
   {
     "slug": "kuakua-app",
@@ -1518,6 +1518,17 @@
     "githubStars": null
   },
   {
+    "slug": "hat-sh",
+    "name": "hat.sh",
+    "url": "https://hat.sh",
+    "description": "A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.",
+    "coreTask": "Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement.",
+    "category": "Privacy",
+    "featured": false,
+    "repoUrl": "https://github.com/sh-dv/hat.sh",
+    "githubStars": null
+  },
+  {
     "slug": "httpbin-org",
     "name": "httpbin",
     "url": "https://httpbin.org",
@@ -1537,7 +1548,7 @@
     "category": "Media",
     "featured": true,
     "repoUrl": "https://github.com/led-run/led.run",
-    "githubStars": 97
+    "githubStars": 98
   },
   {
     "slug": "next-tools-dev",
@@ -1614,7 +1625,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 45788
+    "githubStars": 46012
   },
   {
     "slug": "tmp-tf",
