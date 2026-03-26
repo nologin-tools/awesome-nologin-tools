@@ -294,7 +294,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 262
+    "githubStars": 265
   },
   {
     "slug": "craiyon-com",
@@ -363,6 +363,17 @@
     "githubStars": null
   },
   {
+    "slug": "lite-datasette-io",
+    "name": "Datasette Lite",
+    "url": "https://lite.datasette.io",
+    "description": "Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.",
+    "coreTask": "Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed.",
+    "category": "Data",
+    "featured": false,
+    "repoUrl": "https://github.com/simonw/datasette-lite",
+    "githubStars": null
+  },
+  {
     "slug": "deepl-com-translator",
     "name": "DeepL Translator",
     "url": "https://deepl.com/translator",
@@ -404,7 +415,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 4094
+    "githubStars": 4336
   },
   {
     "slug": "dillinger-io",
@@ -547,7 +558,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2165
+    "githubStars": 2171
   },
   {
     "slug": "geojson-io",
@@ -580,7 +591,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 797
+    "githubStars": 799
   },
   {
     "slug": "goblin-tools",
@@ -646,7 +657,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 78433
+    "githubStars": 78601
   },
   {
     "slug": "huggingface-co-chat",
@@ -679,7 +690,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 37557
+    "githubStars": 37790
   },
   {
     "slug": "jsoncrack-com",
@@ -1526,7 +1537,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/sh-dv/hat.sh",
-    "githubStars": null
+    "githubStars": 2283
   },
   {
     "slug": "httpbin-org",
