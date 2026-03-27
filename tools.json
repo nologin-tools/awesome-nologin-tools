@@ -173,7 +173,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 35996
+    "githubStars": 36004
   },
   {
     "slug": "chatgpt-com",
@@ -371,7 +371,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": null
+    "githubStars": 399
   },
   {
     "slug": "deepl-com-translator",
@@ -404,7 +404,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 38608
+    "githubStars": 38641
   },
   {
     "slug": "app-diagrams-net",
@@ -759,6 +759,17 @@
     "githubStars": 14178
   },
   {
+    "slug": "lowrisktradesmart-org",
+    "name": "LowRiskTradeSmart",
+    "url": "https://lowrisktradesmart.org",
+    "description": "Expert guides on low-risk investing strategies, ETFs, dividend stocks, and smart portfolio management. Trilingual content for conservative investors looking to grow wealth steadily.",
+    "coreTask": "Read all investing guides, browse ETF comparisons, access financial calculators",
+    "category": "Education",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "mp3cut-net",
     "name": "MP3 Cutter",
     "url": "https://mp3cut.net",
@@ -1097,7 +1108,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1394
+    "githubStars": 1398
   },
   {
     "slug": "mystery-knightlab-com",
@@ -1119,7 +1130,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/SVG-Edit/svgedit",
-    "githubStars": 7543
+    "githubStars": 7562
   },
   {
     "slug": "svgrepo-com",
@@ -1549,6 +1560,17 @@
     "featured": false,
     "repoUrl": "https://github.com/requests/httpbin",
     "githubStars": 13531
+  },
+  {
+    "slug": "iformat-io",
+    "name": "iFormat.io",
+    "url": "https://iformat.io",
+    "description": "iFormat.io is a free online file converter that supports over 500 format conversions. The tool works directly in your browser—no installation or registration required. Users can quickly and securely convert images, PDFs, audio and video files, as well as Office documents.\n\nSupported Categories:\n- Images: JPG, PNG, WebP, HEIC, GIF, TIFF, and more\n- PDFs: Convert, compress, merge, split, and extract text\n- Audio: MP3, WAV, FLAC, AAC, OGG, and more\n- Video: MP4, AVI, MOV, and other formats\n- Docume",
+    "coreTask": "iFormat.io is a free online multi-format converter supporting 500+  conversions across images, PDFs, audio, video, and documents.  Works entirely in the browser with no account or sign-up required.  A",
+    "category": null,
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "led-run",
