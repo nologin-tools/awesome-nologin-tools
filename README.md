@@ -101,7 +101,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
-- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14178) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
+- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14229) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
 - **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐19657) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
   > _No-login task: Test and improve typing speed_
@@ -170,7 +170,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test and debug webhooks_
 - **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13531) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
-- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐21) — This is a tool website forked from it-tools, containing 100+ tools.
+- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐23) — This is a tool website forked from it-tools, containing 100+ tools.
   > _No-login task: all the things_
 - **[npm trends](https://npmtrends.com)** — Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.
   > _No-login task: Compare npm package download trends_
@@ -185,7 +185,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test internet speed and latency_
 - **[CopyChar](https://copychar.cc)** — One-click copy for special characters, symbols, and emoji. Browse categories or search — click any character to copy it instantly.
   > _No-login task: Copy special characters and symbols_
-- **[Excalideck](https://excalideck.com)** ([Source](https://github.com/excalideck/excalideck) ⭐193) — Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.
+- **[Excalideck](https://excalideck.com)** ([Source](https://github.com/excalideck/excalideck) ⭐192) — Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.
   > _No-login task: Create hand-drawn style presentations_
 - **[Fast.com](https://fast.com)** — Simple internet speed test by Netflix. Open the page and it instantly starts measuring your download speed.
   > _No-login task: Test internet connection speed_
