@@ -338,7 +338,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 34353
+    "githubStars": 34454
   },
   {
     "slug": "db-fiddle-com",
@@ -503,7 +503,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17587
+    "githubStars": 17599
   },
   {
     "slug": "fffuel-co",
@@ -701,7 +701,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 43701
+    "githubStars": 43801
   },
   {
     "slug": "jsonformatter-org",
@@ -998,7 +998,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1146
+    "githubStars": 1152
   },
   {
     "slug": "pythontutor-com",
@@ -1339,7 +1339,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 108218
+    "githubStars": 108361
   },
   {
     "slug": "uicolors-app",
