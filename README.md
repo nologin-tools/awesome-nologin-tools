@@ -118,7 +118,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6515) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
-- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9468) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
+- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9475) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐919) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
@@ -130,13 +130,13 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: View compiler assembly output interactively_
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐0) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
-- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐388) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
+- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐393) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
 - **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐34454) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
 - **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐38641) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
-- **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐13991) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
+- **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐13998) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
 - **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐799) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
   > _No-login task: Compile and run Go code online_
@@ -166,7 +166,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Write and test TypeScript code online_
 - **[WAVE](https://wave.webaim.org)** — Web accessibility evaluation tool by WebAIM. Enter any URL to get a detailed accessibility report with WCAG compliance checks.
   > _No-login task: Evaluate web accessibility_
-- **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6478) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
+- **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6497) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
   > _No-login task: Test and debug webhooks_
 - **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13531) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
@@ -295,11 +295,11 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐28873) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
-- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐9996) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
+- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐10047) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
   > _No-login task: Share files between devices on LAN_
 - **[PrivNote](https://privnote.com)** — Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.
   > _No-login task: Send self-destructing encrypted notes_
-- **[ShareDrop](https://sharedrop.io)** ([Source](https://github.com/ShareDropio/sharedrop) ⭐10729) — P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.
+- **[ShareDrop](https://sharedrop.io)** ([Source](https://github.com/ShareDropio/sharedrop) ⭐10727) — P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.
   > _No-login task: P2P file sharing across devices_
 - **[Wormhole](https://wormhole.app)** — End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.
   > _No-login task: Transfer files with E2E encryption_
