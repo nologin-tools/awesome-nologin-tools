@@ -64,7 +64,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** ([Source](https://github.com/fffuel/fffuel)) — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account._
-- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1403) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
+- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1404) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
   > _No-login task: Generate AI font pairings_
 - **[Get Waves](https://getwaves.io)** — Generate beautiful SVG wave shapes for section dividers. Customize layers, colors, and complexity with a simple UI.
   > _No-login task: Generate SVG wave dividers_
@@ -116,7 +116,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Development
 
-- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6515) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
+- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6519) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
 - **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9475) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
@@ -310,7 +310,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2849) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
   > _No-login task: Learn CSS selectors through a game_
-- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3360) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
+- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3361) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
   > _No-login task: Learn CSS Grid through a game_
 - **[Desmos](https://desmos.com/calculator)** — Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.
   > _No-login task: Graph mathematical functions and explore equations visually_
