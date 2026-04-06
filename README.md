@@ -76,7 +76,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
-- **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐917) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
+- **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐919) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
 - **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7562) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
   > _No-login task: Create and edit SVG vector graphics in the browser_
@@ -107,9 +107,9 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test and improve typing speed_
 - **[Rentry](https://rentry.co)** — Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.
   > _No-login task: Publish and share Markdown quickly_
-- **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22850) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
+- **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22872) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
   > _No-login task: Edit Markdown in the browser_
-- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5105) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
+- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5118) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
 - **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3778) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
@@ -126,7 +126,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36004) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
-- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18636) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
+- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18661) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐0) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
@@ -160,7 +160,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
 - **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1398) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
-- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26290) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
+- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26373) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
 - **[TypeScript Playground](https://typescriptlang.org/play)** ([Source](https://github.com/microsoft/TypeScript) ⭐108361) — Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.
   > _No-login task: Write and test TypeScript code online_
@@ -168,7 +168,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Evaluate web accessibility_
 - **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6497) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
   > _No-login task: Test and debug webhooks_
-- **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13531) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
+- **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13533) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
 - **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐23) — This is a tool website forked from it-tools, containing 100+ tools.
   > _No-login task: all the things_
@@ -326,7 +326,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Run interactive STEM simulations in the browser to explore science and math concepts visually_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
   > _No-login task: Visualize code execution step by step_
-- **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐3976) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
+- **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐3984) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
   > _No-login task: Learn regular expressions interactively_
 - **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2043) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
