@@ -294,7 +294,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 265
+    "githubStars": 266
   },
   {
     "slug": "craiyon-com",
@@ -415,7 +415,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 4336
+    "githubStars": 4648
   },
   {
     "slug": "dillinger-io",
@@ -558,7 +558,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2171
+    "githubStars": 2185
   },
   {
     "slug": "geojson-io",
@@ -591,7 +591,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 799
+    "githubStars": 800
   },
   {
     "slug": "goblin-tools",
@@ -657,7 +657,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 78601
+    "githubStars": 78848
   },
   {
     "slug": "huggingface-co-chat",
@@ -690,7 +690,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 37790
+    "githubStars": 38022
   },
   {
     "slug": "jsoncrack-com",
