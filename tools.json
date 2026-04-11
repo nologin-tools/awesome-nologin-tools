@@ -404,7 +404,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 38641
+    "githubStars": 38680
   },
   {
     "slug": "app-diagrams-net",
@@ -855,7 +855,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6068
+    "githubStars": 6078
   },
   {
     "slug": "numbeo-com",
@@ -976,7 +976,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 51763
+    "githubStars": 51783
   },
   {
     "slug": "privnote-com",
@@ -1108,7 +1108,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1398
+    "githubStars": 1397
   },
   {
     "slug": "mystery-knightlab-com",
@@ -1130,7 +1130,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/SVG-Edit/svgedit",
-    "githubStars": 7562
+    "githubStars": 7576
   },
   {
     "slug": "svgrepo-com",
@@ -1152,7 +1152,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6138
+    "githubStars": 6144
   },
   {
     "slug": "securityheaders-com",
