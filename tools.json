@@ -107,7 +107,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2849
+    "githubStars": 2848
   },
   {
     "slug": "cssgradient-io",
@@ -800,7 +800,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6344
+    "githubStars": 6392
   },
   {
     "slug": "metatags-io",
@@ -921,7 +921,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": 95
+    "githubStars": 96
   },
   {
     "slug": "phind-com",
@@ -1515,7 +1515,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/tholman/zenpen",
-    "githubStars": 3778
+    "githubStars": 3775
   },
   {
     "slug": "cfiresim-com",
