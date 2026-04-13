@@ -111,7 +111,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit Markdown in the browser_
 - **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5118) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
-- **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3778) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
+- **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3775) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
 
 ## Development
@@ -148,7 +148,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Format, validate, and beautify JSON data_
 - **[JWT.io](https://jwt.io)** ([Source](https://github.com/auth0/jwt.io)) — A browser-based debugger for JSON Web Tokens. Paste any JWT to instantly decode its header, payload, and signature. Verify token signatures with your secret or public key. Supports HS256, RS256, ES256, and other common algorithms — all processing happens in your browser with no account required.
   > _No-login task: Decode and verify JSON Web Tokens directly in your browser without sending tokens to any server_
-- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6344) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
+- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6392) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
   > _No-login task: Preview and generate meta tags_
@@ -308,7 +308,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Education
 
-- **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2849) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
+- **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2848) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
   > _No-login task: Learn CSS selectors through a game_
 - **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3361) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
   > _No-login task: Learn CSS Grid through a game_
@@ -322,7 +322,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: - **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych_
 - **[LowRiskTradeSmart](https://lowrisktradesmart.org)** — Expert guides on low-risk investing strategies, ETFs, dividend stocks, and smart portfolio management. Trilingual content for conservative investors looking to grow wealth steadily.
   > _No-login task: Read all investing guides, browse ETF comparisons, access financial calculators_
-- **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐95) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
+- **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐96) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
   > _No-login task: Run interactive STEM simulations in the browser to explore science and math concepts visually_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
   > _No-login task: Visualize code execution step by step_
