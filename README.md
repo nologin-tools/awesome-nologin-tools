@@ -103,7 +103,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
 - **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14229) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
-- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐19657) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
+- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐19777) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
   > _No-login task: Test and improve typing speed_
 - **[Rentry](https://rentry.co)** — Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.
   > _No-login task: Publish and share Markdown quickly_
@@ -280,13 +280,13 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐99) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
-- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐8944) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
+- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐8953) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
   > _No-login task: Visualize data without coding_
 - **[SiteAge](https://siteage.org)** ([Source](https://github.com/SiteAge-org/SiteAge.org) ⭐0) — Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.
   > _No-login task: Look up any domain's age, view historical timeline, and get embeddable SVG age badges_
 - **[TableConvert](https://tableconvert.com)** — Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.
   > _No-login task: Convert tables between Excel, CSV, JSON, Markdown, and more_
-- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9131) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
+- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9137) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
   > _No-login task: Convert between data formats_
 
 ## Communication
@@ -303,7 +303,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: P2P file sharing across devices_
 - **[Wormhole](https://wormhole.app)** — End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.
   > _No-login task: Transfer files with E2E encryption_
-- **[Yopass](https://yopass.se)** ([Source](https://github.com/jhaals/yopass) ⭐2695) — Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.
+- **[Yopass](https://yopass.se)** ([Source](https://github.com/jhaals/yopass) ⭐2722) — Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.
   > _No-login task: Share encrypted self-destructing secrets_
 
 ## Education
