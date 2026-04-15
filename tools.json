@@ -187,6 +187,17 @@
     "githubStars": null
   },
   {
+    "slug": "clideo-com",
+    "name": "Clideo",
+    "url": "https://clideo.com",
+    "description": "Clideo is a browser-based media toolkit with 20+ tools for video and audio editing: trim, compress, convert formats, merge clips, mute audio, add subtitles, extract audio, loop video, change speed, and create GIFs. Core tools work without an account — upload a file, process it on their servers, and download the result. Free tier adds a watermark; paid plans remove it.",
+    "coreTask": "Edit, convert, trim, and compress video and audio files directly in your browser without installing software or creating an account.",
+    "category": "Media",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "speed-cloudflare-com",
     "name": "Cloudflare Speed Test",
     "url": "https://speed.cloudflare.com",
@@ -536,7 +547,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7319
+    "githubStars": 7322
   },
   {
     "slug": "fontjoy-com",
@@ -569,7 +580,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2117
+    "githubStars": 2127
   },
   {
     "slug": "getwaves-io",
@@ -756,7 +767,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 14229
+    "githubStars": 14369
   },
   {
     "slug": "lowrisktradesmart-org",
