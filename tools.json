@@ -162,7 +162,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5827
+    "githubStars": 5829
   },
   {
     "slug": "carbon-now-sh",
@@ -437,7 +437,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8230
+    "githubStars": 8226
   },
   {
     "slug": "duck-ai",
@@ -679,7 +679,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/huggingface/chat-ui",
-    "githubStars": 10615
+    "githubStars": 10644
   },
   {
     "slug": "ipleak-net",
@@ -1229,7 +1229,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 24996
+    "githubStars": 25068
   },
   {
     "slug": "stackedit-io",
@@ -1262,7 +1262,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1700
+    "githubStars": 1704
   },
   {
     "slug": "temp-mail-org",
@@ -1625,6 +1625,17 @@
     "category": "Development",
     "featured": false,
     "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "privacy-sexy",
+    "name": "privacy.sexy",
+    "url": "https://privacy.sexy",
+    "description": "Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.",
+    "coreTask": "Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script.",
+    "category": "Privacy",
+    "featured": false,
+    "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
     "githubStars": null
   },
   {
