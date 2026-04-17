@@ -349,7 +349,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 34454
+    "githubStars": 34579
   },
   {
     "slug": "db-fiddle-com",
@@ -514,7 +514,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17599
+    "githubStars": 17611
   },
   {
     "slug": "fffuel-co",
@@ -712,7 +712,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 43801
+    "githubStars": 43869
   },
   {
     "slug": "jsonformatter-org",
@@ -1009,7 +1009,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1152
+    "githubStars": 1162
   },
   {
     "slug": "pythontutor-com",
@@ -1636,7 +1636,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": null
+    "githubStars": 5501
   },
   {
     "slug": "quickstart-to",
