@@ -60,7 +60,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create flowcharts and diagrams_
 - **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐120403) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
-- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17599) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
+- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17611) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** ([Source](https://github.com/fffuel/fffuel)) — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account._
@@ -132,7 +132,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Extract Cookies_
 - **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐393) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
-- **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐34454) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
+- **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐34579) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
 - **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐38680) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
@@ -253,7 +253,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check if your email or phone was exposed in data breaches_
 - **[IPLeak](https://ipleak.net)** — Comprehensive leak detection: IP address, DNS servers, WebRTC, geolocation, and browser fingerprint. Essential VPN verification tool.
   > _No-login task: Detect IP and DNS leaks_
-- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1152) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
+- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1162) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
 - **[Security Headers](https://securityheaders.com)** — Analyze HTTP security headers of any website. Get a grade and recommendations for CSP, HSTS, X-Frame-Options, and more.
   > _No-login task: Analyze HTTP security headers_
@@ -263,7 +263,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Scan files and URLs for malware_
 - **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2283) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
   > _No-login task: Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement._
-- **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy)) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
+- **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5501) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
 
 ## Data
@@ -278,7 +278,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
 - **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2127) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
-- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐43801) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
+- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐43869) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
 - **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐12631) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
