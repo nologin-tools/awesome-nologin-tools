@@ -910,7 +910,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 10047
+    "githubStars": 10121
   },
   {
     "slug": "perplexity-ai",
@@ -1350,7 +1350,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 108361
+    "githubStars": 108570
   },
   {
     "slug": "uicolors-app",
@@ -1427,7 +1427,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6497
+    "githubStars": 6521
   },
   {
     "slug": "wise-com-gb-currency-converter",
