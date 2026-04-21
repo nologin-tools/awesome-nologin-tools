@@ -64,7 +64,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** ([Source](https://github.com/fffuel/fffuel)) — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account._
-- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1404) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
+- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1407) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
   > _No-login task: Generate AI font pairings_
 - **[Get Waves](https://getwaves.io)** — Generate beautiful SVG wave shapes for section dividers. Customize layers, colors, and complexity with a simple UI.
   > _No-login task: Generate SVG wave dividers_
@@ -76,7 +76,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
-- **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐919) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
+- **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐921) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
 - **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7576) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
   > _No-login task: Create and edit SVG vector graphics in the browser_
@@ -109,16 +109,16 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Publish and share Markdown quickly_
 - **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22872) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
   > _No-login task: Edit Markdown in the browser_
-- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5118) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
+- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5129) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
 - **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3775) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
 
 ## Development
 
-- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6519) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
+- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6526) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
-- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9475) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
+- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9486) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐921) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
@@ -126,11 +126,11 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36006) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
-- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18661) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
+- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18699) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐0) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
-- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐393) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
+- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐402) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
 - **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐34579) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
