@@ -39,7 +39,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Paraphrase and rewrite text with AI_
 - **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1704) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
-- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐12845) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
+- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐12874) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
 - **[Z.ai Chat](https://z.ai)** — Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.
   > _No-login task: Chat with GLM AI models for writing, coding, and analysis_
@@ -107,7 +107,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test and improve typing speed_
 - **[Rentry](https://rentry.co)** — Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.
   > _No-login task: Publish and share Markdown quickly_
-- **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22872) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
+- **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22891) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
   > _No-login task: Edit Markdown in the browser_
 - **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5129) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
@@ -168,7 +168,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Evaluate web accessibility_
 - **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6521) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
   > _No-login task: Test and debug webhooks_
-- **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13533) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
+- **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13547) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
 - **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐23) — This is a tool website forked from it-tools, containing 100+ tools.
   > _No-login task: all the things_
@@ -220,7 +220,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS animation code_
 - **[Audio Trimmer](https://audiotrimmer.com)** — Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.
   > _No-login task: Trim and cut audio files online_
-- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2286) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
+- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2291) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
   > _No-login task: Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed._
 - **[Clideo](https://clideo.com)** — Clideo is a browser-based media toolkit with 20+ tools for video and audio editing: trim, compress, convert formats, merge clips, mute audio, add subtitles, extract audio, loop video, change speed, and create GIFs. Core tools work without an account — upload a file, process it on their servers, and download the result. Free tier adds a watermark; paid plans remove it.
   > _No-login task: Edit, convert, trim, and compress video and audio files directly in your browser without installing software or creating an account._
@@ -330,7 +330,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Run interactive STEM simulations in the browser to explore science and math concepts visually_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
   > _No-login task: Visualize code execution step by step_
-- **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐3984) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
+- **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐4007) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
   > _No-login task: Learn regular expressions interactively_
 - **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2052) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
