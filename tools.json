@@ -173,7 +173,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36006
+    "githubStars": 36012
   },
   {
     "slug": "chatgpt-com",
@@ -668,7 +668,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 78848
+    "githubStars": 79010
   },
   {
     "slug": "huggingface-co-chat",
