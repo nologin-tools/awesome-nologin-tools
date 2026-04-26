@@ -415,7 +415,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 38680
+    "githubStars": 38769
   },
   {
     "slug": "app-diagrams-net",
@@ -1119,7 +1119,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1397
+    "githubStars": 1398
   },
   {
     "slug": "mystery-knightlab-com",
@@ -1141,7 +1141,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/SVG-Edit/svgedit",
-    "githubStars": 7576
+    "githubStars": 7594
   },
   {
     "slug": "svgrepo-com",
@@ -1163,7 +1163,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6144
+    "githubStars": 6146
   },
   {
     "slug": "securityheaders-com",
