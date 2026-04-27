@@ -151,7 +151,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 921
+    "githubStars": 925
   },
   {
     "slug": "caniuse-com",
@@ -866,7 +866,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6078
+    "githubStars": 6085
   },
   {
     "slug": "numbeo-com",
@@ -932,7 +932,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": 96
+    "githubStars": 98
   },
   {
     "slug": "phind-com",
@@ -987,7 +987,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 51783
+    "githubStars": 51825
   },
   {
     "slug": "privnote-com",
