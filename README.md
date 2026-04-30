@@ -37,7 +37,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Get AI-generated answers to programming and technical questions with real-time web search and working code examples_
 - **[QuillBot](https://quillbot.com)** — AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.
   > _No-login task: Paraphrase and rewrite text with AI_
-- **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1704) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
+- **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1707) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
 - **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐12874) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
@@ -82,7 +82,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6146) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25068) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25136) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[TinyPNG](https://tinypng.com)** ([Source](https://github.com/tinify/iMessage-Panda-sticker) ⭐87) — Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.
   > _No-login task: Compress PNG, JPEG, and WebP images_
@@ -97,7 +97,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Writing
 
-- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8226) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
+- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8231) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
@@ -122,7 +122,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐925) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
-- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5829) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
+- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5830) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36012) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
@@ -170,7 +170,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test and debug webhooks_
 - **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13547) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
-- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐23) — This is a tool website forked from it-tools, containing 100+ tools.
+- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐24) — This is a tool website forked from it-tools, containing 100+ tools.
   > _No-login task: all the things_
 - **[npm trends](https://npmtrends.com)** — Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.
   > _No-login task: Compare npm package download trends_
@@ -224,7 +224,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed._
 - **[Clideo](https://clideo.com)** — Clideo is a browser-based media toolkit with 20+ tools for video and audio editing: trim, compress, convert formats, merge clips, mute audio, add subtitles, extract audio, loop video, change speed, and create GIFs. Core tools work without an account — upload a file, process it on their servers, and download the result. Free tier adds a watermark; paid plans remove it.
   > _No-login task: Edit, convert, trim, and compress video and audio files directly in your browser without installing software or creating an account._
-- **[Convertio](https://convertio.co)** ([Source](https://github.com/convertio/convertio-php) ⭐272) — Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.
+- **[Convertio](https://convertio.co)** ([Source](https://github.com/convertio/convertio-php) ⭐271) — Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.
   > _No-login task: Convert files between 300+ formats with drag and drop_
 - **[MP3 Cutter](https://mp3cut.net)** — Cut and trim audio files online. Support for MP3, WAV, OGG, and 300+ formats — process files directly in the browser.
   > _No-login task: Cut and trim audio files online_
