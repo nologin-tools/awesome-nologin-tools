@@ -349,7 +349,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 34579
+    "githubStars": 34727
   },
   {
     "slug": "db-fiddle-com",
@@ -679,7 +679,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/huggingface/chat-ui",
-    "githubStars": 10644
+    "githubStars": 10685
   },
   {
     "slug": "ipleak-net",
@@ -1009,7 +1009,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1162
+    "githubStars": 1164
   },
   {
     "slug": "pythontutor-com",
