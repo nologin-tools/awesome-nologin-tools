@@ -136,7 +136,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Encode, decode, and transform data_
 - **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐38769) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
-- **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐14017) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
+- **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐14045) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
 - **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐800) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
   > _No-login task: Compile and run Go code online_
@@ -303,7 +303,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Share files between devices on LAN_
 - **[PrivNote](https://privnote.com)** — Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.
   > _No-login task: Send self-destructing encrypted notes_
-- **[ShareDrop](https://sharedrop.io)** ([Source](https://github.com/ShareDropio/sharedrop) ⭐10726) — P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.
+- **[ShareDrop](https://sharedrop.io)** ([Source](https://github.com/ShareDropio/sharedrop) ⭐10729) — P2P file sharing in your browser. Like Apple AirDrop but works across all platforms — no app installation needed.
   > _No-login task: P2P file sharing across devices_
 - **[Wormhole](https://wormhole.app)** — End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.
   > _No-login task: Transfer files with E2E encryption_
@@ -314,7 +314,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[CSS Diner](https://flukeout.github.io)** ([Source](https://github.com/flukeout/css-diner) ⭐2852) — Learn CSS selectors by playing a dinner-themed game. Complete 32 levels from basic selectors to advanced pseudo-classes.
   > _No-login task: Learn CSS selectors through a game_
-- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3364) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
+- **[CSS Grid Garden](https://cssgridgarden.com)** ([Source](https://github.com/thomaspark/gridgarden) ⭐3367) — Learn CSS Grid layout by tending a virtual garden. Water your carrots through 28 progressively challenging levels.
   > _No-login task: Learn CSS Grid through a game_
 - **[Desmos](https://desmos.com/calculator)** — Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.
   > _No-login task: Graph mathematical functions and explore equations visually_
