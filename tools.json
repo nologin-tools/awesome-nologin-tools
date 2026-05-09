@@ -305,7 +305,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 266
+    "githubStars": 268
   },
   {
     "slug": "craiyon-com",
@@ -415,7 +415,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 38769
+    "githubStars": 38827
   },
   {
     "slug": "app-diagrams-net",
@@ -602,7 +602,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 800
+    "githubStars": 799
   },
   {
     "slug": "goblin-tools",
@@ -701,7 +701,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 38239
+    "githubStars": 38407
   },
   {
     "slug": "jsoncrack-com",
@@ -1141,7 +1141,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/SVG-Edit/svgedit",
-    "githubStars": 7594
+    "githubStars": 7616
   },
   {
     "slug": "svgrepo-com",
@@ -1559,7 +1559,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/sh-dv/hat.sh",
-    "githubStars": 2287
+    "githubStars": 2291
   },
   {
     "slug": "httpbin-org",
