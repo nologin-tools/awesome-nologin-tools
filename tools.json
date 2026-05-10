@@ -151,7 +151,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 925
+    "githubStars": 927
   },
   {
     "slug": "caniuse-com",
@@ -866,7 +866,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6085
+    "githubStars": 6086
   },
   {
     "slug": "numbeo-com",
@@ -987,7 +987,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 51825
+    "githubStars": 51852
   },
   {
     "slug": "privnote-com",
@@ -1163,7 +1163,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6146
+    "githubStars": 6163
   },
   {
     "slug": "securityheaders-com",
