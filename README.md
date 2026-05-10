@@ -72,7 +72,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate SVG background patterns_
 - **[Happy Hues](https://happyhues.co)** — Color palette inspiration with real-world context. See how color schemes look applied to an actual website layout, not just swatches.
   > _No-login task: Preview color palettes in context_
-- **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6085) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
+- **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6086) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
@@ -80,7 +80,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Preview color schemes on real layouts_
 - **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7616) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
   > _No-login task: Create and edit SVG vector graphics in the browser_
-- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6146) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
+- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6163) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
 - **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25136) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
@@ -120,7 +120,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Explore code abstract syntax trees_
 - **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9500) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
-- **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐925) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
+- **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐927) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
 - **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5830) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
@@ -152,7 +152,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
   > _No-login task: Preview and generate meta tags_
-- **[Prettier Playground](https://prettier.io/playground)** ([Source](https://github.com/prettier/prettier) ⭐51825) — Preview Prettier code formatting results online. Experiment with options and see formatted output for JavaScript, TypeScript, CSS, and more.
+- **[Prettier Playground](https://prettier.io/playground)** ([Source](https://github.com/prettier/prettier) ⭐51852) — Preview Prettier code formatting results online. Experiment with options and see formatted output for JavaScript, TypeScript, CSS, and more.
   > _No-login task: Preview Prettier code formatting_
 - **[Ray.so](https://ray.so)** — Create beautiful code screenshots with customizable themes, backgrounds, and padding. By Raycast.
   > _No-login task: Generate beautiful code screenshots_
