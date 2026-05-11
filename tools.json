@@ -426,7 +426,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 5039
+    "githubStars": 5293
   },
   {
     "slug": "dillinger-io",
@@ -811,7 +811,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6459
+    "githubStars": 6490
   },
   {
     "slug": "metatags-io",
@@ -932,7 +932,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": 98
+    "githubStars": 99
   },
   {
     "slug": "phind-com",
@@ -1119,7 +1119,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1398
+    "githubStars": 1401
   },
   {
     "slug": "mystery-knightlab-com",
@@ -1526,7 +1526,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/tholman/zenpen",
-    "githubStars": 3770
+    "githubStars": 3769
   },
   {
     "slug": "cfiresim-com",
