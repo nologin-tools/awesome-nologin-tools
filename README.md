@@ -82,7 +82,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6163) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25136) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25199) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[TinyPNG](https://tinypng.com)** ([Source](https://github.com/tinify/iMessage-Panda-sticker) ⭐87) — Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.
   > _No-login task: Compress PNG, JPEG, and WebP images_
@@ -97,7 +97,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Writing
 
-- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8231) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
+- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8230) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
@@ -122,7 +122,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐927) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
-- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5830) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
+- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5836) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36028) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
@@ -170,7 +170,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test and debug webhooks_
 - **[httpbin](https://httpbin.org)** ([Source](https://github.com/requests/httpbin) ⭐13551) — Simple HTTP request and response service for testing. Inspect headers, cookies, auth, redirects, and response formats.
   > _No-login task: Test HTTP requests and responses_
-- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐24) — This is a tool website forked from it-tools, containing 100+ tools.
+- **[next-tools](https://next-tools.dev)** ([Source](https://github.com/willjayyyy/next-tools) ⭐25) — This is a tool website forked from it-tools, containing 100+ tools.
   > _No-login task: all the things_
 - **[npm trends](https://npmtrends.com)** — Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.
   > _No-login task: Compare npm package download trends_
@@ -185,7 +185,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Test internet speed and latency_
 - **[CopyChar](https://copychar.cc)** — One-click copy for special characters, symbols, and emoji. Browse categories or search — click any character to copy it instantly.
   > _No-login task: Copy special characters and symbols_
-- **[Excalideck](https://excalideck.com)** ([Source](https://github.com/excalideck/excalideck) ⭐192) — Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.
+- **[Excalideck](https://excalideck.com)** ([Source](https://github.com/excalideck/excalideck) ⭐193) — Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.
   > _No-login task: Create hand-drawn style presentations_
 - **[Fast.com](https://fast.com)** — Simple internet speed test by Netflix. Open the page and it instantly starts measuring your download speed.
   > _No-login task: Test internet connection speed_
@@ -276,7 +276,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Run SQL queries online_
 - **[Datasette Lite](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐399) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
-- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2141) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
+- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2144) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
 - **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐43914) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
