@@ -349,7 +349,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 34727
+    "githubStars": 34828
   },
   {
     "slug": "db-fiddle-com",
@@ -481,7 +481,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14045
+    "githubStars": 14044
   },
   {
     "slug": "ficalc-app",
@@ -514,7 +514,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17634
+    "githubStars": 17641
   },
   {
     "slug": "fffuel-co",
@@ -679,7 +679,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/huggingface/chat-ui",
-    "githubStars": 10685
+    "githubStars": 10708
   },
   {
     "slug": "ipleak-net",
@@ -833,7 +833,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/mockaroo/mockaroo-enterprise",
-    "githubStars": 99
+    "githubStars": 100
   },
   {
     "slug": "monkeytype-com",
@@ -1185,7 +1185,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10729
+    "githubStars": 10731
   },
   {
     "slug": "shields-io",
