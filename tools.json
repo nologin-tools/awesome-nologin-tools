@@ -173,7 +173,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36028
+    "githubStars": 36023
   },
   {
     "slug": "chatgpt-com",
@@ -602,7 +602,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 799
+    "githubStars": 800
   },
   {
     "slug": "goblin-tools",
@@ -668,7 +668,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 79120
+    "githubStars": 79240
   },
   {
     "slug": "huggingface-co-chat",
@@ -701,7 +701,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 38407
+    "githubStars": 38857
   },
   {
     "slug": "jsoncrack-com",
