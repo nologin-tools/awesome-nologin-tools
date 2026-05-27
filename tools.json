@@ -250,7 +250,7 @@
     "category": "Media",
     "featured": false,
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 271
+    "githubStars": 273
   },
   {
     "slug": "convertio-com",
@@ -437,7 +437,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8230
+    "githubStars": 8240
   },
   {
     "slug": "duck-ai",
@@ -1229,7 +1229,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 25199
+    "githubStars": 25261
   },
   {
     "slug": "stackedit-io",
@@ -1262,7 +1262,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1709
+    "githubStars": 1710
   },
   {
     "slug": "temp-mail-org",
@@ -1603,7 +1603,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/willjayyyy/next-tools",
-    "githubStars": 25
+    "githubStars": 26
   },
   {
     "slug": "nologin-tools",
