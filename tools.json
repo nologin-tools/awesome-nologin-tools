@@ -129,7 +129,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3371
+    "githubStars": 3376
   },
   {
     "slug": "csvjson-com",
@@ -327,7 +327,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 411
+    "githubStars": 418
   },
   {
     "slug": "cubic-bezier-com",
@@ -1185,7 +1185,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10731
+    "githubStars": 10736
   },
   {
     "slug": "shields-io",
@@ -1350,7 +1350,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 108862
+    "githubStars": 108990
   },
   {
     "slug": "uicolors-app",
@@ -1427,7 +1427,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6563
+    "githubStars": 6584
   },
   {
     "slug": "wise-com-gb-currency-converter",
