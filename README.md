@@ -116,7 +116,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Development
 
-- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6537) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
+- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6539) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
 - **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9506) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
@@ -160,7 +160,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
 - **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1405) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
-- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26618) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
+- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26705) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
 - **[TypeScript Playground](https://typescriptlang.org/play)** ([Source](https://github.com/microsoft/TypeScript) ⭐108990) — Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.
   > _No-login task: Write and test TypeScript code online_
@@ -299,7 +299,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐29283) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
-- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐10300) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
+- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐10500) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
   > _No-login task: Share files between devices on LAN_
 - **[PrivNote](https://privnote.com)** — Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.
   > _No-login task: Send self-destructing encrypted notes_
@@ -334,7 +334,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Learn regular expressions interactively_
 - **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2080) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
-- **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐153) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
+- **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐155) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
   > _No-login task: Visualize sorting algorithms_
 - **[VisuAlgo](https://visualgo.net)** — Animated visualizations of data structures and algorithms. Step through sorting, graph traversal, tree operations, and more at your own pace.
   > _No-login task: Visualize algorithms and data structures_
