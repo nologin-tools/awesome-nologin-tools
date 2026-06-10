@@ -78,7 +78,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
 - **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐922) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
-- **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7632) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
+- **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7664) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
   > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6170) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
@@ -138,7 +138,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
 - **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐14062) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
-- **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐800) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
+- **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐801) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
   > _No-login task: Compile and run Go code online_
 - **[Hoppscotch](https://hoppscotch.io)** ([Source](https://github.com/hoppscotch/hoppscotch) ⭐79456) — Open-source API development ecosystem. Test REST, GraphQL, WebSocket, and more — a lightweight Postman alternative.
   > _No-login task: Test and debug APIs_
@@ -261,7 +261,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate disposable email addresses for anonymous sign-ups_
 - **[VirusTotal](https://virustotal.com)** — Scan files and URLs for malware using 70+ antivirus engines. Google-owned comprehensive threat detection service.
   > _No-login task: Scan files and URLs for malware_
-- **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2289) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
+- **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2288) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
   > _No-login task: Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement._
 - **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5563) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
