@@ -382,7 +382,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 400
+    "githubStars": 403
   },
   {
     "slug": "deepl-com-translator",
@@ -415,7 +415,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 38949
+    "githubStars": 39045
   },
   {
     "slug": "app-diagrams-net",
@@ -987,7 +987,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 51883
+    "githubStars": 51964
   },
   {
     "slug": "privnote-com",
@@ -1163,7 +1163,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6170
+    "githubStars": 6181
   },
   {
     "slug": "securityheaders-com",
