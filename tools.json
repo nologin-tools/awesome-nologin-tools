@@ -580,7 +580,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2156
+    "githubStars": 2176
   },
   {
     "slug": "getwaves-io",
@@ -1229,7 +1229,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 25261
+    "githubStars": 25361
   },
   {
     "slug": "stackedit-io",
