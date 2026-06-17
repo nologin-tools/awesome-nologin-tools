@@ -37,7 +37,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Get AI-generated answers to programming and technical questions with real-time web search and working code examples_
 - **[QuillBot](https://quillbot.com)** — AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.
   > _No-login task: Paraphrase and rewrite text with AI_
-- **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1710) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
+- **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1717) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
 - **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐12925) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
@@ -97,7 +97,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Writing
 
-- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8240) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
+- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8258) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
@@ -122,7 +122,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐926) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
-- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5836) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
+- **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5846) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36034) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
