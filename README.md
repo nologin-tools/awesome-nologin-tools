@@ -253,7 +253,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check if your email or phone was exposed in data breaches_
 - **[IPLeak](https://ipleak.net)** — Comprehensive leak detection: IP address, DNS servers, WebRTC, geolocation, and browser fingerprint. Essential VPN verification tool.
   > _No-login task: Detect IP and DNS leaks_
-- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1178) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
+- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1187) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
 - **[Security Headers](https://securityheaders.com)** — Analyze HTTP security headers of any website. Get a grade and recommendations for CSP, HSTS, X-Frame-Options, and more.
   > _No-login task: Analyze HTTP security headers_
@@ -278,7 +278,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
 - **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2176) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
-- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44050) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
+- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44136) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
 - **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐12844) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
