@@ -712,7 +712,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44050
+    "githubStars": 44136
   },
   {
     "slug": "jsonformatter-org",
@@ -1009,7 +1009,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1178
+    "githubStars": 1187
   },
   {
     "slug": "pythontutor-com",
