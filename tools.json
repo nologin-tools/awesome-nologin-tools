@@ -129,7 +129,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3376
+    "githubStars": 3378
   },
   {
     "slug": "csvjson-com",
@@ -833,7 +833,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/mockaroo/mockaroo-enterprise",
-    "githubStars": 100
+    "githubStars": 101
   },
   {
     "slug": "monkeytype-com",
@@ -1185,7 +1185,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10736
+    "githubStars": 10735
   },
   {
     "slug": "shields-io",
@@ -1350,7 +1350,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 108990
+    "githubStars": 109329
   },
   {
     "slug": "uicolors-app",
