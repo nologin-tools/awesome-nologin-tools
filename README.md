@@ -64,7 +64,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** ([Source](https://github.com/fffuel/fffuel)) — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account._
-- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1416) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
+- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1422) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
   > _No-login task: Generate AI font pairings_
 - **[Get Waves](https://getwaves.io)** — Generate beautiful SVG wave shapes for section dividers. Customize layers, colors, and complexity with a simple UI.
   > _No-login task: Generate SVG wave dividers_
@@ -109,7 +109,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Publish and share Markdown quickly_
 - **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐22990) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
   > _No-login task: Edit Markdown in the browser_
-- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5174) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
+- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5188) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
 - **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3770) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
@@ -126,7 +126,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36034) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
-- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18800) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
+- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18849) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐0) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
