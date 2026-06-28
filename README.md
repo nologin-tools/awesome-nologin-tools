@@ -58,7 +58,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit CSS bezier easing curves_
 - **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐5982) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
-- **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐124650) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
+- **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐126275) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
 - **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17677) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
@@ -92,7 +92,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate Tailwind CSS color scales_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
   > _No-login task: Remove image backgrounds automatically using AI_
-- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐47595) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
+- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐48342) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
   > _No-login task: Draw diagrams and visual notes on an infinite canvas_
 
 ## Writing
