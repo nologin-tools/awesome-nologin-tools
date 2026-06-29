@@ -745,7 +745,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 29377
+    "githubStars": 29514
   },
   {
     "slug": "kuakua-app",
@@ -800,7 +800,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 12844
+    "githubStars": 12903
   },
   {
     "slug": "mermaid-live",
