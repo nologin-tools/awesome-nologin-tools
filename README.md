@@ -238,7 +238,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Separate vocals from instrumentals_
 - **[ezGIF](https://ezgif.com)** — Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.
   > _No-login task: Create, edit, and optimize GIFs and animated images_
-- **[led.run ★](https://led.run)** ([Source](https://github.com/led-run/led.run) ⭐98) — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
+- **[led.run ★](https://led.run)** ([Source](https://github.com/led-run/led.run) ⭐99) — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
   > _No-login task: Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account_
 
 ## Privacy
