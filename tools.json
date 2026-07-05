@@ -305,7 +305,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 268
+    "githubStars": 270
   },
   {
     "slug": "craiyon-com",
@@ -602,7 +602,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 801
+    "githubStars": 803
   },
   {
     "slug": "goblin-tools",
@@ -1141,7 +1141,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/SVG-Edit/svgedit",
-    "githubStars": 7664
+    "githubStars": 7702
   },
   {
     "slug": "svgrepo-com",
@@ -1559,7 +1559,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/sh-dv/hat.sh",
-    "githubStars": 2288
+    "githubStars": 2289
   },
   {
     "slug": "httpbin-org",
