@@ -151,7 +151,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 926
+    "githubStars": 930
   },
   {
     "slug": "caniuse-com",
@@ -382,7 +382,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 403
+    "githubStars": 404
   },
   {
     "slug": "deepl-com-translator",
@@ -415,7 +415,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39045
+    "githubStars": 39150
   },
   {
     "slug": "app-diagrams-net",
@@ -987,7 +987,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 51964
+    "githubStars": 52089
   },
   {
     "slug": "privnote-com",
@@ -1163,7 +1163,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6181
+    "githubStars": 6188
   },
   {
     "slug": "securityheaders-com",
