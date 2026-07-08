@@ -56,7 +56,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate and explore color palettes_
 - **[Cubic Bezier](https://cubic-bezier.com)** ([Source](https://github.com/LeaVerou/cubic-bezier) ⭐184) — Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.
   > _No-login task: Edit CSS bezier easing curves_
-- **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐5982) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
+- **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐6635) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
 - **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐126275) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
@@ -72,7 +72,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate SVG background patterns_
 - **[Happy Hues](https://happyhues.co)** — Color palette inspiration with real-world context. See how color schemes look applied to an actual website layout, not just swatches.
   > _No-login task: Preview color palettes in context_
-- **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6106) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
+- **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6115) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
@@ -158,7 +158,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate beautiful code screenshots_
 - **[Regex101](https://regex101.com)** — Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
-- **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1412) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
+- **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1414) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
 - **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐26833) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
