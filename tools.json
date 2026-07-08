@@ -426,7 +426,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 5982
+    "githubStars": 6635
   },
   {
     "slug": "dillinger-io",
@@ -866,7 +866,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6106
+    "githubStars": 6115
   },
   {
     "slug": "numbeo-com",
@@ -1119,7 +1119,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1412
+    "githubStars": 1414
   },
   {
     "slug": "mystery-knightlab-com",
