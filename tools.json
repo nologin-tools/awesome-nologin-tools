@@ -162,7 +162,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5846
+    "githubStars": 5856
   },
   {
     "slug": "carbon-now-sh",
@@ -437,7 +437,7 @@
     "category": "Writing",
     "featured": false,
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8258
+    "githubStars": 8260
   },
   {
     "slug": "duck-ai",
@@ -1262,7 +1262,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1717
+    "githubStars": 1720
   },
   {
     "slug": "temp-mail-org",
@@ -1603,7 +1603,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/willjayyyy/next-tools",
-    "githubStars": 26
+    "githubStars": 27
   },
   {
     "slug": "nologin-tools",
