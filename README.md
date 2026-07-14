@@ -263,7 +263,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Scan files and URLs for malware_
 - **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2289) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
   > _No-login task: Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement._
-- **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5597) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
+- **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5809) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
 
 ## Data
