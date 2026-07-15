@@ -349,7 +349,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 35140
+    "githubStars": 35317
   },
   {
     "slug": "db-fiddle-com",
@@ -481,7 +481,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14084
+    "githubStars": 14116
   },
   {
     "slug": "ficalc-app",
@@ -514,7 +514,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17677
+    "githubStars": 17689
   },
   {
     "slug": "fffuel-co",
@@ -679,7 +679,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/huggingface/chat-ui",
-    "githubStars": 10770
+    "githubStars": 10821
   },
   {
     "slug": "ipleak-net",
