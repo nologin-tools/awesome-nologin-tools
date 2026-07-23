@@ -39,7 +39,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Paraphrase and rewrite text with AI_
 - **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1720) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
-- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐12955) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
+- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐12975) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
 - **[Z.ai Chat](https://z.ai)** — Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.
   > _No-login task: Chat with GLM AI models for writing, coding, and analysis_
@@ -92,7 +92,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate Tailwind CSS color scales_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
   > _No-login task: Remove image backgrounds automatically using AI_
-- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐48342) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
+- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐49126) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
   > _No-login task: Draw diagrams and visual notes on an infinite canvas_
 
 ## Writing
@@ -332,7 +332,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Visualize code execution step by step_
 - **[RegexLearn](https://regexlearn.com)** ([Source](https://github.com/aykutkardas/regexlearn.com) ⭐4082) — Interactive regex tutorial with step-by-step lessons. Learn regular expressions from basic patterns to advanced lookaheads.
   > _No-login task: Learn regular expressions interactively_
-- **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2110) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
+- **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2148) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
 - **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐156) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
   > _No-login task: Visualize sorting algorithms_
