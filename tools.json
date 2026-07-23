@@ -1130,7 +1130,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2110
+    "githubStars": 2148
   },
   {
     "slug": "svgedit-netlify-app-editor-index-html",
@@ -1284,7 +1284,7 @@
     "category": "AI",
     "featured": false,
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 12955
+    "githubStars": 12975
   },
   {
     "slug": "themeasureofaplan-com",
@@ -1680,7 +1680,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 48342
+    "githubStars": 49126
   },
   {
     "slug": "tmp-tf",
