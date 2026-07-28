@@ -140,9 +140,9 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Explain shell command syntax_
 - **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐803) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
   > _No-login task: Compile and run Go code online_
-- **[Hoppscotch](https://hoppscotch.io)** ([Source](https://github.com/hoppscotch/hoppscotch) ⭐79700) — Open-source API development ecosystem. Test REST, GraphQL, WebSocket, and more — a lightweight Postman alternative.
+- **[Hoppscotch](https://hoppscotch.io)** ([Source](https://github.com/hoppscotch/hoppscotch) ⭐79896) — Open-source API development ecosystem. Test REST, GraphQL, WebSocket, and more — a lightweight Postman alternative.
   > _No-login task: Test and debug APIs_
-- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐39604) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
+- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐39959) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
   > _No-login task: Access 70+ developer utilities_
 - **[JSON Formatter](https://jsonformatter.org)** — Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.
   > _No-login task: Format, validate, and beautify JSON data_
