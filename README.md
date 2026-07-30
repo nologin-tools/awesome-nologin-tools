@@ -120,7 +120,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Explore code abstract syntax trees_
 - **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9553) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
-- **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐930) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
+- **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐933) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
 - **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5856) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
@@ -134,7 +134,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit and understand cron expressions_
 - **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐35317) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
-- **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐39150) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
+- **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐39227) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
 - **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐14116) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
@@ -261,7 +261,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate disposable email addresses for anonymous sign-ups_
 - **[VirusTotal](https://virustotal.com)** — Scan files and URLs for malware using 70+ antivirus engines. Google-owned comprehensive threat detection service.
   > _No-login task: Scan files and URLs for malware_
-- **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2289) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
+- **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2290) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
   > _No-login task: Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement._
 - **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5809) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
