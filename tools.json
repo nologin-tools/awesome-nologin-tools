@@ -382,7 +382,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 404
+    "githubStars": 406
   },
   {
     "slug": "deepl-com-translator",
@@ -426,7 +426,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 6635
+    "githubStars": 7196
   },
   {
     "slug": "dillinger-io",
