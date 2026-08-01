@@ -56,7 +56,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate and explore color palettes_
 - **[Cubic Bezier](https://cubic-bezier.com)** ([Source](https://github.com/LeaVerou/cubic-bezier) ⭐184) — Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.
   > _No-login task: Edit CSS bezier easing curves_
-- **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐6635) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
+- **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐7196) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
 - **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐128160) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
@@ -274,7 +274,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Drag file and convert it_
 - **[DB Fiddle](https://db-fiddle.com)** — Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.
   > _No-login task: Run SQL queries online_
-- **[Datasette Lite](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐404) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
+- **[Datasette Lite](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐406) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
 - **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2195) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
