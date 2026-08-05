@@ -101,9 +101,9 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
-- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14662) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
+- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐14764) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
-- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐20340) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
+- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐20475) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
   > _No-login task: Test and improve typing speed_
 - **[Rentry](https://rentry.co)** — Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.
   > _No-login task: Publish and share Markdown quickly_
@@ -326,7 +326,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: - **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych_
 - **[LowRiskTradeSmart](https://lowrisktradesmart.org)** — Expert guides on low-risk investing strategies, ETFs, dividend stocks, and smart portfolio management. Trilingual content for conservative investors looking to grow wealth steadily.
   > _No-login task: Read all investing guides, browse ETF comparisons, access financial calculators_
-- **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐105) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
+- **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐106) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
   > _No-login task: Run interactive STEM simulations in the browser to explore science and math concepts visually_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
   > _No-login task: Visualize code execution step by step_
