@@ -284,7 +284,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐101) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
-- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐9010) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
+- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐9021) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
   > _No-login task: Visualize data without coding_
 - **[SiteAge](https://siteage.org)** ([Source](https://github.com/SiteAge-org/SiteAge.org) ⭐0) — Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.
   > _No-login task: Look up any domain's age, view historical timeline, and get embeddable SVG age badges_
@@ -318,7 +318,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Learn CSS Grid through a game_
 - **[Desmos](https://desmos.com/calculator)** — Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.
   > _No-login task: Graph mathematical functions and explore equations visually_
-- **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7360) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
+- **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7372) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
   > _No-login task: Learn CSS Flexbox through a game_
 - **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2280) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
   > _No-login task: Explore geometry, algebra, and calculus with interactive math tools_
