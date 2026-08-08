@@ -82,7 +82,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6187) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25459) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25635) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[TinyPNG](https://tinypng.com)** ([Source](https://github.com/tinify/iMessage-Panda-sticker) ⭐86) — Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.
   > _No-login task: Compress PNG, JPEG, and WebP images_
@@ -290,7 +290,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Look up any domain's age, view historical timeline, and get embeddable SVG age badges_
 - **[TableConvert](https://tableconvert.com)** — Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.
   > _No-login task: Convert tables between Excel, CSV, JSON, Markdown, and more_
-- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9178) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
+- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9191) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
   > _No-login task: Convert between data formats_
 
 ## Communication
