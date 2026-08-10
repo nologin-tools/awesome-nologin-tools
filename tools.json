@@ -250,7 +250,7 @@
     "category": "Media",
     "featured": false,
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 274
+    "githubStars": 276
   },
   {
     "slug": "convertio-com",
@@ -712,7 +712,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44232
+    "githubStars": 44282
   },
   {
     "slug": "jsonformatter-org",
@@ -1009,7 +1009,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1187
+    "githubStars": 1199
   },
   {
     "slug": "pythontutor-com",
@@ -1603,7 +1603,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/willjayyyy/next-tools",
-    "githubStars": 27
+    "githubStars": 30
   },
   {
     "slug": "nologin-tools",
