@@ -1185,7 +1185,7 @@
     "category": "Communication",
     "featured": false,
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10744
+    "githubStars": 10750
   },
   {
     "slug": "shields-io",
@@ -1350,7 +1350,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 109918
+    "githubStars": 110179
   },
   {
     "slug": "uicolors-app",
