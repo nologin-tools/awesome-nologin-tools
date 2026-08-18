@@ -116,7 +116,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Development
 
-- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6542) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
+- **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6539) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
 - **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9553) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
