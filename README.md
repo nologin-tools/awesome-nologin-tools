@@ -64,7 +64,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** ([Source](https://github.com/fffuel/fffuel)) — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account._
-- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1427) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
+- **[FontJoy](https://fontjoy.com)** ([Source](https://github.com/Jack000/fontjoy) ⭐1430) — AI-powered font pairing generator using deep learning. Generate harmonious font combinations for headings, subheadings, and body text.
   > _No-login task: Generate AI font pairings_
 - **[Get Waves](https://getwaves.io)** — Generate beautiful SVG wave shapes for section dividers. Customize layers, colors, and complexity with a simple UI.
   > _No-login task: Generate SVG wave dividers_
@@ -118,7 +118,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[AST Explorer](https://astexplorer.net)** ([Source](https://github.com/fkling/astexplorer) ⭐6539) — Visualize and explore Abstract Syntax Trees for many languages and parsers. Essential tool for compiler and tooling development.
   > _No-login task: Explore code abstract syntax trees_
-- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9553) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
+- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9574) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
 - **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐933) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
@@ -126,7 +126,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check browser compatibility for web technologies_
 - **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36061) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
-- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18904) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
+- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐18985) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐0) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
@@ -334,7 +334,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Learn regular expressions interactively_
 - **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2148) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
-- **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐156) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
+- **[Sort Visualizer](https://sortvisualizer.com)** ([Source](https://github.com/Myphz/sortvisualizer) ⭐158) — Watch sorting algorithms in action with animated bar charts. Compare bubble sort, quicksort, merge sort, and more side by side.
   > _No-login task: Visualize sorting algorithms_
 - **[VisuAlgo](https://visualgo.net)** — Animated visualizations of data structures and algorithms. Step through sorting, graph traversal, tree operations, and more at your own pace.
   > _No-login task: Visualize algorithms and data structures_
