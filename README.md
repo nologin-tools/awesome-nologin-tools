@@ -220,7 +220,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS animation code_
 - **[Audio Trimmer](https://audiotrimmer.com)** — Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.
   > _No-login task: Trim and cut audio files online_
-- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2873) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
+- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2949) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
   > _No-login task: Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed._
 - **[Clideo](https://clideo.com)** — Clideo is a browser-based media toolkit with 20+ tools for video and audio editing: trim, compress, convert formats, merge clips, mute audio, add subtitles, extract audio, loop video, change speed, and create GIFs. Core tools work without an account — upload a file, process it on their servers, and download the result. Free tier adds a watermark; paid plans remove it.
   > _No-login task: Edit, convert, trim, and compress video and audio files directly in your browser without installing software or creating an account._
@@ -320,7 +320,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Graph mathematical functions and explore equations visually_
 - **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7372) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
   > _No-login task: Learn CSS Flexbox through a game_
-- **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2280) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
+- **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2312) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
   > _No-login task: Explore geometry, algebra, and calculus with interactive math tools_
 - **[Kuakua - Psychology & AI Tools for Well-Being](https://kuakua.app/)** — Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.
   > _No-login task: - **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych_
