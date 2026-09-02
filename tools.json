@@ -151,7 +151,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 933
+    "githubStars": 940
   },
   {
     "slug": "caniuse-com",
@@ -415,7 +415,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39227
+    "githubStars": 39399
   },
   {
     "slug": "app-diagrams-net",
@@ -1559,7 +1559,7 @@
     "category": "Privacy",
     "featured": false,
     "repoUrl": "https://github.com/sh-dv/hat.sh",
-    "githubStars": 2290
+    "githubStars": 2288
   },
   {
     "slug": "httpbin-org",
