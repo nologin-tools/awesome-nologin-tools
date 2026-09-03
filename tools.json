@@ -382,7 +382,7 @@
     "category": "Data",
     "featured": false,
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 406
+    "githubStars": 408
   },
   {
     "slug": "deepl-com-translator",
@@ -426,7 +426,7 @@
     "category": "Design",
     "featured": false,
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 7196
+    "githubStars": 7863
   },
   {
     "slug": "dillinger-io",
@@ -987,7 +987,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52151
+    "githubStars": 52230
   },
   {
     "slug": "privnote-com",
@@ -1119,7 +1119,7 @@
     "category": "Development",
     "featured": false,
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1420
+    "githubStars": 1429
   },
   {
     "slug": "mystery-knightlab-com",
