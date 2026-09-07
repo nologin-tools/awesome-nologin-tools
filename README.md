@@ -72,7 +72,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate SVG background patterns_
 - **[Happy Hues](https://happyhues.co)** — Color palette inspiration with real-world context. See how color schemes look applied to an actual website layout, not just swatches.
   > _No-login task: Preview color palettes in context_
-- **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6131) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
+- **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6145) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
@@ -111,7 +111,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit Markdown in the browser_
 - **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5224) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
-- **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3769) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
+- **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3767) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
 
 ## Development
@@ -148,7 +148,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Format, validate, and beautify JSON data_
 - **[JWT.io](https://jwt.io)** ([Source](https://github.com/auth0/jwt.io)) — A browser-based debugger for JSON Web Tokens. Paste any JWT to instantly decode its header, payload, and signature. Verify token signatures with your secret or public key. Supports HS256, RS256, ES256, and other common algorithms — all processing happens in your browser with no account required.
   > _No-login task: Decode and verify JSON Web Tokens directly in your browser without sending tokens to any server_
-- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6718) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
+- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6800) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
   > _No-login task: Preview and generate meta tags_
