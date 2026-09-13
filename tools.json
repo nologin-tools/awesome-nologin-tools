@@ -902,6 +902,17 @@
     "githubStars": null
   },
   {
+    "slug": "slaypdf-com",
+    "name": "Slay PDF",
+    "url": "https://slaypdf.com/",
+    "description": "Free local browser PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs without creating an account.",
+    "coreTask": "Edit, split, merge, sign and export PDFs locally in the browser",
+    "category": "Productivity",
+    "featured": false,
+    "repoUrl": "https://github.com/emileakbarzadeh/slay-pdf",
+    "githubStars": 0
+  },
+  {
     "slug": "pairdrop-net",
     "name": "PairDrop",
     "url": "https://pairdrop.net",

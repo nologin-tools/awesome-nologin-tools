@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-156-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-157-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -199,6 +199,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Time your work sessions using the Pomodoro technique_
 - **[QR Code Monkey](https://qrcode-monkey.com)** — Create custom QR codes with logos, colors, and shapes. High-resolution output in PNG, SVG, PDF, and EPS formats.
   > _No-login task: Generate custom QR codes_
+- **[Slay PDF](https://slaypdf.com/)** ([Source](https://github.com/emileakbarzadeh/slay-pdf) ⭐0) — Free local browser PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs without creating an account.
+  > _No-login task: Edit, split, merge, sign and export PDFs locally in the browser_
 - **[Time.is](https://time.is)** — Exact current time synced with atomic clocks. World clock, time zone converter, and countdown timers with millisecond precision.
   > _No-login task: Check exact world time_
 - **[TinyWow](https://tinywow.com)** — Collection of free online tools for PDF, video, image, and file conversion. Files are deleted after processing. No watermarks or file size limits.
