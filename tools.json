@@ -11,6 +11,17 @@
     "githubStars": 6539
   },
   {
+    "slug": "agent-handoff-joshlucas-ai-generator-html",
+    "name": "Agent Handoff Generator",
+    "url": "https://agent-handoff.joshlucas.ai/generator.html",
+    "description": "Free no-login browser tool that turns rough AI-agent requests into clear handoff prompts with goals, boundaries, done checks, and proof requirements. Optional $1 Markdown checklist helps nontechnical operators review finished agent work before accepting it.",
+    "coreTask": "Generate and copy a structured AI-agent handoff prompt without creating an account or logging in.",
+    "category": "AI",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "ps-keepmot-com",
     "name": "All-in-one tool for image cropping, collages, photo walls, and poster creation.",
     "url": "https://ps.keepmot.com/",
@@ -18,6 +29,17 @@
     "coreTask": "1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects",
     "category": "Design",
     "featured": true,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-allsubconverter-com",
+    "name": "AllSubConverter",
+    "url": "https://www.allsubconverter.com/",
+    "description": "AllSubConverter is a free browser-based subtitle toolkit for converting, editing, cleaning, syncing, checking and exporting subtitle files. It supports SRT, VTT, ASS, SSA, LRC and more, with batch workflows and quality checks.",
+    "coreTask": "Convert, edit, clean, sync, check, and export subtitle files directly in the browser without an account or upload.",
+    "category": "Media",
+    "featured": false,
     "repoUrl": null,
     "githubStars": null
   },
@@ -242,6 +264,28 @@
     "githubStars": null
   },
   {
+    "slug": "compressto100kb-com",
+    "name": "Compress to 100KB",
+    "url": "https://compressto100kb.com/",
+    "description": "Compress JPG, PNG, WebP and HEIC images to a chosen maximum file size in KB. Files are processed locally in the browser, with optional pixel resizing and individual or batch ZIP downloads. Free and no signup.",
+    "coreTask": "Compress images to a custom or preset KB limit, optionally resize dimensions, and download files individually or as a ZIP.",
+    "category": "Design",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "converters-live",
+    "name": "Converters.live",
+    "url": "https://converters.live",
+    "description": "Free online file converter for images, video, and audio - works instantly with no account or login required.",
+    "coreTask": "Convert images (JPG, PNG, WEBP, HEIC, SVG) to PDF, video (MP4, MKV, WEBM) to GIF, and audio (MP3, WAV, FLAC, M4A) - all directly in the browser, no signup.",
+    "category": "Media",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "convertio-co",
     "name": "Convertio",
     "url": "https://convertio.co",
@@ -319,6 +363,17 @@
     "githubStars": null
   },
   {
+    "slug": "crochet-chart-maker-com",
+    "name": "Crochet Chart Maker",
+    "url": "https://crochet-chart-maker.com/",
+    "description": "Crochet Chart Maker is a free browser tool that turns JPG, PNG, or WebP images into editable color pixel grids, or starts from a blank grid. Adjust size, fit or crop, reduce colors, edit individual squares, and download a high-resolution PNG with numbers and a color legend. Images stay on your device, and the core tool requires no account.",
+    "coreTask": "Turn an image into an editable crochet pixel grid, create a blank grid, refine colors and squares, and download a numbered PNG without signing up.",
+    "category": "Design",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "crontab-guru",
     "name": "Crontab Guru",
     "url": "https://crontab.guru",
@@ -374,6 +429,17 @@
     "githubStars": null
   },
   {
+    "slug": "dataformatkit-com",
+    "name": "DataFormatKit",
+    "url": "https://dataformatkit.com/",
+    "description": "DataFormatKit offers free tools to convert text to CSV, XML to CSV, JSON to CSV or Excel, and CSV to Excel. Preview rows and columns, check CSV structure, and download the results. Source files are processed locally in your browser, and the core tools require no account.",
+    "coreTask": "Convert text, XML, or JSON to CSV; create Excel files from CSV or JSON; preview tabular data and check CSV structure without signing up.",
+    "category": "Data",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "lite-datasette-io",
     "name": "Datasette Lite",
     "url": "https://lite.datasette.io",
@@ -402,6 +468,17 @@
     "description": "Advanced graphing calculator implemented as an interactive web application. Plot functions, create tables, add sliders, animate graphs, and explore math visually.",
     "coreTask": "Graph mathematical functions and explore equations visually",
     "category": "Education",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-quackbuilds-com-apps-detention-pay-html",
+    "name": "Detention Pay Calc",
+    "url": "https://www.quackbuilds.com/apps/detention-pay.html",
+    "description": "Free detention pay calculator for truckers. Enter dock arrival/departure times, get the exact amount owed past free time (round-up, 30-minute, or exact billing modes), export a dispute-ready PDF claim, and keep a saved load log with a running unclaimed total. No signup, works on a phone in the cab.",
+    "coreTask": "Enter dock arrival and departure times, calculate detention pay owed past free time, and export a dispute-ready PDF claim — all without any account.",
+    "category": "Finance",
     "featured": false,
     "repoUrl": null,
     "githubStars": null
@@ -484,6 +561,17 @@
     "githubStars": 14172
   },
   {
+    "slug": "www-quackbuilds-com-apps-extinguisher-log-html",
+    "name": "Extinguisher Log",
+    "url": "https://www.quackbuilds.com/apps/extinguisher-log.html",
+    "description": "Add your extinguishers once, then run the NFPA 10 six-point visual check (in place, gauge, fullness, condition, seal, label) every 30 days from the floor phone. See the whole year at a glance per unit, keep pass/fail history with inspector initials, and export a compliance report PDF for the fire marshal or insurer. Free, no signup, no per-seat fee - replaces the clipboard that always goes missing.",
+    "coreTask": "Add extinguishers, run the full NFPA 10 six-point monthly inspection, view the year-at-a-glance grid, and export the compliance report PDF - everything works with no account.",
+    "category": "Productivity",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "ficalc-app",
     "name": "FICalc",
     "url": "https://ficalc.app",
@@ -493,6 +581,17 @@
     "featured": false,
     "repoUrl": "https://github.com/johnschoeman/ficalc-app",
     "githubStars": 2
+  },
+  {
+    "slug": "formweft-com-tools-motion-workbench",
+    "name": "FORMWEFT Motion Workbench",
+    "url": "https://formweft.com/tools/motion-workbench/",
+    "description": "A browser video editor for adding animated captions and cards to a local video. Import an existing SRT file, adjust timing, and export with the original audio. Basic editing is free without login; imported videos are not automatically uploaded. MP4 depends on browser support, with WebM as a fallback. Optional AI generation requires a configured cloud provider or local setup and may have separate costs.",
+    "coreTask": "Import a local video and existing SRT subtitles, edit animated captions and cards, adjust timing, and export the edited video.",
+    "category": "Media",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "fast-com",
@@ -547,7 +646,7 @@
     "category": "Education",
     "featured": false,
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7372
+    "githubStars": 7383
   },
   {
     "slug": "fontjoy-com",
@@ -559,6 +658,17 @@
     "featured": false,
     "repoUrl": "https://github.com/Jack000/fontjoy",
     "githubStars": 1430
+  },
+  {
+    "slug": "www-quackbuilds-com-apps-freight-class-html",
+    "name": "Freight Class Calc",
+    "url": "https://www.quackbuilds.com/apps/freight-class.html",
+    "description": "Free LTL freight class calculator: enter dimensions and weight, get density (PCF) and the matching NMFC freight class — updated for the 2025 NMFC density changes. Handles inches/lbs or cm/kg and multi-piece shipments, and exports a density worksheet PDF to attach to your BOL. No signup, works on a phone at the dock.",
+    "coreTask": "Enter shipment dimensions and weight, get density (PCF) and NMFC freight class instantly, and export a density worksheet PDF — no account needed.",
+    "category": "Finance",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "geogebra-org-calculator",
@@ -611,6 +721,17 @@
     "description": "AI-powered task management collection designed for neurodivergent users. Magic ToDo breaks overwhelming tasks into manageable steps with adjustable complexity. Free forever, no ads.",
     "coreTask": "Break down complex tasks into manageable steps with AI",
     "category": "AI",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "heictopdf-dev",
+    "name": "HEICtoPDF",
+    "url": "https://heictopdf.dev/",
+    "description": "Convert Apple HEIC/HEIF photos into PDF files entirely in the browser tab. Nothing is uploaded to a server. Batch-convert several photos at once, or merge them into a single multi-page PDF with page order, size (original / A4 / US Letter) and orientation all adjustable before export. No account, no install — open the page and drop the files in.",
+    "coreTask": "Convert HEIC photos to PDF, no account needed",
+    "category": "Media",
     "featured": false,
     "repoUrl": null,
     "githubStars": null
@@ -671,17 +792,6 @@
     "githubStars": 80113
   },
   {
-    "slug": "huggingface-co-chat",
-    "name": "HuggingChat",
-    "url": "https://huggingface.co/chat",
-    "description": "An open-source AI chat interface by Hugging Face that lets you talk to 100+ state-of-the-art language models — including Llama, DeepSeek, Qwen, and Mistral — directly in your browser. No account needed for basic use. Switch between models freely, with optional login only for saving conversation history.",
-    "coreTask": "Chat with open-source AI models including Llama, DeepSeek, Qwen, and Mistral without signing up",
-    "category": "AI",
-    "featured": false,
-    "repoUrl": "https://github.com/huggingface/chat-ui",
-    "githubStars": 10876
-  },
-  {
     "slug": "ipleak-net",
     "name": "IPLeak",
     "url": "https://ipleak.net",
@@ -721,6 +831,17 @@
     "description": "Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.",
     "coreTask": "Format, validate, and beautify JSON data",
     "category": "Development",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "quick-web-tools-surge-sh",
+    "name": "JSON Formatter & Validator",
+    "url": "https://quick-web-tools.surge.sh/",
+    "description": "Format, validate, and minify JSON instantly in your browser. 100% client-side — your JSON is never uploaded to any server. No ads, no sign-up, no content tracking. Clear parser error messages help you fix invalid JSON fast. Adjustable indentation (2/4 spaces or tabs), one-click copy, and a load-sample button.",
+    "coreTask": "Paste JSON to pretty-print, minify, or validate it with exact error messages — all processed locally in your browser, nothing uploaded.",
+    "category": "Data",
     "featured": false,
     "repoUrl": null,
     "githubStars": null
@@ -792,6 +913,28 @@
     "githubStars": null
   },
   {
+    "slug": "pst-aivismonitor-com",
+    "name": "Mailward",
+    "url": "https://pst.aivismonitor.com/",
+    "description": "Mailward opens Outlook PST and OST archives, Outlook for Mac OLM exports, MBOX mailboxes (including Gmail Takeout) and EML/MSG messages directly in the browser. The file is parsed locally in a Web Worker and never uploaded, and there is no account for anything. Reading and search are free; batch export and opening a second archive side by side are a one-time $19 license. Works on Mac, Windows, Linux and ChromeOS without Outlook installed.",
+    "coreTask": "Open a PST, OST, OLM, MBOX or EML archive from your disk, browse its folders, read and search every message",
+    "category": "Communication",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "markany-ai",
+    "name": "MarkAny",
+    "url": "https://markany.ai/",
+    "description": "Convert PDF, Word, Excel, PowerPoint, HTML, EPUB, and image files to structured Markdown with automatic OCR, or export editable Markdown to common document, image, ebook, slide, and spreadsheet formats.",
+    "coreTask": "Batch-convert supported files or a public HTTPS file URL to Markdown, review the result, copy it, and download the Markdown without creating an account.",
+    "category": "Data",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "markmap-js-org",
     "name": "Markmap",
     "url": "https://markmap.js.org",
@@ -836,6 +979,17 @@
     "githubStars": 101
   },
   {
+    "slug": "monkeetools-surge-sh",
+    "name": "MonkeeTools",
+    "url": "https://monkeetools.surge.sh",
+    "description": "Free invoice generator for freelancers. No signup, no account, nothing uploaded. Invoices are built in your browser tab and PDFs download straight to your device. It remembers you on-device: business auto-fill, client autocomplete, one-click invoice duplication with auto-incremented numbers, and paid/unpaid tracking. Includes an AI agent kit: prefill links any AI assistant can generate.",
+    "coreTask": "Everything works without login: create and edit invoices, download PDFs, business auto-fill, client autocomplete, duplicate invoices with auto numbers, paid/unpaid tracking. Data stays in your browser",
+    "category": "Privacy",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "monkeytype-com",
     "name": "MonkeyType",
     "url": "https://monkeytype.com",
@@ -875,6 +1029,17 @@
     "description": "World's largest cost of living database. Compare prices, rent, groceries, and quality of life across cities worldwide.",
     "coreTask": "Compare cost of living across cities",
     "category": "Finance",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-quackbuilds-com-apps-oee-pulse-html",
+    "name": "OEE Pulse",
+    "url": "https://www.quackbuilds.com/apps/oee-pulse.html",
+    "description": "Free shop-floor OEE dashboard for small machine shops: track Availability × Performance × Quality per machine, see plant-wide OEE on a color-banded gauge, log every shift to build a trend history, and export a shift report PDF for the morning meeting. No per-machine SaaS fee, no signup — works on the floor tablet and the office PC.",
+    "coreTask": "Track per-machine and plant-wide OEE, log shifts, see trends, and export a shift report PDF — no account needed.",
+    "category": "Productivity",
     "featured": false,
     "repoUrl": null,
     "githubStars": null
@@ -935,11 +1100,11 @@
     "githubStars": 112
   },
   {
-    "slug": "phind-com",
-    "name": "Phind",
-    "url": "https://phind.com",
-    "description": "An AI-powered search engine built for developers. Phind searches the web in real time and synthesizes technical answers with code examples, documentation references, and relevant sources — no account required for basic usage.",
-    "coreTask": "Get AI-generated answers to programming and technical questions with real-time web search and working code examples",
+    "slug": "photogenerai-com",
+    "name": "PhotoGenerAI",
+    "url": "https://photogenerai.com/",
+    "description": "PhotoGenerAI is a browser-based AI photo generator and image editor. Create images from text prompts, edit or restyle uploaded photos, and combine reference images. Explore portraits, product photos, illustrations and room design ideas. Free daily generations are available, with optional one-time credit packs for additional images. It supports practical visual exploration for creators, marketers, designers, and teams who need fast image concepts without specialized software.",
+    "coreTask": "Create images from text prompts and edit uploaded photos with the daily free credits, without creating an account or logging in.",
     "category": "AI",
     "featured": false,
     "repoUrl": null,
@@ -1034,12 +1199,34 @@
     "githubStars": null
   },
   {
+    "slug": "quicktinyv2-vercel-app-clean-text",
+    "name": "QuickTiny Clean Text",
+    "url": "https://quicktinyv2.vercel.app/clean-text",
+    "description": "Cleans up messy whitespace in pasted text: collapses repeated spaces/tabs, strips trailing whitespace before line breaks, and reduces 3+ blank lines to one. Runs entirely in your browser, nothing sent to a server. Useful for text copied from Word, PDFs, or AI chat responses.",
+    "coreTask": "Paste text and clean up its whitespace (collapse repeated spaces/tabs, trim trailing whitespace, reduce excess blank lines), then copy the result — no account needed.",
+    "category": "Writing",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "quillbot-com",
     "name": "QuillBot",
     "url": "https://quillbot.com",
     "description": "AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.",
     "coreTask": "Paraphrase and rewrite text with AI",
     "category": "AI",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "quixcalc-com",
+    "name": "QuixCalc",
+    "url": "https://quixcalc.com/",
+    "description": "QuixCalc is a free collection of 60+ online calculators and tools, from finance to home projects, that run right in your browser.",
+    "coreTask": "Use every fast calculator on site",
+    "category": "Productivity",
     "featured": false,
     "repoUrl": null,
     "githubStars": null
@@ -1210,6 +1397,28 @@
     "githubStars": 0
   },
   {
+    "slug": "sizecompare-app",
+    "name": "SizeCompare",
+    "url": "https://sizecompare.app/",
+    "description": "SizeCompare is a free visual size comparison tool for phones, tablets, laptops, tires, animals, and everyday objects. Compare verified dimensions at true scale, with calculators for tires, height, screens, and custom measurements.",
+    "coreTask": "Compare real-world object dimensions at true scale and enter custom measurements.",
+    "category": "Education",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "skycotl-tools",
+    "name": "SkyCOTL Tools",
+    "url": "https://skycotl.tools/",
+    "description": "Free fan-made toolkit for Sky: Children of the Light — event clock, shard tracker, candle calculator.",
+    "coreTask": "Track Sky COTL events and plan candles",
+    "category": null,
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "sortvisualizer-com",
     "name": "Sort Visualizer",
     "url": "https://sortvisualizer.com",
@@ -1219,6 +1428,17 @@
     "featured": false,
     "repoUrl": "https://github.com/Myphz/sortvisualizer",
     "githubStars": 158
+  },
+  {
+    "slug": "spritesheettool-com",
+    "name": "Sprite Sheet Tool",
+    "url": "https://spritesheettool.com/",
+    "description": "Make sprite sheets online in your browser: generate RPG sprite sheets, split GIFs or sheets into frames, and build texture atlases.",
+    "coreTask": "Generate a sprite sheet preview anonymously in the browser without creating an account",
+    "category": "Development",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "squoosh-app",
@@ -1241,6 +1461,17 @@
     "featured": false,
     "repoUrl": "https://github.com/benweet/stackedit",
     "githubStars": 23067
+  },
+  {
+    "slug": "storeatlas-cc",
+    "name": "StoreAtlas",
+    "url": "https://storeatlas.cc",
+    "description": "Edited English directory of Shopify stores, shopping platforms, and ecommerce tools. Browse 1000+ hand-picked storefronts with editorial notes. No account required.",
+    "coreTask": "Browse 1000+ edited Shopify store listings by category or tag without creating an account.",
+    "category": "Data",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "tableconvert-com",
@@ -1419,6 +1650,17 @@
     "githubStars": null
   },
   {
+    "slug": "aup4-aivismonitor-com",
+    "name": "Waveward",
+    "url": "https://aup4.aivismonitor.com/",
+    "description": "Opens Audacity project files (.aup4 from Audacity 4, .aup3 from Audacity 3) directly in the browser: see every track and clip, play the mix, export WAV or MP3, run a recovery report on a damaged project, and downgrade an .aup4 so Audacity 3.7 opens it again. The project is parsed locally with SQLite compiled to WebAssembly and never uploaded. Free to open, play and export the mix; rebuild, downgrade and stems are a one-time $19 license. No account for anything.",
+    "coreTask": "Open an .aup4/.aup3 project, play the mix and export it to WAV or MP3",
+    "category": "Media",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "webhook-site",
     "name": "Webhook.site",
     "url": "https://webhook.site",
@@ -1428,6 +1670,17 @@
     "featured": false,
     "repoUrl": "https://github.com/webhooksite/webhook.site",
     "githubStars": 6702
+  },
+  {
+    "slug": "whatpetscost-com",
+    "name": "What Pets Cost",
+    "url": "https://whatpetscost.com/",
+    "description": "Dated, source-linked prices for US pet care — grooming, vaccines, vet visits, boarding and training at Petco, PetSmart, Banfield, VCA, Vetco and Dogtopia. Every figure links to the retailer's own price list and shows when it was last checked. Includes free calculators for grooming cost by dog size, boarding stays and vaccine prices by ZIP code. Independent, no retailer affiliation, no account needed.",
+    "coreTask": "Look up what a pet service costs at the big US chains, and estimate a groom, a boarding stay or vaccine costs",
+    "category": "Data",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "wise-com-gb-currency-converter",
@@ -1529,6 +1782,17 @@
     "githubStars": 3767
   },
   {
+    "slug": "appyq-com",
+    "name": "appyq.com",
+    "url": "https://appyq.com",
+    "description": "appyq.com turns a plain-language description of your offer into a free branded app preview, generating home, content, and pay screens for eight creator business types. The homepage is the generator: describe what you sell, who it's for, and what to include, then see your branded app before you create an account. Saving and publishing requires a paid plan (from $41). Great for creators, coaches, and small businesses validating an app idea.",
+    "coreTask": "Describe your offer in plain language and generate a free branded app preview with home, content, and pay screens - you can view the generated app before creating an account; only saving/publishing re",
+    "category": "Design",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "cfiresim-com",
     "name": "cFIREsim",
     "url": "https://cfiresim.com",
@@ -1546,6 +1810,17 @@
     "description": "Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.",
     "coreTask": "Create, edit, and optimize GIFs and animated images",
     "category": "Media",
+    "featured": false,
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "gantt-chart-io",
+    "name": "gantt-chart.io",
+    "url": "https://gantt-chart.io",
+    "description": "Paste a backlog or paragraph and get a live Gantt. AI can propose moves; nothing writes the schedule until you approve the line. No account to try. Paid starts at $12/month if you want to save.",
+    "coreTask": "Paste tasks, wait for bars, share a link — no signup required to try.",
+    "category": null,
     "featured": false,
     "repoUrl": null,
     "githubStars": null
