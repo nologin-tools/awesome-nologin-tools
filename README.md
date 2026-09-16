@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-181-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-164-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -19,8 +19,6 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## AI
 
-- **[Agent Handoff Generator](https://agent-handoff.joshlucas.ai/generator.html)** — Free no-login browser tool that turns rough AI-agent requests into clear handoff prompts with goals, boundaries, done checks, and proof requirements. Optional $1 Markdown checklist helps nontechnical operators review finished agent work before accepting it.
-  > _No-login task: Generate and copy a structured AI-agent handoff prompt without creating an account or logging in._
 - **[ChatGPT](https://chatgpt.com)** — OpenAI's AI assistant available without login. Handles writing, analysis, coding, math, and conversation with GPT-4o.
   > _No-login task: Chat with AI for writing, coding, and analysis_
 - **[Craiyon](https://craiyon.com)** — Free AI image generator that creates 9 images from text prompts. No login required, unlimited generations, commercial use allowed with credit.
@@ -33,8 +31,6 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Break down complex tasks into manageable steps with AI_
 - **[Perplexity](https://perplexity.ai)** — AI-powered search engine that provides accurate answers with cited sources. No sign-up required for basic search queries.
   > _No-login task: Search the web with AI-powered answers and citations_
-- **[PhotoGenerAI](https://photogenerai.com/)** — PhotoGenerAI is a browser-based AI photo generator and image editor. Create images from text prompts, edit or restyle uploaded photos, and combine reference images. Explore portraits, product photos, illustrations and room design ideas. Free daily generations are available, with optional one-time credit packs for additional images. It supports practical visual exploration for creators, marketers, designers, and teams who need fast image concepts without specialized software.
-  > _No-login task: Create images from text prompts and edit uploaded photos with the daily free credits, without creating an account or logging in._
 - **[QuillBot](https://quillbot.com)** — AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.
   > _No-login task: Paraphrase and rewrite text with AI_
 - **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1726) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
@@ -46,8 +42,6 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Design
 
-- **[All-in-one tool for image cropping, collages, photo walls, and poster creation. ★](https://ps.keepmot.com/)** — A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.
-  > _No-login task: 1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects_
 - **[CSS Gradient](https://cssgradient.io)** — Visual CSS gradient generator with a beautiful UI. Create linear, radial, and conic gradients with instant code output.
   > _No-login task: Generate CSS gradient code visually_
 - **[Color Hunt](https://colorhunt.co)** — Curated collection of beautiful color palettes. Browse trending palettes or search by color — one-click copy hex codes.
@@ -62,7 +56,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit CSS bezier easing curves_
 - **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐7863) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
-- **[Excalidraw](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐130336) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
+- **[Excalidraw ★](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐130336) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
 - **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17722) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
@@ -76,14 +70,14 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate SVG background patterns_
 - **[Happy Hues](https://happyhues.co)** — Color palette inspiration with real-world context. See how color schemes look applied to an actual website layout, not just swatches.
   > _No-login task: Preview color palettes in context_
+- **[KeepMot](https://ps.keepmot.com/)** — A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.
+  > _No-login task: 1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects_
 - **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6145) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
 - **[Photopea](https://photopea.com)** — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
 - **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐927) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
-- **[SVG Edit](https://svgedit.netlify.app/editor/index.html)** ([Source](https://github.com/SVG-Edit/svgedit) ⭐7812) — Fast, web-based, JavaScript-driven SVG drawing editor. Create and edit SVG images directly in the browser with a familiar drawing application interface.
-  > _No-login task: Create and edit SVG vector graphics in the browser_
 - **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/jakearchibald/svgomg) ⭐6194) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
 - **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐25635) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
@@ -94,8 +88,6 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate typographic scale_
 - **[UIColors](https://uicolors.app)** — Generate Tailwind CSS color scales from any color. Get a complete 50–950 shade palette with one click, ready for your config.
   > _No-login task: Generate Tailwind CSS color scales_
-- **[appyq.com](https://appyq.com)** — appyq.com turns a plain-language description of your offer into a free branded app preview, generating home, content, and pay screens for eight creator business types. The homepage is the generator: describe what you sell, who it's for, and what to include, then see your branded app before you create an account. Saving and publishing requires a paid plan (from $41). Great for creators, coaches, and small businesses validating an app idea.
-  > _No-login task: Describe your offer in plain language and generate a free branded app preview with home, content, and pay screens - you can view the generated app before creating an account; only saving/publishing re_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
   > _No-login task: Remove image backgrounds automatically using AI_
 - **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐49910) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
@@ -109,10 +101,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
 - **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐15017) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
-- **[MonkeyType](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐20671) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
+- **[MonkeyType ★](https://monkeytype.com)** ([Source](https://github.com/monkeytypegame/monkeytype) ⭐20671) — Minimalist, customizable typing speed test. Track WPM, accuracy, and consistency with multiple test modes and themes.
   > _No-login task: Test and improve typing speed_
-- **[QuickTiny Clean Text](https://quicktinyv2.vercel.app/clean-text)** — Cleans up messy whitespace in pasted text: collapses repeated spaces/tabs, strips trailing whitespace before line breaks, and reduces 3+ blank lines to one. Runs entirely in your browser, nothing sent to a server. Useful for text copied from Word, PDFs, or AI chat responses.
-  > _No-login task: Paste text and clean up its whitespace (collapse repeated spaces/tabs, trim trailing whitespace, reduce excess blank lines), then copy the result — no account needed._
 - **[Rentry](https://rentry.co)** — Markdown-powered paste service. Write, publish, and share formatted text instantly — with edit codes for future updates.
   > _No-login task: Publish and share Markdown quickly_
 - **[StackEdit](https://stackedit.io)** ([Source](https://github.com/benweet/stackedit) ⭐23067) — Full-featured in-browser Markdown editor. Sync with Google Drive and GitHub, live preview, scroll sync, and offline support.
@@ -140,7 +130,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Extract Cookies_
 - **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐504) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
-- **[CyberChef](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐35558) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
+- **[CyberChef ★](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐35558) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
 - **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐39399) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
@@ -184,8 +174,6 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: all the things_
 - **[npm trends](https://npmtrends.com)** — Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.
   > _No-login task: Compare npm package download trends_
-- **[quickstart.to](https://quickstart.to)** ([Source](https://github.com/quickstart-to/quickstart.to) ⭐2) — A community-driven, open source collection of quick-start guides ("The TL;DR of everything"). Provides 124+ free guides for tools and technologies like Docker, without requiring any account or login.
-  > _No-login task: Browse and read quick-start guides for tools and technologies without any account_
 
 ## Productivity
 
@@ -197,10 +185,10 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Copy special characters and symbols_
 - **[Excalideck](https://excalideck.com)** ([Source](https://github.com/excalideck/excalideck) ⭐193) — Create hand-drawn style presentation slides using the Excalidraw engine. Build unique, sketch-like slide decks.
   > _No-login task: Create hand-drawn style presentations_
-- **[Extinguisher Log](https://www.quackbuilds.com/apps/extinguisher-log.html)** — Add your extinguishers once, then run the NFPA 10 six-point visual check (in place, gauge, fullness, condition, seal, label) every 30 days from the floor phone. See the whole year at a glance per unit, keep pass/fail history with inspector initials, and export a compliance report PDF for the fire marshal or insurer. Free, no signup, no per-seat fee - replaces the clipboard that always goes missing.
-  > _No-login task: Add extinguishers, run the full NFPA 10 six-point monthly inspection, view the year-at-a-glance grid, and export the compliance report PDF - everything works with no account._
 - **[Fast.com](https://fast.com)** — Simple internet speed test by Netflix. Open the page and it instantly starts measuring your download speed.
   > _No-login task: Test internet connection speed_
+- **[Mailward](https://pst.aivismonitor.com/)** — Mailward opens Outlook PST and OST archives, Outlook for Mac OLM exports, MBOX mailboxes (including Gmail Takeout) and EML/MSG messages directly in the browser. The file is parsed locally in a Web Worker and never uploaded, and there is no account for anything. Reading and search are free; batch export and opening a second archive side by side are a one-time $19 license. Works on Mac, Windows, Linux and ChromeOS without Outlook installed.
+  > _No-login task: Open a PST, OST, OLM, MBOX or EML archive from your disk, browse its folders, read and search every message_
 - **[Music For Programming](https://musicforprogramming.net)** — Curated ambient and electronic music mixes designed to aid concentration while programming. 60+ episodes of focus music.
   > _No-login task: Listen to focus music for coding_
 - **[OEE Pulse](https://www.quackbuilds.com/apps/oee-pulse.html)** — Free shop-floor OEE dashboard for small machine shops: track Availability × Performance × Quality per machine, see plant-wide OEE on a color-banded gauge, log every shift to build a trend history, and export a shift report PDF for the morning meeting. No per-machine SaaS fee, no signup — works on the floor tablet and the office PC.
@@ -238,10 +226,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS animation code_
 - **[Audio Trimmer](https://audiotrimmer.com)** — Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.
   > _No-login task: Trim and cut audio files online_
-- **[AudioMass](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2949) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
+- **[AudioMass ★](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐2949) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
   > _No-login task: Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed._
-- **[Clideo](https://clideo.com)** — Clideo is a browser-based media toolkit with 20+ tools for video and audio editing: trim, compress, convert formats, merge clips, mute audio, add subtitles, extract audio, loop video, change speed, and create GIFs. Core tools work without an account — upload a file, process it on their servers, and download the result. Free tier adds a watermark; paid plans remove it.
-  > _No-login task: Edit, convert, trim, and compress video and audio files directly in your browser without installing software or creating an account._
 - **[Converters.live](https://converters.live)** — Free online file converter for images, video, and audio - works instantly with no account or login required.
   > _No-login task: Convert images (JPG, PNG, WEBP, HEIC, SVG) to PDF, video (MP4, MKV, WEBM) to GIF, and audio (MP3, WAV, FLAC, M4A) - all directly in the browser, no signup._
 - **[Convertio](https://convertio.co)** ([Source](https://github.com/convertio/convertio-php) ⭐276) — Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.
@@ -256,15 +242,13 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Apply glitch art effects_
 - **[SVG Repo](https://svgrepo.com)** — Browse and download 500,000+ free SVG icons and vectors. Search by keyword, customize colors, and copy SVG code directly.
   > _No-login task: Find and download free SVG icons_
-- **[Unscreen](https://unscreen.com)** — Automatically remove video backgrounds with AI. Upload a video clip and get a transparent background version.
-  > _No-login task: Remove video backgrounds with AI_
 - **[Vocalremover.org](https://vocalremover.org)** — AI-powered vocal remover that separates vocals from instrumentals in any song. Perfect for karaoke or remix creation.
   > _No-login task: Separate vocals from instrumentals_
 - **[Waveward](https://aup4.aivismonitor.com/)** — Opens Audacity project files (.aup4 from Audacity 4, .aup3 from Audacity 3) directly in the browser: see every track and clip, play the mix, export WAV or MP3, run a recovery report on a damaged project, and downgrade an .aup4 so Audacity 3.7 opens it again. The project is parsed locally with SQLite compiled to WebAssembly and never uploaded. Free to open, play and export the mix; rebuild, downgrade and stems are a one-time $19 license. No account for anything.
   > _No-login task: Open an .aup4/.aup3 project, play the mix and export it to WAV or MP3_
 - **[ezGIF](https://ezgif.com)** — Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.
   > _No-login task: Create, edit, and optimize GIFs and animated images_
-- **[led.run ★](https://led.run)** ([Source](https://github.com/led-run/led.run) ⭐99) — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
+- **[led.run](https://led.run)** ([Source](https://github.com/led-run/led.run) ⭐99) — A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.
   > _No-login task: Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account_
 
 ## Privacy
@@ -279,67 +263,53 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check if your email or phone was exposed in data breaches_
 - **[IPLeak](https://ipleak.net)** — Comprehensive leak detection: IP address, DNS servers, WebRTC, geolocation, and browser fingerprint. Essential VPN verification tool.
   > _No-login task: Detect IP and DNS leaks_
-- **[MonkeeTools](https://monkeetools.surge.sh)** — Free invoice generator for freelancers. No signup, no account, nothing uploaded. Invoices are built in your browser tab and PDFs download straight to your device. It remembers you on-device: business auto-fill, client autocomplete, one-click invoice duplication with auto-incremented numbers, and paid/unpaid tracking. Includes an AI agent kit: prefill links any AI assistant can generate.
-  > _No-login task: Everything works without login: create and edit invoices, download PDFs, business auto-fill, client autocomplete, duplicate invoices with auto numbers, paid/unpaid tracking. Data stays in your browser_
 - **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1199) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
 - **[Security Headers](https://securityheaders.com)** — Analyze HTTP security headers of any website. Get a grade and recommendations for CSP, HSTS, X-Frame-Options, and more.
   > _No-login task: Analyze HTTP security headers_
-- **[Temp Mail ★](https://temp-mail.org)** — Disposable temporary email service. Get an instant anonymous email address to receive emails without revealing your real address. Auto-deletes after a period.
+- **[Temp Mail](https://temp-mail.org)** — Disposable temporary email service. Get an instant anonymous email address to receive emails without revealing your real address. Auto-deletes after a period.
   > _No-login task: Generate disposable email addresses for anonymous sign-ups_
 - **[VirusTotal](https://virustotal.com)** — Scan files and URLs for malware using 70+ antivirus engines. Google-owned comprehensive threat detection service.
   > _No-login task: Scan files and URLs for malware_
-- **[hat.sh](https://hat.sh)** ([Source](https://github.com/sh-dv/hat.sh) ⭐2288) — A browser-based file encryption and decryption tool that works entirely client-side. hat.sh uses AES-256-GCM encryption with either a password or public/private key pair. Files never leave your browser — no uploads, no servers, no accounts.
-  > _No-login task: Encrypt and decrypt files securely in your browser using AES-256-GCM, with no file uploads or server involvement._
-- **[privacy.sexy](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5893) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
+- **[privacy.sexy ★](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐5893) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
 
 ## Data
 
 - **[CSVJSON](https://csvjson.com)** ([Source](https://github.com/FlatFilers/csvjson-app) ⭐454) — Online tool for converting between CSV, JSON, and SQL formats. Also includes data cleaning and transformation utilities. All processing happens in the browser.
   > _No-login task: Convert between CSV, JSON, and SQL data formats_
-- **[Convertio.com](https://convertio.com)** — Convert between 200+ formats with precision. Audio, video, images, documents — powered by professional-grade tools.
-  > _No-login task: Drag file and convert it_
-- **[DB Fiddle](https://db-fiddle.com)** — Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.
+- **[DB Fiddle](https://www.db-fiddle.com)** — Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.
   > _No-login task: Run SQL queries online_
 - **[DataFormatKit](https://dataformatkit.com/)** — DataFormatKit offers free tools to convert text to CSV, XML to CSV, JSON to CSV or Excel, and CSV to Excel. Preview rows and columns, check CSV structure, and download the results. Source files are processed locally in your browser, and the core tools require no account.
   > _No-login task: Convert text, XML, or JSON to CSV; create Excel files from CSV or JSON; preview tabular data and check CSV structure without signing up._
-- **[Datasette Lite](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐408) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
+- **[Datasette Lite ★](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐408) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
-- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2216) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
+- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2244) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
 - **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44282) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
-- **[JSON Formatter & Validator](https://quick-web-tools.surge.sh/)** — Format, validate, and minify JSON instantly in your browser. 100% client-side — your JSON is never uploaded to any server. No ads, no sign-up, no content tracking. Clear parser error messages help you fix invalid JSON fast. Adjustable indentation (2/4 spaces or tabs), one-click copy, and a load-sample button.
-  > _No-login task: Paste JSON to pretty-print, minify, or validate it with exact error messages — all processed locally in your browser, nothing uploaded._
 - **[MarkAny](https://markany.ai/)** — Convert PDF, Word, Excel, PowerPoint, HTML, EPUB, and image files to structured Markdown with automatic OCR, or export editable Markdown to common document, image, ebook, slide, and spreadsheet formats.
   > _No-login task: Batch-convert supported files or a public HTTPS file URL to Markdown, review the result, copy it, and download the Markdown without creating an account._
 - **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐13067) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐101) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
-- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐9021) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
+- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐9030) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
   > _No-login task: Visualize data without coding_
 - **[SiteAge](https://siteage.org)** ([Source](https://github.com/SiteAge-org/SiteAge.org) ⭐0) — Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.
   > _No-login task: Look up any domain's age, view historical timeline, and get embeddable SVG age badges_
-- **[StoreAtlas](https://storeatlas.cc)** — Edited English directory of Shopify stores, shopping platforms, and ecommerce tools. Browse 1000+ hand-picked storefronts with editorial notes. No account required.
-  > _No-login task: Browse 1000+ edited Shopify store listings by category or tag without creating an account._
 - **[TableConvert](https://tableconvert.com)** — Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.
   > _No-login task: Convert tables between Excel, CSV, JSON, Markdown, and more_
-- **[What Pets Cost](https://whatpetscost.com/)** — Dated, source-linked prices for US pet care — grooming, vaccines, vet visits, boarding and training at Petco, PetSmart, Banfield, VCA, Vetco and Dogtopia. Every figure links to the retailer's own price list and shows when it was last checked. Includes free calculators for grooming cost by dog size, boarding stays and vaccine prices by ZIP code. Independent, no retailer affiliation, no account needed.
-  > _No-login task: Look up what a pet service costs at the big US chains, and estimate a groom, a boarding stay or vaccine costs_
-- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9191) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
+- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9233) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
   > _No-login task: Convert between data formats_
 
 ## Communication
 
-- **[AskMeAnything ★](https://askmeanythi.ng)** ([Source](https://github.com/nologin-tools/AskMeAnythi.ng) ⭐0) — The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.
+- **[AskMeAnything](https://askmeanythi.ng)** ([Source](https://github.com/nologin-tools/AskMeAnythi.ng) ⭐0) — The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐29795) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
-- **[Mailward](https://pst.aivismonitor.com/)** — Mailward opens Outlook PST and OST archives, Outlook for Mac OLM exports, MBOX mailboxes (including Gmail Takeout) and EML/MSG messages directly in the browser. The file is parsed locally in a Web Worker and never uploaded, and there is no account for anything. Reading and search are free; batch export and opening a second archive side by side are a one-time $19 license. Works on Mac, Windows, Linux and ChromeOS without Outlook installed.
-  > _No-login task: Open a PST, OST, OLM, MBOX or EML archive from your disk, browse its folders, read and search every message_
-- **[PairDrop](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐11183) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
+- **[PairDrop ★](https://pairdrop.net)** ([Source](https://github.com/schlagmichdoch/pairdrop) ⭐11183) — Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.
   > _No-login task: Share files between devices on LAN_
 - **[PrivNote](https://privnote.com)** — Send self-destructing encrypted notes. The message is automatically deleted after being read — perfect for sharing sensitive information.
   > _No-login task: Send self-destructing encrypted notes_
@@ -347,7 +317,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: P2P file sharing across devices_
 - **[Wormhole](https://wormhole.app)** — End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.
   > _No-login task: Transfer files with E2E encryption_
-- **[Yopass](https://yopass.se)** ([Source](https://github.com/jhaals/yopass) ⭐3039) — Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.
+- **[Yopass](https://yopass.se)** ([Source](https://github.com/jhaals/yopass) ⭐3131) — Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.
   > _No-login task: Share encrypted self-destructing secrets_
 
 ## Education
@@ -362,10 +332,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Learn CSS Flexbox through a game_
 - **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2312) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
   > _No-login task: Explore geometry, algebra, and calculus with interactive math tools_
-- **[Kuakua - Psychology & AI Tools for Well-Being](https://kuakua.app/)** — Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.
+- **[Kuakua](https://kuakua.app/)** — Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.
   > _No-login task: - **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych_
-- **[LowRiskTradeSmart](https://lowrisktradesmart.org)** — Expert guides on low-risk investing strategies, ETFs, dividend stocks, and smart portfolio management. Trilingual content for conservative investors looking to grow wealth steadily.
-  > _No-login task: Read all investing guides, browse ETF comparisons, access financial calculators_
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐112) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
   > _No-login task: Run interactive STEM simulations in the browser to explore science and math concepts visually_
 - **[Python Tutor](https://pythontutor.com)** — Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.
@@ -387,14 +355,12 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 - **[Compound Interest Calculator](https://investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)** — Official SEC compound interest calculator. Estimate how your savings or investments could grow over time with compound interest. Simple, trustworthy, no ads.
   > _No-login task: Calculate compound interest growth on savings and investments_
-- **[Detention Pay Calc](https://www.quackbuilds.com/apps/detention-pay.html)** — Free detention pay calculator for truckers. Enter dock arrival/departure times, get the exact amount owed past free time (round-up, 30-minute, or exact billing modes), export a dispute-ready PDF claim, and keep a saved load log with a running unclaimed total. No signup, works on a phone in the cab.
-  > _No-login task: Enter dock arrival and departure times, calculate detention pay owed past free time, and export a dispute-ready PDF claim — all without any account._
 - **[FICalc](https://ficalc.app)** ([Source](https://github.com/johnschoeman/ficalc-app) ⭐2) — Financial independence retirement calculator. Simulate withdrawal strategies with historical market data and Monte Carlo analysis.
   > _No-login task: Calculate retirement withdrawal rates_
 - **[Financier](https://financier.io)** — Offline-first personal budget manager inspired by YNAB. Envelope budgeting with automatic sync — all data stays on your device.
   > _No-login task: Manage personal budgets offline_
-- **[Freight Class Calc](https://www.quackbuilds.com/apps/freight-class.html)** — Free LTL freight class calculator: enter dimensions and weight, get density (PCF) and the matching NMFC freight class — updated for the 2025 NMFC density changes. Handles inches/lbs or cm/kg and multi-piece shipments, and exports a density worksheet PDF to attach to your BOL. No signup, works on a phone at the dock.
-  > _No-login task: Enter shipment dimensions and weight, get density (PCF) and NMFC freight class instantly, and export a density worksheet PDF — no account needed._
+- **[MonkeeTools](https://monkeetools.surge.sh)** — Free invoice generator for freelancers. No signup, no account, nothing uploaded. Invoices are built in your browser tab and PDFs download straight to your device. It remembers you on-device: business auto-fill, client autocomplete, one-click invoice duplication with auto-incremented numbers, and paid/unpaid tracking. Includes an AI agent kit: prefill links any AI assistant can generate.
+  > _No-login task: Everything works without login: create and edit invoices, download PDFs, business auto-fill, client autocomplete, duplicate invoices with auto numbers, paid/unpaid tracking. Data stays in your browser_
 - **[Numbeo](https://numbeo.com)** — World's largest cost of living database. Compare prices, rent, groceries, and quality of life across cities worldwide.
   > _No-login task: Compare cost of living across cities_
 - **[The Measure of a Plan](https://themeasureofaplan.com)** — Beautiful personal finance calculators for retirement, investment, mortgage, and budgeting. Interactive visualizations with no data collection.
