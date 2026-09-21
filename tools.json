@@ -9,9 +9,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "t-8ma-co",
@@ -23,9 +21,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-allsubconverter-com",
@@ -37,9 +33,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "alphabeticallyordered-com",
@@ -51,9 +45,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-amortio-com",
@@ -65,9 +57,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "animista-net",
@@ -79,23 +69,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
-    "slug": "archive-today",
+    "slug": "archive-ph",
     "name": "Archive.today",
-    "url": "https://archive.today",
+    "url": "https://archive.ph/",
     "description": "Save permanent snapshots of web pages. Archive any URL to preserve its content — useful for citations, research, and bypassing paywalls.",
     "coreTask": "Archive web page snapshots",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "artboardlab-com",
@@ -107,9 +93,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "articleformatter-com",
@@ -121,9 +105,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "askmeanythi-ng",
@@ -133,11 +115,9 @@
     "coreTask": "Create and host AMA sessions, share links, ask and answer questions",
     "category": "Communication",
     "featured": false,
-    "badge": "none",
+    "badge": "implicit",
     "repoUrl": "https://github.com/nologin-tools/AskMeAnythi.ng",
-    "githubStars": 0,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 0
   },
   {
     "slug": "aspectratiocalculator-com",
@@ -149,9 +129,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "astexplorer-net",
@@ -163,9 +141,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6539,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 6547
   },
   {
     "slug": "audiotrimmer-com",
@@ -177,9 +153,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "playbacktimer-com-audiobook-speed-calculator",
@@ -191,9 +165,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "audiomass-co",
@@ -205,9 +177,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 2949,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "NOASSERTION"
+    "githubStars": 2980
   },
   {
     "slug": "banglatools-com",
@@ -219,9 +189,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "betterhabitsdaily-com-tracker",
@@ -233,9 +201,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "blur-face-com-blur-face",
@@ -247,9 +213,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "max-agent-hub-github-io-browser-sop-builder",
@@ -261,9 +225,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/max-agent-hub/browser-sop-builder",
-    "githubStars": 0,
-    "githubLanguage": "HTML",
-    "githubLicense": "MIT"
+    "githubStars": 0
   },
   {
     "slug": "browserleaks-com",
@@ -275,9 +237,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "bundlephobia-com",
@@ -288,10 +248,8 @@
     "category": "Development",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9574,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "repoUrl": "https://github.com/sponsors/pastelsky",
+    "githubStars": 9587
   },
   {
     "slug": "bunengchi-com",
@@ -303,9 +261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "bytepane-com",
@@ -317,9 +273,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "nutilz-com-caa-record-generator",
@@ -331,9 +285,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-calculatorcampus-com",
@@ -345,9 +297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "calorique-io",
@@ -359,9 +309,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "caniemail-com",
@@ -373,9 +321,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 940,
-    "githubLanguage": "HTML",
-    "githubLicense": "MIT"
+    "githubStars": 943
   },
   {
     "slug": "caniuse-com",
@@ -387,9 +333,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5863,
-    "githubLanguage": "JSON",
-    "githubLicense": "CC-BY-4.0"
+    "githubStars": 5874
   },
   {
     "slug": "carbon-now-sh",
@@ -401,9 +345,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36088,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 36103
   },
   {
     "slug": "cfiresim-com",
@@ -415,9 +357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "chatgpt-com",
@@ -429,9 +369,31 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
+  },
+  {
+    "slug": "currawongweb-com-verify-china-usci-checker",
+    "name": "China USCI Checker",
+    "url": "https://currawongweb.com/verify/china-usci-checker/",
+    "description": "A client-side verification tool that validates Chinese 18-character Unified Social Credit Identifiers (GB 32100-2015) and parses authority codes, entity types, and regional division.",
+    "coreTask": "Enter an 18-character Chinese unified social credit code to verify checksum validity and inspect its structural breakdown without login.",
+    "category": "Data",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "choicervoicer-games",
+    "name": "Choicer Voicer",
+    "url": "https://choicervoicer.games/",
+    "description": "A free browser voice acting and dubbing game for practicing character voices, timing, and delivery with short scenes. Choose a ready-made scene, listen, record, and compare without creating an account.",
+    "coreTask": "Play ready-made voice acting scenes, listen to reference dialogue, record a performance in the browser, compare timing and delivery, and use free practice and export options.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "chordgen-app",
@@ -443,9 +405,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "citefetch-com",
@@ -457,9 +417,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
+  },
+  {
+    "slug": "claude-resets-com",
+    "name": "Claude-resets",
+    "url": "https://claude-resets.com",
+    "description": "A real-time tracking dashboard for Anthropic Claude Code rate limit reset intervals, historical cooldown periods, and usage reset announcements.",
+    "coreTask": "Check current time elapsed since the last Claude Code rate limit reset and review historical interval statistics without logging in.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "speed-cloudflare-com",
@@ -471,9 +441,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "codextheme-tools",
@@ -485,9 +453,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "colorhunt-co",
@@ -499,9 +465,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "comparediff-io",
@@ -513,9 +477,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "godbolt-org",
@@ -527,9 +489,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 18985,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "BSD-2-Clause"
+    "githubStars": 19072
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -541,9 +501,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "compressto100kb-com",
@@ -555,9 +513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "comprimirpdf-app",
@@ -569,9 +525,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "contadordepalabras-app",
@@ -583,9 +537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "contextwindowvramcalculator-com",
@@ -597,9 +549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "controllertester-co",
@@ -611,9 +561,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "converters-live",
@@ -623,11 +571,9 @@
     "coreTask": "Convert images (JPG, PNG, WEBP, HEIC, SVG) to PDF, video (MP4, MKV, WEBM) to GIF, and audio (MP3, WAV, FLAC, M4A) - all directly in the browser, no signup.",
     "category": "Media",
     "featured": false,
-    "badge": "none",
+    "badge": "explicit",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "convertilo-io",
@@ -639,9 +585,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "convertio-co",
@@ -653,9 +597,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 276,
-    "githubLanguage": "PHP",
-    "githubLicense": null
+    "githubStars": 277
+  },
+  {
+    "slug": "convertlo-pro",
+    "name": "Convertlo",
+    "url": "https://convertlo.pro/",
+    "description": "Convert images, documents, audio, and video directly in the browser with no file uploads and configurable quality settings.",
+    "coreTask": "Convert file formats locally in the browser",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "cookies-extractor-chekun-me",
@@ -667,9 +621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/chekun/cookies-extractor",
-    "githubStars": 0,
-    "githubLanguage": "TypeScript",
-    "githubLicense": null
+    "githubStars": 1
   },
   {
     "slug": "coolors-co",
@@ -681,9 +633,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "copychar-cc",
@@ -695,9 +645,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "countlink-app",
@@ -709,9 +657,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "coveryourtracks-eff-org",
@@ -723,9 +669,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 277,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "AGPL-3.0"
+    "githubStars": 281
   },
   {
     "slug": "craiyon-com",
@@ -737,23 +681,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "crochet-chart-maker-com",
     "name": "Crochet Chart Maker",
     "url": "https://crochet-chart-maker.com/",
     "description": "Crochet Chart Maker is a free browser tool that turns JPG, PNG, or WebP images into editable color pixel grids, or starts from a blank grid. Adjust size, fit or crop, reduce colors, edit individual squares, and download a high-resolution PNG with numbers and a color legend. Images stay on your device, and the core tool requires no account.",
-    "coreTask": "Turn an image into an editable crochet pixel grid, create a blank grid, refine colors and squares, and download a numbered PNG without signing up.",
+    "coreTask": "Turn images into editable crochet pixel grids and export numbered stitch charts",
     "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "crontab-guru",
@@ -765,9 +705,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 504,
-    "githubLanguage": "Go",
-    "githubLicense": "NOASSERTION"
+    "githubStars": 542
   },
   {
     "slug": "flukeout-github-io",
@@ -779,9 +717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2864,
-    "githubLanguage": "CSS",
-    "githubLicense": "MPL-2.0"
+    "githubStars": 2864
   },
   {
     "slug": "cssgradient-io",
@@ -793,9 +729,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "cssgridgarden-com",
@@ -807,9 +741,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3386,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 3397
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -821,9 +753,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ReconcileKit/csv-safecheck",
-    "githubStars": 0,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": 0
   },
   {
     "slug": "csvjson-com",
@@ -835,9 +765,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 454,
-    "githubLanguage": "PHP",
-    "githubLicense": "MIT"
+    "githubStars": 457
   },
   {
     "slug": "cubic-bezier-com",
@@ -849,9 +777,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/LeaVerou/cubic-bezier",
-    "githubStars": 184,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 184
   },
   {
     "slug": "gchq-github-io-cyberchef",
@@ -863,23 +789,19 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 35558,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 35898
   },
   {
     "slug": "dataformatkit-com",
     "name": "DataFormatKit",
     "url": "https://dataformatkit.com/",
     "description": "DataFormatKit offers free tools to convert text to CSV, XML to CSV, JSON to CSV or Excel, and CSV to Excel. Preview rows and columns, check CSV structure, and download the results. Source files are processed locally in your browser, and the core tools require no account.",
-    "coreTask": "Convert text, XML, or JSON to CSV; create Excel files from CSV or JSON; preview tabular data and check CSV structure without signing up.",
+    "coreTask": "Convert data between text, XML, JSON, and CSV formats with spreadsheet preview",
     "category": "Data",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "lite-datasette-io",
@@ -891,9 +813,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 408,
-    "githubLanguage": "CSS",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 408
   },
   {
     "slug": "db-fiddle-com",
@@ -905,23 +825,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "focus2grow-app-dealcove",
     "name": "Dealcove",
     "url": "https://focus2grow.app/dealcove/",
     "description": "A privacy-first CRM for small businesses that keeps leads, deals, follow-ups, notes, pipeline stages and sales KPIs in the browser. Import and export contacts by CSV, run focused sales sprints, and work without a cloud account.",
-    "coreTask": "Create and manage leads, deals, follow-up tasks, notes and pipeline stages locally in the browser; import and export contacts with CSV; use the sales sprint and KPI dashboard without creating an accou",
+    "coreTask": "Manage sales leads, deal pipelines, follow-up tasks, and customer contacts locally",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "decode-base64-com",
@@ -933,9 +849,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "deepl-com-translator",
@@ -947,9 +861,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "desmos-com-calculator",
@@ -961,9 +873,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "devdocs-io",
@@ -975,9 +885,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39399,
-    "githubLanguage": "Ruby",
-    "githubLicense": "MPL-2.0"
+    "githubStars": 39473
   },
   {
     "slug": "app-diagrams-net",
@@ -989,9 +897,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 7863,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 8253
   },
   {
     "slug": "diagrflow-com",
@@ -1003,9 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "diffhero-app",
@@ -1017,9 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "dillinger-io",
@@ -1031,9 +933,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8271,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 8285
+  },
+  {
+    "slug": "discrete-logarithm-tomasz-slapinski-pl",
+    "name": "DLOG Visualizer",
+    "url": "https://discrete-logarithm.tomasz-slapinski.pl",
+    "description": "An educational BigInt mathematical solver that visualizes Shanks's baby-step giant-step algorithm for the discrete logarithm problem step-by-step in the browser.",
+    "coreTask": "Compute discrete logarithms and review the modular arithmetic baby-step/giant-step table without registration.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "dnsleaktest-com",
@@ -1045,9 +957,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "dochost-io",
@@ -1059,9 +969,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "drunkcalc-org",
@@ -1073,9 +981,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "duck-ai",
@@ -1087,9 +993,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "earchord-com",
@@ -1101,9 +1005,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "entityminder-smoke-web-app-em-lookup",
@@ -1115,9 +1017,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "excalideck-com",
@@ -1129,9 +1029,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/excalideck/excalideck",
-    "githubStars": 193,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 193
   },
   {
     "slug": "excalidraw-com",
@@ -1143,9 +1041,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 130336,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 132100
   },
   {
     "slug": "explainshell-com",
@@ -1157,9 +1053,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14172,
-    "githubLanguage": "Python",
-    "githubLicense": "GPL-3.0"
+    "githubStars": 14246
   },
   {
     "slug": "extract-express",
@@ -1171,9 +1065,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "ezgif-com",
@@ -1185,9 +1077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "fast-com",
@@ -1199,23 +1089,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "playfatelab-com",
     "name": "FATE // LAB",
     "url": "https://playfatelab.com/",
     "description": "Local-first browser randomness tools for dice, coin flips, random numbers, yes/no decisions and list or name picking. No account is required and active results, history and picker data stay in the browser.",
-    "coreTask": "Roll dice, flip coins, generate random numbers, make yes/no decisions and randomly pick from custom lists without creating an account.",
+    "coreTask": "Roll dice, flip coins, generate random numbers, and pick from custom decision lists",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "favicon-io",
@@ -1227,23 +1113,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17722,
-    "githubLanguage": "HTML",
-    "githubLicense": "MIT"
+    "githubStars": 17781
   },
   {
     "slug": "fffuel-co",
     "name": "Fffuel",
     "url": "https://fffuel.co",
     "description": "A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.",
-    "coreTask": "Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects, all in the browser without any account.",
+    "coreTask": "Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects",
     "category": "Design",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/fffuel/fffuel",
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "ficalc-app",
@@ -1255,23 +1137,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/johnschoeman/ficalc-app",
-    "githubStars": 2,
-    "githubLanguage": "JavaScript",
-    "githubLicense": null
+    "githubStars": 2
   },
   {
     "slug": "file-converter-free-com",
     "name": "FileFormer",
     "url": "https://fileformer.com/",
     "description": "Free no-login toolkit for converting files across 215+ formats and using PDF, image, text, developer, and calculator utilities. Many tools run locally in the browser; supported server-side conversions use automatic cleanup after processing.",
-    "coreTask": "Convert files and use PDF, image, text, developer, and calculator tools without creating an account.",
+    "coreTask": "Convert files across PDF, image, text, and developer formats",
     "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "financier-io",
@@ -1283,9 +1161,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "findthescam-net",
@@ -1297,9 +1173,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "flexboxfroggy-com",
@@ -1311,23 +1185,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7383,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 7385
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
     "name": "FluxOps Overstock & Reorder Calculator",
     "url": "https://fluxops.nanocorp.app/tools/reorder-calculator",
     "description": "Free Overstock & Reorder Calculator for e-commerce brands — see stockout risk + weekly hours saved.",
-    "coreTask": "Enter current stock, average daily sales, lead time, and safety stock to instantly see days left, reorder points, suggested reorder quantity, and overstock flags without creating an account.",
+    "coreTask": "Calculate inventory days left, reorder points, and overstock alerts from sales and lead time data",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "fomrix-com-stl-viewer",
@@ -1339,9 +1209,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "fontjoy-com",
@@ -1353,9 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1430,
-    "githubLanguage": null,
-    "githubLicense": "MIT"
+    "githubStars": 1433
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -1367,9 +1233,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "formatdrop-com",
@@ -1381,9 +1245,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "formweft-com-tools-motion-workbench",
@@ -1395,9 +1257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "fwd2-app",
@@ -1409,9 +1269,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "free-qr-codes-com",
@@ -1423,9 +1281,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "gantt-chart-io",
@@ -1437,9 +1293,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "watermarkzero-org",
@@ -1451,9 +1305,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "geogebra-org-calculator",
@@ -1465,9 +1317,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2312,
-    "githubLanguage": "Java",
-    "githubLicense": null
+    "githubStars": 2331
   },
   {
     "slug": "geojson-io",
@@ -1479,23 +1329,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2244,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "ISC"
+    "githubStars": 2252
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
     "name": "Geometry Calculator",
     "url": "https://geometry-formulas.com/geometry-calculator/",
     "description": "Free browser-based geometry formulas and calculators for common 2D and 3D shapes. Includes area, perimeter, volume, surface area formulas, diagrams, worked examples, and step-by-step calculator outputs without requiring an account.",
-    "coreTask": "Use formula sheets and calculators for 2D and 3D geometry problems without creating an account.",
+    "coreTask": "Calculate 2D and 3D geometry formulas, perimeters, areas, and volumes",
     "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "getwaves-io",
@@ -1507,23 +1353,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "gizmobench-com",
     "name": "GizmoBench",
     "url": "https://gizmobench.com",
-    "description": "GizmoBench is a collection of 130+ free utilities that run entirely in your browser: unit and number base converters, calculators, a JSON formatter, Base64 and Markdown tools, an STL viewer, an image color picker, a barcode generator, screen and audio tests, and more. Every tool does its work on your own device, so nothing you paste or open is uploaded, there are no file size limits, and no account is needed. Each tool states plainly what it is accurate to. Built by a solo founder.",
+    "description": "GizmoBench is a collection of free browser tools for everyday tasks, including calculators, converters, JSON and Markdown utilities, image and audio tools, 3D viewers, and hardware checks. Every core tool works without an account. File tools process documents and images on your device without uploading them, and each tool explains its processing limits. IP address lookup uses the GizmoBench server.",
     "coreTask": "Use every tool in full: convert units and number bases, format JSON, pick colours from an image, view an STL file",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "go-dev-play",
@@ -1535,9 +1377,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 809,
-    "githubLanguage": "Go",
-    "githubLicense": "BSD-3-Clause"
+    "githubStars": 809
   },
   {
     "slug": "goblin-tools",
@@ -1549,9 +1389,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "webgpustress-com",
@@ -1563,9 +1401,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "haikei-app",
@@ -1577,9 +1413,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "happyhues-co",
@@ -1591,9 +1425,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "hardenmyrepo-github-io-browser-audit",
@@ -1605,9 +1437,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hardenmyrepo/browser-audit",
-    "githubStars": 0,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 0
   },
   {
     "slug": "haveibeenpwned-com",
@@ -1619,9 +1449,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "headlinecapitalization-com",
@@ -1633,23 +1461,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "heic-to-jpg-app",
     "name": "HEIC to JPG Converter",
     "url": "https://heic-to-jpg.app/",
     "description": "Free privacy-first browser tool for converting iPhone HEIC/HEIF photos to JPG. It works without signup or uploads, supports batch conversion, adjustable JPG quality, previews, and ZIP downloads.",
-    "coreTask": "Convert iPhone HEIC/HEIF photos to JPG in the browser without creating an account",
+    "coreTask": "Convert iPhone HEIC/HEIF photos to JPG directly in the browser",
     "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "heictopdf-dev",
@@ -1661,9 +1485,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "hemingwayapp-com",
@@ -1675,9 +1497,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "herebytes-com-remove-image-gps",
@@ -1689,9 +1509,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "hoppscotch-io",
@@ -1703,9 +1521,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80113,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 80430
   },
   {
     "slug": "httpbin-org",
@@ -1717,9 +1533,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13604,
-    "githubLanguage": "Python",
-    "githubLicense": "ISC"
+    "githubStars": 13619
   },
   {
     "slug": "icyzip-com",
@@ -1731,23 +1545,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "iformat-io",
     "name": "iFormat.io",
     "url": "https://iformat.io",
     "description": "iFormat.io is a free online file converter that supports over 500 format conversions. The tool works directly in your browser—no installation or registration required. Users can quickly and securely convert images, PDFs, audio and video files, as well as Office documents.\n\nSupported Categories:\n- Images: JPG, PNG, WebP, HEIC, GIF, TIFF, and more\n- PDFs: Convert, compress, merge, split, and extract text\n- Audio: MP3, WAV, FLAC, AAC, OGG, and more\n- Video: MP4, AVI, MOV, and other formats\n- Docume",
-    "coreTask": "iFormat.io is a free online multi-format converter supporting 500+  conversions across images, PDFs, audio, video, and documents.  Works entirely in the browser with no account or sign-up required.  A",
+    "coreTask": "Convert files between 500+ formats across images, PDFs, audio, video, and documents",
     "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "ignlab-net",
@@ -1759,9 +1569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "imagecompressortokb-com",
@@ -1773,23 +1581,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "imageconverttools-app",
     "name": "Image Convert",
     "url": "https://imageconverttools.app/",
     "description": "Image Convert is a free browser-based suite for seven practical image tasks: convert HEIC or HEIF to JPG or PDF, convert JPEG, PNG, and WebP, compress to a target size, resize, crop, and add text watermarks. Selected files and generated outputs are processed on the device and are not uploaded for processing. No sign-in is required.",
-    "coreTask": "Convert, compress, resize, crop, watermark, or combine supported images into a PDF, then download the result without signing in.",
+    "coreTask": "Convert, compress, resize, crop, watermark, and combine images into PDF",
     "category": "Media",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/cx-qk/image-convert-tools",
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "imgrove-com",
@@ -1801,9 +1605,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "ipleak-net",
@@ -1815,9 +1617,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "it-tools-tech",
@@ -1829,9 +1629,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40383,
-    "githubLanguage": "Vue",
-    "githubLicense": "GPL-3.0"
+    "githubStars": 40651
   },
   {
     "slug": "meet-jit-si",
@@ -1843,9 +1641,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 29795,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 29945
   },
   {
     "slug": "jottools-com",
@@ -1857,9 +1653,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "jsoncrack-com",
@@ -1871,9 +1665,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44282,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 44439
   },
   {
     "slug": "jsonformatter-org",
@@ -1885,9 +1677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "at-use-com-tools-json-formatter",
@@ -1899,9 +1689,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "jwt-io",
@@ -1912,10 +1700,8 @@
     "category": "Development",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/auth0/jwt.io",
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "ps-keepmot-com",
@@ -1927,9 +1713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "xueboyang1985-github-io-kindle-exporter",
@@ -1941,23 +1725,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/xueboyang1985/kindle-exporter",
-    "githubStars": 0,
-    "githubLanguage": "HTML",
-    "githubLicense": null
+    "githubStars": 0
   },
   {
     "slug": "kitparlor-com",
     "name": "KitParlor",
     "url": "https://kitparlor.com",
     "description": "27 free browser tools for people who sell on Etsy, Amazon and print-on-demand: fee and landed-cost calculators, image resizers, print-file checkers, seamless pattern makers, label builders and more. Every tool runs in the page — images and files are processed on your own machine and never sent to a server. No account, no trial, no upload step. 34 written guides cover the marketplace specs and 2026 EU/US regulations the tools deal with, with sources and dates cited.",
-    "coreTask": "Everything. Resize product photos, calculate Etsy/Amazon fees and US landed cost, check print files, build seamless patterns and GPSR labels, and read all 34 guides — no account at any point.",
+    "coreTask": "Resize product photos, calculate ecommerce fees and landed costs, and generate GPSR labels",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "kivtools-com",
@@ -1969,9 +1749,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "kmag-ro-en",
@@ -1983,23 +1761,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "kuakua-app",
     "name": "Kuakua",
     "url": "https://kuakua.app/",
     "description": "Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.",
-    "coreTask": "- **Comprehensive Global Collection of Psychology Resources:**You can find all the things you want in psychology here. - **Experiential Psychology Content:** Aims to provide various experiential psych",
+    "coreTask": "Access psychology resources, mindfulness exercises, and mental well-being tools",
     "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "languagetool-org",
@@ -2011,9 +1785,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15017,
-    "githubLanguage": "Java",
-    "githubLicense": "LGPL-2.1"
+    "githubStars": 15062
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2025,37 +1797,43 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "led-run",
     "name": "led.run",
     "url": "https://led.run",
     "description": "A browser-based display toolkit that turns any screen into a LED sign, light effect, sound visualizer, clock, QR code, or camera filter. Supports dozens of themes and modes — no app, no account, just a URL.",
-    "coreTask": "Display scrolling text, light effects, sound visualizers, clocks, QR codes, and camera filters — all directly in the browser without any login or account",
+    "coreTask": "Display scrolling text, light effects, sound visualizers, clocks, and QR codes in your browser",
     "category": "Media",
     "featured": false,
-    "badge": "implicit",
+    "badge": "explicit",
     "repoUrl": "https://github.com/led-run/led.run",
-    "githubStars": 99,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 99
   },
   {
     "slug": "verifiedlimits-com",
     "name": "Ledger&Leaf",
     "url": "https://verifiedlimits.com",
     "description": "Free calculators for HSA, IRA, and 401(k) contribution limits, eligibility, and excess-contribution penalties — verified against IRS Revenue Procedures. All calculations run entirely in your browser; nothing is sent to a server, no account required, nothing stored.",
-    "coreTask": "Calculate exact HSA, IRA, and 401(k) contribution limits, check HDHP eligibility, and see excess-contribution penalty exposure — every calculator works fully with no account.",
+    "coreTask": "Calculate HSA, IRA, and 401(k) contribution limits and check HDHP eligibility",
     "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
+  },
+  {
+    "slug": "leettranslator-com",
+    "name": "Leet Speak Translator",
+    "url": "https://leettranslator.com/",
+    "description": "A client-side text converter that transforms plain English into 1337 leet speak and decodes leet representations back into standard text with customizable mapping modes.",
+    "coreTask": "Convert English text to leet speak or decode 1337 back to plain English in real time without creating an account.",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "lensup-ai",
@@ -2067,9 +1845,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pst-aivismonitor-com",
@@ -2081,9 +1857,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "makehalftone-com",
@@ -2095,23 +1869,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "markany-ai",
     "name": "MarkAny",
     "url": "https://markany.ai/",
     "description": "Convert PDF, Word, Excel, PowerPoint, HTML, EPUB, and image files to structured Markdown with automatic OCR, or export editable Markdown to common document, image, ebook, slide, and spreadsheet formats.",
-    "coreTask": "Batch-convert supported files or a public HTTPS file URL to Markdown, review the result, copy it, and download the Markdown without creating an account.",
+    "coreTask": "Batch-convert documents, web pages, and files into clean Markdown",
     "category": "Data",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2123,9 +1893,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "markmap-js-org",
@@ -2137,9 +1905,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13067,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 13124
   },
   {
     "slug": "meeting-to-go-io",
@@ -2151,23 +1917,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "bytepriva-com-merge-pdf",
     "name": "Merge PDF — BytePriva",
     "url": "https://bytepriva.com/merge-pdf/",
     "description": "Merge multiple PDF files into one directly in your browser — no upload, no signup. Files are processed entirely client-side using your device's own processing power, so nothing ever leaves your computer. Drag, drop, reorder, and download instantly.",
-    "coreTask": "Merge multiple PDF files, reorder pages, and download the combined file — all without creating an account or uploading anything to a server.",
+    "coreTask": "Merge multiple PDF files, reorder pages, and export the combined document",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "mermaid-live",
@@ -2179,9 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6800,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 6811
   },
   {
     "slug": "metadataremover-ai",
@@ -2193,9 +1953,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "metatags-io",
@@ -2207,9 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "midiplayeronline-com",
@@ -2221,9 +1977,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "mockaroo-com",
@@ -2235,9 +1989,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mockaroo/mockaroo-enterprise",
-    "githubStars": 101,
-    "githubLanguage": null,
-    "githubLicense": "NOASSERTION"
+    "githubStars": 101
   },
   {
     "slug": "mojisuu-app",
@@ -2249,23 +2001,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "monkeetools-surge-sh",
     "name": "MonkeeTools",
     "url": "https://monkeetools.surge.sh",
     "description": "Free invoice generator for freelancers. No signup, no account, nothing uploaded. Invoices are built in your browser tab and PDFs download straight to your device. It remembers you on-device: business auto-fill, client autocomplete, one-click invoice duplication with auto-incremented numbers, and paid/unpaid tracking. Includes an AI agent kit: prefill links any AI assistant can generate.",
-    "coreTask": "Everything works without login: create and edit invoices, download PDFs, business auto-fill, client autocomplete, duplicate invoices with auto numbers, paid/unpaid tracking. Data stays in your browser",
+    "coreTask": "Generate, customize, and export client invoices to PDF with client autocomplete",
     "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "monkeytype-com",
@@ -2277,9 +2025,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20671,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "GPL-3.0"
+    "githubStars": 20710
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2291,9 +2037,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "mp3cut-net",
@@ -2305,9 +2049,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "musicforprogramming-net",
@@ -2319,9 +2061,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "musictoolslab-com",
@@ -2332,24 +2072,20 @@
     "category": "Media",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/asdfas988/music",
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "nawtch-app",
     "name": "Nawtch",
     "url": "https://nawtch.app",
     "description": "Nawtch is a free fitness and nutrition tracker that runs entirely in your\nbrowser. Log food, calories, macros, cost per serving, weight, and workout\nprograms — all stored locally via IndexedDB, nothing sent to a server.\nNo account, no email, no signup wall of any kind. Includes evidence-based\ncalculators (TDEE, BMR, BMI, body fat %) with cited sources, and a diet\ncomparison page with real study links. Monetized only by non-intrusive\nbanner ads — no popups, no paywalled features.",
-    "coreTask": "Everything. Log foods (including barcode scanning and custom foods), track daily calories/macros/cost, log and graph weight over time, build and follow workout programs, view full history with export",
+    "coreTask": "Log nutrition and barcodes, track calories and macros, and track workout programs",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "needgohome-netlify-app",
@@ -2361,9 +2097,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "neumorphism-io",
@@ -2375,23 +2109,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6145,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "BSD-3-Clause"
+    "githubStars": 6158
   },
   {
     "slug": "next-tools-dev",
     "name": "next-tools",
     "url": "https://next-tools.dev",
     "description": "This is a tool website forked from it-tools, containing 100+ tools.",
-    "coreTask": "all the things",
+    "coreTask": "Access 100+ developer utilities including formatters, encoders, converters, and generators",
     "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/willjayyyy/next-tools",
-    "githubStars": 30,
-    "githubLanguage": "Vue",
-    "githubLicense": "GPL-3.0"
+    "githubStars": 30
   },
   {
     "slug": "nextreset-ai",
@@ -2403,9 +2133,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "nologin-tools",
@@ -2417,9 +2145,7 @@
     "featured": false,
     "badge": "explicit",
     "repoUrl": "https://github.com/nologin-tools/nologin.tools",
-    "githubStars": 0,
-    "githubLanguage": "Astro",
-    "githubLicense": "MIT"
+    "githubStars": 0
   },
   {
     "slug": "npmtrends-com",
@@ -2431,9 +2157,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "numbeo-com",
@@ -2445,23 +2169,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
-  },
-  {
-    "slug": "www-quackbuilds-com-apps-oee-pulse-html",
-    "name": "OEE Pulse",
-    "url": "https://www.quackbuilds.com/apps/oee-pulse.html",
-    "description": "Free shop-floor OEE dashboard for small machine shops: track Availability × Performance × Quality per machine, see plant-wide OEE on a color-banded gauge, log every shift to build a trend history, and export a shift report PDF for the morning meeting. No per-machine SaaS fee, no signup — works on the floor tablet and the office PC.",
-    "coreTask": "Track per-machine and plant-wide OEE, log shifts, see trends, and export a shift report PDF — no account needed.",
-    "category": "Productivity",
-    "featured": false,
-    "badge": "none",
-    "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "olivez-in-tool-image-compressor",
@@ -2473,9 +2181,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "omnicalculator-com",
@@ -2487,9 +2193,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "decibelshield-app",
@@ -2501,9 +2205,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "online-tone-generator-com",
@@ -2515,9 +2217,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-ottopoll-com",
@@ -2529,9 +2229,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pairdrop-net",
@@ -2543,9 +2241,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11183,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "GPL-3.0"
+    "githubStars": 11451
   },
   {
     "slug": "www-pastecurl-com",
@@ -2557,23 +2253,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pdfandimagetools-com",
     "name": "PDF & Image Tools",
     "url": "https://pdfandimagetools.com",
     "description": "64 free PDF and image tools that run entirely in your browser, so your files are never uploaded. Merge, split, compress (to an exact target size), convert, organize, sign and protect PDFs; compress, resize, convert across ~20 formats, run OCR, and remove image backgrounds with an on-device AI model. No account, no limits, no watermarks. Proof: open the Network tab while you process a file and it stays empty, and most tools keep working with Wi-Fi off after the page loads.",
-    "coreTask": "Everything. All 64 tools work with no account or sign-in: merge, split, compress and convert PDFs, compress/resize/convert images, run OCR, and remove image backgrounds.",
+    "coreTask": "Convert, merge, split, and compress PDFs and images with built-in OCR",
     "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pdfinjpgumwandeln-com",
@@ -2585,9 +2277,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "tools-pdf24-org-en",
@@ -2599,9 +2289,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pdftomdconverter-app",
@@ -2613,9 +2301,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pdfzus-de",
@@ -2627,9 +2313,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "perplexity-ai",
@@ -2641,9 +2325,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "phet-colorado-edu",
@@ -2655,9 +2337,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": 112,
-    "githubLanguage": "Python",
-    "githubLicense": "MIT"
+    "githubStars": 112
   },
   {
     "slug": "photomosh-com",
@@ -2669,9 +2349,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "photopea-com",
@@ -2682,10 +2360,8 @@
     "category": "Design",
     "featured": false,
     "badge": "none",
-    "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "repoUrl": "https://github.com/photopea/photopea",
+    "githubStars": 8443
   },
   {
     "slug": "piccollages-com",
@@ -2697,9 +2373,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pixeltools-io",
@@ -2711,9 +2385,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pixotter-com",
@@ -2725,9 +2397,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "polymarketscan-org",
@@ -2739,9 +2409,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pomofocus-io",
@@ -2753,9 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "prettier-io-playground",
@@ -2767,12 +2433,10 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52230,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 52332
   },
   {
-    "slug": "preuveenmain-ca-app-index-html",
+    "slug": "preuveenmain-ca-app",
     "name": "Preuve en main",
     "url": "https://preuveenmain.ca/app/index.html",
     "description": "A bilingual Quebec web app that helps self-represented people organize dated facts, evidence, communications, deadlines and chronology into a structured legal-file report. Data stays on the device during no-login use. It provides organization and general information, not legal advice.",
@@ -2781,9 +2445,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "printable-tools-lab-pages-dev",
@@ -2795,9 +2457,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/yanqr213/printable-tools-lab",
-    "githubStars": 0,
-    "githubLanguage": "HTML",
-    "githubLicense": "MIT"
+    "githubStars": 0
   },
   {
     "slug": "privacy-sexy",
@@ -2809,9 +2469,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 5893,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "AGPL-3.0"
+    "githubStars": 6050
   },
   {
     "slug": "privacytests-org",
@@ -2823,9 +2481,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1199,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 1224
   },
   {
     "slug": "privnote-com",
@@ -2837,9 +2493,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "productivitytimer-com",
@@ -2851,9 +2505,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "pythontutor-com",
@@ -2865,9 +2517,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "qrcode-monkey-com",
@@ -2879,9 +2529,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "questionsgenerator-com",
@@ -2893,9 +2541,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "quickbgcut-com",
@@ -2907,23 +2553,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "quicktinyv2-vercel-app",
     "name": "QuickTiny",
     "url": "https://quicktinyv2.vercel.app",
     "description": "13 free browser-based tools — image compressor, JSON formatter, word counter, password generator, Base64/URL encode-decode, and more. Everything processes entirely client-side, with nothing uploaded to a server. Also includes an optional Batch Image Compressor (compress many images at once) for a one-time $4.99 payment via PayPal — no account or subscription required.",
-    "coreTask": "Use all 13 free tools fully — compress a single image, format JSON, count words, generate passwords, encode/decode Base64 and URLs, and more, entirely in the browser. The optional Batch Image Compress",
+    "coreTask": "Compress images, format JSON, count words, and encode or decode Base64 in your browser",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "quillbot-com",
@@ -2935,9 +2577,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "quixcalc-com",
@@ -2947,11 +2587,9 @@
     "coreTask": "Use every fast calculator on site",
     "category": "Productivity",
     "featured": false,
-    "badge": "none",
+    "badge": "explicit",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "rawgraphs-io",
@@ -2963,9 +2601,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9030,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 9032
   },
   {
     "slug": "ray-so",
@@ -2977,23 +2613,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "readanytext-com",
     "name": "ReadAnyText",
     "url": "https://readanytext.com",
     "description": "ReadAnyText turns text, PDFs, Word files, EPUBs and article URLs into spoken audio with 322 neural voices across 75 languages. No account, no sign-up, no paid tier. Exports MP3 or WAV plus word-accurate SRT and VTT subtitles, and supports multi-speaker dialogue, speed/pitch control and pause markup. Document parsing runs in the browser and transcription runs on-device, so files never leave your machine. Limit is 7,000 characters per render, refilling every two minutes.",
-    "coreTask": "Everything. Paste text or import a PDF, Word file, EPUB or article URL, choose any of the 322 voices, generate the audio and download the MP3, WAV and SRT/VTT subtitles - all with no account. There is",
+    "coreTask": "Convert text and documents to spoken audio with 300+ voices and export MP3 or subtitles",
     "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "realtimecolors-com",
@@ -3005,9 +2637,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 927,
-    "githubLanguage": null,
-    "githubLicense": "NOASSERTION"
+    "githubStars": 929
   },
   {
     "slug": "regex101-com",
@@ -3018,10 +2648,8 @@
     "category": "Development",
     "featured": false,
     "badge": "none",
-    "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "repoUrl": "https://github.com/firasdib/Regex101",
+    "githubStars": 3515
   },
   {
     "slug": "regexlearn-com",
@@ -3033,9 +2661,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4090,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 4099
   },
   {
     "slug": "remove-bg",
@@ -3047,9 +2673,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "rentry-co",
@@ -3061,23 +2685,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "retireclarity-com-calculator",
     "name": "retireclarity",
     "url": "https://retireclarity.com/calculator",
     "description": "Full retirement planner with no login: year-by-year projections, Roth conversion optimizer, and Monte Carlo simulation — all computed in your browser. Nothing to sign up for; your plan is stored locally on your device.",
-    "coreTask": "Everything — build a full household plan, run projections, the Roth conversion optimizer, and Monte Carlo. There is no login to have.",
+    "coreTask": "Build retirement financial plans, Monte Carlo projections, and Roth conversion models",
     "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "roascompare-com",
@@ -3089,9 +2709,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "play-rust-lang-org",
@@ -3103,9 +2721,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1429,
-    "githubLanguage": "Rust",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 1432
   },
   {
     "slug": "salitronic-com-gerber-analyzer",
@@ -3117,9 +2733,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "securityheaders-com",
@@ -3131,9 +2745,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
+  },
+  {
+    "slug": "sellwhere-app",
+    "name": "SellWhere",
+    "url": "https://sellwhere.app",
+    "description": "A real-time resale fee calculator that compares seller fees, shipping attribution, and estimated net payouts across eBay, Poshmark, Mercari, Depop, Etsy, and Vinted.",
+    "coreTask": "Enter an item price and shipping terms to compare net payouts across six resale platforms without an account.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "sharedrop-io",
@@ -3145,9 +2769,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10750,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 10752
   },
   {
     "slug": "shields-io",
@@ -3159,9 +2781,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27057,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 27189
   },
   {
     "slug": "signaturefont-net",
@@ -3173,9 +2793,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "sirenmix-com-tools",
@@ -3187,9 +2805,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "siteage-org",
@@ -3199,11 +2815,9 @@
     "coreTask": "Look up any domain's age, view historical timeline, and get embeddable SVG age badges",
     "category": "Data",
     "featured": false,
-    "badge": "none",
+    "badge": "explicit",
     "repoUrl": "https://github.com/SiteAge-org/SiteAge.org",
-    "githubStars": 0,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 0
   },
   {
     "slug": "sizecompare-app",
@@ -3215,9 +2829,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-slabcalc-co",
@@ -3229,9 +2841,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "sortvisualizer-com",
@@ -3243,9 +2853,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Myphz/sortvisualizer",
-    "githubStars": 158,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 158
   },
   {
     "slug": "spritesheettool-com",
@@ -3257,9 +2865,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "mystery-knightlab-com",
@@ -3271,9 +2877,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2177,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 2217
   },
   {
     "slug": "squoosh-app",
@@ -3285,9 +2889,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 25635,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 25930
   },
   {
     "slug": "stackedit-io",
@@ -3299,9 +2901,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23067,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 23101
   },
   {
     "slug": "studycalcpro-com",
@@ -3313,9 +2913,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "subsuperscript-com",
@@ -3327,9 +2925,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "svgrepo-com",
@@ -3341,9 +2937,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "svgviewer-app",
@@ -3355,9 +2949,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "jakearchibald-github-io-svgomg",
@@ -3368,24 +2960,20 @@
     "category": "Design",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/jakearchibald/svgomg",
-    "githubStars": 6194,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "repoUrl": "https://github.com/svg/svgo",
+    "githubStars": 6197
   },
   {
     "slug": "syncwhen-com",
     "name": "SyncWhen",
     "url": "https://syncwhen.com",
     "description": "A free, no-signup meeting scheduling poll. Share a link, participants vote yes/maybe/no on proposed time slots, and results update in real time. No account needed for the organizer or voters, and no ads. Export the agreed time to Google Calendar or .ics. Available in 12 languages.",
-    "coreTask": "Create a scheduling poll, share the link, and collect yes/maybe/no votes on time slots with live results - all without any account.",
+    "coreTask": "Create scheduling polls and collect group availability votes with live results",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "tableconvert-com",
@@ -3397,9 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "taimaa-net",
@@ -3411,9 +2997,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "teachablemachine-withgoogle-com",
@@ -3425,9 +3009,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1726,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 1733
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3439,9 +3021,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "temp-mail-org",
@@ -3453,9 +3033,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "playground-tensorflow-org",
@@ -3467,9 +3045,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 12998,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 13021
   },
   {
     "slug": "textlogo-app",
@@ -3481,9 +3057,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "textbench-app",
@@ -3495,9 +3069,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-textfixhub-com",
@@ -3509,9 +3081,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "textkit-tech",
@@ -3523,9 +3093,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "textunnel-com",
@@ -3537,9 +3105,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/haihiaen/Textunnel",
-    "githubStars": 0,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": 0
+  },
+  {
+    "slug": "nextgenailearning-com",
+    "name": "The ID Toolbox",
+    "url": "https://nextgenailearning.com",
+    "description": "Free, single-purpose client-side tools for instructional designers and content creators that run locally in the browser with no account or file uploads.",
+    "coreTask": "Inspect, format, and convert instructional design media and courses locally",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "themeasureofaplan-com",
@@ -3551,9 +3129,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "til-re",
@@ -3565,9 +3141,7 @@
     "featured": false,
     "badge": "implicit",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "time-is",
@@ -3579,9 +3153,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "tinypng-com",
@@ -3593,9 +3165,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tinify/iMessage-Panda-sticker",
-    "githubStars": 86,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": 86
   },
   {
     "slug": "tinywow-com",
@@ -3607,9 +3177,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "tldraw-com",
@@ -3621,23 +3189,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 49910,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "NOASSERTION"
+    "githubStars": 50383
   },
   {
     "slug": "tmp-tf",
     "name": "tmp.tf",
     "url": "https://tmp.tf",
     "description": "A temporary clipboard tool that lets you sync text and content across devices in seconds. No signup required, end-to-end encrypted, and content auto self-destructs. Simply open a named channel and paste from any device.",
-    "coreTask": "Open a channel and sync text across devices without any account or login",
+    "coreTask": "Open a channel and sync text across devices in real time",
     "category": "Productivity",
     "featured": false,
     "badge": "implicit",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "tools-berry-com",
@@ -3649,9 +3213,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "tools-pve-ch",
@@ -3663,9 +3225,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "toolsphare-tech-en",
@@ -3677,9 +3237,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "transform-tools",
@@ -3691,9 +3249,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9233,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "MIT"
+    "githubStars": 9233
   },
   {
     "slug": "tryink-me",
@@ -3705,9 +3261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "typescale-com",
@@ -3719,9 +3273,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "typescriptlang-org-play",
@@ -3733,9 +3285,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 110179,
-    "githubLanguage": "TypeScript",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 111135
   },
   {
     "slug": "uicolors-app",
@@ -3747,9 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "untrackedtools-com-en",
@@ -3761,9 +3309,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "utilbear-com",
@@ -3775,9 +3321,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
+  },
+  {
+    "slug": "video-size-reducer-com",
+    "name": "Video Size Reducer",
+    "url": "https://video-size-reducer.com/",
+    "description": "A browser-based video compressor for people who just need a smaller shareable file. Server-side processing, resumable uploads, visible progress. Results stay downloadable for 24 hours; free tasks to start, no watermark on any plan.",
+    "coreTask": "Compress a video to a target file size and download a smaller MP4 in the browser",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "virustotal-com",
@@ -3789,9 +3345,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "visualpromptcompiler-com",
@@ -3803,9 +3357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "visualgo-net",
@@ -3817,9 +3369,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "vocalremover-org",
@@ -3831,9 +3381,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "bitibybit-com-volunteer-roster",
@@ -3845,9 +3393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "wave-webaim-org",
@@ -3859,9 +3405,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "aup4-aivismonitor-com",
@@ -3873,9 +3417,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "webhook-site",
@@ -3887,9 +3429,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6702,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "NOASSERTION"
+    "githubStars": 6751
   },
   {
     "slug": "webutilslab-com-tools",
@@ -3901,23 +3441,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "whatthegif-com",
     "name": "What The GIF",
     "url": "https://whatthegif.com",
     "description": "Convert video, photos, or existing GIFs into GIFs, silent MP4s, or APNGs entirely in your browser. Nothing uploads: the whole pipeline runs in the tab, and the site Content-Security-Policy blocks cross-origin sends, so the no-upload claim is enforced by the browser rather than promised in a privacy policy. Frame-accurate trimming, up to 10 clips on a timeline, captions, per-clip reverse, filters, and a built-in optimizer. Free and ad-supported, no account, no watermark, nothing to install.",
-    "coreTask": "Everything. There is no account system at all: convert, trim frame by frame, caption, combine up to 10 clips, then export a GIF, APNG, or silent MP4, all without a watermark or a signup wall.",
+    "coreTask": "Convert, trim, caption, combine video clips, and export watermark-free GIFs or MP4s",
     "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-whatsmyiplive-com",
@@ -3929,23 +3465,31 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-when2meet-com",
     "name": "when2meet",
     "url": "https://www.when2meet.com",
     "description": "A free group scheduling tool that lets anyone create a meeting availability poll and collect responses without accounts or signups. Participants mark their available times on a shared visual grid, and the best meeting window emerges as a color-coded heat map. No login required for organizers or participants.",
-    "coreTask": "Find the best meeting time for a group by collecting everyone's availability on a shared grid—no login required for organizers or participants.",
+    "coreTask": "Find the best group meeting time by collecting participants availability on a shared grid",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
+  },
+  {
+    "slug": "www-wheyindex-com",
+    "name": "WheyIndex",
+    "url": "https://www.wheyindex.com",
+    "description": "An interactive protein powder index and price comparison calculator that normalizes cost per 25g of protein and scores ingredient formulation purity across 480+ products.",
+    "coreTask": "Search, filter by dietary requirements, and compare normalized protein cost and formulation scores across powders without an account.",
+    "category": "Data",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "wise-com-gb-currency-converter",
@@ -3957,9 +3501,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "wolframalpha-com",
@@ -3971,9 +3513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "wordtojpg-app",
@@ -3985,9 +3525,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "wordpad-online-com",
@@ -3999,9 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "worldtimebuddy-com",
@@ -4013,9 +3549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "wormhole-app",
@@ -4027,9 +3561,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "write-as",
@@ -4041,9 +3573,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5224,
-    "githubLanguage": "Go",
-    "githubLicense": "AGPL-3.0"
+    "githubStars": 5255
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -4055,9 +3585,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "www-yhile-com",
@@ -4069,9 +3597,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "yopass-se",
@@ -4083,9 +3609,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3131,
-    "githubLanguage": "Go",
-    "githubLicense": "Apache-2.0"
+    "githubStars": 3133
   },
   {
     "slug": "z-ai",
@@ -4097,9 +3621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": null,
-    "githubStars": null,
-    "githubLanguage": null,
-    "githubLicense": null
+    "githubStars": null
   },
   {
     "slug": "zenpen-io",
@@ -4111,8 +3633,6 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tholman/zenpen",
-    "githubStars": 3767,
-    "githubLanguage": "JavaScript",
-    "githubLicense": "MIT"
+    "githubStars": 3768
   }
 ]
