@@ -141,7 +141,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6547
+    "githubStars": 6545
   },
   {
     "slug": "audiotrimmer-com",
@@ -177,7 +177,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 2980
+    "githubStars": 3018
   },
   {
     "slug": "banglatools-com",
@@ -198,6 +198,18 @@
     "description": "Free, no-signup habit tracker built for developers",
     "coreTask": "Track your habits in browser",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "bizntools-com-data-json-to-csv-converter",
+    "name": "BiznTools JSON to CSV",
+    "url": "https://bizntools.com/data/json-to-csv-converter",
+    "description": "Convert JSON arrays and nested object hierarchies into flat CSV spreadsheets in your browser. Features live tabular preview, custom delimiters, and local file export without server uploads.",
+    "coreTask": "Convert JSON to CSV",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -248,8 +260,8 @@
     "category": "Development",
     "featured": false,
     "badge": "none",
-    "repoUrl": "https://github.com/sponsors/pastelsky",
-    "githubStars": 9587
+    "repoUrl": "https://github.com/pastelsky/bundlephobia",
+    "githubStars": 9605
   },
   {
     "slug": "bunengchi-com",
@@ -321,7 +333,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 943
+    "githubStars": 945
   },
   {
     "slug": "caniuse-com",
@@ -333,7 +345,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5874
+    "githubStars": 5877
   },
   {
     "slug": "carbon-now-sh",
@@ -345,7 +357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36103
+    "githubStars": 36107
   },
   {
     "slug": "cfiresim-com",
@@ -375,7 +387,7 @@
     "slug": "currawongweb-com-verify-china-usci-checker",
     "name": "China USCI Checker",
     "url": "https://currawongweb.com/verify/china-usci-checker/",
-    "description": "A client-side verification tool that validates Chinese 18-character Unified Social Credit Identifiers (GB 32100-2015) and parses authority codes, entity types, and regional division.",
+    "description": "Free, no-login browser tool for checking the 18-character format and check digit of a mainland Chinese Unified Social Credit Code (USCI/USCC). It displays the code's structural components. The calculation keeps the entered code in the browser; anonymous usage counts contain no code. A passing result does not confirm company registration, ownership, manufacturing capability or payment safety. Optional company-record reports are separate paid services.",
     "coreTask": "Enter an 18-character Chinese unified social credit code to verify checksum validity and inspect its structural breakdown without login.",
     "category": "Data",
     "featured": false,
@@ -480,6 +492,18 @@
     "githubStars": null
   },
   {
+    "slug": "comparetexts-net",
+    "name": "CompareTexts",
+    "url": "https://comparetexts.net/",
+    "description": "Side-by-side text and code difference viewer with inline character highlights, unified patch export, and zero-egress local comparison without login.",
+    "coreTask": "Compare text and code diffs side-by-side and export patches without login",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "godbolt-org",
     "name": "Compiler Explorer",
     "url": "https://godbolt.org",
@@ -489,7 +513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19072
+    "githubStars": 19122
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -597,7 +621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 277
+    "githubStars": 278
   },
   {
     "slug": "convertlo-pro",
@@ -669,7 +693,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/EFForg/cover-your-tracks",
-    "githubStars": 281
+    "githubStars": 285
   },
   {
     "slug": "craiyon-com",
@@ -705,7 +729,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 542
+    "githubStars": 547
   },
   {
     "slug": "flukeout-github-io",
@@ -717,7 +741,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2864
+    "githubStars": 2865
   },
   {
     "slug": "cssgradient-io",
@@ -741,7 +765,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3397
+    "githubStars": 3398
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -765,7 +789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 457
+    "githubStars": 458
   },
   {
     "slug": "cubic-bezier-com",
@@ -789,7 +813,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 35898
+    "githubStars": 36069
   },
   {
     "slug": "dataformatkit-com",
@@ -813,7 +837,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 408
+    "githubStars": 409
   },
   {
     "slug": "db-fiddle-com",
@@ -885,7 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39473
+    "githubStars": 39543
   },
   {
     "slug": "app-diagrams-net",
@@ -897,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 8253
+    "githubStars": 8670
   },
   {
     "slug": "diagrflow-com",
@@ -933,7 +957,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8285
+    "githubStars": 8292
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1029,7 +1053,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/excalideck/excalideck",
-    "githubStars": 193
+    "githubStars": 194
   },
   {
     "slug": "excalidraw-com",
@@ -1041,7 +1065,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 132100
+    "githubStars": 133681
   },
   {
     "slug": "explainshell-com",
@@ -1053,7 +1077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14246
+    "githubStars": 14279
   },
   {
     "slug": "extract-express",
@@ -1113,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17781
+    "githubStars": 17799
   },
   {
     "slug": "fffuel-co",
@@ -1146,6 +1170,18 @@
     "description": "Free no-login toolkit for converting files across 215+ formats and using PDF, image, text, developer, and calculator utilities. Many tools run locally in the browser; supported server-side conversions use automatic cleanup after processing.",
     "coreTask": "Convert files across PDF, image, text, and developer formats",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "fileontap-com",
+    "name": "FileOnTap",
+    "url": "https://fileontap.com/",
+    "description": "A private in-browser file converter and compression suite that converts HEIC, WebP, PNG, JPG, and PDF documents on your device without server uploads.",
+    "coreTask": "Convert and compress images or compile multi-page PDF documents locally in the browser without an account.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1185,7 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7385
+    "githubStars": 7383
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1221,7 +1257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1433
+    "githubStars": 1436
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -1317,7 +1353,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2331
+    "githubStars": 2351
   },
   {
     "slug": "geojson-io",
@@ -1329,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2252
+    "githubStars": 2265
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1359,7 +1395,7 @@
     "slug": "gizmobench-com",
     "name": "GizmoBench",
     "url": "https://gizmobench.com",
-    "description": "GizmoBench is a collection of free browser tools for everyday tasks, including calculators, converters, JSON and Markdown utilities, image and audio tools, 3D viewers, and hardware checks. Every core tool works without an account. File tools process documents and images on your device without uploading them, and each tool explains its processing limits. IP address lookup uses the GizmoBench server.",
+    "description": "GizmoBench has more than 700 free browser tools: calculators and unit converters, text and developer utilities, image, PDF and audio tools, 3D file viewers, quizzes and device checks. Every tool's core job is free and needs no account. File tools process documents and images on your device without uploading them; network lookups such as IP and DNS use the GizmoBench server. Each tool says what it is accurate to and what it cannot know.",
     "coreTask": "Use every tool in full: convert units and number bases, format JSON, pick colours from an image, view an STL file",
     "category": "Productivity",
     "featured": false,
@@ -1521,7 +1557,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80430
+    "githubStars": 80595
   },
   {
     "slug": "httpbin-org",
@@ -1533,7 +1569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13619
+    "githubStars": 13640
   },
   {
     "slug": "icyzip-com",
@@ -1596,6 +1632,18 @@
     "githubStars": null
   },
   {
+    "slug": "imagetoascii-art",
+    "name": "Image to ASCII",
+    "url": "https://imagetoascii.art/",
+    "description": "A browser-based ASCII art generator and image converter that turns JPG, PNG, GIF, and WebP files into customizable character graphics with side-by-side comparison and high-resolution exports.",
+    "coreTask": "Upload an image, customize ASCII width and rendering presets, and export high-resolution PNG or plain text without an account.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "imgrove-com",
     "name": "imgrove",
     "url": "https://imgrove.com/",
@@ -1629,7 +1677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40651
+    "githubStars": 40814
   },
   {
     "slug": "meet-jit-si",
@@ -1641,7 +1689,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 29945
+    "githubStars": 30068
   },
   {
     "slug": "jottools-com",
@@ -1665,7 +1713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44439
+    "githubStars": 44472
   },
   {
     "slug": "jsonformatter-org",
@@ -1785,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15062
+    "githubStars": 15118
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -1809,7 +1857,7 @@
     "featured": false,
     "badge": "explicit",
     "repoUrl": "https://github.com/led-run/led.run",
-    "githubStars": 99
+    "githubStars": 101
   },
   {
     "slug": "verifiedlimits-com",
@@ -1884,6 +1932,18 @@
     "githubStars": null
   },
   {
+    "slug": "mdprevieweditor-com",
+    "name": "Markdown Preview Editor",
+    "url": "https://mdprevieweditor.com",
+    "description": "Free online Markdown editor with live preview, CodeMirror editing, multi-tab support, KaTeX math formulas, and instant local export without login.",
+    "coreTask": "Write, preview, and export Markdown documents in real-time without login",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
+    "githubStars": 28
+  },
+  {
     "slug": "mdconvert-net-zh-markdown-to-word",
     "name": "Markdown to Word Tool",
     "url": "https://mdconvert.net/zh/markdown-to-word",
@@ -1905,7 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13124
+    "githubStars": 13155
   },
   {
     "slug": "meeting-to-go-io",
@@ -1941,7 +2001,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6811
+    "githubStars": 6861
   },
   {
     "slug": "metadataremover-ai",
@@ -2004,9 +2064,9 @@
     "githubStars": null
   },
   {
-    "slug": "monkeetools-surge-sh",
+    "slug": "monkeetools-pages-dev",
     "name": "MonkeeTools",
-    "url": "https://monkeetools.surge.sh",
+    "url": "https://monkeetools.pages.dev/",
     "description": "Free invoice generator for freelancers. No signup, no account, nothing uploaded. Invoices are built in your browser tab and PDFs download straight to your device. It remembers you on-device: business auto-fill, client autocomplete, one-click invoice duplication with auto-incremented numbers, and paid/unpaid tracking. Includes an AI agent kit: prefill links any AI assistant can generate.",
     "coreTask": "Generate, customize, and export client invoices to PDF with client autocomplete",
     "category": "Finance",
@@ -2025,7 +2085,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20710
+    "githubStars": 20870
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2109,7 +2169,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6158
+    "githubStars": 6175
   },
   {
     "slug": "next-tools-dev",
@@ -2241,7 +2301,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11451
+    "githubStars": 11571
   },
   {
     "slug": "www-pastecurl-com",
@@ -2337,7 +2397,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": 112
+    "githubStars": 114
   },
   {
     "slug": "photomosh-com",
@@ -2361,7 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8443
+    "githubStars": 8482
   },
   {
     "slug": "piccollages-com",
@@ -2394,6 +2454,18 @@
     "description": "All-in-one browser image optimizer. Chain compress, resize, convert, crop, remove background, and watermark in a single pipeline — no upload wait, no signup. Everything runs client-side via WebAssembly. 15+ formats, batch processing, instant results.",
     "coreTask": "Compress, resize, convert, crop, remove backgrounds, and watermark images — all in one step, right in the browser",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-freedominvoice-com-tools-invoice-generator",
+    "name": "Pocket Invoice",
+    "url": "https://www.freedominvoice.com/tools/invoice-generator/",
+    "description": "Browser-based invoice maker with live line item calculation, tax and discount customization, and instant client-side PDF export without login.",
+    "coreTask": "Generate and download commercial invoices in PDF without login",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2433,7 +2505,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52332
+    "githubStars": 52429
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -2469,7 +2541,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6050
+    "githubStars": 6093
   },
   {
     "slug": "privacytests-org",
@@ -2481,7 +2553,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1224
+    "githubStars": 1229
   },
   {
     "slug": "privnote-com",
@@ -2559,7 +2631,7 @@
     "slug": "quicktinyv2-vercel-app",
     "name": "QuickTiny",
     "url": "https://quicktinyv2.vercel.app",
-    "description": "13 free browser-based tools — image compressor, JSON formatter, word counter, password generator, Base64/URL encode-decode, and more. Everything processes entirely client-side, with nothing uploaded to a server. Also includes an optional Batch Image Compressor (compress many images at once) for a one-time $4.99 payment via PayPal — no account or subscription required.",
+    "description": "13 browser-based tools (12 free, 1 optional Pro) — image compressor, JSON formatter, word counter, password generator, Base64/URL encode-decode, and more. Everything processes entirely client-side, with nothing uploaded to a server. Also includes an optional Batch Image Compressor (compress many images at once) for a one-time $4.99 payment via PayPal — no account or subscription required.",
     "coreTask": "Compress images, format JSON, count words, and encode or decode Base64 in your browser",
     "category": "Productivity",
     "featured": false,
@@ -2601,7 +2673,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9032
+    "githubStars": 9041
   },
   {
     "slug": "ray-so",
@@ -2640,6 +2712,18 @@
     "githubStars": 929
   },
   {
+    "slug": "reficompass-com",
+    "name": "Refi Compass",
+    "url": "https://reficompass.com",
+    "description": "Client-side mortgage decision calculator comparing rate-and-term refinance, cash-out refinance, HELOC, home equity loans, recast, and extra principal payments side by side with zero account requirement.",
+    "coreTask": "Compare eight mortgage and refinancing strategies side by side in your browser",
+    "category": "Finance",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "regex101-com",
     "name": "Regex101",
     "url": "https://regex101.com",
@@ -2649,7 +2733,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/firasdib/Regex101",
-    "githubStars": 3515
+    "githubStars": 3522
   },
   {
     "slug": "regexlearn-com",
@@ -2661,7 +2745,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4099
+    "githubStars": 4110
   },
   {
     "slug": "remove-bg",
@@ -2721,7 +2805,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1432
+    "githubStars": 1434
   },
   {
     "slug": "salitronic-com-gerber-analyzer",
@@ -2730,6 +2814,18 @@
     "description": "Free in-browser viewer for PCB fabrication files. Reads Gerber, ODB++ and IPC-2581, shows each layer and the assembled board, and runs a DRC, a layer diff and a pick-and-place view. Everything runs locally in your browser with no upload and no sign-up.",
     "coreTask": "View Gerber, ODB++ and IPC-2581 files, run a DRC, diff two layers, and see a pick-and-place view, all in the browser with nothing to install and no upload.",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "seatsolver-com",
+    "name": "SeatSolver",
+    "url": "https://seatsolver.com/",
+    "description": "Arrange event seating charts, resolve guest separation rules, and export printable place cards and CSV plans in your browser. Runs locally with zero account requirements or data uploads.",
+    "coreTask": "Create event seating charts",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2769,7 +2865,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10752
+    "githubStars": 10765
   },
   {
     "slug": "shields-io",
@@ -2781,7 +2877,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27189
+    "githubStars": 27253
   },
   {
     "slug": "signaturefont-net",
@@ -2877,7 +2973,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2217
+    "githubStars": 2237
   },
   {
     "slug": "squoosh-app",
@@ -2889,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 25930
+    "githubStars": 26018
   },
   {
     "slug": "stackedit-io",
@@ -2901,7 +2997,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23101
+    "githubStars": 23096
+  },
+  {
+    "slug": "stayput-dev",
+    "name": "Stayput",
+    "url": "https://stayput.dev",
+    "description": "Free, open-source file tools that process images, PDFs, and QR codes directly in your browser. Supports local compression, format conversion, and offline execution without file uploads.",
+    "coreTask": "Process files and generate QR codes",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": "https://github.com/keenanlk/stayput",
+    "githubStars": 0
   },
   {
     "slug": "studycalcpro-com",
@@ -2961,7 +3069,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 6197
+    "githubStars": 22715
   },
   {
     "slug": "syncwhen-com",
@@ -3009,7 +3117,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1733
+    "githubStars": 1739
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3045,7 +3153,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13021
+    "githubStars": 13050
   },
   {
     "slug": "textlogo-app",
@@ -3189,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 50383
+    "githubStars": 50852
   },
   {
     "slug": "tmp-tf",
@@ -3249,7 +3357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9233
+    "githubStars": 9241
   },
   {
     "slug": "tryink-me",
@@ -3285,7 +3393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111135
+    "githubStars": 111384
   },
   {
     "slug": "uicolors-app",
@@ -3429,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6751
+    "githubStars": 6771
   },
   {
     "slug": "webutilslab-com-tools",
@@ -3573,7 +3681,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5255
+    "githubStars": 5266
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -3609,7 +3717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3133
+    "githubStars": 3169
   },
   {
     "slug": "z-ai",
@@ -3633,6 +3741,18 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tholman/zenpen",
-    "githubStars": 3768
+    "githubStars": 3767
+  },
+  {
+    "slug": "zerowidthcleaner-com-zero-width-space",
+    "name": "Zero Width Space Cleaner",
+    "url": "https://zerowidthcleaner.com/zero-width-space/",
+    "description": "Inspect, identify, and selectively remove invisible zero-width Unicode characters and byte order marks directly in your browser. Features exact code-point mapping and local clipboard export.",
+    "coreTask": "Find and remove invisible Unicode characters",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   }
 ]
