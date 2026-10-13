@@ -345,7 +345,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5877
+    "githubStars": 5876
   },
   {
     "slug": "carbon-now-sh",
@@ -729,7 +729,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 547
+    "githubStars": 548
   },
   {
     "slug": "flukeout-github-io",
@@ -813,7 +813,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36069
+    "githubStars": 36093
   },
   {
     "slug": "dataformatkit-com",
@@ -909,7 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39543
+    "githubStars": 39546
   },
   {
     "slug": "app-diagrams-net",
@@ -921,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 8670
+    "githubStars": 8728
   },
   {
     "slug": "diagrflow-com",
@@ -1365,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2265
+    "githubStars": 2266
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1677,7 +1677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40814
+    "githubStars": 40836
   },
   {
     "slug": "meet-jit-si",
@@ -1689,7 +1689,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30068
+    "githubStars": 30076
   },
   {
     "slug": "jottools-com",
@@ -1713,7 +1713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44472
+    "githubStars": 44475
   },
   {
     "slug": "jsonformatter-org",
@@ -1833,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15118
+    "githubStars": 15125
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -1965,7 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13155
+    "githubStars": 13162
   },
   {
     "slug": "meeting-to-go-io",
@@ -2421,7 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8482
+    "githubStars": 8489
   },
   {
     "slug": "piccollages-com",
@@ -2541,7 +2541,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6093
+    "githubStars": 6107
   },
   {
     "slug": "privacytests-org",
@@ -2985,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26018
+    "githubStars": 26020
   },
   {
     "slug": "stackedit-io",
@@ -3069,7 +3069,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22715
+    "githubStars": 22725
   },
   {
     "slug": "syncwhen-com",
@@ -3393,7 +3393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111384
+    "githubStars": 111432
   },
   {
     "slug": "uicolors-app",
@@ -3537,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6771
+    "githubStars": 6774
   },
   {
     "slug": "webutilslab-com-tools",
@@ -3681,7 +3681,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5266
+    "githubStars": 5269
   },
   {
     "slug": "xe-com-currencyconverter",
