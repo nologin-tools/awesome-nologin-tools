@@ -141,7 +141,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6545
+    "githubStars": 6546
   },
   {
     "slug": "audiotrimmer-com",
@@ -261,7 +261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9605
+    "githubStars": 9603
   },
   {
     "slug": "bunengchi-com",
@@ -357,7 +357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36107
+    "githubStars": 36110
   },
   {
     "slug": "cfiresim-com",
@@ -513,7 +513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19122
+    "githubStars": 19128
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -765,7 +765,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3398
+    "githubStars": 3397
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1065,7 +1065,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 133681
+    "githubStars": 133834
   },
   {
     "slug": "explainshell-com",
@@ -1077,7 +1077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14279
+    "githubStars": 14286
   },
   {
     "slug": "extract-express",
@@ -1257,7 +1257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1436
+    "githubStars": 1437
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -1353,7 +1353,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2351
+    "githubStars": 2349
   },
   {
     "slug": "geojson-io",
@@ -1557,7 +1557,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80595
+    "githubStars": 80621
   },
   {
     "slug": "httpbin-org",
@@ -2001,7 +2001,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6861
+    "githubStars": 6862
   },
   {
     "slug": "metadataremover-ai",
@@ -2085,7 +2085,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20870
+    "githubStars": 20882
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2169,7 +2169,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6175
+    "githubStars": 6174
   },
   {
     "slug": "next-tools-dev",
@@ -2301,7 +2301,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11571
+    "githubStars": 11582
   },
   {
     "slug": "www-pastecurl-com",
@@ -2505,7 +2505,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52429
+    "githubStars": 52452
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -2709,7 +2709,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 929
+    "githubStars": 931
   },
   {
     "slug": "reficompass-com",
@@ -2745,7 +2745,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4110
+    "githubStars": 4109
   },
   {
     "slug": "remove-bg",
@@ -2805,7 +2805,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1434
+    "githubStars": 1435
   },
   {
     "slug": "salitronic-com-gerber-analyzer",
@@ -2865,7 +2865,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10765
+    "githubStars": 10764
   },
   {
     "slug": "shields-io",
@@ -2877,7 +2877,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27253
+    "githubStars": 27259
   },
   {
     "slug": "signaturefont-net",
@@ -2973,7 +2973,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2237
+    "githubStars": 2238
   },
   {
     "slug": "squoosh-app",
@@ -2997,7 +2997,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23096
+    "githubStars": 23093
   },
   {
     "slug": "stayput-dev",
@@ -3117,7 +3117,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1739
+    "githubStars": 1740
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3297,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 50852
+    "githubStars": 50909
   },
   {
     "slug": "tmp-tf",
@@ -3717,7 +3717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3169
+    "githubStars": 3172
   },
   {
     "slug": "z-ai",
