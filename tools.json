@@ -177,7 +177,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3018
+    "githubStars": 3024
   },
   {
     "slug": "banglatools-com",
@@ -837,7 +837,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 409
+    "githubStars": 410
   },
   {
     "slug": "db-fiddle-com",
@@ -1941,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 28
+    "githubStars": 29
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2421,7 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8489
+    "githubStars": 8490
   },
   {
     "slug": "piccollages-com",
@@ -2985,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26020
+    "githubStars": 26025
   },
   {
     "slug": "stackedit-io",
@@ -3153,7 +3153,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13050
+    "githubStars": 13062
   },
   {
     "slug": "textlogo-app",
