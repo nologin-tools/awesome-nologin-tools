@@ -35,7 +35,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Paraphrase and rewrite text with AI_
 - **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1740) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
-- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐13050) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
+- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐13062) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
 - **[Z.ai Chat](https://z.ai)** — Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.
   > _No-login task: Chat with GLM AI models for writing, coding, and analysis_
@@ -78,7 +78,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Convert a photo into a print-ready halftone pattern in the browser._
 - **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6174) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
-- **[Photopea](https://photopea.com)** ([Source](https://github.com/photopea/photopea) ⭐8489) — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
+- **[Photopea](https://photopea.com)** ([Source](https://github.com/photopea/photopea) ⭐8490) — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
 - **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐931) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
@@ -86,7 +86,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Remove image backgrounds automatically using AI_
 - **[Signature Font](https://signaturefont.net/)** — Create and preview signature-style fonts for names, branding and personal design without creating an account.
   > _No-login task: Generate and preview signature-style font text in the browser without logging in._
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐26020) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐26025) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[SVG Viewer](https://svgviewer.app/)** — SVG Viewer is a free online toolkit designed to help designers, developers, and creators view, edit, optimize, and convert SVG files directly in their web browser. Instead of installing dedicated graphics software, users can upload an SVG file or paste SVG code and immediately see a real-time visual preview. The platform requires no sign-up, making it a convenient solution for quickly working with vector graphics.
   > _No-login task: View & edit SVG files with real-time preview_
@@ -131,7 +131,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
 - **[Leet Speak Translator](https://leettranslator.com/)** — A client-side text converter that transforms plain English into 1337 leet speak and decodes leet representations back into standard text with customizable mapping modes.
   > _No-login task: Convert English text to leet speak or decode 1337 back to plain English in real time without creating an account._
-- **[Markdown Preview Editor](https://mdprevieweditor.com)** ([Source](https://github.com/ovasendin/markdown_preview_editor) ⭐28) — Free online Markdown editor with live preview, CodeMirror editing, multi-tab support, KaTeX math formulas, and instant local export without login.
+- **[Markdown Preview Editor](https://mdprevieweditor.com)** ([Source](https://github.com/ovasendin/markdown_preview_editor) ⭐29) — Free online Markdown editor with live preview, CodeMirror editing, multi-tab support, KaTeX math formulas, and instant local export without login.
   > _No-login task: Write, preview, and export Markdown documents in real-time without login_
 - **[Markdown to Word Tool](https://mdconvert.net/zh/markdown-to-word)** — Convert Markdown documents to Word online for writing and documentation workflows.
   > _No-login task: Convert Markdown to a Word document without login._
@@ -433,7 +433,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Calculate and compare aspect ratios, find resolutions for a given ratio, and check pixel density_
 - **[Audio Trimmer](https://audiotrimmer.com)** — Simple online tool to trim audio files. Upload your audio, select the part you want to keep, and download the trimmed file. Supports MP3, WAV, and other formats.
   > _No-login task: Trim and cut audio files online_
-- **[AudioMass ★](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐3018) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
+- **[AudioMass ★](https://audiomass.co)** ([Source](https://github.com/pkalogiros/AudioMass) ⭐3024) — Open-source browser-based audio editor with waveform visualization, cut/copy/paste editing, and effects including normalize, fade in/out, reverse, and amplify. Processes audio entirely in your browser — no uploads to any server.
   > _No-login task: Edit audio files directly in your browser with waveform editing, effects, and export — no installation or account needed._
 - **[chordgen](https://chordgen.app/)** — Free online chord progression generator. Pick a key and mood, press play, and start writing. No sign-up.
   > _No-login task: Generate and play chord progressions in the browser without creating an account_
@@ -555,7 +555,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Convert between CSV, JSON, and SQL data formats_
 - **[DataFormatKit](https://dataformatkit.com/)** — DataFormatKit offers free tools to convert text to CSV, XML to CSV, JSON to CSV or Excel, and CSV to Excel. Preview rows and columns, check CSV structure, and download the results. Source files are processed locally in your browser, and the core tools require no account.
   > _No-login task: Convert data between text, XML, JSON, and CSV formats with spreadsheet preview_
-- **[Datasette Lite ★](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐409) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
+- **[Datasette Lite ★](https://lite.datasette.io)** ([Source](https://github.com/simonw/datasette-lite) ⭐410) — Datasette running entirely in your browser via WebAssembly (Pyodide). Upload SQLite databases or CSV files and explore them with a full SQL interface — no server, no account, and your data never leaves your device. Built on the popular Datasette data exploration framework by Simon Willison.
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
 - **[DB Fiddle](https://www.db-fiddle.com)** — Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.
   > _No-login task: Run SQL queries online_
