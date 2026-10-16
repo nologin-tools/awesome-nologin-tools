@@ -90,7 +90,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[SVG Viewer](https://svgviewer.app/)** — SVG Viewer is a free online toolkit designed to help designers, developers, and creators view, edit, optimize, and convert SVG files directly in their web browser. Instead of installing dedicated graphics software, users can upload an SVG file or paste SVG code and immediately see a real-time visual preview. The platform requires no sign-up, making it a convenient solution for quickly working with vector graphics.
   > _No-login task: View & edit SVG files with real-time preview_
-- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/svg/svgo) ⭐22725) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
+- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/svg/svgo) ⭐22743) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
 - **[Text Logo](https://textlogo.app/)** — Create custom text logos, wordmarks, and typography logos in your browser with editable fonts, colors, icons, shapes, backgrounds, and SVG, PNG, WebP, or ICO export.
   > _No-login task: Create a custom text logo and export it as SVG or PNG without creating an account or logging in._
@@ -121,13 +121,13 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Count words and characters in the browser without login_
 - **[Diagrflow](https://diagrflow.com/)** — Diagrflow is a focused tool for journal-ready PRISMA 2020 flow diagrams. Type systematic-review counts, preview the official identification, screening, eligibility, and included boxes, and export clean SVG or PNG with no watermark.
   > _No-login task: Type systematic-review counts, preview identification through included boxes, and export SVG or PNG_
-- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8292) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
+- **[Dillinger](https://dillinger.io)** ([Source](https://github.com/joemccann/dillinger) ⭐8293) — Cloud-enabled, mobile-ready, offline-storage compatible Markdown editor. Preview rendered Markdown in real-time as you type.
   > _No-login task: Write and preview Markdown documents with live rendering_
 - **[Headline Capitalization](https://headlinecapitalization.com)** — A free tool that instantly capitalizes titles and headlines according to AP, APA, MLA, and Chicago style guides. Includes reference guides for book titles, essay titles, resumes, social media captions, and more. No account or login required.
   > _No-login task: Capitalize a title or headline instantly using AP, APA, MLA, or Chicago style rules, right in the browser_
 - **[Hemingway Editor](https://hemingwayapp.com)** — Writing assistant that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases. Helps make your writing bold and clear.
   > _No-login task: Improve writing clarity by highlighting complex and hard-to-read text_
-- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐15125) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
+- **[LanguageTool](https://languagetool.org)** ([Source](https://github.com/languagetool-org/languagetool) ⭐15141) — Multilingual grammar, style, and spell checker that supports over 30 languages. Detects errors that simple spell checkers cannot find.
   > _No-login task: Check grammar, spelling, and style in 30+ languages_
 - **[Leet Speak Translator](https://leettranslator.com/)** — A client-side text converter that transforms plain English into 1337 leet speak and decodes leet representations back into standard text with customizable mapping modes.
   > _No-login task: Convert English text to leet speak or decode 1337 back to plain English in real time without creating an account._
@@ -204,7 +204,7 @@ https://textkit.tech
   > _No-login task: Encode, decode, and transform data_
 - **[Decode Base64](https://decode-base64.com/)** — Decode Base64 to text or encode text to Base64, including URL-safe input, directly in the browser without an account.
   > _No-login task: Encode or decode Base64 text instantly in your browser._
-- **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐39546) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
+- **[DevDocs](https://devdocs.io)** ([Source](https://github.com/freeCodeCamp/devdocs) ⭐39553) — Combines multiple API documentations in a fast, organized, and searchable interface. Covers JavaScript, HTML, CSS, Node.js, Ruby, Python, and hundreds more.
   > _No-login task: Search and browse developer documentation for hundreds of APIs_
 - **[Diffhero](https://diffhero.app)** — Free, browser-based diff checker for text and code — paste two versions and see every added, removed, and changed line, with word-level highlighting. Nothing uploaded.
   > _No-login task: Compare two texts or code snippets with word-level highlighting, syntax-aware diffing for ~17 languages, and export as .diff_
@@ -263,7 +263,7 @@ Supported Categories:
   > _No-login task: Preview Prettier code formatting_
 - **[Ray.so](https://ray.so)** — Create beautiful code screenshots with customizable themes, backgrounds, and padding. By Raycast.
   > _No-login task: Generate beautiful code screenshots_
-- **[Regex101](https://regex101.com)** ([Source](https://github.com/firasdib/Regex101) ⭐3522) — Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.
+- **[Regex101](https://regex101.com)** ([Source](https://github.com/firasdib/Regex101) ⭐3521) — Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
 - **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1435) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
@@ -561,7 +561,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Run SQL queries online_
 - **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2266) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
-- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44475) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
+- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44480) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
 - **[MarkAny](https://markany.ai/)** — Convert PDF, Word, Excel, PowerPoint, HTML, EPUB, and image files to structured Markdown with automatic OCR, or export editable Markdown to common document, image, ebook, slide, and spreadsheet formats.
   > _No-login task: Batch-convert documents, web pages, and files into clean Markdown_
@@ -588,7 +588,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[IcyZip](https://icyzip.com/)** — IcyZip pairs two browsers by QR code or link to move live text or send one file between phones and computers. No account or app is required. Current clients encrypt content in the browser before the server relays ciphertext; the service can still see connection and file-offer metadata. It requires internet access and a second device or browser, and is not cloud storage, folder sync, background clipboard, or offline/LAN transfer.
   > _No-login task: Pair two browsers, move live text, and send one file by QR code or link._
-- **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐30076) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
+- **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐30090) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
 - **[Morse Code Translator](https://morsecodetranslator.tools/)** — Translate text to Morse code and Morse code to text instantly in your browser.
   > _No-login task: Translate text and Morse code in either direction without creating an account._
