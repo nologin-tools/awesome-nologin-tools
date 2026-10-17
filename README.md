@@ -56,11 +56,11 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate CSS gradient code visually_
 - **[Cubic Bezier](https://cubic-bezier.com)** ([Source](https://github.com/LeaVerou/cubic-bezier) ⭐184) — Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.
   > _No-login task: Edit CSS bezier easing curves_
-- **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐8728) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
+- **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐8826) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
 - **[Excalidraw ★](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐133834) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
-- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17799) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
+- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17801) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects_
@@ -159,7 +159,7 @@ https://textkit.tech
   > _No-login task: Count words and characters, format and validate JSON, convert text case, generate URL slugs, diff two texts, find and replace with regex, sort and dedupe lists, extract emails, build markdown tables,_
 - **[WordPad Online](https://wordpad-online.com/)** — A browser-based WordPad editor for writing, formatting and saving notes without installing software or creating an account.
   > _No-login task: Write, format and save notes directly in the browser without logging in._
-- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5269) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
+- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5273) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
 - **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3767) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
@@ -196,11 +196,11 @@ https://textkit.tech
   > _No-login task: Test any game controller — buttons, sticks, triggers, rumble — and get a pass/fail stick-drift verdict, all in the browser._
 - **[Cookies Extractor](https://cookies-extractor.chekun.me/)** ([Source](https://github.com/chekun/cookies-extractor) ⭐1) — A simple yet powerful Chrome extension that helps you extract and export cookies from any website with just one click.
   > _No-login task: Extract Cookies_
-- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐548) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
+- **[Crontab Guru](https://crontab.guru)** ([Source](https://github.com/cronitorio/cronitor-cli) ⭐550) — Visual cron expression editor with human-readable explanations. Quickly build and validate cron schedules.
   > _No-login task: Edit and understand cron expressions_
 - **[CSV SafeCheck](https://csv-safecheck.pages.dev/)** ([Source](https://github.com/ReconcileKit/csv-safecheck) ⭐0) — Check Shopify product CSVs before import. CSV SafeCheck flags missing required columns, invalid values, duplicate handles, option and SKU risks, and formula-like cells. Deterministic safe fixes and reports are generated locally in your browser, with no upload, account, tracker, or cookie.
   > _No-login task: Validate Shopify product CSVs, review import risks, and download local reports or deterministic safe fixes._
-- **[CyberChef ★](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐36093) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
+- **[CyberChef ★](https://gchq.github.io/CyberChef/)** ([Source](https://github.com/gchq/CyberChef) ⭐36140) — The Cyber Swiss Army Knife — encode, decode, encrypt, compress, and analyze data with a drag-and-drop recipe builder.
   > _No-login task: Encode, decode, and transform data_
 - **[Decode Base64](https://decode-base64.com/)** — Decode Base64 to text or encode text to Base64, including URL-safe input, directly in the browser without an account.
   > _No-login task: Encode or decode Base64 text instantly in your browser._
@@ -235,7 +235,7 @@ Supported Categories:
   > _No-login task: Convert files between 500+ formats across images, PDFs, audio, video, and documents_
 - **[IgnLab](https://ignlab.net/)** — A free collection of 14 browser-based web tools for developers and designers: batch image converter & optimizer, CSS and SVG generators, QR code generator, data extractor, email template tester, agile boards and more. Every tool runs 100% client-side.
   > _No-login task: Convert and optimize images, generate CSS/SVG effects, create QR codes, extract data from text, and more - every tool's full functionality is usable with no account._
-- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐40836) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
+- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐40872) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
   > _No-login task: Access 70+ developer utilities_
 - **[JSON Formatter](https://jsonformatter.org)** — Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.
   > _No-login task: Format, validate, and beautify JSON data_
@@ -275,13 +275,13 @@ Supported Categories:
   > _No-login task: Generate a sprite sheet preview anonymously in the browser without creating an account_
 - **[Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=zh)** — Telemetry 的免费 SQL 练习场：无需注册，即可在浏览器中对内置的模拟应用事件运行查询，查看错误率、请求量和延迟，练习如何验证一次发布后的结果。示例在浏览器内通过 DuckDB 执行，不代表真实客户数据或性能基准。此提交仅指公开练习场；接入自己的事件数据需要注册 Telemetry。由产品创建者 JR（@TheBuilderJR）提交，文案使用 AI 辅助整理。
   > _No-login task: 选择内置的模拟事件示例，在浏览器中编辑并执行 SQL，查看请求量、错误率和延迟结果，无需账号。_
-- **[TypeScript Playground](https://typescriptlang.org/play)** ([Source](https://github.com/microsoft/TypeScript) ⭐111432) — Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.
+- **[TypeScript Playground](https://typescriptlang.org/play)** ([Source](https://github.com/microsoft/TypeScript) ⭐111503) — Write, compile, and run TypeScript code in the browser. Official Microsoft tool with full type checking and IntelliSense.
   > _No-login task: Write and test TypeScript code online_
 - **[Visual Prompt Compiler](https://visualpromptcompiler.com/)** — Compile visual briefs locally into model-ready prompts and portable JSON for Seedream and Nano Banana, with explicit preserve/change rules, reference roles, warnings, and adapter differences. No account or image upload is required.
   > _No-login task: Compile a visual brief into structured prompts and portable JSON, set preserve/change boundaries and reference roles, review warnings, and copy model-specific instructions._
 - **[WAVE](https://wave.webaim.org)** — Web accessibility evaluation tool by WebAIM. Enter any URL to get a detailed accessibility report with WCAG compliance checks.
   > _No-login task: Evaluate web accessibility_
-- **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6774) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
+- **[Webhook.site](https://webhook.site)** ([Source](https://github.com/webhooksite/webhook.site) ⭐6775) — Instantly test and debug webhooks and HTTP requests. Get a unique URL to inspect incoming requests in real time.
   > _No-login task: Test and debug webhooks_
 - **[WebUtilsLab](https://webutilslab.com/tools/)** — Local-first browser tools for developers: JSON formatting, JWT decoding, URL query parsing, chmod/umask calculators, cron helpers, timestamps, hashes, UUIDs, and more. No login required; tool inputs are processed in the browser where possible.
   > _No-login task: Use browser-based developer tools such as JSON formatting, JWT decoding, URL query parsing, chmod/umask calculators, cron helpers, timestamp conversion, hash generation, and UUID generation without cr_
@@ -534,7 +534,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Detect IP and DNS leaks_
 - **[Metadata Remover](https://metadataremover.ai/)** — Free browser-based tool to inspect and remove supported EXIF, GPS, XMP, IPTC and AI metadata from JPG, PNG and WebP images. Files stay local and no account is required.
   > _No-login task: Inspect and remove supported metadata from JPG, PNG and WebP images, then download the cleaned copy_
-- **[privacy.sexy ★](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐6107) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
+- **[privacy.sexy ★](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐6121) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
 - **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1229) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
@@ -559,13 +559,13 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Explore and query SQLite databases and CSV files directly in your browser using SQL, with no installation or account needed._
 - **[DB Fiddle](https://www.db-fiddle.com)** — Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.
   > _No-login task: Run SQL queries online_
-- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2266) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
+- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2271) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
 - **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44480) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
 - **[MarkAny](https://markany.ai/)** — Convert PDF, Word, Excel, PowerPoint, HTML, EPUB, and image files to structured Markdown with automatic OCR, or export editable Markdown to common document, image, ebook, slide, and spreadsheet formats.
   > _No-login task: Batch-convert documents, web pages, and files into clean Markdown_
-- **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐13162) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
+- **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐13171) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐101) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
