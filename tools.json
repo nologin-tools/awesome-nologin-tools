@@ -729,7 +729,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 548
+    "githubStars": 550
   },
   {
     "slug": "flukeout-github-io",
@@ -813,7 +813,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36093
+    "githubStars": 36140
   },
   {
     "slug": "dataformatkit-com",
@@ -921,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 8728
+    "githubStars": 8826
   },
   {
     "slug": "diagrflow-com",
@@ -1137,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17799
+    "githubStars": 17801
   },
   {
     "slug": "fffuel-co",
@@ -1365,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2266
+    "githubStars": 2271
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1677,7 +1677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40836
+    "githubStars": 40872
   },
   {
     "slug": "meet-jit-si",
@@ -1965,7 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13162
+    "githubStars": 13171
   },
   {
     "slug": "meeting-to-go-io",
@@ -2541,7 +2541,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6107
+    "githubStars": 6121
   },
   {
     "slug": "privacytests-org",
@@ -3393,7 +3393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111432
+    "githubStars": 111503
   },
   {
     "slug": "uicolors-app",
@@ -3537,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6774
+    "githubStars": 6775
   },
   {
     "slug": "webutilslab-com-tools",
@@ -3681,7 +3681,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5269
+    "githubStars": 5273
   },
   {
     "slug": "xe-com-currencyconverter",
