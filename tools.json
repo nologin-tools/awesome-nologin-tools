@@ -261,7 +261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9603
+    "githubStars": 9606
   },
   {
     "slug": "bunengchi-com",
@@ -333,7 +333,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 945
+    "githubStars": 947
   },
   {
     "slug": "caniuse-com",
@@ -357,7 +357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36110
+    "githubStars": 36116
   },
   {
     "slug": "cfiresim-com",
@@ -513,7 +513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19128
+    "githubStars": 19137
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1065,7 +1065,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 133834
+    "githubStars": 134078
   },
   {
     "slug": "explainshell-com",
@@ -1077,7 +1077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14286
+    "githubStars": 14292
   },
   {
     "slug": "extract-express",
@@ -1221,7 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7383
+    "githubStars": 7384
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1353,7 +1353,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2349
+    "githubStars": 2351
   },
   {
     "slug": "geojson-io",
@@ -1575,7 +1575,7 @@
     "slug": "icyzip-com",
     "name": "IcyZip",
     "url": "https://icyzip.com/",
-    "description": "IcyZip pairs two browsers by QR code or link to move live text or send one file between phones and computers. No account or app is required. Current clients encrypt content in the browser before the server relays ciphertext; the service can still see connection and file-offer metadata. It requires internet access and a second device or browser, and is not cloud storage, folder sync, background clipboard, or offline/LAN transfer.",
+    "description": "IcyZip pairs exactly two open browsers by QR code or short private link. Current v4 clients exchange P-256 ECDH public keys after pairing and derive separate text and file keys with HKDF-SHA-256; no encryption key is embedded in the QR code or link. The relay sees ciphertext plus necessary connection data and file name, type and size. No account or app is required; both browsers stay open and online. The hosted service is proprietary; its isolated E2EE component and tests are Apache-2.0.",
     "coreTask": "Pair two browsers, move live text, and send one file by QR code or link.",
     "category": "Communication",
     "featured": false,
@@ -2553,7 +2553,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1229
+    "githubStars": 1231
   },
   {
     "slug": "privnote-com",
@@ -2805,7 +2805,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1435
+    "githubStars": 1436
   },
   {
     "slug": "salitronic-com-gerber-analyzer",
@@ -3297,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 50909
+    "githubStars": 50965
   },
   {
     "slug": "tmp-tf",
