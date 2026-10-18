@@ -58,7 +58,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Edit CSS bezier easing curves_
 - **[Diagrams.net](https://app.diagrams.net)** ([Source](https://github.com/jgraph/drawio) ⭐8826) — Create flowcharts, UML diagrams, network diagrams, and more. Formerly draw.io, the most powerful free online diagramming tool.
   > _No-login task: Create flowcharts and diagrams_
-- **[Excalidraw ★](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐133834) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
+- **[Excalidraw ★](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐134078) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
 - **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17801) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
@@ -96,7 +96,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create a custom text logo and export it as SVG or PNG without creating an account or logging in._
 - **[TinyPNG](https://tinypng.com)** ([Source](https://github.com/tinify/iMessage-Panda-sticker) ⭐86) — Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.
   > _No-login task: Compress PNG, JPEG, and WebP images_
-- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐50909) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
+- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐50965) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
   > _No-login task: Draw diagrams and visual notes on an infinite canvas_
 - **[TryInk](https://tryink.me/)** — TryInk is a tattoo try-on tool: upload a body photo, place a design, and preview size and placement on your own skin before an appointment.
   > _No-login task: upload a body photo, place a design, and preview size and placement on your own skin_
@@ -170,15 +170,15 @@ https://textkit.tech
   > _No-login task: Explore code abstract syntax trees_
 - **[BiznTools JSON to CSV](https://bizntools.com/data/json-to-csv-converter)** — Convert JSON arrays and nested object hierarchies into flat CSV spreadsheets in your browser. Features live tabular preview, custom delimiters, and local file export without server uploads.
   > _No-login task: Convert JSON to CSV_
-- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9603) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
+- **[Bundlephobia](https://bundlephobia.com)** ([Source](https://github.com/pastelsky/bundlephobia) ⭐9606) — Find the cost of adding an npm package to your bundle. View size, download time, and composition of any package.
   > _No-login task: Analyze npm package bundle size_
 - **[BytePane](https://bytepane.com/)** — Free browser-based developer utilities for JSON formatting, Base64 encoding, regex testing, UUID generation, color conversion, and everyday coding tasks.
   > _No-login task: Format JSON, encode Base64, test regex, generate UUIDs, and use browser developer utilities._
-- **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐945) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
+- **[Can I Email](https://caniemail.com)** ([Source](https://github.com/HTeuMeuLeu/caniemail) ⭐947) — Check HTML and CSS support across email clients. Like Can I Use, but for email — know what works in Gmail, Outlook, Apple Mail, and more.
   > _No-login task: Check email client HTML/CSS support_
 - **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5876) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
-- **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36110) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
+- **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36116) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
 - **[Claude-resets](https://claude-resets.com)** — A real-time tracking dashboard for Anthropic Claude Code rate limit reset intervals, historical cooldown periods, and usage reset announcements.
   > _No-login task: Check current time elapsed since the last Claude Code rate limit reset and review historical interval statistics without logging in._
@@ -188,7 +188,7 @@ https://textkit.tech
   > _No-login task: Compare text, code, JSON and documents, then inspect changes in line, word and character views._
 - **[CompareTexts](https://comparetexts.net/)** — Side-by-side text and code difference viewer with inline character highlights, unified patch export, and zero-egress local comparison without login.
   > _No-login task: Compare text and code diffs side-by-side and export patches without login_
-- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐19128) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
+- **[Compiler Explorer](https://godbolt.org)** ([Source](https://github.com/compiler-explorer/compiler-explorer) ⭐19137) — Interactive compiler explorer that shows assembly output for 60+ languages. Compare compilers and optimization levels side by side.
   > _No-login task: View compiler assembly output interactively_
 - **[Context Window VRAM Calculator](https://contextwindowvramcalculator.com/)** — Calculate LLM context-window VRAM, KV cache per token, total GPU memory, and maximum context with GQA or MQA, FP16, FP8, Q4, concurrency, and GPU-budget controls.
   > _No-login task: Calculate LLM context, KV-cache, and total GPU memory._
@@ -210,7 +210,7 @@ https://textkit.tech
   > _No-login task: Compare two texts or code snippets with word-level highlighting, syntax-aware diffing for ~17 languages, and export as .diff_
 - **[dochost](https://dochost.io)** — Paste HTML or Markdown and get a clean hosted URL you can share immediately. No account, no build step, with a live Markdown preview as you type. Also publishable straight from the command line.
   > _No-login task: Paste HTML or Markdown, preview it live, and publish it to a shareable hosted URL without creating an account._
-- **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐14286) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
+- **[ExplainShell](https://explainshell.com)** ([Source](https://github.com/idank/explainshell) ⭐14292) — Parse and explain shell commands. Paste any command line to get a detailed breakdown of each argument and flag.
   > _No-login task: Explain shell command syntax_
 - **[Fomrix STL Viewer](https://fomrix.com/stl-viewer)** — Fomrix STL Viewer is a free STL viewer online for opening and inspecting mesh geometry in the browser without an account. Rotate and zoom the model, inspect triangle counts and dimensions, and keep the original file unchanged. The viewer does not certify printability. This listing covers the independent STL viewer only; Fomrix AI model generation is separate and requires an account and credits.
   > _No-login task: Open an STL mesh, rotate and zoom it, and inspect triangle counts and dimensions without creating an account._
@@ -265,7 +265,7 @@ Supported Categories:
   > _No-login task: Generate beautiful code screenshots_
 - **[Regex101](https://regex101.com)** ([Source](https://github.com/firasdib/Regex101) ⭐3521) — Online regex tester and debugger for PHP, PCRE, Python, Golang, and JavaScript. Build, test, and debug regex patterns with real-time explanation and match highlighting.
   > _No-login task: Build, test, and debug regular expressions with real-time feedback_
-- **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1435) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
+- **[Rust Playground](https://play.rust-lang.org)** ([Source](https://github.com/rust-lang/rust-playground) ⭐1436) — Official Rust online compiler and execution environment. Write, compile, and run Rust code directly in the browser.
   > _No-login task: Compile and run Rust code online_
 - **[Salitronic Gerber Analyzer](https://salitronic.com/gerber_analyzer)** — Free in-browser viewer for PCB fabrication files. Reads Gerber, ODB++ and IPC-2581, shows each layer and the assembled board, and runs a DRC, a layer diff and a pick-and-place view. Everything runs locally in your browser with no upload and no sign-up.
   > _No-login task: View Gerber, ODB++ and IPC-2581 files, run a DRC, diff two layers, and see a pick-and-place view, all in the browser with nothing to install and no upload._
@@ -536,7 +536,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Inspect and remove supported metadata from JPG, PNG and WebP images, then download the cleaned copy_
 - **[privacy.sexy ★](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐6121) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
-- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1229) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
+- **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1231) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
 - **[Security Headers](https://securityheaders.com)** — Analyze HTTP security headers of any website. Get a grade and recommendations for CSP, HSTS, X-Frame-Options, and more.
   > _No-login task: Analyze HTTP security headers_
@@ -586,7 +586,7 @@ banner ads — no popups, no paywalled features.
 
 - **[AskMeAnything](https://askmeanythi.ng)** ([Source](https://github.com/nologin-tools/AskMeAnythi.ng) ⭐0) — The simplest way to host an AMA session. Create a space, share the link, and start answering. No registration required.
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
-- **[IcyZip](https://icyzip.com/)** — IcyZip pairs two browsers by QR code or link to move live text or send one file between phones and computers. No account or app is required. Current clients encrypt content in the browser before the server relays ciphertext; the service can still see connection and file-offer metadata. It requires internet access and a second device or browser, and is not cloud storage, folder sync, background clipboard, or offline/LAN transfer.
+- **[IcyZip](https://icyzip.com/)** — IcyZip pairs exactly two open browsers by QR code or short private link. Current v4 clients exchange P-256 ECDH public keys after pairing and derive separate text and file keys with HKDF-SHA-256; no encryption key is embedded in the QR code or link. The relay sees ciphertext plus necessary connection data and file name, type and size. No account or app is required; both browsers stay open and online. The hosted service is proprietary; its isolated E2EE component and tests are Apache-2.0.
   > _No-login task: Pair two browsers, move live text, and send one file by QR code or link._
 - **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐30090) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
@@ -623,9 +623,9 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Compute discrete logarithms and review the modular arithmetic baby-step/giant-step table without registration._
 - **[Drunk Calculator](https://drunkcalc.org/)** — Free blood alcohol content (BAC) estimator using the modified Widmark formula. Enter weight, standard drinks or serving size and ABV, and time since the first drink for live estimates and approximate time to zero. Calculations run in the browser without an account. Includes BAC reference guides. Educational estimates only; not a measurement or a way to decide whether it is safe to drive.
   > _No-login task: Estimate BAC and approximate time to zero, compare standard drinks, and read BAC reference guides without signing up._
-- **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7383) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
+- **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7384) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
   > _No-login task: Learn CSS Flexbox through a game_
-- **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2349) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
+- **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2351) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
   > _No-login task: Explore geometry, algebra, and calculus with interactive math tools_
 - **[Geometry Calculator](https://geometry-formulas.com/geometry-calculator/)** — Free browser-based geometry formulas and calculators for common 2D and 3D shapes. Includes area, perimeter, volume, surface area formulas, diagrams, worked examples, and step-by-step calculator outputs without requiring an account.
   > _No-login task: Calculate 2D and 3D geometry formulas, perimeters, areas, and volumes_
