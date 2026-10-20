@@ -621,7 +621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 278
+    "githubStars": 277
   },
   {
     "slug": "convertlo-pro",
@@ -729,7 +729,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 550
+    "githubStars": 551
   },
   {
     "slug": "flukeout-github-io",
@@ -789,7 +789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 458
+    "githubStars": 457
   },
   {
     "slug": "cubic-bezier-com",
@@ -813,7 +813,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36140
+    "githubStars": 36163
   },
   {
     "slug": "dataformatkit-com",
@@ -909,7 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39553
+    "githubStars": 39562
   },
   {
     "slug": "app-diagrams-net",
@@ -921,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 8826
+    "githubStars": 8885
   },
   {
     "slug": "diagrflow-com",
@@ -957,7 +957,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8293
+    "githubStars": 8292
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1137,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17801
+    "githubStars": 17802
   },
   {
     "slug": "fffuel-co",
@@ -1677,7 +1677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40872
+    "githubStars": 40913
   },
   {
     "slug": "meet-jit-si",
@@ -1689,7 +1689,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30090
+    "githubStars": 30110
   },
   {
     "slug": "jottools-com",
@@ -1713,7 +1713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44480
+    "githubStars": 44509
   },
   {
     "slug": "jsonformatter-org",
@@ -1833,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15141
+    "githubStars": 15163
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -1941,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 29
+    "githubStars": 30
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2733,7 +2733,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/firasdib/Regex101",
-    "githubStars": 3521
+    "githubStars": 3524
   },
   {
     "slug": "regexlearn-com",
@@ -3069,7 +3069,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22743
+    "githubStars": 22760
   },
   {
     "slug": "syncwhen-com",
@@ -3393,7 +3393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111503
+    "githubStars": 111550
   },
   {
     "slug": "uicolors-app",
@@ -3537,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6775
+    "githubStars": 6777
   },
   {
     "slug": "webutilslab-com-tools",
