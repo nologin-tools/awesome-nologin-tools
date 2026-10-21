@@ -1065,7 +1065,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 134078
+    "githubStars": 134293
   },
   {
     "slug": "explainshell-com",
@@ -1365,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2271
+    "githubStars": 2272
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1965,7 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13171
+    "githubStars": 13182
   },
   {
     "slug": "meeting-to-go-io",
@@ -2541,7 +2541,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6121
+    "githubStars": 6133
   },
   {
     "slug": "privacytests-org",
@@ -3297,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 50965
+    "githubStars": 51017
   },
   {
     "slug": "tmp-tf",
