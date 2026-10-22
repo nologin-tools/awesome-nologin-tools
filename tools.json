@@ -261,7 +261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9606
+    "githubStars": 9608
   },
   {
     "slug": "bunengchi-com",
@@ -357,7 +357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36116
+    "githubStars": 36120
   },
   {
     "slug": "cfiresim-com",
@@ -513,7 +513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19137
+    "githubStars": 19145
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -765,7 +765,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3394
+    "githubStars": 3395
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1077,7 +1077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14292
+    "githubStars": 14299
   },
   {
     "slug": "extract-express",
@@ -1221,7 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7384
+    "githubStars": 7383
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1257,7 +1257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1438
+    "githubStars": 1439
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -1353,7 +1353,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2351
+    "githubStars": 2356
   },
   {
     "slug": "geojson-io",
@@ -1557,7 +1557,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80651
+    "githubStars": 80673
   },
   {
     "slug": "httpbin-org",
@@ -1569,7 +1569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13638
+    "githubStars": 13640
   },
   {
     "slug": "icyzip-com",
@@ -2001,7 +2001,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6863
+    "githubStars": 6869
   },
   {
     "slug": "metadataremover-ai",
@@ -2085,7 +2085,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20902
+    "githubStars": 20921
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2169,7 +2169,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6179
+    "githubStars": 6180
   },
   {
     "slug": "next-tools-dev",
@@ -2301,7 +2301,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11626
+    "githubStars": 11644
   },
   {
     "slug": "www-pastecurl-com",
@@ -2421,7 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8495
+    "githubStars": 8500
   },
   {
     "slug": "piccollages-com",
@@ -2505,7 +2505,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52384
+    "githubStars": 52372
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -2805,7 +2805,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1436
+    "githubStars": 1437
   },
   {
     "slug": "salitronic-com-gerber-analyzer",
@@ -2865,7 +2865,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10765
+    "githubStars": 10767
   },
   {
     "slug": "shields-io",
@@ -2877,7 +2877,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27274
+    "githubStars": 27297
   },
   {
     "slug": "signaturefont-net",
@@ -2955,8 +2955,8 @@
     "slug": "spritesheettool-com",
     "name": "Sprite Sheet Tool",
     "url": "https://spritesheettool.com/",
-    "description": "Make sprite sheets online in your browser: generate RPG sprite sheets, split GIFs or sheets into frames, and build texture atlases.",
-    "coreTask": "Generate a sprite sheet preview anonymously in the browser without creating an account",
+    "description": "Free, sign-in-free browser tools for packing existing sprite frames, splitting sheets or GIFs, previewing animation and exporting assets locally. Separate AI RPG walk-pack generation uses cloud processing, sign-in and credits.",
+    "coreTask": "Arrange existing sprite frames, split sprite sheets, preview animation and export assets with the free browser editor without an account.",
     "category": "Development",
     "featured": false,
     "badge": "none",
@@ -2985,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26039
+    "githubStars": 26053
   },
   {
     "slug": "stackedit-io",
@@ -2997,7 +2997,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23092
+    "githubStars": 23094
   },
   {
     "slug": "stayput-dev",
