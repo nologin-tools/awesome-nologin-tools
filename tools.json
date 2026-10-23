@@ -177,7 +177,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3028
+    "githubStars": 3031
   },
   {
     "slug": "banglatools-com",
@@ -345,7 +345,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5876
+    "githubStars": 5877
   },
   {
     "slug": "carbon-now-sh",
@@ -729,7 +729,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 551
+    "githubStars": 553
   },
   {
     "slug": "flukeout-github-io",
@@ -789,7 +789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 457
+    "githubStars": 458
   },
   {
     "slug": "cubic-bezier-com",
@@ -813,7 +813,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36163
+    "githubStars": 36186
   },
   {
     "slug": "dataformatkit-com",
@@ -909,7 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39562
+    "githubStars": 39563
   },
   {
     "slug": "app-diagrams-net",
@@ -921,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 8885
+    "githubStars": 8935
   },
   {
     "slug": "diagrflow-com",
@@ -1065,7 +1065,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 134293
+    "githubStars": 134408
   },
   {
     "slug": "explainshell-com",
@@ -1137,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17802
+    "githubStars": 17803
   },
   {
     "slug": "fffuel-co",
@@ -1677,7 +1677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40913
+    "githubStars": 40940
   },
   {
     "slug": "meet-jit-si",
@@ -1689,7 +1689,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30110
+    "githubStars": 30123
   },
   {
     "slug": "jottools-com",
@@ -1713,7 +1713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44509
+    "githubStars": 44516
   },
   {
     "slug": "jsonformatter-org",
@@ -1833,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15163
+    "githubStars": 15183
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -1941,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 30
+    "githubStars": 32
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2673,7 +2673,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9042
+    "githubStars": 9044
   },
   {
     "slug": "ray-so",
@@ -2733,7 +2733,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/firasdib/Regex101",
-    "githubStars": 3524
+    "githubStars": 3526
   },
   {
     "slug": "regexlearn-com",
@@ -2973,7 +2973,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2239
+    "githubStars": 2243
   },
   {
     "slug": "squoosh-app",
@@ -3069,7 +3069,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22760
+    "githubStars": 22765
   },
   {
     "slug": "syncwhen-com",
@@ -3117,7 +3117,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1741
+    "githubStars": 1743
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3297,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51017
+    "githubStars": 51049
   },
   {
     "slug": "tmp-tf",
@@ -3357,7 +3357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9244
+    "githubStars": 9248
   },
   {
     "slug": "tryink-me",
@@ -3393,7 +3393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111550
+    "githubStars": 111575
   },
   {
     "slug": "uicolors-app",
@@ -3537,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6777
+    "githubStars": 6781
   },
   {
     "slug": "webutilslab-com-tools",
@@ -3717,7 +3717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3181
+    "githubStars": 3196
   },
   {
     "slug": "z-ai",
