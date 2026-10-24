@@ -357,7 +357,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36120
+    "githubStars": 36123
   },
   {
     "slug": "cfiresim-com",
@@ -1077,7 +1077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14299
+    "githubStars": 14308
   },
   {
     "slug": "extract-express",
@@ -1353,7 +1353,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2356
+    "githubStars": 2361
   },
   {
     "slug": "geojson-io",
@@ -1365,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2272
+    "githubStars": 2274
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1965,7 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13182
+    "githubStars": 13191
   },
   {
     "slug": "meeting-to-go-io",
@@ -2150,7 +2150,7 @@
   {
     "slug": "needgohome-netlify-app",
     "name": "Need Go Home",
-    "url": "https://needgohome.netlify.app",
+    "url": "https://needgohome.com/",
     "description": "A free, no-signup tool that drafts a clear, professional message for telling your manager you need to leave work early. Pick a reason, tone, and one of 12 languages (RTL for Arabic and Hebrew) and get a ready-to-send message plus alternatives for text, email, or chat. Rules-based, not AI. Everything runs in your browser.",
     "coreTask": "Generate and copy a complete early-leave message in your chosen language, reason, and tone",
     "category": "Writing",
@@ -2421,7 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8500
+    "githubStars": 8503
   },
   {
     "slug": "piccollages-com",
@@ -2541,7 +2541,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6133
+    "githubStars": 6138
   },
   {
     "slug": "privacytests-org",
@@ -2553,7 +2553,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1231
+    "githubStars": 1232
   },
   {
     "slug": "privnote-com",
@@ -2985,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26053
+    "githubStars": 26058
   },
   {
     "slug": "stackedit-io",
@@ -3338,7 +3338,7 @@
   {
     "slug": "toolsphare-tech-en",
     "name": "ToolSphare",
-    "url": "https://toolsphare.tech/en/",
+    "url": "https://toolsphare.com/",
     "description": "ToolSphare is a free online toolkit with 400+ browser-based PDF, image, text, and developer utilities. Merge or compress PDFs, resize images, format JSON, and more — no account required. Most tools run on your device for privacy.",
     "coreTask": "Use PDF, image, text, and developer tools instantly in your browser without creating an account.",
     "category": "Productivity",
@@ -3681,7 +3681,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5273
+    "githubStars": 5275
   },
   {
     "slug": "xe-com-currencyconverter",
