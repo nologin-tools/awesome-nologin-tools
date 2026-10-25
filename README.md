@@ -216,6 +216,9 @@ https://textkit.tech
   > _No-login task: Open an STL mesh, rotate and zoom it, and inspect triangle counts and dimensions without creating an account._
 - **[Go Playground](https://go.dev/play)** ([Source](https://github.com/golang/playground) ⭐809) — Official Go online compiler and execution environment. Write, compile, and run Go code directly in the browser.
   > _No-login task: Compile and run Go code online_
+ - **[GPProbe](https://gpprobe.com/)** — A free, browser-based gamepad tester to check whether your controller works correctly, with a dedicated stick drift test that reads live resting values.
+  > _No-login task: Test a game controller — buttons, sticks, triggers, vibration, and stick drift — in the browser._
+
 - **[gpu stress test](https://webgpustress.com/)** — Free browser-based GPU stress test for checking sustained graphics performance without installing software. Run WebGL workloads and monitor average FPS, 1% lows, frame-time stability, dropped frames, and performance changes over time.
   > _No-login task: Run GPU stress tests, WebGL capability checks, and performance benchmarks directly in the browser._
 - **[Harden My Repo — Browser Audit](https://hardenmyrepo.github.io/browser-audit/)** ([Source](https://github.com/hardenmyrepo/browser-audit) ⭐0) — Audit a local repository for AI coding-agent readiness without uploading source code. The static, open-source browser tool checks bounded configuration and documentation evidence for instructions, hooks, CI, tests, ownership, dependency locking, and secret hygiene, then reports a score and concrete gaps. No login, cookies, analytics, ads, or network processing.
