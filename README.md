@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-313-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-320-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -19,6 +19,10 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## AI
 
+- **[AI Slop Detector](https://aislopdetector.net/)** — Inspect text and images for AI clichés, template phrases, and low-quality generation tells entirely within your browser.
+  > _No-login task: Detect AI writing patterns and evaluate image generation tells without creating an account._
+- **[Boddy Squat Form Check](https://www.yourboddy.com/form-check)** — Analyze bodyweight squat form and track 33 body movement landmarks completely on-device using local video in your browser.
+  > _No-login task: Check bodyweight squat posture and count repetitions from a video clip without creating an account._
 - **[ChatGPT](https://chatgpt.com)** — OpenAI's AI assistant available without login. Handles writing, analysis, coding, math, and conversation with GPT-4o.
   > _No-login task: Chat with AI for writing, coding, and analysis_
 - **[Craiyon](https://craiyon.com)** — Free AI image generator that creates 9 images from text prompts. No login required, unlimited generations, commercial use allowed with credit.
@@ -52,6 +56,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate and explore color palettes_
 - **[Crochet Chart Maker](https://crochet-chart-maker.com/)** — Crochet Chart Maker is a free browser tool that turns JPG, PNG, or WebP images into editable color pixel grids, or starts from a blank grid. Adjust size, fit or crop, reduce colors, edit individual squares, and download a high-resolution PNG with numbers and a color legend. Images stay on your device, and the core tool requires no account.
   > _No-login task: Turn images into editable crochet pixel grids and export numbered stitch charts_
+- **[Crochet Tapestry Pattern Maker](https://crochetchartmaker.com/)** — Turn photos into gauge-aware crochet tapestry charts with custom stitch palettes, live canvas editing, and high-resolution PNG exports.
+  > _No-login task: Convert an image into a custom crochet tapestry pattern grid and download a printable PNG chart without creating an account._
 - **[CSS Gradient](https://cssgradient.io)** — Visual CSS gradient generator with a beautiful UI. Create linear, radial, and conic gradients with instant code output.
   > _No-login task: Generate CSS gradient code visually_
 - **[Cubic Bezier](https://cubic-bezier.com)** ([Source](https://github.com/LeaVerou/cubic-bezier) ⭐184) — Visual CSS cubic-bezier timing function editor. Drag control points to create custom easing curves and compare with presets.
@@ -245,6 +251,8 @@ Supported Categories:
   > _No-login task: Decode and verify JSON Web Tokens directly in your browser without sending tokens to any server_
 - **[KivTools](https://kivtools.com/)** — Free local-first browser utilities for JSON, APIs and OpenAPI, JWT/JWK verification, code formatting, data inspection and DevOps workflows.
   > _No-login task: Use JSON/API, JWT/JWK, code formatting, data inspection, and DevOps utilities directly in the browser._
+- **[Local CSV Encoding Checker](https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html)** — Check whether Chinese CSV files decode strictly as UTF-8 or GB18030 locally inside your browser.
+  > _No-login task: Verify CSV file encoding and preview decoded text locally without creating an account._
 - **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6873) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
@@ -298,6 +306,8 @@ Supported Categories:
   > _No-login task: Calculate remaining audiobook time, due-date pace, and daily listening targets without login._
 - **[BetterHabitsDaily](https://betterhabitsdaily.com/tracker)** — Free, no-signup habit tracker built for developers
   > _No-login task: Track your habits in browser_
+- **[CalcRobin](https://calcrobin.com/)** — Suite of 270+ client-side calculators, LLM token counters, and conversion utilities running entirely offline in the browser.
+  > _No-login task: Calculate values, estimate LLM tokens, and export calculation summary cards without creating an account._
 - **[Calculator Campus](https://www.calculatorcampus.com/)** — Calculator Campus is a free collection of practical browser-based calculators. Each tool pairs a focused input flow with formulas, assumptions, worked examples, FAQs, and named sources. Core calculators work without an account.
   > _No-login task: Calculate practical quantities and conversions in the browser without creating an account._
 - **[Calorique](https://calorique.io/)** — Free health and fitness calculators for calories, BMR, BMI, body fat, macros, and nutrition planning, usable directly in the browser.
@@ -380,6 +390,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Use PDF, image, QR, and document tools and download the generated files without logging in._
 - **[Productivity Timer](https://productivitytimer.com)** — Free online productivity timer suite: Pomodoro timer, countdown timer, stopwatch, task estimator, habit tracker, and focus session log. No account or login required, works instantly in the browser.
   > _No-login task: Run Pomodoro and countdown timers, log focus sessions, estimate tasks, and track habits, all without creating an account._
+- **[PuReSume](https://puresume.com/)** — Build, format, and download ATS-friendly resumes in PDF or Word completely on-device without an account.
+  > _No-login task: Customize resume templates, check ATS scores, and export PDF or DOCX files without creating an account._
 - **[QR Code Monkey](https://qrcode-monkey.com)** — Create custom QR codes with logos, colors, and shapes. High-resolution output in PNG, SVG, PDF, and EPS formats.
   > _No-login task: Generate custom QR codes_
 - **[QuickTiny](https://quicktinyv2.vercel.app)** — 13 browser-based tools (12 free, 1 optional Pro) — image compressor, JSON formatter, word counter, password generator, Base64/URL encode-decode, and more. Everything processes entirely client-side, with nothing uploaded to a server. Also includes an optional Batch Image Compressor (compress many images at once) for a one-time $4.99 payment via PayPal — no account or subscription required.
@@ -676,6 +688,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Compare cost of living across cities_
 - **[Pocket Invoice](https://www.freedominvoice.com/tools/invoice-generator/)** — Browser-based invoice maker with live line item calculation, tax and discount customization, and instant client-side PDF export without login.
   > _No-login task: Generate and download commercial invoices in PDF without login_
+- **[ProductLair Profit Margin Calculator](https://productlair.com/profit-calculator)** — Calculate product costs, shipping expenses, selling prices, and profit margins for e-commerce and dropshipping products in real time.
+  > _No-login task: Calculate dropshipping gross profit margin and revenue breakdown without creating an account._
 - **[Refi Compass 🛡️](https://reficompass.com)** — Client-side mortgage decision calculator comparing rate-and-term refinance, cash-out refinance, HELOC, home equity loans, recast, and extra principal payments side by side with zero account requirement.
   > _No-login task: Compare eight mortgage and refinancing strategies side by side in your browser_
 - **[retireclarity](https://retireclarity.com/calculator)** — Full retirement planner with no login: year-by-year projections, Roth conversion optimizer, and Monte Carlo simulation — all computed in your browser. Nothing to sign up for; your plan is stored locally on your device.
