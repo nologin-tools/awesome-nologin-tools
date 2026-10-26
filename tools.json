@@ -24,6 +24,18 @@
     "githubStars": null
   },
   {
+    "slug": "aislopdetector-net",
+    "name": "AI Slop Detector",
+    "url": "https://aislopdetector.net/",
+    "description": "Inspect text and images for AI clichés, template phrases, and low-quality generation tells entirely within your browser.",
+    "coreTask": "Detect AI writing patterns and evaluate image generation tells without creating an account.",
+    "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "www-allsubconverter-com",
     "name": "AllSubConverter",
     "url": "https://www.allsubconverter.com/",
@@ -228,6 +240,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-yourboddy-com-form-check",
+    "name": "Boddy Squat Form Check",
+    "url": "https://www.yourboddy.com/form-check",
+    "description": "Analyze bodyweight squat form and track 33 body movement landmarks completely on-device using local video in your browser.",
+    "coreTask": "Check bodyweight squat posture and count repetitions from a video clip without creating an account.",
+    "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "max-agent-hub-github-io-browser-sop-builder",
     "name": "Browser SOP Builder",
     "url": "https://max-agent-hub.github.io/browser-sop-builder/",
@@ -294,6 +318,18 @@
     "description": "Generate and validate CAA (Certificate Authority Authorization) DNS records. Pick allowed CAs, add wildcard rules and iodef violation reporting, plus a raw-record parser/validator. Runs entirely in your browser, no signup.",
     "coreTask": "Build and validate CAA DNS records to control which certificate authorities can issue SSL/TLS certs for your domain",
     "category": "Privacy",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "calcrobin-com",
+    "name": "CalcRobin",
+    "url": "https://calcrobin.com/",
+    "description": "Suite of 270+ client-side calculators, LLM token counters, and conversion utilities running entirely offline in the browser.",
+    "coreTask": "Calculate values, estimate LLM tokens, and export calculation summary cards without creating an account.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -713,6 +749,18 @@
     "url": "https://crochet-chart-maker.com/",
     "description": "Crochet Chart Maker is a free browser tool that turns JPG, PNG, or WebP images into editable color pixel grids, or starts from a blank grid. Adjust size, fit or crop, reduce colors, edit individual squares, and download a high-resolution PNG with numbers and a color legend. Images stay on your device, and the core tool requires no account.",
     "coreTask": "Turn images into editable crochet pixel grids and export numbered stitch charts",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "crochetchartmaker-com",
+    "name": "Crochet Tapestry Pattern Maker",
+    "url": "https://crochetchartmaker.com/",
+    "description": "Turn photos into gauge-aware crochet tapestry charts with custom stitch palettes, live canvas editing, and high-resolution PNG exports.",
+    "coreTask": "Convert an image into a custom crochet tapestry pattern grid and download a printable PNG chart without creating an account.",
     "category": "Design",
     "featured": false,
     "badge": "none",
@@ -1896,6 +1944,18 @@
     "githubStars": null
   },
   {
+    "slug": "joysky77-github-io-csv-cleanup-services-csv-encoding-checker-html",
+    "name": "Local CSV Encoding Checker",
+    "url": "https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html",
+    "description": "Check whether Chinese CSV files decode strictly as UTF-8 or GB18030 locally inside your browser.",
+    "coreTask": "Verify CSV file encoding and preview decoded text locally without creating an account.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pst-aivismonitor-com",
     "name": "Mailward",
     "url": "https://pst.aivismonitor.com/",
@@ -2573,6 +2633,30 @@
     "url": "https://productivitytimer.com",
     "description": "Free online productivity timer suite: Pomodoro timer, countdown timer, stopwatch, task estimator, habit tracker, and focus session log. No account or login required, works instantly in the browser.",
     "coreTask": "Run Pomodoro and countdown timers, log focus sessions, estimate tasks, and track habits, all without creating an account.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "productlair-com-profit-calculator",
+    "name": "ProductLair Profit Margin Calculator",
+    "url": "https://productlair.com/profit-calculator",
+    "description": "Calculate product costs, shipping expenses, selling prices, and profit margins for e-commerce and dropshipping products in real time.",
+    "coreTask": "Calculate dropshipping gross profit margin and revenue breakdown without creating an account.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "puresume-com",
+    "name": "PuReSume",
+    "url": "https://puresume.com/",
+    "description": "Build, format, and download ATS-friendly resumes in PDF or Word completely on-device without an account.",
+    "coreTask": "Customize resume templates, check ATS scores, and export PDF or DOCX files without creating an account.",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
