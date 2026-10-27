@@ -189,7 +189,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3031
+    "githubStars": 3032
   },
   {
     "slug": "banglatools-com",
@@ -267,8 +267,8 @@
     "slug": "browserleaks-com",
     "name": "BrowserLeaks",
     "url": "https://browserleaks.com",
-    "description": "Comprehensive browser fingerprinting test suite. Check what information your browser reveals: IP, WebRTC, Canvas, fonts, and more.",
-    "coreTask": "Detect browser fingerprint leaks",
+    "description": "Inspect browser fingerprint signals and look up IP address information without an account. Includes Canvas and JavaScript diagnostics alongside remote IP lookup services.",
+    "coreTask": "Inspect browser fingerprint signals and IP information",
     "category": "Privacy",
     "featured": false,
     "badge": "none",
@@ -285,7 +285,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9608
+    "githubStars": 9609
   },
   {
     "slug": "bunengchi-com",
@@ -393,7 +393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36123
+    "githubStars": 36124
   },
   {
     "slug": "cfiresim-com",
@@ -440,6 +440,18 @@
     "category": "Education",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "chordfold-com",
+    "name": "Chordfold",
+    "url": "https://chordfold.com/",
+    "description": "In-browser AI chord finder that transcribes chords from audio recordings with synchronized waveforms and playable fingering guides.",
+    "coreTask": "Detect chords from audio files and view playable guitar and piano voicings.",
+    "category": "Media",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -657,7 +669,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 277
+    "githubStars": 275
   },
   {
     "slug": "convertlo-pro",
@@ -777,7 +789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 553
+    "githubStars": 554
   },
   {
     "slug": "flukeout-github-io",
@@ -837,7 +849,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 458
+    "githubStars": 459
   },
   {
     "slug": "cubic-bezier-com",
@@ -861,7 +873,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36186
+    "githubStars": 36219
   },
   {
     "slug": "dataformatkit-com",
@@ -969,7 +981,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 8935
+    "githubStars": 9006
   },
   {
     "slug": "diagrflow-com",
@@ -1057,10 +1069,10 @@
   },
   {
     "slug": "duck-ai",
-    "name": "DuckDuckGo AI Chat",
+    "name": "Duck.ai",
     "url": "https://duck.ai",
-    "description": "Privacy-focused AI chat powered by Claude, Llama, Mistral, and GPT-4o mini. All chats are anonymous and never used for AI training.",
-    "coreTask": "Chat with AI models privately",
+    "description": "Chat with AI models through DuckDuckGo without an account. Supports follow-up questions and copying responses; messages are processed by remote model providers through DuckDuckGo.",
+    "coreTask": "Ask AI questions and structure text without an account",
     "category": "AI",
     "featured": true,
     "badge": "none",
@@ -1125,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14308
+    "githubStars": 14313
   },
   {
     "slug": "extract-express",
@@ -1185,7 +1197,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17803
+    "githubStars": 17810
   },
   {
     "slug": "fffuel-co",
@@ -1401,7 +1413,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2361
+    "githubStars": 2365
   },
   {
     "slug": "geojson-io",
@@ -1692,6 +1704,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-imagesplit-online",
+    "name": "ImageSplit",
+    "url": "https://www.imagesplit.online/",
+    "description": "Free online image splitter to slice pictures into grids, carousels, custom pixel coordinates, and fixed-size tiles directly in browser with ZIP download.",
+    "coreTask": "Slice images into customizable grid tiles or carousels and download as ZIP.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "imgrove-com",
     "name": "imgrove",
     "url": "https://imgrove.com/",
@@ -1725,7 +1749,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40940
+    "githubStars": 40984
   },
   {
     "slug": "meet-jit-si",
@@ -1737,7 +1761,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30123
+    "githubStars": 30151
   },
   {
     "slug": "jottools-com",
@@ -1761,7 +1785,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44516
+    "githubStars": 44554
   },
   {
     "slug": "jsonformatter-org",
@@ -1944,6 +1968,18 @@
     "githubStars": null
   },
   {
+    "slug": "letriza-com",
+    "name": "Letriza",
+    "url": "https://letriza.com/",
+    "description": "Online Unicode text and aesthetic font generator offering over 3600 decorative styles, custom mixing, and one-click clipboard copying without sign-up.",
+    "coreTask": "Generate and copy styled Unicode text across decorative font categories.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "joysky77-github-io-csv-cleanup-services-csv-encoding-checker-html",
     "name": "Local CSV Encoding Checker",
     "url": "https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html",
@@ -2001,7 +2037,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 32
+    "githubStars": 31
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2025,7 +2061,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13191
+    "githubStars": 13201
   },
   {
     "slug": "meeting-to-go-io",
@@ -2168,6 +2204,18 @@
     "category": "Media",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "mtempmail-com",
+    "name": "MTempMail",
+    "url": "https://mtempmail.com/",
+    "description": "Disposable email generator for creating temporary inboxes and custom email aliases without registration.",
+    "coreTask": "Generate temporary disposable email inboxes with custom aliases.",
+    "category": "Privacy",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2355,8 +2403,8 @@
     "slug": "pairdrop-net",
     "name": "PairDrop",
     "url": "https://pairdrop.net",
-    "description": "Share files instantly with nearby devices on your local network. Open-source successor to Snapdrop with P2P transfer.",
-    "coreTask": "Share files between devices on LAN",
+    "description": "Share files and text between browser peers without an account. Nearby discovery and temporary rooms help peers find one another; receivers can choose whether to accept a file.",
+    "coreTask": "Send files between browser peers without an account",
     "category": "Communication",
     "featured": true,
     "badge": "none",
@@ -2436,6 +2484,18 @@
     "githubStars": null
   },
   {
+    "slug": "peptidetracks-com",
+    "name": "PepVault",
+    "url": "https://peptidetracks.com/",
+    "description": "Interactive peptide reconstitution and dosage calculator that converts vial strength and diluent volume into syringe unit markings.",
+    "coreTask": "Calculate peptide reconstitution volume, concentration, and syringe units.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "perplexity-ai",
     "name": "Perplexity",
     "url": "https://perplexity.ai",
@@ -2462,7 +2522,7 @@
   {
     "slug": "photomosh-com",
     "name": "PhotoMosh",
-    "url": "https://photomosh.com",
+    "url": "https://moshpro.app/lite",
     "description": "Apply glitch effects to images and videos. 27 mosh effects including pixel sort, RGB shift, jitter, and VHS — all in the browser.",
     "coreTask": "Apply glitch art effects",
     "category": "Media",
@@ -2481,7 +2541,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8503
+    "githubStars": 8508
   },
   {
     "slug": "piccollages-com",
@@ -2592,6 +2652,18 @@
     "githubStars": 0
   },
   {
+    "slug": "printpagecheck-com",
+    "name": "PrintPageCheck",
+    "url": "https://printpagecheck.com/",
+    "description": "Online printer test utility providing direct downloads of calibration sheets across color, grayscale, fine line, and margin reference patterns.",
+    "coreTask": "Generate and download printer calibration test pages.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "privacy-sexy",
     "name": "privacy.sexy",
     "url": "https://privacy.sexy",
@@ -2613,7 +2685,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1232
+    "githubStars": 1235
   },
   {
     "slug": "privnote-com",
@@ -2748,6 +2820,18 @@
     "githubStars": null
   },
   {
+    "slug": "randomtopicgenerators-com",
+    "name": "Random Topic Generator",
+    "url": "https://randomtopicgenerators.com/",
+    "description": "Free topic and prompt generator for speech, writing, conversation, and debate. Features multi-faceted filtering by category, depth, and count, with instant CSV download and follow-up talking points.",
+    "coreTask": "Generate categorized conversation, writing, and speech topics with instant CSV export.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "rawgraphs-io",
     "name": "RAWGraphs",
     "url": "https://rawgraphs.io",
@@ -2757,7 +2841,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9044
+    "githubStars": 9045
   },
   {
     "slug": "ray-so",
@@ -2780,6 +2864,18 @@
     "category": "Media",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "realtest-org",
+    "name": "RealTest",
+    "url": "https://realtest.org/",
+    "description": "Online tool benchmark, alternative finder, and client-side file inspector comparing 86 products across 224 empirical task assessments, with a companion Chrome extension.",
+    "coreTask": "Search and compare online tool alternatives side by side, inspect exported image or DOCX artifacts locally in the browser, and surface benchmark facts via a browser extension",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -3057,7 +3153,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2243
+    "githubStars": 2246
   },
   {
     "slug": "squoosh-app",
@@ -3069,7 +3165,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26058
+    "githubStars": 26067
   },
   {
     "slug": "stackedit-io",
@@ -3153,7 +3249,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22765
+    "githubStars": 22767
   },
   {
     "slug": "syncwhen-com",
@@ -3201,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1743
+    "githubStars": 1744
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3237,7 +3333,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13065
+    "githubStars": 13071
   },
   {
     "slug": "textlogo-app",
@@ -3315,8 +3411,8 @@
     "slug": "themeasureofaplan-com",
     "name": "The Measure of a Plan",
     "url": "https://themeasureofaplan.com",
-    "description": "Beautiful personal finance calculators for retirement, investment, mortgage, and budgeting. Interactive visualizations with no data collection.",
-    "coreTask": "Personal finance calculators and planning",
+    "description": "Personal finance calculators, spreadsheets and educational guides. The Savings Goal Solver updates a browser-based calculation from your assumptions; the site also displays third-party ads.",
+    "coreTask": "Explore savings assumptions with an interactive calculator",
     "category": "Finance",
     "featured": false,
     "badge": "none",
@@ -3441,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9248
+    "githubStars": 9252
   },
   {
     "slug": "tryink-me",
@@ -3477,7 +3573,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111575
+    "githubStars": 111632
   },
   {
     "slug": "uicolors-app",
@@ -3621,7 +3717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6781
+    "githubStars": 6784
   },
   {
     "slug": "webutilslab-com-tools",
@@ -3801,7 +3897,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3196
+    "githubStars": 3205
   },
   {
     "slug": "z-ai",
