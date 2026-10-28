@@ -36,6 +36,18 @@
     "githubStars": null
   },
   {
+    "slug": "all2url-com",
+    "name": "All2URL",
+    "url": "https://all2url.com/",
+    "description": "Convert and share HTML files, ZIP projects, PDFs, images, and documents as live URLs without an account.",
+    "coreTask": "Upload files or paste HTML to instantly generate a shareable web URL without registration.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "www-allsubconverter-com",
     "name": "AllSubConverter",
     "url": "https://www.allsubconverter.com/",
@@ -153,7 +165,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6544
+    "githubStars": 6546
   },
   {
     "slug": "audiotrimmer-com",
@@ -381,7 +393,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5876
+    "githubStars": 5878
   },
   {
     "slug": "carbon-now-sh",
@@ -561,7 +573,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19149
+    "githubStars": 19157
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -801,7 +813,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2865
+    "githubStars": 2864
   },
   {
     "slug": "cssgradient-io",
@@ -969,7 +981,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39562
+    "githubStars": 39574
   },
   {
     "slug": "app-diagrams-net",
@@ -1092,6 +1104,18 @@
     "githubStars": null
   },
   {
+    "slug": "enshroudedsaveeditor-com",
+    "name": "Enshrouded Save Editor",
+    "url": "https://enshroudedsaveeditor.com/",
+    "description": "In-browser character save file editor for Enshrouded (.ksd files).",
+    "coreTask": "Upload an Enshrouded .ksd character save file to customize level, skills, and gear.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "entityminder-smoke-web-app-em-lookup",
     "name": "EntityMinder State Deadline Lookup",
     "url": "https://entityminder-smoke.web.app/em/lookup/",
@@ -1125,7 +1149,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 134510
+    "githubStars": 134681
   },
   {
     "slug": "explainshell-com",
@@ -1158,6 +1182,18 @@
     "description": "Online GIF maker and image editor. Create, resize, crop, reverse, optimize GIFs, and convert video to GIF. Also supports WebP, APNG, and AVIF.",
     "coreTask": "Create, edit, and optimize GIFs and animated images",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "gonzalezreciogpt-a11y-github-io-facturas-pendientes-csv",
+    "name": "Facturas Pendientes CSV",
+    "url": "https://gonzalezreciogpt-a11y.github.io/facturas-pendientes-csv/",
+    "description": "Free open-source in-browser pending and overdue invoice calculator from CSV files.",
+    "coreTask": "Calculate pending, collected, and overdue invoice balances locally from CSV data without an account.",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1317,7 +1353,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1438
+    "githubStars": 1439
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -1473,7 +1509,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 809
+    "githubStars": 808
   },
   {
     "slug": "goblin-tools",
@@ -1617,7 +1653,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80682
+    "githubStars": 80702
   },
   {
     "slug": "httpbin-org",
@@ -1629,7 +1665,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13643
+    "githubStars": 13642
   },
   {
     "slug": "icyzip-com",
@@ -1905,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15189
+    "githubStars": 15204
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2097,7 +2133,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6873
+    "githubStars": 6881
   },
   {
     "slug": "metadataremover-ai",
@@ -2181,7 +2217,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20939
+    "githubStars": 20947
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2277,7 +2313,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6182
+    "githubStars": 6183
   },
   {
     "slug": "next-tools-dev",
@@ -2300,6 +2336,18 @@
     "category": "Development",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "nitroide-com",
+    "name": "NitroIDE",
+    "url": "https://nitroide.com/",
+    "description": "Zero-latency in-browser IDE powered by Monaco engine for HTML, CSS, and JS prototyping.",
+    "coreTask": "Edit HTML, CSS, and JavaScript with live preview and local workspace management in the browser.",
+    "category": "Development",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2409,7 +2457,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11676
+    "githubStars": 11710
   },
   {
     "slug": "www-pastecurl-com",
@@ -2625,7 +2673,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52383
+    "githubStars": 52385
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -2673,7 +2721,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6138
+    "githubStars": 6147
   },
   {
     "slug": "privacytests-org",
@@ -2925,7 +2973,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4115
+    "githubStars": 4117
   },
   {
     "slug": "remove-bg",
@@ -3036,6 +3084,18 @@
     "githubStars": null
   },
   {
+    "slug": "shard-tools",
+    "name": "Shard Tools",
+    "url": "https://shard.tools/",
+    "description": "Local-first browser toolbox for file formatting, conversion, and compression.",
+    "coreTask": "Format, convert, or compress documents, media, and data locally in the browser.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "sharedrop-io",
     "name": "ShareDrop",
     "url": "https://sharedrop.io",
@@ -3045,7 +3105,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10765
+    "githubStars": 10764
   },
   {
     "slug": "shields-io",
@@ -3057,7 +3117,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27317
+    "githubStars": 27329
   },
   {
     "slug": "signaturefont-net",
@@ -3477,7 +3537,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51074
+    "githubStars": 51121
   },
   {
     "slug": "tmp-tf",
@@ -3678,6 +3738,18 @@
     "description": "A free web tool for clubs and schools that need volunteers to cover duty shifts. The organiser posts the shifts, shares one link, and everyone else taps it to claim a slot. Nobody signs up, nobody installs anything, no email addresses are collected, and there are no ads, trackers or cookies. It ships with ten real Australian club duty rosters built in — junior and senior cricket, Little Athletics, nippers, swimming club night, netball, junior AFL and junior league — each with the actual duties,",
     "coreTask": "https://bitibybit.com/volunteer-roster/",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "watermarklift-com",
+    "name": "WatermarkLift",
+    "url": "https://watermarklift.com/",
+    "description": "Free on-device Gemini watermark remover running entirely in browser without file uploads.",
+    "coreTask": "Remove visible Google Gemini star watermarks from images locally on-device without an account.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
