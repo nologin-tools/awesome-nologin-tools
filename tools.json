@@ -1872,6 +1872,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-keyboardanalyzer-com",
+    "name": "KeyboardAnalyzer",
+    "url": "https://www.keyboardanalyzer.com/",
+    "description": "Online keyboard testing utility to check key switches, rollover, latency, and layout mappings with exportable diagnostic reports.",
+    "coreTask": "Test physical keyboard switch responsiveness across full layouts and export text diagnostic reports.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "xueboyang1985-github-io-kindle-exporter",
     "name": "Kindle Highlights Exporter",
     "url": "https://xueboyang1985.github.io/kindle-exporter/",
@@ -2280,6 +2292,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-nameideabox-com",
+    "name": "NameIdeaBox",
+    "url": "https://www.nameideabox.com/",
+    "description": "AI name generator that creates themed business, product, baby, and project name ideas from natural language prompts.",
+    "coreTask": "Generate themed name suggestions with phonetic pronunciation keys and one-click copy.",
+    "category": "AI",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "nawtch-app",
     "name": "Nawtch",
     "url": "https://nawtch.app",
@@ -2348,8 +2372,8 @@
     "category": "Development",
     "featured": false,
     "badge": "explicit",
-    "repoUrl": null,
-    "githubStars": null
+    "repoUrl": "https://github.com/nitroideofficial/nitroide",
+    "githubStars": 7
   },
   {
     "slug": "nologin-tools",
@@ -2589,7 +2613,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8508
+    "githubStars": 8515
   },
   {
     "slug": "piccollages-com",
@@ -2706,6 +2730,18 @@
     "description": "Online printer test utility providing direct downloads of calibration sheets across color, grayscale, fine line, and margin reference patterns.",
     "coreTask": "Generate and download printer calibration test pages.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "printstencil-com-pumpkin-painting-stencils-name-stencil",
+    "name": "PrintStencil Pumpkin Name Stencil Maker",
+    "url": "https://printstencil.com/pumpkin-painting-stencils/name-stencil",
+    "description": "Interactive online stencil generator that sizes custom lettering and printable PDF stencils for pumpkin painting and carving.",
+    "coreTask": "Generate custom name lettering stencils with real-time canvas preview and download print-ready PDFs.",
+    "category": "Design",
     "featured": false,
     "badge": "explicit",
     "repoUrl": null,
@@ -2838,18 +2874,6 @@
     "description": "13 browser-based tools (12 free, 1 optional Pro) — image compressor, JSON formatter, word counter, password generator, Base64/URL encode-decode, and more. Everything processes entirely client-side, with nothing uploaded to a server. Also includes an optional Batch Image Compressor (compress many images at once) for a one-time $4.99 payment via PayPal — no account or subscription required.",
     "coreTask": "Compress images, format JSON, count words, and encode or decode Base64 in your browser",
     "category": "Productivity",
-    "featured": false,
-    "badge": "none",
-    "repoUrl": null,
-    "githubStars": null
-  },
-  {
-    "slug": "quillbot-com",
-    "name": "QuillBot",
-    "url": "https://quillbot.com",
-    "description": "AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.",
-    "coreTask": "Paraphrase and rewrite text with AI",
-    "category": "AI",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3156,6 +3180,18 @@
     "githubStars": 0
   },
   {
+    "slug": "sitelemetry-com-launch-readiness",
+    "name": "Sitelemetry Launch Readiness",
+    "url": "https://sitelemetry.com/launch-readiness",
+    "description": "Free website launch readiness checker auditing DNS, mail policies, TLS certificates, and HTTP security headers without requiring an account.",
+    "coreTask": "Audit domain DNS, TLS, mail, and security headers and export high-resolution PNG score cards.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "sizecompare-app",
     "name": "SizeCompare",
     "url": "https://sizecompare.app/",
@@ -3225,7 +3261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26067
+    "githubStars": 26075
   },
   {
     "slug": "stackedit-io",
@@ -3552,6 +3588,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-toolcabana-com-en",
+    "name": "ToolCabana",
+    "url": "https://www.toolcabana.com/en",
+    "description": "Comprehensive suite of 400+ online utilities for PDF manipulation, image generation, developer conversions, and calculations.",
+    "coreTask": "Generate vector QR codes and run client-side utilities with direct file downloads.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "tools-berry-com",
     "name": "Tools Berry",
     "url": "https://tools-berry.com",
@@ -3636,6 +3684,18 @@
     "githubStars": 111632
   },
   {
+    "slug": "u2c-app",
+    "name": "U2C.app",
+    "url": "https://u2c.app/",
+    "description": "Universal in-browser unit converter covering dozens of measurement categories with high precision and zero tracking.",
+    "coreTask": "Convert measurement units across length, mass, volume, temperature, and data with instant local calculation.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "uicolors-app",
     "name": "UIColors",
     "url": "https://uicolors.app",
@@ -3660,6 +3720,18 @@
     "githubStars": null
   },
   {
+    "slug": "uslawexplained-com-tools-substantial-presence-test",
+    "name": "US Law Explained Substantial Presence Test",
+    "url": "https://uslawexplained.com/tools/substantial_presence_test",
+    "description": "Interactive calculator and travel planner evaluating IRS 183-day substantial presence tax residency status with downloadable worksheets.",
+    "coreTask": "Calculate IRS 3-year weighted presence day counts and export plain-text tax residency worksheets.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "utilbear-com",
     "name": "UtilBear",
     "url": "https://utilbear.com/",
@@ -3677,6 +3749,18 @@
     "url": "https://video-size-reducer.com/",
     "description": "A browser-based video compressor for people who just need a smaller shareable file. Server-side processing, resumable uploads, visible progress. Results stay downloadable for 24 hours; free tasks to start, no watermark on any plan.",
     "coreTask": "Compress a video to a target file size and download a smaller MP4 in the browser",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-videotoimagesequence-online",
+    "name": "Video to Image Sequence",
+    "url": "https://www.videotoimagesequence.online",
+    "description": "In-browser video frame extractor and sequence creator to convert MP4 and WebM videos into clean frame sequences.",
+    "coreTask": "Extract video frames at custom frame rates and download unwatermarked ZIP sequences client-side.",
     "category": "Media",
     "featured": false,
     "badge": "none",
@@ -3974,7 +4058,7 @@
   {
     "slug": "z-ai",
     "name": "Z.ai Chat",
-    "url": "https://z.ai",
+    "url": "https://chat.z.ai/",
     "description": "Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.",
     "coreTask": "Chat with GLM AI models for writing, coding, and analysis",
     "category": "AI",
