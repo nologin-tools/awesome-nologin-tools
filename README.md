@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-334-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-341-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -33,15 +33,15 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Ask AI questions and structure text without an account_
 - **[Goblin.tools](https://goblin.tools)** — AI-powered task management collection designed for neurodivergent users. Magic ToDo breaks overwhelming tasks into manageable steps with adjustable complexity. Free forever, no ads.
   > _No-login task: Break down complex tasks into manageable steps with AI_
+- **[NameIdeaBox 🛡️](https://www.nameideabox.com/)** — AI name generator that creates themed business, product, baby, and project name ideas from natural language prompts.
+  > _No-login task: Generate themed name suggestions with phonetic pronunciation keys and one-click copy._
 - **[Perplexity](https://perplexity.ai)** — AI-powered search engine that provides accurate answers with cited sources. No sign-up required for basic search queries.
   > _No-login task: Search the web with AI-powered answers and citations_
-- **[QuillBot](https://quillbot.com)** — AI paraphrasing tool that rewrites text for clarity and style. Free version offers Standard and Fluency modes with unlimited paraphrases, no signup required.
-  > _No-login task: Paraphrase and rewrite text with AI_
 - **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1744) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
 - **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐13071) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
-- **[Z.ai Chat](https://z.ai)** — Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.
+- **[Z.ai Chat](https://chat.z.ai/)** — Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.
   > _No-login task: Chat with GLM AI models for writing, coding, and analysis_
 
 ## Design
@@ -88,15 +88,17 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Convert a photo into a print-ready halftone pattern in the browser._
 - **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6183) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
-- **[Photopea](https://photopea.com)** ([Source](https://github.com/photopea/photopea) ⭐8508) — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
+- **[Photopea](https://photopea.com)** ([Source](https://github.com/photopea/photopea) ⭐8515) — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
+- **[PrintStencil Pumpkin Name Stencil Maker 🛡️](https://printstencil.com/pumpkin-painting-stencils/name-stencil)** — Interactive online stencil generator that sizes custom lettering and printable PDF stencils for pumpkin painting and carving.
+  > _No-login task: Generate custom name lettering stencils with real-time canvas preview and download print-ready PDFs._
 - **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐936) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
   > _No-login task: Remove image backgrounds automatically using AI_
 - **[Signature Font](https://signaturefont.net/)** — Create and preview signature-style fonts for names, branding and personal design without creating an account.
   > _No-login task: Generate and preview signature-style font text in the browser without logging in._
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐26067) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐26075) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[SVG Viewer](https://svgviewer.app/)** — SVG Viewer is a free online toolkit designed to help designers, developers, and creators view, edit, optimize, and convert SVG files directly in their web browser. Instead of installing dedicated graphics software, users can upload an SVG file or paste SVG code and immediately see a real-time visual preview. The platform requires no sign-up, making it a convenient solution for quickly working with vector graphics.
   > _No-login task: View & edit SVG files with real-time preview_
@@ -265,7 +267,7 @@ Supported Categories:
   > _No-login task: Access 100+ developer utilities including formatters, encoders, converters, and generators_
 - **[NextReset](https://nextreset.ai/)** — Free, independent resource for developers using AI coding tools. Browse source-linked Codex reset history, official AI service incidents and client updates, and save a personal reset timer on your device without signing up. Public announcements are separate from individual account eligibility. Not affiliated with OpenAI or Anthropic.
   > _No-login task: Browse reset history and official AI incident reports, and save a personal reset timer locally without an account._
-- **[NitroIDE 🛡️](https://nitroide.com/)** — Zero-latency in-browser IDE powered by Monaco engine for HTML, CSS, and JS prototyping.
+- **[NitroIDE 🛡️](https://nitroide.com/)** ([Source](https://github.com/nitroideofficial/nitroide) ⭐7) — Zero-latency in-browser IDE powered by Monaco engine for HTML, CSS, and JS prototyping.
   > _No-login task: Edit HTML, CSS, and JavaScript with live preview and local workspace management in the browser._
 - **[npm trends](https://npmtrends.com)** — Compare npm package download trends over time. See package sizes, GitHub stars, and make informed dependency decisions.
   > _No-login task: Compare npm package download trends_
@@ -285,6 +287,8 @@ Supported Categories:
   > _No-login task: View Gerber, ODB++ and IPC-2581 files, run a DRC, diff two layers, and see a pick-and-place view, all in the browser with nothing to install and no upload._
 - **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐27329) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
+- **[Sitelemetry Launch Readiness](https://sitelemetry.com/launch-readiness)** — Free website launch readiness checker auditing DNS, mail policies, TLS certificates, and HTTP security headers without requiring an account.
+  > _No-login task: Audit domain DNS, TLS, mail, and security headers and export high-resolution PNG score cards._
 - **[Sprite Sheet Tool](https://spritesheettool.com/)** — Free, sign-in-free browser tools for packing existing sprite frames, splitting sheets or GIFs, previewing animation and exporting assets locally. Separate AI RPG walk-pack generation uses cloud processing, sign-in and credits.
   > _No-login task: Arrange existing sprite frames, split sprite sheets, preview animation and export assets with the free browser editor without an account._
 - **[Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=zh)** — Telemetry 的免费 SQL 练习场：无需注册，即可在浏览器中对内置的模拟应用事件运行查询，查看错误率、请求量和延迟，练习如何验证一次发布后的结果。示例在浏览器内通过 DuckDB 执行，不代表真实客户数据或性能基准。此提交仅指公开练习场；接入自己的事件数据需要注册 Telemetry。由产品创建者 JR（@TheBuilderJR）提交，文案使用 AI 辅助整理。
@@ -354,6 +358,8 @@ Supported Categories:
   > _No-login task: Use every tool in full: convert units and number bases, format JSON, pick colours from an image, view an STL file_
 - **[JotTools](https://jottools.com)** — JotTools is a free suite of 130+ online tools (PDF, image, text, color, calculators, and developer utilities) that run entirely in your browser. No login, no signup, and nothing is uploaded to a server, all processing happens client-side on your device. Available in 6 languages.
   > _No-login task: Convert HEIC, SVG and images, compress and crop photos, merge and compress PDFs, generate QR codes, pick colors and build CSS gradients, format JSON, and use 130+ other tools, all with no account._
+- **[KeyboardAnalyzer](https://www.keyboardanalyzer.com/)** — Online keyboard testing utility to check key switches, rollover, latency, and layout mappings with exportable diagnostic reports.
+  > _No-login task: Test physical keyboard switch responsiveness across full layouts and export text diagnostic reports._
 - **[Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/)** ([Source](https://github.com/xueboyang1985/kindle-exporter) ⭐0) — Export your Kindle highlights and notes to Markdown, CSV, or JSON. Drag and drop My Clippings.txt, preview all books, and export in your preferred format. 100% browser-based, no upload.
   > _No-login task: Export Kindle highlights to Markdown, CSV, or JSON without uploading files_
 - **[KitParlor](https://kitparlor.com)** — 27 free browser tools for people who sell on Etsy, Amazon and print-on-demand: fee and landed-cost calculators, image resizers, print-file checkers, seamless pattern makers, label builders and more. Every tool runs in the page — images and files are processed on your own machine and never sent to a server. No account, no trial, no upload step. 34 written guides cover the marketplace specs and 2026 EU/US regulations the tools deal with, with sources and dates cited.
@@ -440,8 +446,12 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Convert and process PDFs, images, videos, and documents_
 - **[tmp.tf](https://tmp.tf)** — A temporary clipboard tool that lets you sync text and content across devices in seconds. No signup required, end-to-end encrypted, and content auto self-destructs. Simply open a named channel and paste from any device.
   > _No-login task: Open a channel and sync text across devices in real time_
+- **[ToolCabana](https://www.toolcabana.com/en)** — Comprehensive suite of 400+ online utilities for PDF manipulation, image generation, developer conversions, and calculations.
+  > _No-login task: Generate vector QR codes and run client-side utilities with direct file downloads._
 - **[ToolSphare](https://toolsphare.com/)** — ToolSphare is a free online toolkit with 400+ browser-based PDF, image, text, and developer utilities. Merge or compress PDFs, resize images, format JSON, and more — no account required. Most tools run on your device for privacy.
   > _No-login task: Use PDF, image, text, and developer tools instantly in your browser without creating an account._
+- **[U2C.app](https://u2c.app/)** — Universal in-browser unit converter covering dozens of measurement categories with high precision and zero tracking.
+  > _No-login task: Convert measurement units across length, mass, volume, temperature, and data with instant local calculation._
 - **[UntrackedTools](https://untrackedtools.com/en/)** — 100+ free online tools that run entirely in your browser. PDF merge, split, compress, convert. Image compression, format conversion, resize. JSON/YAML formatters, markdown editors, token counters, color pickers, unit converters, and more. No file uploads to remote servers — your data never leaves your device. No account, no tracking, no cookies. All processing happens client-side via JavaScript/WebAssembly. Works offline after first load. Built for privacy: what you do in the browser stays in th
   > _No-login task: Merge PDF files without uploading them to any server._
 - **[UtilBear](https://utilbear.com/)** — UtilBear offers free, privacy-first tools for counting text and converting WebP and HEIC images. Processing happens locally in the browser, so files are never uploaded. No account or watermark is required, the tools work on desktop and mobile, and the interface supports eight languages.
@@ -535,6 +545,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Find and download free SVG icons_
 - **[Video Size Reducer](https://video-size-reducer.com/)** — A browser-based video compressor for people who just need a smaller shareable file. Server-side processing, resumable uploads, visible progress. Results stay downloadable for 24 hours; free tasks to start, no watermark on any plan.
   > _No-login task: Compress a video to a target file size and download a smaller MP4 in the browser_
+- **[Video to Image Sequence](https://www.videotoimagesequence.online)** — In-browser video frame extractor and sequence creator to convert MP4 and WebM videos into clean frame sequences.
+  > _No-login task: Extract video frames at custom frame rates and download unwatermarked ZIP sequences client-side._
 - **[Vocalremover.org](https://vocalremover.org)** — AI-powered vocal remover that separates vocals from instrumentals in any song. Perfect for karaoke or remix creation.
   > _No-login task: Separate vocals from instrumentals_
 - **[WatermarkLift](https://watermarklift.com/)** — Free on-device Gemini watermark remover running entirely in browser without file uploads.
@@ -730,6 +742,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Explore savings assumptions with an interactive calculator_
 - **[Tools Berry](https://tools-berry.com)** — Tools Berry is a free collection of fast, no-login online tools — paycheck and take-home-pay calculators for all 50 US states, plus image resizing and compression, QR and password generators, invoice and word-count tools, and dozens of everyday calculators. Everything runs in your browser — no signup, no uploads.
   > _No-login task: Calculate take-home pay for any US state, count words, and generate QR codes, invoices, and passwords — all in the browser, no account._
+- **[US Law Explained Substantial Presence Test](https://uslawexplained.com/tools/substantial_presence_test)** — Interactive calculator and travel planner evaluating IRS 183-day substantial presence tax residency status with downloadable worksheets.
+  > _No-login task: Calculate IRS 3-year weighted presence day counts and export plain-text tax residency worksheets._
 - **[Wise Currency Converter](https://wise.com/gb/currency-converter/)** — Currency converter showing the real, mid-market exchange rate. Compare rates from banks and transfer services to see how much you could save.
   > _No-login task: Compare real exchange rates across banks and services_
 - **[XE Currency Converter](https://xe.com/currencyconverter/)** — World-trusted currency converter with live exchange rates. Convert between 300+ currencies and precious metals with mid-market rates updated every minute.
