@@ -201,7 +201,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3032
+    "githubStars": 3039
   },
   {
     "slug": "banglatools-com",
@@ -297,7 +297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9609
+    "githubStars": 9618
   },
   {
     "slug": "bunengchi-com",
@@ -801,7 +801,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 554
+    "githubStars": 559
   },
   {
     "slug": "flukeout-github-io",
@@ -885,7 +885,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36219
+    "githubStars": 36270
   },
   {
     "slug": "dataformatkit-com",
@@ -909,7 +909,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 410
+    "githubStars": 411
   },
   {
     "slug": "db-fiddle-com",
@@ -993,7 +993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9006
+    "githubStars": 9095
   },
   {
     "slug": "diagrflow-com",
@@ -1149,7 +1149,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 134681
+    "githubStars": 134893
   },
   {
     "slug": "explainshell-com",
@@ -1161,7 +1161,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14313
+    "githubStars": 14321
   },
   {
     "slug": "extract-express",
@@ -1233,7 +1233,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17810
+    "githubStars": 17814
   },
   {
     "slug": "fffuel-co",
@@ -1449,7 +1449,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2365
+    "githubStars": 2373
   },
   {
     "slug": "geojson-io",
@@ -1461,7 +1461,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2274
+    "githubStars": 2275
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1656,6 +1656,18 @@
     "githubStars": 80702
   },
   {
+    "slug": "hosthtmlfile-com",
+    "name": "Host HTML File",
+    "url": "https://hosthtmlfile.com/",
+    "description": "Zero-configuration static HTML and ZIP bundle hosting service that generates instant temporary public preview links without an account.",
+    "coreTask": "Upload a single HTML file or project ZIP bundle to generate and copy a temporary public preview URL.",
+    "category": "Development",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "httpbin-org",
     "name": "httpbin",
     "url": "https://httpbin.org",
@@ -1785,7 +1797,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 40984
+    "githubStars": 41075
   },
   {
     "slug": "meet-jit-si",
@@ -1797,7 +1809,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30151
+    "githubStars": 30171
   },
   {
     "slug": "jottools-com",
@@ -1821,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44554
+    "githubStars": 44588
   },
   {
     "slug": "jsonformatter-org",
@@ -2109,7 +2121,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13201
+    "githubStars": 13210
   },
   {
     "slug": "meeting-to-go-io",
@@ -2484,6 +2496,18 @@
     "githubStars": 11710
   },
   {
+    "slug": "parsebloom-com",
+    "name": "Parsebloom",
+    "url": "https://parsebloom.com/",
+    "description": "Client-side XML to JSON converter that parses structured XML in browser memory and downloads clean JSON output.",
+    "coreTask": "Paste or upload XML, convert it to formatted JSON in the browser, and download or copy the result.",
+    "category": "Development",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "www-pastecurl-com",
     "name": "PasteCurl",
     "url": "https://www.pastecurl.com/",
@@ -2769,7 +2793,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1235
+    "githubStars": 1236
   },
   {
     "slug": "privnote-com",
@@ -2913,7 +2937,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9045
+    "githubStars": 9049
   },
   {
     "slug": "ray-so",
@@ -3249,7 +3273,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2246
+    "githubStars": 2248
   },
   {
     "slug": "squoosh-app",
@@ -3345,7 +3369,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22767
+    "githubStars": 22779
   },
   {
     "slug": "syncwhen-com",
@@ -3393,7 +3417,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1744
+    "githubStars": 1745
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3429,7 +3453,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13071
+    "githubStars": 13077
   },
   {
     "slug": "textlogo-app",
@@ -3573,7 +3597,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51121
+    "githubStars": 51165
   },
   {
     "slug": "tmp-tf",
@@ -3645,7 +3669,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9252
+    "githubStars": 9255
   },
   {
     "slug": "tryink-me",
@@ -3681,7 +3705,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111632
+    "githubStars": 111688
   },
   {
     "slug": "u2c-app",
@@ -3816,6 +3840,18 @@
     "githubStars": null
   },
   {
+    "slug": "voltagedropcalculator-net",
+    "name": "Voltage Drop Calculator",
+    "url": "https://voltagedropcalculator.net/",
+    "description": "NEC 2023 compliant voltage drop and conductor sizing calculator with instant client-side PDF engineering reports.",
+    "coreTask": "Configure electrical load, voltage, and conduit run to calculate voltage drop or find minimum wire size, then generate a PDF report.",
+    "category": "Development",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "bitibybit-com-volunteer-roster",
     "name": "Volunteer Roster",
     "url": "https://bitibybit.com/volunteer-roster/",
@@ -3873,7 +3909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6784
+    "githubStars": 6789
   },
   {
     "slug": "webutilslab-com-tools",
@@ -4053,7 +4089,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3205
+    "githubStars": 3212
   },
   {
     "slug": "z-ai",
