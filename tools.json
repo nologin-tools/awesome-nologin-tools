@@ -204,6 +204,18 @@
     "githubStars": 3039
   },
   {
+    "slug": "badqualityimagemaker-com",
+    "name": "Bad Quality Image Maker",
+    "url": "https://badqualityimagemaker.com/",
+    "description": "Browser-based image degrader tool to blur, pixelate, compress, and deep-fry images for lo-fi aesthetics.",
+    "coreTask": "Upload an image, apply pixelation or blur filters, and download the degraded output as JPG, PNG, or WebP.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "banglatools-com",
     "name": "BanglaTools",
     "url": "https://banglatools.com",
@@ -405,7 +417,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36124
+    "githubStars": 36123
   },
   {
     "slug": "cfiresim-com",
@@ -681,7 +693,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 275
+    "githubStars": 274
   },
   {
     "slug": "convertlo-pro",
@@ -801,7 +813,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 559
+    "githubStars": 560
   },
   {
     "slug": "flukeout-github-io",
@@ -885,7 +897,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36270
+    "githubStars": 36286
   },
   {
     "slug": "dataformatkit-com",
@@ -934,6 +946,18 @@
     "badge": "none",
     "repoUrl": null,
     "githubStars": null
+  },
+  {
+    "slug": "declarenta-com",
+    "name": "DeclaRenta",
+    "url": "https://declarenta.com/",
+    "description": "Client-side tax calculator for Spanish residents with foreign brokers, supporting Modelo 100, 720, 721, and D-6 declarations.",
+    "coreTask": "Upload trade activity reports from Degiro, IBKR, or crypto exchanges to calculate Spanish tax returns and export CSV reports.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": "https://github.com/GeiserX/DeclaRenta",
+    "githubStars": 51
   },
   {
     "slug": "decode-base64-com",
@@ -993,7 +1017,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9095
+    "githubStars": 9127
   },
   {
     "slug": "diagrflow-com",
@@ -1149,7 +1173,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 134893
+    "githubStars": 135000
   },
   {
     "slug": "explainshell-com",
@@ -1161,7 +1185,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14321
+    "githubStars": 14322
   },
   {
     "slug": "extract-express",
@@ -1449,7 +1473,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2373
+    "githubStars": 2375
   },
   {
     "slug": "geojson-io",
@@ -1797,7 +1821,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41075
+    "githubStars": 41091
   },
   {
     "slug": "meet-jit-si",
@@ -1809,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30171
+    "githubStars": 30182
   },
   {
     "slug": "jottools-com",
@@ -1833,7 +1857,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44588
+    "githubStars": 44593
   },
   {
     "slug": "jsonformatter-org",
@@ -2298,6 +2322,18 @@
     "description": "Music Tools Lab is a free collection of browser-based utilities for musicians and audio workflows, including BPM and key detection, metronomes, tuners, playlist analysis, audio conversion, trimming, and vocal reduction. Core audio processing runs locally in the browser, so selected files are not uploaded, and no account is required.",
     "coreTask": "Analyze BPM and song key, use metronomes and tuners, inspect playlists, and convert or edit audio directly in the browser.",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "myseasonhue-com-virtual-color-draping",
+    "name": "My Season Hue - Virtual Color Draping",
+    "url": "https://myseasonhue.com/virtual-color-draping",
+    "description": "Private, browser-based seasonal color analysis tool to compare 12 season palettes and drape swatches on your portrait locally.",
+    "coreTask": "Upload a portrait, preview across 12 seasonal color palettes, and download the high-resolution overview PNG.",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2793,7 +2829,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1236
+    "githubStars": 1238
   },
   {
     "slug": "privnote-com",
@@ -2898,6 +2934,18 @@
     "description": "13 browser-based tools (12 free, 1 optional Pro) — image compressor, JSON formatter, word counter, password generator, Base64/URL encode-decode, and more. Everything processes entirely client-side, with nothing uploaded to a server. Also includes an optional Batch Image Compressor (compress many images at once) for a one-time $4.99 payment via PayPal — no account or subscription required.",
     "coreTask": "Compress images, format JSON, count words, and encode or decode Base64 in your browser",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "noiseremover-site",
+    "name": "QuietTake",
+    "url": "https://noiseremover.site",
+    "description": "Browser-based background noise removal tool that isolates voice and eliminates audio hum entirely on the client side.",
+    "coreTask": "Upload a voice recording, adjust noise suppression levels, and download the cleaned 16-bit WAV audio.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3285,7 +3333,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26075
+    "githubStars": 26088
   },
   {
     "slug": "stackedit-io",
@@ -3369,7 +3417,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22779
+    "githubStars": 22788
   },
   {
     "slug": "syncwhen-com",
@@ -3597,7 +3645,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51165
+    "githubStars": 51189
   },
   {
     "slug": "tmp-tf",
@@ -3696,6 +3744,18 @@
     "githubStars": null
   },
   {
+    "slug": "typepatch-com",
+    "name": "TypePatch",
+    "url": "https://typepatch.com",
+    "description": "Private, browser-based image text editor that uses client-side OCR to detect, erase, and replace text inside images.",
+    "coreTask": "Upload an image, automatically detect text via local OCR, modify or erase words, and download the edited image.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "typescriptlang-org-play",
     "name": "TypeScript Playground",
     "url": "https://typescriptlang.org/play",
@@ -3705,7 +3765,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111688
+    "githubStars": 111715
   },
   {
     "slug": "u2c-app",
