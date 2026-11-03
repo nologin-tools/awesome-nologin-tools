@@ -201,7 +201,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3039
+    "githubStars": 3042
   },
   {
     "slug": "badqualityimagemaker-com",
@@ -1485,7 +1485,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2275
+    "githubStars": 2276
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -2145,7 +2145,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13210
+    "githubStars": 13212
   },
   {
     "slug": "meeting-to-go-io",
@@ -2985,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9049
+    "githubStars": 9052
   },
   {
     "slug": "ray-so",
@@ -3321,7 +3321,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2248
+    "githubStars": 2249
   },
   {
     "slug": "squoosh-app",
@@ -3465,7 +3465,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1745
+    "githubStars": 1747
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3501,7 +3501,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13077
+    "githubStars": 13079
   },
   {
     "slug": "textlogo-app",
@@ -3717,7 +3717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9255
+    "githubStars": 9256
   },
   {
     "slug": "tryink-me",
@@ -4149,7 +4149,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3212
+    "githubStars": 3213
   },
   {
     "slug": "z-ai",
