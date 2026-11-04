@@ -165,7 +165,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6545
+    "githubStars": 6544
   },
   {
     "slug": "audiotrimmer-com",
@@ -585,7 +585,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19161
+    "githubStars": 19171
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1005,7 +1005,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39588
+    "githubStars": 39598
   },
   {
     "slug": "app-diagrams-net",
@@ -1341,7 +1341,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7386
+    "githubStars": 7385
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1548,12 +1548,36 @@
     "githubStars": null
   },
   {
+    "slug": "golfclubreference-com-tools-swing-weight-calculator",
+    "name": "Golf Club Swing Weight Calculator",
+    "url": "https://golfclubreference.com/tools/swing-weight-calculator",
+    "description": "Free in-browser golf club swing weight calculator on the 14-inch Lorythmic scale with live weight-change simulation.",
+    "coreTask": "Calculate golf club swing weight and balance",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "webgpustress-com",
     "name": "gpu stress test",
     "url": "https://webgpustress.com/",
     "description": "Free browser-based GPU stress test for checking sustained graphics performance without installing software. Run WebGL workloads and monitor average FPS, 1% lows, frame-time stability, dropped frames, and performance changes over time.",
     "coreTask": "Run GPU stress tests, WebGL capability checks, and performance benchmarks directly in the browser.",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "graziechef-com-tools-qr-menu-generator",
+    "name": "GrazieChef QR Menu Generator",
+    "url": "https://graziechef.com/tools/qr-menu-generator?src=nologin-tools",
+    "description": "Free menu page and QR code generator for restaurants without signup or email requirements.",
+    "coreTask": "Generate QR code and web page for restaurant menu",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1677,7 +1701,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80712
+    "githubStars": 80734
   },
   {
     "slug": "hosthtmlfile-com",
@@ -1702,6 +1726,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
     "githubStars": 13641
+  },
+  {
+    "slug": "humanizeink-com",
+    "name": "Humanize Ink",
+    "url": "https://humanizeink.com/",
+    "description": "AI-powered English text humanizer that rewrites AI-generated drafts into natural, casual, or professional phrasing without account creation.",
+    "coreTask": "Rewrite English text into natural phrasing",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "icyzip-com",
@@ -1770,6 +1806,18 @@
     "description": "A browser-based ASCII art generator and image converter that turns JPG, PNG, GIF, and WebP files into customizable character graphics with side-by-side comparison and high-resolution exports.",
     "coreTask": "Upload an image, customize ASCII width and rendering presets, and export high-resolution PNG or plain text without an account.",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "imagetovideoprompt-org",
+    "name": "Image to Video Prompt Generator",
+    "url": "https://imagetovideoprompt.org/",
+    "description": "Free in-browser prompt builder that crafts formatted camera and motion prompts for AI video generators like Grok, Kling, and Hailuo without sign-up.",
+    "coreTask": "Build structured motion prompts for AI video models",
+    "category": "AI",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1989,7 +2037,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15224
+    "githubStars": 15231
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2121,7 +2169,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 31
+    "githubStars": 32
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2529,7 +2577,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11731
+    "githubStars": 11746
   },
   {
     "slug": "parsebloom-com",
@@ -2673,7 +2721,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8516
+    "githubStars": 8515
   },
   {
     "slug": "piccollages-com",
@@ -3129,7 +3177,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1439
+    "githubStars": 1440
   },
   {
     "slug": "salitronic-com-gerber-analyzer",
@@ -3201,7 +3249,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10764
+    "githubStars": 10765
   },
   {
     "slug": "shields-io",
@@ -3214,6 +3262,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
     "githubStars": 27351
+  },
+  {
+    "slug": "shotmelo-com",
+    "name": "Shotmelo",
+    "url": "https://shotmelo.com",
+    "description": "Visual prompt builder and motion planner for image-to-video AI workflows without mandatory signup.",
+    "coreTask": "Plan and generate image-to-video prompts",
+    "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "signaturefont-net",
