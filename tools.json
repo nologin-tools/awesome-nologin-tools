@@ -1152,6 +1152,18 @@
     "githubStars": null
   },
   {
+    "slug": "everytool4u-com",
+    "name": "EveryTool4U",
+    "url": "https://everytool4u.com",
+    "description": "All-in-one free browser-based utility platform offering 109 client-side tools across PDF, image, video, and text manipulation.",
+    "coreTask": "Select from 109 browser-based utilities to split, compress, or convert documents and media entirely on your local machine.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "excalideck-com",
     "name": "Excalideck",
     "url": "https://excalideck.com",
@@ -1428,6 +1440,18 @@
     "githubStars": null
   },
   {
+    "slug": "freegraphpaper-org",
+    "name": "Free Graph Paper",
+    "url": "https://freegraphpaper.org/",
+    "description": "Free customizable printable graph paper, grid sheets, and dot paper generator that exports unwatermarked PDF and PNG documents.",
+    "coreTask": "Customize grid types, spacing, and page orientation to generate and export printable vector graph paper PDFs.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "free-qr-codes-com",
     "name": "Free QR Codes",
     "url": "https://free-qr-codes.com/",
@@ -1584,6 +1608,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-gsortho-ma-outils-analyse-cephalometrique",
+    "name": "GS Ortho Céphalométrie",
+    "url": "https://www.gsortho.ma/outils/analyse-cephalometrique/",
+    "description": "Interactive client-side cephalometric analysis tool calculating Steiner and Tweed orthodontic measurements directly in the browser.",
+    "coreTask": "Upload a lateral cephalometric radiograph or load the demo tracing to plot anatomical landmarks and calculate diagnostic angles without account creation.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "haikei-app",
     "name": "Haikei",
     "url": "https://haikei.app",
@@ -1686,6 +1722,18 @@
     "description": "A free browser tool that removes GPS, EXIF, and other non-pixel metadata from JPEG, PNG, and WebP images locally on the device before sharing.",
     "coreTask": "Select an image, remove embedded location and metadata locally, preview the cleaned result, and download it.",
     "category": "Privacy",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "heyutils-com",
+    "name": "HeyUtils",
+    "url": "https://heyutils.com/",
+    "description": "Comprehensive collection of 300+ free client-side developer utilities across formatting, conversion, cryptography, and network calculations.",
+    "coreTask": "Access over 300 in-browser developer utilities such as JSON formatting, JWT decoding, and regex testing with instant file export.",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2196,6 +2244,18 @@
     "githubStars": 13212
   },
   {
+    "slug": "matchmytype-org",
+    "name": "MatchMyType",
+    "url": "https://matchmytype.org/",
+    "description": "Interactive MBTI personality compatibility matrix analyzing 136 pairings across romantic relationships, workplace collaboration, and friendship.",
+    "coreTask": "Select two MBTI personality types to instantly view multi-dimensional relationship scores, dynamic compatibility breakdowns, and communication advice.",
+    "category": "Communication",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "meeting-to-go-io",
     "name": "meeting.to-go",
     "url": "https://meeting.to-go.io",
@@ -2229,7 +2289,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6885
+    "githubStars": 6892
   },
   {
     "slug": "metadataremover-ai",
@@ -2313,7 +2373,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20971
+    "githubStars": 20996
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2433,7 +2493,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6184
+    "githubStars": 6185
   },
   {
     "slug": "next-tools-dev",
@@ -2610,6 +2670,18 @@
     "description": "64 free PDF and image tools that run entirely in your browser, so your files are never uploaded. Merge, split, compress (to an exact target size), convert, organize, sign and protect PDFs; compress, resize, convert across ~20 formats, run OCR, and remove image backgrounds with an on-device AI model. No account, no limits, no watermarks. Proof: open the Network tab while you process a file and it stays empty, and most tools keep working with Wi-Fi off after the page loads.",
     "coreTask": "Convert, merge, split, and compress PDFs and images with built-in OCR",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "pdfannotation-app",
+    "name": "PDF Annotator",
+    "url": "https://pdfannotation.app/",
+    "description": "Client-side PDF annotator for highlighting text, drawing, adding shapes, and inserting electronic signatures directly in the browser.",
+    "coreTask": "Upload a PDF document to annotate pages with freehand drawing, geometric shapes, and text boxes, then export the unwatermarked annotated PDF.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2805,7 +2877,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52393
+    "githubStars": 52405
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3261,7 +3333,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27351
+    "githubStars": 27365
   },
   {
     "slug": "shotmelo-com",
@@ -3405,7 +3477,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23098
+    "githubStars": 23106
   },
   {
     "slug": "stayput-dev",
