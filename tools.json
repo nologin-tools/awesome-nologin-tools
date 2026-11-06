@@ -36,6 +36,18 @@
     "githubStars": null
   },
   {
+    "slug": "aicost-tools",
+    "name": "AI//COST",
+    "url": "https://aicost.tools/",
+    "description": "Compare LLM API pricing and calculate monthly spend across 150+ models with reasoning tokens and cache hit rates.",
+    "coreTask": "Calculate monthly API spend for AI models with configurable token parameters and export CSV cost breakdown.",
+    "category": "AI",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "all2url-com",
     "name": "All2URL",
     "url": "https://all2url.com/",
@@ -417,7 +429,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36123
+    "githubStars": 36137
   },
   {
     "slug": "cfiresim-com",
@@ -693,7 +705,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 274
+    "githubStars": 275
   },
   {
     "slug": "convertlo-pro",
@@ -813,7 +825,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 560
+    "githubStars": 558
   },
   {
     "slug": "flukeout-github-io",
@@ -897,7 +909,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36286
+    "githubStars": 36333
   },
   {
     "slug": "dataformatkit-com",
@@ -1017,7 +1029,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9127
+    "githubStars": 9209
   },
   {
     "slug": "diagrflow-com",
@@ -1185,7 +1197,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135000
+    "githubStars": 135221
   },
   {
     "slug": "explainshell-com",
@@ -1197,7 +1209,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14322
+    "githubStars": 14328
   },
   {
     "slug": "extract-express",
@@ -1269,7 +1281,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17814
+    "githubStars": 17812
   },
   {
     "slug": "fffuel-co",
@@ -1497,7 +1509,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2375
+    "githubStars": 2382
   },
   {
     "slug": "geojson-io",
@@ -1917,7 +1929,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41091
+    "githubStars": 41129
   },
   {
     "slug": "meet-jit-si",
@@ -1929,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30182
+    "githubStars": 30205
   },
   {
     "slug": "jottools-com",
@@ -1953,7 +1965,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44593
+    "githubStars": 44592
   },
   {
     "slug": "jsonformatter-org",
@@ -2154,6 +2166,18 @@
     "description": "Online Unicode text and aesthetic font generator offering over 3600 decorative styles, custom mixing, and one-click clipboard copying without sign-up.",
     "coreTask": "Generate and copy styled Unicode text across decorative font categories.",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "feltandwood-com-tool",
+    "name": "Listing Workshop",
+    "url": "https://feltandwood.com/tool",
+    "description": "Client-side Etsy listing SEO checker that audits title scannability, 13 tag slots, and description substance with instant notes export.",
+    "coreTask": "Audit and optimize Etsy listing draft titles, keywords, and description copy directly in browser memory.",
+    "category": "Writing",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2442,6 +2466,18 @@
     "description": "Private, browser-based seasonal color analysis tool to compare 12 season palettes and drape swatches on your portrait locally.",
     "coreTask": "Upload a portrait, preview across 12 seasonal color palettes, and download the high-resolution overview PNG.",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "nametracing-org",
+    "name": "Name Tracing Generator",
+    "url": "https://nametracing.org/",
+    "description": "Generate customized name tracing and handwriting practice worksheets with customizable line sizes, fonts, and print-ready PDF export.",
+    "coreTask": "Generate and print custom name tracing handwriting worksheets in PDF or PNG without creating an account.",
+    "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2937,7 +2973,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6155
+    "githubStars": 6163
   },
   {
     "slug": "privacytests-org",
@@ -2949,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1238
+    "githubStars": 1239
   },
   {
     "slug": "privnote-com",
@@ -3189,7 +3225,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4121
+    "githubStars": 4119
   },
   {
     "slug": "remove-bg",
@@ -3465,7 +3501,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26088
+    "githubStars": 26150
   },
   {
     "slug": "stackedit-io",
@@ -3478,6 +3514,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
     "githubStars": 23106
+  },
+  {
+    "slug": "newellabs-com-tools-bank-statement-converter",
+    "name": "Statement2Ledger",
+    "url": "https://newellabs.com/tools/bank-statement-converter/",
+    "description": "Convert bank statement PDFs to Excel, CSV, QuickBooks, and OFX formats in the browser without uploading files to a server.",
+    "coreTask": "Convert PDF bank and credit card statements into structured spreadsheets or accounting files locally without registration.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "stayput-dev",
@@ -3549,7 +3597,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22788
+    "githubStars": 22793
   },
   {
     "slug": "syncwhen-com",
@@ -3777,7 +3825,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51189
+    "githubStars": 51287
   },
   {
     "slug": "tmp-tf",
@@ -3897,7 +3945,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111715
+    "githubStars": 111774
   },
   {
     "slug": "u2c-app",
@@ -4008,6 +4056,18 @@
     "githubStars": null
   },
   {
+    "slug": "visualtimer-org",
+    "name": "Visual Timer",
+    "url": "https://visualtimer.org/",
+    "description": "Visual countdown timer for classrooms and kids with an interactive dial, full-screen presentation mode, and shareable links.",
+    "coreTask": "Run customized visual countdown timers with customizable minutes and audio alarms directly in the browser.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "visualgo-net",
     "name": "VisuAlgo",
     "url": "https://visualgo.net",
@@ -4101,7 +4161,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6789
+    "githubStars": 6795
   },
   {
     "slug": "webutilslab-com-tools",
@@ -4245,7 +4305,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5283
+    "githubStars": 5282
   },
   {
     "slug": "xe-com-currencyconverter",
