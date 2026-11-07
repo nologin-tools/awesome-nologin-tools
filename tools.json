@@ -213,7 +213,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3042
+    "githubStars": 3044
   },
   {
     "slug": "badqualityimagemaker-com",
@@ -384,6 +384,18 @@
     "githubStars": null
   },
   {
+    "slug": "calendarforge-net-make-calendar",
+    "name": "Calendar Forge",
+    "url": "https://calendarforge.net/make-calendar",
+    "description": "Customizable monthly calendar maker with multi-country holiday overlays, custom notes, and multi-format export to SVG, PDF, ICS, CSV, and XLSX.",
+    "coreTask": "Customize start days, holidays, themes, and per-date notes, then export the calendar to SVG, PDF, or spreadsheet formats without sign-up.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "calorique-io",
     "name": "Calorique",
     "url": "https://calorique.io/",
@@ -417,7 +429,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5879
+    "githubStars": 5880
   },
   {
     "slug": "carbon-now-sh",
@@ -540,6 +552,18 @@
     "githubStars": null
   },
   {
+    "slug": "codemodshub-com",
+    "name": "Code Mods Hub",
+    "url": "https://codemodshub.com/",
+    "description": "Claude Code mods registry and API token cost calculator for modeling model usage and prompt caching savings without an account.",
+    "coreTask": "Model Claude API token usage, compare model pricing, and calculate prompt caching cost reductions in your browser.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "codextheme-tools",
     "name": "CodexTheme Tools",
     "url": "https://codextheme.tools/",
@@ -597,7 +621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19171
+    "githubStars": 19180
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -861,7 +885,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3397
+    "githubStars": 3399
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -969,7 +993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GeiserX/DeclaRenta",
-    "githubStars": 51
+    "githubStars": 52
   },
   {
     "slug": "decode-base64-com",
@@ -1017,7 +1041,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39598
+    "githubStars": 39610
   },
   {
     "slug": "app-diagrams-net",
@@ -1065,7 +1089,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8296
+    "githubStars": 8297
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1365,7 +1389,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7385
+    "githubStars": 7388
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1521,7 +1545,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2276
+    "githubStars": 2275
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1530,6 +1554,18 @@
     "description": "Free browser-based geometry formulas and calculators for common 2D and 3D shapes. Includes area, perimeter, volume, surface area formulas, diagrams, worked examples, and step-by-step calculator outputs without requiring an account.",
     "coreTask": "Calculate 2D and 3D geometry formulas, perimeters, areas, and volumes",
     "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "gesturesynthlab-com",
+    "name": "Gesture Synth Lab",
+    "url": "https://gesturesynthlab.com/",
+    "description": "In-browser gesture synthesizer and polyphonic chord studio for shaping analog sounds and recording audio clips without plugins or login.",
+    "coreTask": "Select scales, play polyphonic chord pads via keyboard shortcuts or gestures, and export recorded WebM audio clips locally.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1761,7 +1797,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80734
+    "githubStars": 80763
   },
   {
     "slug": "hosthtmlfile-com",
@@ -1914,6 +1950,18 @@
     "description": "Comprehensive leak detection: IP address, DNS servers, WebRTC, geolocation, and browser fingerprint. Essential VPN verification tool.",
     "coreTask": "Detect IP and DNS leaks",
     "category": "Privacy",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-irorecipe-com",
+    "name": "Iro Recipe",
+    "url": "https://www.irorecipe.com/",
+    "description": "Traditional Japanese color dictionary, palette builder, and color code converter with instant CSV and clipboard export.",
+    "coreTask": "Search Japanese colors or HEX codes, curate custom palette swatches, and export the palette list as CSV.",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2097,7 +2145,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15231
+    "githubStars": 15234
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2265,7 +2313,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13212
+    "githubStars": 13221
   },
   {
     "slug": "matchmytype-org",
@@ -2565,7 +2613,7 @@
     "featured": false,
     "badge": "explicit",
     "repoUrl": "https://github.com/nitroideofficial/nitroide",
-    "githubStars": 17
+    "githubStars": 23
   },
   {
     "slug": "nologin-tools",
@@ -2673,7 +2721,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11746
+    "githubStars": 11762
   },
   {
     "slug": "parsebloom-com",
@@ -2808,6 +2856,18 @@
     "githubStars": 114
   },
   {
+    "slug": "photocraft-sailtoworld-com-psd-inspector",
+    "name": "PhotoCraft PSD & PSB Header Inspector",
+    "url": "https://photocraft.sailtoworld.com/psd-inspector/",
+    "description": "Browser-based PSD and PSB header inspector for extracting Photoshop dimensions, color modes, and bit depths without uploading files.",
+    "coreTask": "Drop a PSD or PSB file to inspect dimensions, channels, and color mode in memory, then download the structured JSON report.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "photomosh-com",
     "name": "PhotoMosh",
     "url": "https://moshpro.app/lite",
@@ -2829,7 +2889,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8515
+    "githubStars": 8514
   },
   {
     "slug": "piccollages-com",
@@ -2922,6 +2982,18 @@
     "description": "A bilingual Quebec web app that helps self-represented people organize dated facts, evidence, communications, deadlines and chronology into a structured legal-file report. Data stays on the device during no-login use. It provides organization and general information, not legal advice.",
     "coreTask": "Create and maintain up to three files, use the dated journal and evidence vault, build an automatic chronology, review preparation checklists, and preview a structured report directly in the browser.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "printabletoolkit-com",
+    "name": "Printable Toolkit",
+    "url": "https://printabletoolkit.com/",
+    "description": "Custom printable worksheet, planner, and handwriting template generator for downloading print-ready PDFs without registration.",
+    "coreTask": "Generate custom name tracing sheets, handwriting worksheets, and planners, then download print-ready vector PDFs directly.",
+    "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3141,7 +3213,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9052
+    "githubStars": 9054
   },
   {
     "slug": "ray-so",
@@ -3288,6 +3360,18 @@
     "githubStars": 1440
   },
   {
+    "slug": "rvstopguide-com",
+    "name": "RV Stop Guide Pinout Finder",
+    "url": "https://rvstopguide.com/",
+    "description": "Interactive 7-pin trailer wiring diagram, circuit tester, and RV pinout finder without downloading manual PDFs or registering.",
+    "coreTask": "Inspect 7-pin blade connector circuits, toggle vehicle and trailer perspectives, and trace wiring color codes interactively.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "salitronic-com-gerber-analyzer",
     "name": "Salitronic Gerber Analyzer",
     "url": "https://salitronic.com/gerber_analyzer",
@@ -3357,7 +3441,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10765
+    "githubStars": 10766
   },
   {
     "slug": "shields-io",
@@ -3380,6 +3464,18 @@
     "category": "AI",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "shycut-com",
+    "name": "Shycut",
+    "url": "https://shycut.com/",
+    "description": "Browser-based private video editor for trimming, auto-blurring faces and license plates, cutting silences, and resizing video without cloud uploads.",
+    "coreTask": "Drop in a video to trim clips, automatically blur faces or license plates, and export the edited file locally.",
+    "category": "Media",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -3489,7 +3585,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2249
+    "githubStars": 2254
   },
   {
     "slug": "squoosh-app",
@@ -3645,7 +3741,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1747
+    "githubStars": 1750
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -3681,7 +3777,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13079
+    "githubStars": 13086
   },
   {
     "slug": "textlogo-app",
@@ -3897,7 +3993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9256
+    "githubStars": 9258
   },
   {
     "slug": "tryink-me",
@@ -4341,7 +4437,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3213
+    "githubStars": 3235
   },
   {
     "slug": "z-ai",
