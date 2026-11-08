@@ -177,7 +177,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6544
+    "githubStars": 6542
   },
   {
     "slug": "audiotrimmer-com",
@@ -258,6 +258,18 @@
     "description": "Convert JSON arrays and nested object hierarchies into flat CSV spreadsheets in your browser. Features live tabular preview, custom delimiters, and local file export without server uploads.",
     "coreTask": "Convert JSON to CSV",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "blackscreen-vip",
+    "name": "Black Screen VIP",
+    "url": "https://blackscreen.vip/",
+    "description": "Blank dark fullscreen display and solid color background wallpaper generator with customizable dimensions and formats.",
+    "coreTask": "Display a clean fullscreen black screen or export custom resolution solid color wallpapers.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -417,7 +429,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/HTeuMeuLeu/caniemail",
-    "githubStars": 948
+    "githubStars": 950
   },
   {
     "slug": "caniuse-com",
@@ -441,7 +453,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36137
+    "githubStars": 36140
   },
   {
     "slug": "cfiresim-com",
@@ -957,7 +969,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 411
+    "githubStars": 412
   },
   {
     "slug": "db-fiddle-com",
@@ -1221,7 +1233,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135221
+    "githubStars": 135312
   },
   {
     "slug": "explainshell-com",
@@ -1620,6 +1632,18 @@
     "githubStars": null
   },
   {
+    "slug": "goldcalctool-com",
+    "name": "Gold Calculator",
+    "url": "https://goldcalctool.com/",
+    "description": "Real-time scrap gold melt value calculator with live spot prices across multiple karat purities and units.",
+    "coreTask": "Calculate live scrap gold melt value by weight, unit, and purity without an account.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "golfclubreference-com-tools-swing-weight-calculator",
     "name": "Golf Club Swing Weight Calculator",
     "url": "https://golfclubreference.com/tools/swing-weight-calculator",
@@ -1821,7 +1845,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13641
+    "githubStars": 13635
   },
   {
     "slug": "humanizeink-com",
@@ -1962,6 +1986,18 @@
     "description": "Traditional Japanese color dictionary, palette builder, and color code converter with instant CSV and clipboard export.",
     "coreTask": "Search Japanese colors or HEX codes, curate custom palette swatches, and export the palette list as CSV.",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "aiexpert-fun-iskraai-en-tools-proofreader",
+    "name": "Iskra AI Proofreader",
+    "url": "https://aiexpert.fun/iskraai/en/tools/proofreader/",
+    "description": "AI-powered proofreading tool that corrects spelling, punctuation, and grammar while preserving author tone without registration.",
+    "coreTask": "Proofread and correct grammar, spelling, and style in text with direct TXT export.",
+    "category": "Writing",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2328,6 +2364,18 @@
     "githubStars": null
   },
   {
+    "slug": "mazegenerator-online",
+    "name": "Maze Generator",
+    "url": "https://mazegenerator.online/",
+    "description": "Generate custom solvable mazes in square, circular, hexagonal, and triangular shapes with instant printable PDF and answer key export.",
+    "coreTask": "Generate and export customized printable mazes with answer keys in PDF format.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "meeting-to-go-io",
     "name": "meeting.to-go",
     "url": "https://meeting.to-go.io",
@@ -2361,7 +2409,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6892
+    "githubStars": 6899
   },
   {
     "slug": "metadataremover-ai",
@@ -2445,7 +2493,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 20996
+    "githubStars": 21006
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2577,7 +2625,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6185
+    "githubStars": 6183
   },
   {
     "slug": "next-tools-dev",
@@ -2870,7 +2918,7 @@
   {
     "slug": "photomosh-com",
     "name": "PhotoMosh",
-    "url": "https://moshpro.app/lite",
+    "url": "https://studio.moshpro.app/",
     "description": "Apply glitch effects to images and videos. 27 mosh effects including pixel sort, RGB shift, jitter, and VHS — all in the browser.",
     "coreTask": "Apply glitch art effects",
     "category": "Media",
@@ -2973,7 +3021,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52405
+    "githubStars": 52407
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3114,6 +3162,18 @@
     "description": "Visualize code execution step by step. See variables, stack frames, and heap objects for Python, Java, C, C++, and JavaScript.",
     "coreTask": "Visualize code execution step by step",
     "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "qistna-com",
+    "name": "Qistna",
+    "url": "https://qistna.com/",
+    "description": "Compare personal finance and micro-loan installments across Saudi lenders with instant client-side calculation.",
+    "coreTask": "Calculate and compare monthly loan installments across licensed lenders in Saudi Arabia.",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3453,7 +3513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27365
+    "githubStars": 27369
   },
   {
     "slug": "shotmelo-com",
@@ -3597,7 +3657,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26150
+    "githubStars": 26159
   },
   {
     "slug": "stackedit-io",
@@ -3609,7 +3669,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23106
+    "githubStars": 23100
   },
   {
     "slug": "newellabs-com-tools-bank-statement-converter",
@@ -3780,6 +3840,18 @@
     "githubStars": 13086
   },
   {
+    "slug": "compare-text-org",
+    "name": "Text Compare",
+    "url": "https://compare-text.org/",
+    "description": "Free online diff checker to compare two texts, code snippets, or files locally in the browser with character-level highlights.",
+    "coreTask": "Compare two texts or files side-by-side with character-level difference highlighting.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "textlogo-app",
     "name": "Text Logo",
     "url": "https://textlogo.app/",
@@ -3921,7 +3993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51287
+    "githubStars": 51413
   },
   {
     "slug": "tmp-tf",
