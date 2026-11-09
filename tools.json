@@ -48,6 +48,18 @@
     "githubStars": null
   },
   {
+    "slug": "aion2pets-app",
+    "name": "AION 2 Pets",
+    "url": "https://aion2pets.app/",
+    "description": "Plan companion pet soul upgrades, calculate analysis crystal budgets, and explore farming maps for AION 2.",
+    "coreTask": "Calculate soul upgrade requirements, analyze trait crystal budgets, and track farming locations without an account.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "all2url-com",
     "name": "All2URL",
     "url": "https://all2url.com/",
@@ -162,6 +174,18 @@
     "description": "Free calculator for image and video aspect ratios. Enter dimensions to find the ratio, or pick a preset (16:9, 4:3, 1:1) to calculate matching resolutions. Also handles pixel density and side-by-side ratio comparisons. No signup, all calculations run in the browser.",
     "coreTask": "Calculate and compare aspect ratios, find resolutions for a given ratio, and check pixel density",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "aspectratiocalc-im",
+    "name": "Aspect Ratio Calculator",
+    "url": "https://aspectratiocalc.im/",
+    "description": "Calculate aspect ratios, resize image and video dimensions, and preview frames with client-side detection.",
+    "coreTask": "Enter dimensions or upload an image to calculate aspect ratios and preview frames without sign-up.",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -300,6 +324,18 @@
     "githubStars": null
   },
   {
+    "slug": "breachline-io-tools",
+    "name": "BreachLine Security Tools",
+    "url": "https://breachline.io/tools",
+    "description": "Suite of developer security tools for auditing JWTs, diffing SBOMs and lockfiles, and inspecting CI configs.",
+    "coreTask": "Inspect JWT claims, compare dependency lockfiles, and review build configurations locally without an account.",
+    "category": "Privacy",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "max-agent-hub-github-io-browser-sop-builder",
     "name": "Browser SOP Builder",
     "url": "https://max-agent-hub.github.io/browser-sop-builder/",
@@ -333,7 +369,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9618
+    "githubStars": 9620
   },
   {
     "slug": "bunengchi-com",
@@ -861,7 +897,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 558
+    "githubStars": 559
   },
   {
     "slug": "flukeout-github-io",
@@ -873,7 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2864
+    "githubStars": 2865
   },
   {
     "slug": "cssgradient-io",
@@ -945,7 +981,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36333
+    "githubStars": 36350
   },
   {
     "slug": "dataformatkit-com",
@@ -1065,7 +1101,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9209
+    "githubStars": 9261
   },
   {
     "slug": "diagrflow-com",
@@ -1183,7 +1219,7 @@
     "coreTask": "Upload an Enshrouded .ksd character save file to customize level, skills, and gear.",
     "category": "Productivity",
     "featured": false,
-    "badge": "explicit",
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -1245,7 +1281,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14328
+    "githubStars": 14329
   },
   {
     "slug": "extract-express",
@@ -1545,7 +1581,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2382
+    "githubStars": 2386
   },
   {
     "slug": "geojson-io",
@@ -1831,7 +1867,7 @@
     "coreTask": "Upload a single HTML file or project ZIP bundle to generate and copy a temporary public preview URL.",
     "category": "Development",
     "featured": false,
-    "badge": "explicit",
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2013,7 +2049,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41129
+    "githubStars": 41162
   },
   {
     "slug": "meet-jit-si",
@@ -2025,7 +2061,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30205
+    "githubStars": 30211
   },
   {
     "slug": "jottools-com",
@@ -2049,7 +2085,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44592
+    "githubStars": 44588
   },
   {
     "slug": "jsonformatter-org",
@@ -2094,6 +2130,18 @@
     "description": "A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.",
     "coreTask": "1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "keyboardtester-vip",
+    "name": "Keyboard Tester",
+    "url": "https://keyboardtester.vip/",
+    "description": "Test full 104-key keyboards, diagnose key chatter, and verify multi-key rollover online.",
+    "coreTask": "Press keys on a virtual 104-key keyboard to test switches, ghosting, and chatter without an account.",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2203,7 +2251,7 @@
     "coreTask": "Display scrolling text, light effects, sound visualizers, clocks, and QR codes in your browser",
     "category": "Media",
     "featured": false,
-    "badge": "explicit",
+    "badge": "implicit",
     "repoUrl": "https://github.com/led-run/led.run",
     "githubStars": 101
   },
@@ -2527,7 +2575,7 @@
     "coreTask": "Generate temporary disposable email inboxes with custom aliases.",
     "category": "Privacy",
     "featured": false,
-    "badge": "explicit",
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2587,7 +2635,7 @@
     "coreTask": "Generate themed name suggestions with phonetic pronunciation keys and one-click copy.",
     "category": "AI",
     "featured": false,
-    "badge": "explicit",
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2937,7 +2985,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8514
+    "githubStars": 8516
   },
   {
     "slug": "piccollages-com",
@@ -3079,7 +3127,7 @@
     "coreTask": "Generate custom name lettering stencils with real-time canvas preview and download print-ready PDFs.",
     "category": "Design",
     "featured": false,
-    "badge": "explicit",
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -3093,7 +3141,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6163
+    "githubStars": 6173
   },
   {
     "slug": "privacytests-org",
@@ -3105,7 +3153,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1239
+    "githubStars": 1241
   },
   {
     "slug": "privnote-com",
@@ -3408,6 +3456,18 @@
     "githubStars": null
   },
   {
+    "slug": "rumikejawi-com",
+    "name": "Rumi ke Jawi",
+    "url": "https://rumikejawi.com/",
+    "description": "Convert Latin Malay (Rumi) to Arabic-script Jawi online with DBP orthography and calligraphy image export.",
+    "coreTask": "Transliterate text between Rumi and Jawi scripts and download calligraphy images without an account.",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "play-rust-lang-org",
     "name": "Rust Playground",
     "url": "https://play.rust-lang.org",
@@ -3571,7 +3631,7 @@
     "coreTask": "Look up any domain's age, view historical timeline, and get embeddable SVG age badges",
     "category": "Data",
     "featured": false,
-    "badge": "explicit",
+    "badge": "implicit",
     "repoUrl": "https://github.com/SiteAge-org/SiteAge.org",
     "githubStars": 0
   },
@@ -3630,6 +3690,18 @@
     "description": "Free, sign-in-free browser tools for packing existing sprite frames, splitting sheets or GIFs, previewing animation and exporting assets locally. Separate AI RPG walk-pack generation uses cloud processing, sign-in and credits.",
     "coreTask": "Arrange existing sprite frames, split sprite sheets, preview animation and export assets with the free browser editor without an account.",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "spritefuse-com-sprite-sheet-cutter",
+    "name": "SpriteFuse Sprite Sheet Cutter",
+    "url": "https://spritefuse.com/sprite-sheet-cutter",
+    "description": "Browser-based sprite sheet cutter to split images into individual PNG frames with live animation preview and ZIP download.",
+    "coreTask": "Slice sprite sheets into individual PNG frames and export them as a ZIP archive without signing up.",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3753,7 +3825,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22793
+    "githubStars": 22800
   },
   {
     "slug": "syncwhen-com",
@@ -3838,6 +3910,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
     "githubStars": 13086
+  },
+  {
+    "slug": "teslawrapgenerator-com-tesla-wrap-3d-preview",
+    "name": "Tesla Wrap 3D Preview",
+    "url": "https://teslawrapgenerator.com/tesla-wrap-3d-preview",
+    "description": "Interactive 3D Tesla wrap previewer and Paint Shop file fixer that maps PNG designs onto a 3D Model Y and exports compliant wraps.",
+    "coreTask": "Preview Tesla wraps on a 3D model and fix Paint Shop specifications without signing up.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "compare-text-org",
@@ -3930,6 +4014,18 @@
     "description": "Personal finance calculators, spreadsheets and educational guides. The Savings Goal Solver updates a browser-based calculation from your assumptions; the site also displays third-party ads.",
     "coreTask": "Explore savings assumptions with an interactive calculator",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "rasterbator-im",
+    "name": "The Rasterbator",
+    "url": "https://rasterbator.im/",
+    "description": "Create tiled multi-page wall posters with custom halftone raster effects and printable PDF export.",
+    "coreTask": "Upload an image, configure halftone raster styles and multi-page grid sizes, and download a tiled printable PDF without an account.",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4113,7 +4209,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111774
+    "githubStars": 111866
   },
   {
     "slug": "u2c-app",
@@ -4267,7 +4363,7 @@
     "coreTask": "Configure electrical load, voltage, and conduit run to calculate voltage drop or find minimum wire size, then generate a PDF report.",
     "category": "Development",
     "featured": false,
-    "badge": "explicit",
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -4329,7 +4425,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6795
+    "githubStars": 6796
   },
   {
     "slug": "webutilslab-com-tools",
@@ -4473,7 +4569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5282
+    "githubStars": 5287
   },
   {
     "slug": "xe-com-currencyconverter",
