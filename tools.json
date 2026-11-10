@@ -237,7 +237,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3044
+    "githubStars": 3045
   },
   {
     "slug": "badqualityimagemaker-com",
@@ -669,7 +669,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19180
+    "githubStars": 19182
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1089,7 +1089,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39610
+    "githubStars": 39615
   },
   {
     "slug": "app-diagrams-net",
@@ -1137,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8297
+    "githubStars": 8298
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1269,7 +1269,19 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135312
+    "githubStars": 135427
+  },
+  {
+    "slug": "excelcraft-app",
+    "name": "ExcelCraft",
+    "url": "https://excelcraft.app/",
+    "description": "In-browser spreadsheet editor to open, edit, and recalculate XLSX workbooks locally with zero file uploads and instant XLSX export.",
+    "coreTask": "Open, edit, and export XLSX spreadsheets in the browser without an account or cloud upload.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "explainshell-com",
@@ -1437,7 +1449,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7388
+    "githubStars": 7389
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1464,6 +1476,18 @@
     "githubStars": null
   },
   {
+    "slug": "fontique-art-tools-text-to-png",
+    "name": "Fontique PNG Text Generator",
+    "url": "https://fontique.art/tools/text-to-png",
+    "description": "Browser-based transparent PNG text generator with 45+ curated fonts, custom aspect ratios, and instant unwatermarked image downloads.",
+    "coreTask": "Convert custom text into transparent background PNG graphics with adjustable typography.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "fontjoy-com",
     "name": "FontJoy",
     "url": "https://fontjoy.com",
@@ -1482,6 +1506,18 @@
     "description": "Plate cost and menu pricing calculator for kitchens. Converts purchase units to recipe units and applies yield percentages, so a salmon side bought at $22/kg that yields 62% is costed at $35.48/kg of usable product rather than $22 - the most common error in restaurant costing. Returns cost per portion, food cost percentage and gross profit per dish. Runs entirely in the browser; nothing uploaded, stored or tracked, no account or email. Built by Kite Labs, an AI-operated project.",
     "coreTask": "Cost a full recipe, apply yield percentages, and get cost per portion, food cost % and gross profit per dish - everything works immediately with no account.",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "footballlegends-si",
+    "name": "Football Legends DB",
+    "url": "https://footballlegends.si/",
+    "description": "Interactive football archive and player comparison workbench comparing career records, honors, and tactical roles without registration.",
+    "coreTask": "Compare career statistics, honors, and tactical profiles of historical football players.",
+    "category": "Data",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1593,7 +1629,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2275
+    "githubStars": 2276
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1857,7 +1893,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80763
+    "githubStars": 80768
   },
   {
     "slug": "hosthtmlfile-com",
@@ -2229,7 +2265,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15234
+    "githubStars": 15243
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2328,6 +2364,18 @@
     "githubStars": null
   },
   {
+    "slug": "looprel-com",
+    "name": "Looprel",
+    "url": "https://looprel.com/",
+    "description": "Browser-based crochet pattern generator that converts photos into yarn-matched stitch charts with row numbers and printable grids without registration.",
+    "coreTask": "Convert uploaded photos into crochet charts for C2C, tapestry, or filet crochet.",
+    "category": "Design",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pst-aivismonitor-com",
     "name": "Mailward",
     "url": "https://pst.aivismonitor.com/",
@@ -2397,7 +2445,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13221
+    "githubStars": 13230
   },
   {
     "slug": "matchmytype-org",
@@ -2709,7 +2757,7 @@
     "featured": false,
     "badge": "explicit",
     "repoUrl": "https://github.com/nitroideofficial/nitroide",
-    "githubStars": 23
+    "githubStars": 27
   },
   {
     "slug": "nologin-tools",
@@ -2808,6 +2856,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-outreachgenie-ai-linkedin-csv-checker",
+    "name": "OutreachGenie LinkedIn CSV Checker",
+    "url": "https://www.outreachgenie.ai/linkedin-csv-checker",
+    "description": "In-browser LinkedIn prospect CSV auditor to deduplicate profiles, resolve conflicting records, normalize URLs, and export cleaned CSVs without registration.",
+    "coreTask": "Audit, deduplicate, and normalize LinkedIn prospect CSV files in the browser without sign up.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pairdrop-net",
     "name": "PairDrop",
     "url": "https://pairdrop.net",
@@ -2817,7 +2877,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11762
+    "githubStars": 11777
   },
   {
     "slug": "parsebloom-com",
@@ -3321,7 +3381,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9054
+    "githubStars": 9055
   },
   {
     "slug": "ray-so",
@@ -3561,7 +3621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10766
+    "githubStars": 10768
   },
   {
     "slug": "shields-io",
@@ -3684,6 +3744,18 @@
     "githubStars": 158
   },
   {
+    "slug": "getspellgenie-com",
+    "name": "SpellGenie",
+    "url": "https://getspellgenie.com/",
+    "description": "Audio spelling test maker and interactive practice cards with automatic grading, pre-set grade-level lists, and zero registration.",
+    "coreTask": "Generate audio spelling quizzes and practice tests with automatic grading.",
+    "category": "Education",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "spritesheettool-com",
     "name": "Sprite Sheet Tool",
     "url": "https://spritesheettool.com/",
@@ -3717,7 +3789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2254
+    "githubStars": 2253
   },
   {
     "slug": "squoosh-app",
@@ -3864,6 +3936,18 @@
     "githubStars": null
   },
   {
+    "slug": "tariffschart-com",
+    "name": "TariffsChart",
+    "url": "https://tariffschart.com/",
+    "description": "US import duty stack resolver and landed cost calculator with HTS code classification, Section 301/232 flags, and instant CSV planning exports.",
+    "coreTask": "Resolve US import duty layers by HTS code and estimate landed costs without registration.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "teachablemachine-withgoogle-com",
     "name": "Teachable Machine",
     "url": "https://teachablemachine.withgoogle.com",
@@ -3909,7 +3993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13086
+    "githubStars": 13091
   },
   {
     "slug": "teslawrapgenerator-com-tesla-wrap-3d-preview",
@@ -4026,6 +4110,18 @@
     "description": "Create tiled multi-page wall posters with custom halftone raster effects and printable PDF export.",
     "coreTask": "Upload an image, configure halftone raster styles and multi-page grid sizes, and download a tiled printable PDF without an account.",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "thredly-io-templates-ai-coding-handover",
+    "name": "Thredly AI Coding Handover Template",
+    "url": "https://thredly.io/templates/ai-coding-handover",
+    "description": "Structured AI coding task handover template and in-browser brief builder for transitioning context between assistant sessions without registration.",
+    "coreTask": "Format and copy structured AI coding handover briefs for new chat sessions.",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4161,7 +4257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9258
+    "githubStars": 9256
   },
   {
     "slug": "tryink-me",
@@ -4605,7 +4701,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3235
+    "githubStars": 3236
   },
   {
     "slug": "z-ai",
