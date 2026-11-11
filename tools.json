@@ -201,7 +201,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6542
+    "githubStars": 6544
   },
   {
     "slug": "audiotrimmer-com",
@@ -489,7 +489,19 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36140
+    "githubStars": 36143
+  },
+  {
+    "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
+    "name": "CareJobs Healthcare Cover Letter Generator",
+    "url": "https://carejobs.now/tools/healthcare-cover-letter-generator",
+    "description": "Free AI cover letter generator tailored to 20 healthcare clinical roles with license, specialty, and tone controls.",
+    "coreTask": "Generate tailored healthcare job-application cover letters for nurses, CNAs, therapists, and technicians without signing up.",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "cfiresim-com",
@@ -970,6 +982,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/LeaVerou/cubic-bezier",
     "githubStars": 184
+  },
+  {
+    "slug": "cutefontgen-com-upside-down-text",
+    "name": "Cute Font Gen Upside Down Text",
+    "url": "https://cutefontgen.com/upside-down-text/",
+    "description": "In-browser text tool to flip words upside down, backwards, and into mirrored Unicode styles with instant clipboard copying.",
+    "coreTask": "Flip and transform text into upside-down Unicode characters locally in the browser.",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "gchq-github-io-cyberchef",
@@ -1917,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13635
+    "githubStars": 13639
   },
   {
     "slug": "humanizeink-com",
@@ -1980,6 +2004,18 @@
     "githubStars": null
   },
   {
+    "slug": "image-conversion-com",
+    "name": "Image Conversion",
+    "url": "https://image-conversion.com/",
+    "description": "Local-first browser toolkit to batch convert, compress, resize, and pad JPG, PNG, WebP, HEIC, AVIF, SVG, and PDF images on your device.",
+    "coreTask": "Batch convert, compress, and resize images locally with target KB/MB file-size caps and ZIP export",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "imageconverttools-app",
     "name": "Image Convert",
     "url": "https://imageconverttools.app/",
@@ -2016,6 +2052,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-imageconvertlab-com-tools-remove-image-background-html",
+    "name": "ImageConvertLab Background Remover",
+    "url": "https://www.imageconvertlab.com/tools/remove-image-background.html",
+    "description": "Browser-based AI image background remover that processes photos locally and exports transparent PNGs without account creation.",
+    "coreTask": "Remove image backgrounds locally with in-browser AI and download transparent PNGs.",
+    "category": "Design",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "www-imagesplit-online",
     "name": "ImageSplit",
     "url": "https://www.imagesplit.online/",
@@ -2034,6 +2082,18 @@
     "description": "A collection of free browser image tools for conversion, compression, resizing, editing, metadata inspection, and export. Images remain on-device and there is no signup or watermark.",
     "coreTask": "Free private image conversion, compression, editing, and inspection",
     "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "invosmith-com-invoice-generator",
+    "name": "Invosmith Invoice Maker",
+    "url": "https://invosmith.com/invoice-generator",
+    "description": "Free online invoice, estimate, and receipt maker with real-time live preview, multiple templates, and unwatermarked PDF download.",
+    "coreTask": "Generate and download professional PDF invoices and receipts without registration or watermark.",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2400,6 +2460,18 @@
     "githubStars": null
   },
   {
+    "slug": "mamatool-com",
+    "name": "MamaTool",
+    "url": "https://mamatool.com/",
+    "description": "Collection of 44 in-browser utilities to format JSON, generate passwords, create QR codes, and convert files privately without accounts.",
+    "coreTask": "Format, validate, and manipulate JSON and daily data locally in the browser.",
+    "category": "Development",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "markany-ai",
     "name": "MarkAny",
     "url": "https://markany.ai/",
@@ -2472,6 +2544,18 @@
     "githubStars": null
   },
   {
+    "slug": "mdformats-com",
+    "name": "MDFormats",
+    "url": "https://mdformats.com/",
+    "description": "In-browser Markdown to Word converter with synchronized dual-pane preview that compiles documents to native editable DOCX files locally.",
+    "coreTask": "Convert Markdown text and tables into editable Word (.docx) files locally in the browser.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "meeting-to-go-io",
     "name": "meeting.to-go",
     "url": "https://meeting.to-go.io",
@@ -2505,7 +2589,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6899
+    "githubStars": 6902
   },
   {
     "slug": "metadataremover-ai",
@@ -2589,7 +2673,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 21006
+    "githubStars": 21024
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2794,6 +2878,18 @@
     "badge": "none",
     "repoUrl": null,
     "githubStars": null
+  },
+  {
+    "slug": "tools-nyxiontech-com",
+    "name": "Nyxiontech PDF Tools",
+    "url": "https://tools.nyxiontech.com/",
+    "description": "Open-source, client-side PDF utility suite to edit, OCR, sign, merge, split, and extract text from documents locally without accounts or server uploads.",
+    "coreTask": "Process and manipulate PDF documents locally in the browser with offline AGPL-3.0 tools.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": "https://github.com/jurecki007/nyxiontech-tools",
+    "githubStars": 0
   },
   {
     "slug": "olivez-in-tool-image-compressor",
@@ -3129,7 +3225,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52407
+    "githubStars": 52409
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3429,7 +3525,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 935
+    "githubStars": 934
   },
   {
     "slug": "reficompass-com",
@@ -3600,6 +3696,18 @@
     "githubStars": null
   },
   {
+    "slug": "sginsure-sg-1m65-fire-html",
+    "name": "SgInsure 1M65 & FIRE Calculator",
+    "url": "https://sginsure.sg/1m65-fire.html",
+    "description": "Bilingual (EN/ZH) browser-based Singapore 1M65 CPF compounding, 4%-rule FIRE, and Coast FIRE retirement calculator.",
+    "coreTask": "Calculate CPF 1M65 projections, FIRE target numbers, and early-retirement timelines privately in the browser.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "shard-tools",
     "name": "Shard Tools",
     "url": "https://shard.tools/",
@@ -3633,7 +3741,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27369
+    "githubStars": 27384
   },
   {
     "slug": "shotmelo-com",
@@ -3801,7 +3909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26159
+    "githubStars": 26180
   },
   {
     "slug": "stackedit-io",
@@ -3813,7 +3921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23100
+    "githubStars": 23101
   },
   {
     "slug": "newellabs-com-tools-bank-statement-converter",
@@ -3930,6 +4038,18 @@
     "description": "Free, no-sign-up online timer for Japanese users.",
     "coreTask": "Set and run a browser-based countdown timer without creating an account.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "tapmetronome-app",
+    "name": "Tap Metronome",
+    "url": "https://tapmetronome.app/",
+    "description": "Free online metronome with tap tempo detection, customizable time signatures, rhythm subdivisions, accent patterns, and practice timer.",
+    "coreTask": "Keep tempo, detect BPM with tap tempo, and configure rhythm subdivisions in the browser without sign-up.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4185,7 +4305,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51413
+    "githubStars": 51455
   },
   {
     "slug": "tmp-tf",
@@ -4258,6 +4378,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
     "githubStars": 9256
+  },
+  {
+    "slug": "treadmillpace-com",
+    "name": "Treadmill Pace Calculator",
+    "url": "https://treadmillpace.com/",
+    "description": "In-browser treadmill speed (mph) to running pace (min/mile) calculator with training presets, incline estimation, and instant clipboard copy.",
+    "coreTask": "Convert treadmill belt speed to running pace and back locally without sign-up.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "tryink-me",
