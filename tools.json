@@ -369,7 +369,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9620
+    "githubStars": 9622
   },
   {
     "slug": "bunengchi-com",
@@ -600,6 +600,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-sailtoworld-com-cliploom-video-to-thumbnail",
+    "name": "ClipLoom Video to Thumbnail",
+    "url": "https://www.sailtoworld.com/cliploom/video-to-thumbnail/",
+    "description": "Free client-side video thumbnail generator that captures video frames directly in the browser, adds custom typography overlays, and exports high-resolution PNG or JPG images without accounts or video uploads.",
+    "coreTask": "Capture video frames in the browser, style typography overlays, and export thumbnail images without uploading files.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "speed-cloudflare-com",
     "name": "Cloudflare Speed Test",
     "url": "https://speed.cloudflare.com",
@@ -632,6 +644,18 @@
     "category": "Development",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "collagemaker-org",
+    "name": "CollageMaker",
+    "url": "https://collagemaker.org/",
+    "description": "Free online photo collage maker for combining 2 to 30 photos into customizable grid and story layouts without accounts or watermarks.",
+    "coreTask": "Arrange and export multi-photo grid collages with customizable layouts, frames, and background styles.",
+    "category": "Design",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -789,7 +813,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 275
+    "githubStars": 276
   },
   {
     "slug": "convertlo-pro",
@@ -909,7 +933,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 559
+    "githubStars": 561
   },
   {
     "slug": "flukeout-github-io",
@@ -1005,7 +1029,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36350
+    "githubStars": 36380
   },
   {
     "slug": "dataformatkit-com",
@@ -1029,7 +1053,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 412
+    "githubStars": 413
   },
   {
     "slug": "db-fiddle-com",
@@ -1125,7 +1149,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9261
+    "githubStars": 9311
   },
   {
     "slug": "diagrflow-com",
@@ -1317,7 +1341,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14329
+    "githubStars": 14336
   },
   {
     "slug": "extract-express",
@@ -1389,7 +1413,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17812
+    "githubStars": 17816
   },
   {
     "slug": "fffuel-co",
@@ -1641,7 +1665,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2386
+    "githubStars": 2388
   },
   {
     "slug": "geojson-io",
@@ -1782,6 +1806,18 @@
     "description": "Interactive client-side cephalometric analysis tool calculating Steiner and Tweed orthodontic measurements directly in the browser.",
     "coreTask": "Upload a lateral cephalometric radiograph or load the demo tracing to plot anatomical landmarks and calculate diagnostic angles without account creation.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "mediapuppies-com-tools-gst-on-ads-calculator",
+    "name": "GST on Ad Spend Calculator",
+    "url": "https://mediapuppies.com/tools/gst-on-ads-calculator/",
+    "description": "Interactive calculator for businesses and marketers to calculate Indian GST reverse charge on Meta and Google ad spend, agency fees, and input tax credits.",
+    "coreTask": "Calculate monthly GST reverse charge, input tax credit, and true net marketing cost for advertising spend.",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2157,7 +2193,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30211
+    "githubStars": 30220
   },
   {
     "slug": "jottools-com",
@@ -2181,7 +2217,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44588
+    "githubStars": 44587
   },
   {
     "slug": "jsonformatter-org",
@@ -2274,18 +2310,6 @@
     "description": "27 free browser tools for people who sell on Etsy, Amazon and print-on-demand: fee and landed-cost calculators, image resizers, print-file checkers, seamless pattern makers, label builders and more. Every tool runs in the page — images and files are processed on your own machine and never sent to a server. No account, no trial, no upload step. 34 written guides cover the marketplace specs and 2026 EU/US regulations the tools deal with, with sources and dates cited.",
     "coreTask": "Resize product photos, calculate ecommerce fees and landed costs, and generate GPSR labels",
     "category": "Productivity",
-    "featured": false,
-    "badge": "none",
-    "repoUrl": null,
-    "githubStars": null
-  },
-  {
-    "slug": "kivtools-com",
-    "name": "KivTools",
-    "url": "https://kivtools.com/",
-    "description": "Free local-first browser utilities for JSON, APIs and OpenAPI, JWT/JWK verification, code formatting, data inspection and DevOps workflows.",
-    "coreTask": "Use JSON/API, JWT/JWK, code formatting, data inspection, and DevOps utilities directly in the browser.",
-    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3144,6 +3168,18 @@
     "githubStars": 8516
   },
   {
+    "slug": "photoready-app",
+    "name": "PhotoReady",
+    "url": "https://photoready.app/",
+    "description": "Local-first utilities for extracting individual frames from animated GIFs, Live Photos, and Motion Photos without accounts or cloud uploads.",
+    "coreTask": "Decode animated GIFs and Live Photos in a local Web Worker to export individual frames or ZIP archives.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "piccollages-com",
     "name": "Pic Collage Maker",
     "url": "https://piccollages.com/",
@@ -3309,7 +3345,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1241
+    "githubStars": 1245
   },
   {
     "slug": "privnote-com",
@@ -4005,7 +4041,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22800
+    "githubStars": 22811
   },
   {
     "slug": "syncwhen-com",
@@ -4404,6 +4440,18 @@
     "githubStars": null
   },
   {
+    "slug": "tymepath-com-excel-to-powerpoint-gantt",
+    "name": "Tymepath Gantt",
+    "url": "https://tymepath.com/excel-to-powerpoint-gantt",
+    "description": "Free client-side converter turning Excel and CSV project task spreadsheets into presentation-ready Gantt chart slides without accounts or watermarks.",
+    "coreTask": "Convert task spreadsheets into customizable Gantt timeline slides with instant unwatermarked PNG download.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "typescale-com",
     "name": "Type Scale",
     "url": "https://typescale.com",
@@ -4437,7 +4485,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111866
+    "githubStars": 111785
   },
   {
     "slug": "u2c-app",
@@ -4653,7 +4701,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6796
+    "githubStars": 6803
   },
   {
     "slug": "webutilslab-com-tools",
@@ -4866,6 +4914,18 @@
     "description": "Inspect, identify, and selectively remove invisible zero-width Unicode characters and byte order marks directly in your browser. Features exact code-point mapping and local clipboard export.",
     "coreTask": "Find and remove invisible Unicode characters",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-zolyp-com-tools-social-media-character-counter",
+    "name": "Zolyp Social Media Character Counter",
+    "url": "https://www.zolyp.com/tools/social-media-character-counter",
+    "description": "Free client-side character and word counter comparing caption length and limits across nine social platforms in real time.",
+    "coreTask": "Paste a caption to compare character counts and platform limits across nine social media channels in real time.",
+    "category": "Writing",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
