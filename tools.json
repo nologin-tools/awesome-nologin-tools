@@ -120,6 +120,18 @@
     "githubStars": null
   },
   {
+    "slug": "anyremover-com",
+    "name": "AnyRemover",
+    "url": "https://anyremover.com/",
+    "description": "Free AI text remover to erase unwanted text, watermarks, and captions from photos with brush controls and quality modes.",
+    "coreTask": "Remove unwanted text, captions, and watermarks from photos in the browser without an account.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "archive-ph",
     "name": "Archive.today",
     "url": "https://archive.ph/",
@@ -1380,6 +1392,18 @@
     "githubStars": null
   },
   {
+    "slug": "family-ready-emergency-plan-rork-app-family-emergency-plan-html",
+    "name": "Family Ready Emergency Plan Builder",
+    "url": "https://family-ready-emergency-plan.rork.app/family-emergency-plan.html",
+    "description": "Structured in-browser family emergency plan builder generating printable disaster response guides with zero tracking or server storage.",
+    "coreTask": "Build and print a customized family emergency preparedness plan in the browser without an account.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "fast-com",
     "name": "Fast.com",
     "url": "https://fast.com",
@@ -1710,6 +1734,18 @@
     "description": "Generate beautiful SVG wave shapes for section dividers. Customize layers, colors, and complexity with a simple UI.",
     "coreTask": "Generate SVG wave dividers",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "gifkit-net-gif-compressor",
+    "name": "GIFKit GIF Compressor",
+    "url": "https://gifkit.net/gif-compressor",
+    "description": "Browser-based animated GIF compressor reducing file sizes via client-side palette optimization and dithering with zero uploads.",
+    "coreTask": "Compress animated GIF files locally in the browser without sign-up.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2181,7 +2217,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41162
+    "githubStars": 41242
   },
   {
     "slug": "meet-jit-si",
@@ -2573,6 +2609,18 @@
     "url": "https://mdformats.com/",
     "description": "In-browser Markdown to Word converter with synchronized dual-pane preview that compiles documents to native editable DOCX files locally.",
     "coreTask": "Convert Markdown text and tables into editable Word (.docx) files locally in the browser.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "mdify-im",
+    "name": "MDify",
+    "url": "https://mdify.im",
+    "description": "Convert PDF, Office documents, and EPUBs into clean structured Markdown locally in the browser with zero server uploads.",
+    "coreTask": "Convert PDF and documents to clean Markdown locally in the browser without sign-up.",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
@@ -3072,6 +3120,18 @@
     "githubStars": null
   },
   {
+    "slug": "www-pdfcommunity-org",
+    "name": "PDFCommunity",
+    "url": "https://www.pdfcommunity.org/",
+    "description": "Free browser-based PDF utility suite for merging, splitting, compressing, rotating, and converting documents locally without server uploads.",
+    "coreTask": "Merge, compress, and convert PDF documents locally in the browser without sign-up.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pdftomdconverter-app",
     "name": "PDFtoMDConverter",
     "url": "https://pdftomdconverter.app/",
@@ -3130,6 +3190,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/phetsims/phet-info",
     "githubStars": 114
+  },
+  {
+    "slug": "photocraftguide-com",
+    "name": "PhotoCraft Guide",
+    "url": "https://photocraftguide.com/",
+    "description": "Open-source in-browser raster graphics editor compiled to WebAssembly with multi-layer, mask, and native PSD file support.",
+    "coreTask": "Edit raster graphics and export multi-layer PSD files locally in the browser without an account.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "photocraft-sailtoworld-com-psd-inspector",
@@ -3308,18 +3380,6 @@
     "category": "Productivity",
     "featured": false,
     "badge": "explicit",
-    "repoUrl": null,
-    "githubStars": null
-  },
-  {
-    "slug": "printstencil-com-pumpkin-painting-stencils-name-stencil",
-    "name": "PrintStencil Pumpkin Name Stencil Maker",
-    "url": "https://printstencil.com/pumpkin-painting-stencils/name-stencil",
-    "description": "Interactive online stencil generator that sizes custom lettering and printable PDF stencils for pumpkin painting and carving.",
-    "coreTask": "Generate custom name lettering stencils with real-time canvas preview and download print-ready PDFs.",
-    "category": "Design",
-    "featured": false,
-    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
