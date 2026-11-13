@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-411-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-416-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -52,6 +52,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
 
 ## Design
 
+- **[AnyRemover](https://anyremover.com/)** — Free AI text remover to erase unwanted text, watermarks, and captions from photos with brush controls and quality modes.
+  > _No-login task: Remove unwanted text, captions, and watermarks from photos in the browser without an account._
 - **[ArtboardLab](https://artboardlab.com)** — Free browser-based image and design tools. Everything runs locally in the browser using WebAssembly, so files are never uploaded to a server. No account needed. Tools include an image compressor (JPEG/PNG/WebP/AVIF), format converters, an Adobe Illustrator .ai viewer and converter (.ai to SVG/PNG/PDF) that works without Illustrator installed, a GIF maker, image splitter, halftone and noise texture generators, a seamless pattern checker, a color picker, DPI changer and unit converters.
   > _No-login task: Compress and convert images (JPEG/PNG/WebP/AVIF), view and convert Adobe Illustrator .ai files to SVG/PNG/PDF, make GIFs, split images, pick colors, change DPI - all in-browser, no upload._
 - **[Aspect Ratio Calculator](https://aspectratiocalc.im/)** — Calculate aspect ratios, resize image and video dimensions, and preview frames with client-side detection.
@@ -110,12 +112,12 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Upload a portrait, preview across 12 seasonal color palettes, and download the high-resolution overview PNG._
 - **[Neumorphism.io](https://neumorphism.io)** ([Source](https://github.com/adamgiebl/neumorphism) ⭐6183) — Visual neumorphism CSS generator. Adjust size, radius, distance, intensity, and color to create soft UI shadow effects.
   > _No-login task: Generate CSS neumorphism effects_
+- **[PhotoCraft Guide](https://photocraftguide.com/)** — Open-source in-browser raster graphics editor compiled to WebAssembly with multi-layer, mask, and native PSD file support.
+  > _No-login task: Edit raster graphics and export multi-layer PSD files locally in the browser without an account._
 - **[PhotoCraft PSD & PSB Header Inspector](https://photocraft.sailtoworld.com/psd-inspector/)** — Browser-based PSD and PSB header inspector for extracting Photoshop dimensions, color modes, and bit depths without uploading files.
   > _No-login task: Drop a PSD or PSB file to inspect dimensions, channels, and color mode in memory, then download the structured JSON report._
 - **[Photopea](https://photopea.com)** ([Source](https://github.com/photopea/photopea) ⭐8516) — Advanced online image editor that supports PSD, XCF, Sketch, XD, and CDR formats. Works like Photoshop directly in your browser with layers, filters, and advanced editing tools.
   > _No-login task: Edit photos and design graphics in a Photoshop-like browser editor_
-- **[PrintStencil Pumpkin Name Stencil Maker](https://printstencil.com/pumpkin-painting-stencils/name-stencil)** — Interactive online stencil generator that sizes custom lettering and printable PDF stencils for pumpkin painting and carving.
-  > _No-login task: Generate custom name lettering stencils with real-time canvas preview and download print-ready PDFs._
 - **[Realtime Colors](https://realtimecolors.com)** ([Source](https://github.com/juxtopposed/realtimecolors) ⭐934) — Preview color palettes on a real page layout in real time. See exactly how your colors look on text, buttons, and backgrounds.
   > _No-login task: Preview color schemes on real layouts_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
@@ -299,7 +301,7 @@ Supported Categories:
   > _No-login task: Convert files between 500+ formats across images, PDFs, audio, video, and documents_
 - **[IgnLab](https://ignlab.net/)** — A free collection of 14 browser-based web tools for developers and designers: batch image converter & optimizer, CSS and SVG generators, QR code generator, data extractor, email template tester, agile boards and more. Every tool runs 100% client-side.
   > _No-login task: Convert and optimize images, generate CSS/SVG effects, create QR codes, extract data from text, and more - every tool's full functionality is usable with no account._
-- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐41162) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
+- **[IT Tools](https://it-tools.tech)** ([Source](https://github.com/CorentinTh/it-tools) ⭐41242) — Collection of 70+ developer utilities: hash generators, encoders, converters, formatters, and more — all in one place.
   > _No-login task: Access 70+ developer utilities_
 - **[JSON Formatter](https://jsonformatter.org)** — Online JSON formatter, validator, and viewer. Paste or upload JSON data to format, validate, minify, and convert between JSON and other formats.
   > _No-login task: Format, validate, and beautify JSON data_
@@ -414,6 +416,8 @@ Supported Categories:
   > _No-login task: Create hand-drawn style presentations_
 - **[ExcelCraft](https://excelcraft.app/)** — In-browser spreadsheet editor to open, edit, and recalculate XLSX workbooks locally with zero file uploads and instant XLSX export.
   > _No-login task: Open, edit, and export XLSX spreadsheets in the browser without an account or cloud upload._
+- **[Family Ready Emergency Plan Builder](https://family-ready-emergency-plan.rork.app/family-emergency-plan.html)** — Structured in-browser family emergency plan builder generating printable disaster response guides with zero tracking or server storage.
+  > _No-login task: Build and print a customized family emergency preparedness plan in the browser without an account._
 - **[Fast.com](https://fast.com)** — Simple internet speed test by Netflix. Open the page and it instantly starts measuring your download speed.
   > _No-login task: Test internet connection speed_
 - **[FATE // LAB](https://playfatelab.com/)** — Local-first browser randomness tools for dice, coin flips, random numbers, yes/no decisions and list or name picking. No account is required and active results, history and picker data stay in the browser.
@@ -452,6 +456,8 @@ Supported Categories:
   > _No-login task: Open a PST, OST, OLM, MBOX or EML archive from your disk, browse its folders, read and search every message_
 - **[MDFormats](https://mdformats.com/)** — In-browser Markdown to Word converter with synchronized dual-pane preview that compiles documents to native editable DOCX files locally.
   > _No-login task: Convert Markdown text and tables into editable Word (.docx) files locally in the browser._
+- **[MDify](https://mdify.im)** — Convert PDF, Office documents, and EPUBs into clean structured Markdown locally in the browser with zero server uploads.
+  > _No-login task: Convert PDF and documents to clean Markdown locally in the browser without sign-up._
 - **[meeting.to-go](https://meeting.to-go.io)** — A free group availability scheduler in the When2meet/Doodle vein, with one difference: it converts each participant's availability into their own local time zone, so the group's overlap stays correct across zones. The organizer paints proposed days/times and shares one link — no accounts, no email, no app to install. Slot sizes run from 15 minutes to whole days, and optional view/edit passwords keep a meeting private.
   > _No-login task: Create a meeting, paint your free times, share the link, and see the group's overlapping availability — all in your own time zone, with no signup or email._
 - **[Merge PDF — BytePriva](https://bytepriva.com/merge-pdf/)** — Merge multiple PDF files into one directly in your browser — no upload, no signup. Files are processed entirely client-side using your device's own processing power, so nothing ever leaves your computer. Drag, drop, reorder, and download instantly.
@@ -482,6 +488,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Convert PDF files to JPG images and combine JPG files into PDF directly in the browser._
 - **[PDF24 Tools](https://tools.pdf24.org/en/)** — Free and easy-to-use online PDF tools: merge, split, compress, convert, rotate, watermark, and more. All processing happens in the browser.
   > _No-login task: Merge, split, compress, and convert PDF files_
+- **[PDFCommunity 🛡️](https://www.pdfcommunity.org/)** — Free browser-based PDF utility suite for merging, splitting, compressing, rotating, and converting documents locally without server uploads.
+  > _No-login task: Merge, compress, and convert PDF documents locally in the browser without sign-up._
 - **[pdfzus](https://pdfzus.de/)** — Merge, reorder, and compress PDF files directly in your browser. The core workflow requires no account, adds no watermark, and processes files on your device.
   > _No-login task: Merge multiple PDFs, reorder pages, and compress PDF files directly in the browser._
 - **[PepVault 🛡️](https://peptidetracks.com/)** — Interactive peptide reconstitution and dosage calculator that converts vial strength and diluent volume into syringe unit markings.
@@ -599,6 +607,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Upload an image, remove its visible Gemini watermark locally, and download the restored result._
 - **[Gesture Synth Lab](https://gesturesynthlab.com/)** — In-browser gesture synthesizer and polyphonic chord studio for shaping analog sounds and recording audio clips without plugins or login.
   > _No-login task: Select scales, play polyphonic chord pads via keyboard shortcuts or gestures, and export recorded WebM audio clips locally._
+- **[GIFKit GIF Compressor](https://gifkit.net/gif-compressor)** — Browser-based animated GIF compressor reducing file sizes via client-side palette optimization and dithering with zero uploads.
+  > _No-login task: Compress animated GIF files locally in the browser without sign-up._
 - **[HEIC to JPG Converter](https://heic-to-jpg.app/)** — Free privacy-first browser tool for converting iPhone HEIC/HEIF photos to JPG. It works without signup or uploads, supports batch conversion, adjustable JPG quality, previews, and ZIP downloads.
   > _No-login task: Convert iPhone HEIC/HEIF photos to JPG directly in the browser_
 - **[HEICtoPDF](https://heictopdf.dev/)** — Convert Apple HEIC/HEIF photos into PDF files entirely in the browser tab. Nothing is uploaded to a server. Batch-convert several photos at once, or merge them into a single multi-page PDF with page order, size (original / A4 / US Letter) and orientation all adjustable before export. No account, no install — open the page and drop the files in.
