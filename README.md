@@ -122,6 +122,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Preview color schemes on real layouts_
 - **[remove.bg](https://remove.bg)** — AI-powered tool that automatically removes backgrounds from photos in seconds. Upload an image and get a transparent PNG instantly.
   > _No-login task: Remove image backgrounds automatically using AI_
+- **[TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover)** — Free background remover that runs fully in the browser with no signup, so family photos never leave the device. Drop in a photo and get a transparent PNG back.
+  > _No-login task: Cut out a photo background privately in the browser with nothing uploaded_
 - **[Signature Font](https://signaturefont.net/)** — Create and preview signature-style fonts for names, branding and personal design without creating an account.
   > _No-login task: Generate and preview signature-style font text in the browser without logging in._
 - **[SpriteFuse Sprite Sheet Cutter](https://spritefuse.com/sprite-sheet-cutter)** — Browser-based sprite sheet cutter to split images into individual PNG frames with live animation preview and ZIP download.
