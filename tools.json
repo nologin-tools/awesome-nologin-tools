@@ -252,6 +252,18 @@
     "githubStars": 3045
   },
   {
+    "slug": "www-autobracketmaker-com",
+    "name": "AutoBracketMaker",
+    "url": "https://www.autobracketmaker.com/",
+    "description": "Interactive tournament bracket generator for creating and printing 8-team double elimination brackets without sign-up.",
+    "coreTask": "Generate an 8-team double elimination bracket with custom player names and print layout.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "badqualityimagemaker-com",
     "name": "Bad Quality Image Maker",
     "url": "https://badqualityimagemaker.com/",
@@ -282,6 +294,18 @@
     "description": "Free, no-signup habit tracker built for developers",
     "coreTask": "Track your habits in browser",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "binarytranslator-dev",
+    "name": "Binary Translator",
+    "url": "https://binarytranslator.dev/",
+    "description": "Fast bidirectional binary-to-text and text-to-binary translator running client-side with plain text download.",
+    "coreTask": "Translate between binary code and ASCII/UTF-8 plain text with instant copy and text file download.",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -489,7 +513,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5880
+    "githubStars": 5881
   },
   {
     "slug": "carbon-now-sh",
@@ -624,6 +648,18 @@
     "githubStars": null
   },
   {
+    "slug": "cliplyn-com",
+    "name": "Cliplyn",
+    "url": "https://cliplyn.com",
+    "description": "Online video and audio downloader for saving MP4 videos, MP3 audio, covers, and subtitles from YouTube and TikTok without sign-up.",
+    "coreTask": "Extract and download MP4 video, MP3 audio, subtitles, and cover images from public video URLs.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "speed-cloudflare-com",
     "name": "Cloudflare Speed Test",
     "url": "https://speed.cloudflare.com",
@@ -717,7 +753,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19182
+    "githubStars": 19189
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1149,7 +1185,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39615
+    "githubStars": 39636
   },
   {
     "slug": "app-diagrams-net",
@@ -1329,7 +1365,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135427
+    "githubStars": 135655
   },
   {
     "slug": "excelcraft-app",
@@ -1512,6 +1548,18 @@
     "githubStars": null
   },
   {
+    "slug": "finplann-com",
+    "name": "FinPlann",
+    "url": "https://finplann.com/",
+    "description": "Financial planning calculators for modeling FIRE numbers, retirement corpus, and savings timelines across currencies without sign-up.",
+    "coreTask": "Calculate financial independence FIRE milestones and retirement corpus across multi-parameter inflation and return rates.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "flexboxfroggy-com",
     "name": "Flexbox Froggy",
     "url": "https://flexboxfroggy.com",
@@ -1521,7 +1569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7389
+    "githubStars": 7390
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -1656,6 +1704,18 @@
     "githubStars": null
   },
   {
+    "slug": "fromtoday-app",
+    "name": "fromtoday",
+    "url": "https://fromtoday.app/",
+    "description": "Fast date calculator for computing days between dates, business days, and time intervals with .ics calendar export.",
+    "coreTask": "Calculate days, business days, weeks, and hours between two dates with instant .ics calendar download.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "gantt-chart-io",
     "name": "gantt-chart.io",
     "url": "https://gantt-chart.io",
@@ -1701,7 +1761,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2276
+    "githubStars": 2278
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -1989,7 +2049,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80768
+    "githubStars": 80800
   },
   {
     "slug": "hosthtmlfile-com",
@@ -1998,6 +2058,18 @@
     "description": "Zero-configuration static HTML and ZIP bundle hosting service that generates instant temporary public preview links without an account.",
     "coreTask": "Upload a single HTML file or project ZIP bundle to generate and copy a temporary public preview URL.",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "howolddoilook-app",
+    "name": "How Old Do I Look?",
+    "url": "https://howolddoilook.app/",
+    "description": "Free AI face age detector estimating age and facial features from portrait photos without an account.",
+    "coreTask": "Upload a portrait photo to estimate age with automatic face detection bounding box.",
+    "category": "AI",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2385,7 +2457,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15243
+    "githubStars": 15257
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2478,6 +2550,18 @@
     "description": "Check whether Chinese CSV files decode strictly as UTF-8 or GB18030 locally inside your browser.",
     "coreTask": "Verify CSV file encoding and preview decoded text locally without creating an account.",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-indietool-io-tools-logo-fast",
+    "name": "Logo Fast",
+    "url": "https://www.indietool.io/tools/logo-fast",
+    "description": "Fast client-side logo maker for designing clean startup icons and downloading vector SVG or high-res PNG without an account.",
+    "coreTask": "Customize brand typography, icons, colors, and shadow depth with instant SVG and PNG vector export.",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2577,7 +2661,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13230
+    "githubStars": 13239
   },
   {
     "slug": "matchmytype-org",
@@ -3045,7 +3129,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11777
+    "githubStars": 11804
   },
   {
     "slug": "parsebloom-com",
@@ -3237,7 +3321,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8516
+    "githubStars": 8527
   },
   {
     "slug": "photoready-app",
@@ -3393,7 +3477,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6173
+    "githubStars": 6180
   },
   {
     "slug": "privacytests-org",
@@ -3573,7 +3657,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9055
+    "githubStars": 9059
   },
   {
     "slug": "ray-so",
@@ -3729,7 +3813,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1440
+    "githubStars": 1441
   },
   {
     "slug": "rvstopguide-com",
@@ -3792,6 +3876,18 @@
     "githubStars": null
   },
   {
+    "slug": "seonix-ai-tools-llms-txt-generator",
+    "name": "Seonix llms.txt Generator",
+    "url": "https://seonix.ai/tools/llms-txt-generator",
+    "description": "Free client-side llms.txt generator to create standard Markdown site descriptions and link sections for AI crawler discovery without an account.",
+    "coreTask": "Describe website and documentation links to generate and export valid llms.txt markdown.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "sginsure-sg-1m65-fire-html",
     "name": "SgInsure 1M65 & FIRE Calculator",
     "url": "https://sginsure.sg/1m65-fire.html",
@@ -3825,7 +3921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10768
+    "githubStars": 10769
   },
   {
     "slug": "shields-io",
@@ -4173,7 +4269,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1750
+    "githubStars": 1751
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -4209,7 +4305,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13091
+    "githubStars": 13098
   },
   {
     "slug": "teslawrapgenerator-com-tesla-wrap-3d-preview",
@@ -4368,6 +4464,18 @@
     "githubStars": null
   },
   {
+    "slug": "tinhgpa-com",
+    "name": "TinhGPA",
+    "url": "https://tinhgpa.com/",
+    "description": "Online GPA calculator and 10-point to 4.0 scale converter for academic credits without registration.",
+    "coreTask": "Calculate 4.0 and 10.0 scale GPA with course credit weighting and target score planner.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "tinypng-com",
     "name": "TinyPNG",
     "url": "https://tinypng.com",
@@ -4473,7 +4581,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9256
+    "githubStars": 9259
   },
   {
     "slug": "treadmillpace-com",
@@ -4905,7 +5013,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5287
+    "githubStars": 5290
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -4941,7 +5049,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3236
+    "githubStars": 3240
   },
   {
     "slug": "z-ai",
