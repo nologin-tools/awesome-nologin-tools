@@ -213,7 +213,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6544
+    "githubStars": 6542
   },
   {
     "slug": "audiotrimmer-com",
@@ -249,7 +249,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3045
+    "githubStars": 3056
   },
   {
     "slug": "www-autobracketmaker-com",
@@ -370,6 +370,18 @@
     "badge": "none",
     "repoUrl": null,
     "githubStars": null
+  },
+  {
+    "slug": "www-brisqnex-com",
+    "name": "Brisqnex",
+    "url": "https://www.brisqnex.com/",
+    "description": "Multi-category utility suite offering 83 free online tools for PDF editing, image conversion, and text processing directly in the browser.",
+    "coreTask": "Reorder and organize PDF document pages and export clean new PDF files client-side without registration.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": "https://github.com/brisqnex/brisqnex",
+    "githubStars": 0
   },
   {
     "slug": "max-agent-hub-github-io-browser-sop-builder",
@@ -516,6 +528,18 @@
     "githubStars": 5881
   },
   {
+    "slug": "www-markstudios-com-tools-caption-checker",
+    "name": "Caption & Subtitle Checker",
+    "url": "https://www.markstudios.com/tools/caption-checker",
+    "description": "Browser-based caption and subtitle validator that checks SRT and VTT files against Netflix and BBC reading speed limits and auto-fixes line breaks.",
+    "coreTask": "Validate SRT subtitle files against broadcast reading speed limits and export timing-corrected subtitle files without an account.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "carbon-now-sh",
     "name": "Carbon",
     "url": "https://carbon.now.sh",
@@ -525,7 +549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36143
+    "githubStars": 36147
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -1137,7 +1161,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GeiserX/DeclaRenta",
-    "githubStars": 52
+    "githubStars": 56
   },
   {
     "slug": "decode-base64-com",
@@ -1473,7 +1497,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17816
+    "githubStars": 17819
   },
   {
     "slug": "fffuel-co",
@@ -1749,7 +1773,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2388
+    "githubStars": 2389
   },
   {
     "slug": "geojson-io",
@@ -2064,6 +2088,18 @@
     "githubStars": null
   },
   {
+    "slug": "hostingcompass-com",
+    "name": "HostingCompass",
+    "url": "https://hostingcompass.com",
+    "description": "Interactive hosting and VPS price comparison workbench comparing server specifications, renewal terms, and multi-year ownership costs.",
+    "coreTask": "Filter and compare VPS hosting plans side-by-side by CPU, memory, and renewal pricing without signing up.",
+    "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "howolddoilook-app",
     "name": "How Old Do I Look?",
     "url": "https://howolddoilook.app/",
@@ -2085,7 +2121,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13639
+    "githubStars": 13636
   },
   {
     "slug": "humanizeink-com",
@@ -2301,7 +2337,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30220
+    "githubStars": 30238
   },
   {
     "slug": "jottools-com",
@@ -2325,7 +2361,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44587
+    "githubStars": 44597
   },
   {
     "slug": "jsonformatter-org",
@@ -2745,7 +2781,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6902
+    "githubStars": 6907
   },
   {
     "slug": "metadataremover-ai",
@@ -2829,7 +2865,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 21024
+    "githubStars": 21050
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -2862,6 +2898,18 @@
     "description": "Disposable email generator for creating temporary inboxes and custom email aliases without registration.",
     "coreTask": "Generate temporary disposable email inboxes with custom aliases.",
     "category": "Privacy",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "multiconverter-online-uniruler",
+    "name": "Multiconverter Uniruler",
+    "url": "https://multiconverter.online/uniruler/",
+    "description": "Interactive multi-unit length converter and visual perspective ruler comparing metric and imperial units side-by-side with instant vector diagram exports.",
+    "coreTask": "Convert metric and imperial length units with visual perspective scales and export unwatermarked comparison diagrams without signing in.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2961,7 +3009,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6183
+    "githubStars": 6185
   },
   {
     "slug": "next-tools-dev",
@@ -2997,7 +3045,7 @@
     "featured": false,
     "badge": "explicit",
     "repoUrl": "https://github.com/nitroideofficial/nitroide",
-    "githubStars": 27
+    "githubStars": 26
   },
   {
     "slug": "nologin-tools",
@@ -3140,6 +3188,18 @@
     "category": "Development",
     "featured": false,
     "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "particlelife-app",
+    "name": "Particle Life Simulator",
+    "url": "https://particlelife.app/",
+    "description": "Interactive artificial life sandbox simulating emergent cellular dynamics, swarm behaviors, and configurable attraction-repulsion physics in the browser.",
+    "coreTask": "Simulate emergent multi-color particle life physics and customize force parameters in real-time without registration.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -3417,7 +3477,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52409
+    "githubStars": 52414
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3489,7 +3549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1245
+    "githubStars": 1247
   },
   {
     "slug": "privnote-com",
@@ -3705,7 +3765,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 934
+    "githubStars": 933
   },
   {
     "slug": "reficompass-com",
@@ -3933,7 +3993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27384
+    "githubStars": 27400
   },
   {
     "slug": "shotmelo-com",
@@ -4101,7 +4161,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26180
+    "githubStars": 26193
   },
   {
     "slug": "stackedit-io",
@@ -4113,7 +4173,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23101
+    "githubStars": 23102
   },
   {
     "slug": "newellabs-com-tools-bank-statement-converter",
@@ -4197,7 +4257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22811
+    "githubStars": 22818
   },
   {
     "slug": "syncwhen-com",
@@ -4509,7 +4569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51455
+    "githubStars": 51426
   },
   {
     "slug": "tmp-tf",
