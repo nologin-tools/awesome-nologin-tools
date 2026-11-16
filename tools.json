@@ -777,7 +777,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19189
+    "githubStars": 19190
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1005,7 +1005,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 561
+    "githubStars": 562
   },
   {
     "slug": "flukeout-github-io",
@@ -1017,7 +1017,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2865
+    "githubStars": 2867
   },
   {
     "slug": "cssgradient-io",
@@ -1041,7 +1041,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3399
+    "githubStars": 3398
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1101,7 +1101,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36380
+    "githubStars": 36419
   },
   {
     "slug": "dataformatkit-com",
@@ -1209,7 +1209,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39636
+    "githubStars": 39643
   },
   {
     "slug": "app-diagrams-net",
@@ -1221,7 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9311
+    "githubStars": 9387
   },
   {
     "slug": "diagrflow-com",
@@ -1257,7 +1257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8298
+    "githubStars": 8300
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1389,7 +1389,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135655
+    "githubStars": 135757
   },
   {
     "slug": "excelcraft-app",
@@ -1413,7 +1413,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14336
+    "githubStars": 14343
   },
   {
     "slug": "extract-express",
@@ -1593,7 +1593,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7390
+    "githubStars": 7389
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -2073,7 +2073,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80800
+    "githubStars": 80827
   },
   {
     "slug": "hosthtmlfile-com",
@@ -2325,7 +2325,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41242
+    "githubStars": 41280
   },
   {
     "slug": "meet-jit-si",
@@ -2493,7 +2493,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15257
+    "githubStars": 15264
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2517,7 +2517,7 @@
     "featured": false,
     "badge": "implicit",
     "repoUrl": "https://github.com/led-run/led.run",
-    "githubStars": 101
+    "githubStars": 102
   },
   {
     "slug": "verifiedlimits-com",
@@ -3177,7 +3177,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11804
+    "githubStars": 11818
   },
   {
     "slug": "parsebloom-com",
@@ -3381,7 +3381,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8527
+    "githubStars": 8529
   },
   {
     "slug": "photoready-app",
@@ -3789,7 +3789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/firasdib/Regex101",
-    "githubStars": 3526
+    "githubStars": 3527
   },
   {
     "slug": "regexlearn-com",
@@ -3801,7 +3801,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4119
+    "githubStars": 4122
   },
   {
     "slug": "remove-bg",
@@ -4197,7 +4197,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/keenanlk/stayput",
-    "githubStars": 0
+    "githubStars": 1
   },
   {
     "slug": "studycalcpro-com",
@@ -4713,7 +4713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111785
+    "githubStars": 111825
   },
   {
     "slug": "u2c-app",
@@ -4929,7 +4929,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6803
+    "githubStars": 6805
   },
   {
     "slug": "webutilslab-com-tools",
