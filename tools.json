@@ -60,6 +60,18 @@
     "githubStars": null
   },
   {
+    "slug": "aion2pets-org",
+    "name": "AION 2 Pets",
+    "url": "https://aion2pets.org/",
+    "description": "Searchable AION 2 companion database and local collection tracker covering 209 pets with an interactive spawn-point map, genus/region filters, farming targets, and URL-hash progress sharing without sign-in.",
+    "coreTask": "Search and filter the 209-pet database, inspect spawn clusters on the interactive map, and track farming targets and collection progress in browser storage without an account.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "all2url-com",
     "name": "All2URL",
     "url": "https://all2url.com/",
@@ -456,6 +468,18 @@
     "githubStars": null
   },
   {
+    "slug": "calcahead-com",
+    "name": "CalcAhead",
+    "url": "https://calcahead.com",
+    "description": "Ad-free online calculator suite covering finance, math, health, date/time, and home projects with currency/unit preferences, CSV breakdown and PNG exports, and local device saving without sign-in.",
+    "coreTask": "Search or select a calculator, enter parameters to compute comparative results, and export a CSV breakdown or PNG summary without signing in.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "calcrobin-com",
     "name": "CalcRobin",
     "url": "https://calcrobin.com/",
@@ -549,7 +573,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36147
+    "githubStars": 36144
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -864,6 +888,18 @@
     "githubStars": null
   },
   {
+    "slug": "convertheictojpg-org",
+    "name": "ConvertHEICtoJPG",
+    "url": "https://convertheictojpg.org",
+    "description": "Ad-supported browser-based image converter supporting HEIC, PNG, WebP, GIF, SVG, and PDF across 18 format routes with batch conversion and unwatermarked downloads without sign-in.",
+    "coreTask": "Drop HEIC or other supported images into the browser converter and download converted JPG, PNG, or WebP files without uploading or signing in.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "convertilo-io",
     "name": "Convertilo",
     "url": "https://convertilo.io",
@@ -885,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/convertio/convertio-php",
-    "githubStars": 276
+    "githubStars": 275
   },
   {
     "slug": "convertlo-pro",
@@ -1339,7 +1375,7 @@
     "coreTask": "Upload an Enshrouded .ksd character save file to customize level, skills, and gear.",
     "category": "Productivity",
     "featured": false,
-    "badge": "none",
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -1497,7 +1533,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17819
+    "githubStars": 17818
   },
   {
     "slug": "fffuel-co",
@@ -1578,6 +1614,18 @@
     "description": "Financial planning calculators for modeling FIRE numbers, retirement corpus, and savings timelines across currencies without sign-up.",
     "coreTask": "Calculate financial independence FIRE milestones and retirement corpus across multi-parameter inflation and return rates.",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "fitsduo-com",
+    "name": "Fits Duo",
+    "url": "https://fitsduo.com/",
+    "description": "Searchable iPhone Duo app compatibility lookup covering 3,048 iOS apps with status filters (Fits, Partly fits, Should fit, Letterboxed), verified owner screenshots, and category sorting without sign-in.",
+    "coreTask": "Search an iOS app or filter by compatibility status and screenshot availability to check iPhone Duo display support without an account.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1773,7 +1821,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2389
+    "githubStars": 2393
   },
   {
     "slug": "geojson-io",
@@ -1785,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2278
+    "githubStars": 2279
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -2337,7 +2385,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30238
+    "githubStars": 30245
   },
   {
     "slug": "jottools-com",
@@ -2361,7 +2409,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44597
+    "githubStars": 44602
   },
   {
     "slug": "jsonformatter-org",
@@ -2468,6 +2516,18 @@
     "category": "Productivity",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "knittingchart-com",
+    "name": "Knitting Chart",
+    "url": "https://knittingchart.com/",
+    "description": "Browser-based knitting colorwork and stitch chart maker with true stitch proportions, stitch symbols, gauge calculation, and unwatermarked PNG/PDF/written-instruction export without sign-up. SVG designer pack and cloud sync require Pro.",
+    "coreTask": "Draw or fill a knitting colorwork/stitch chart on the canvas grid and export an unwatermarked PNG, PDF, or written row-by-row instructions without signing in.",
+    "category": "Design",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2697,7 +2757,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13239
+    "githubStars": 13254
   },
   {
     "slug": "matchmytype-org",
@@ -2781,7 +2841,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6907
+    "githubStars": 6913
   },
   {
     "slug": "metadataremover-ai",
@@ -2970,6 +3030,18 @@
     "description": "AI name generator that creates themed business, product, baby, and project name ideas from natural language prompts.",
     "coreTask": "Generate themed name suggestions with phonetic pronunciation keys and one-click copy.",
     "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "namepractice-com",
+    "name": "NamePractice",
+    "url": "https://namepractice.com/",
+    "description": "Server-rendered printable name tracing worksheet generator with Trace-Copy-Write rows, age-band sizing, and unwatermarked PDF export for up to 10 free pages per month without sign-in.",
+    "coreTask": "Enter a child's name, pick an age band and paper format, and download a printable Trace-Copy-Write PDF worksheet without signing in.",
+    "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3477,7 +3549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52414
+    "githubStars": 52419
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3537,7 +3609,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6180
+    "githubStars": 6183
   },
   {
     "slug": "privacytests-org",
@@ -3717,7 +3789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9059
+    "githubStars": 9058
   },
   {
     "slug": "ray-so",
@@ -3993,7 +4065,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27400
+    "githubStars": 27406
   },
   {
     "slug": "shotmelo-com",
@@ -4092,6 +4164,18 @@
     "githubStars": null
   },
   {
+    "slug": "songluna-com-tools-bpm-tapper",
+    "name": "Songluna BPM Tapper",
+    "url": "https://songluna.com/tools/bpm-tapper",
+    "description": "Browser-based BPM tap tempo calculator with spacebar or click input, half-time and double-time readouts, click track playback, and millisecond delay/echo note-length calculations without sign-in.",
+    "coreTask": "Tap the beat pad or press Space repeatedly to measure BPM and calculate quarter, eighth, dotted, triplet, and sixteenth delay times in milliseconds.",
+    "category": "Media",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "sortvisualizer-com",
     "name": "Sort Visualizer",
     "url": "https://sortvisualizer.com",
@@ -4149,7 +4233,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2253
+    "githubStars": 2255
   },
   {
     "slug": "squoosh-app",
@@ -4161,7 +4245,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26193
+    "githubStars": 26194
   },
   {
     "slug": "stackedit-io",
@@ -4257,7 +4341,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22818
+    "githubStars": 22824
   },
   {
     "slug": "syncwhen-com",
@@ -4329,7 +4413,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1751
+    "githubStars": 1752
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -4365,7 +4449,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13098
+    "githubStars": 13103
   },
   {
     "slug": "teslawrapgenerator-com-tesla-wrap-3d-preview",
@@ -4452,6 +4536,18 @@
     "githubStars": 0
   },
   {
+    "slug": "thecrossstitchpatternmaker-com",
+    "name": "The Cross Stitch Pattern Maker",
+    "url": "https://thecrossstitchpatternmaker.com/",
+    "description": "Browser-based photo-to-cross-stitch pattern converter with 454 DMC thread colors, symbol/color grid preview, skein calculations, and unwatermarked PDF/PNG export without sign-up (first PDF free; larger charts and OXS export require Pro).",
+    "coreTask": "Upload a photo, adjust stitch width, color count, and fabric count, and export a printable DMC symbol cross-stitch PDF without signing in.",
+    "category": "Design",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "nextgenailearning-com",
     "name": "The ID Toolbox",
     "url": "https://nextgenailearning.com",
@@ -4482,6 +4578,18 @@
     "description": "Create tiled multi-page wall posters with custom halftone raster effects and printable PDF export.",
     "coreTask": "Upload an image, configure halftone raster styles and multi-page grid sizes, and download a tiled printable PDF without an account.",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "thexly-com-tools-roas-calculator",
+    "name": "Thexly ROAS Calculator",
+    "url": "https://thexly.com/tools/roas-calculator",
+    "description": "Free browser-based ROAS (Return on Ad Spend) calculator that computes multiplier and percentage returns live and adjusts interpretation notes by revenue source without sign-up.",
+    "coreTask": "Enter ad spend and revenue and choose the revenue source to calculate ROAS as a multiplier and percentage in-browser without signing in.",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4569,7 +4677,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51426
+    "githubStars": 51446
   },
   {
     "slug": "tmp-tf",
@@ -4641,7 +4749,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9259
+    "githubStars": 9258
   },
   {
     "slug": "treadmillpace-com",
@@ -5073,7 +5181,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5290
+    "githubStars": 5293
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -5109,7 +5217,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3240
+    "githubStars": 3243
   },
   {
     "slug": "z-ai",
