@@ -1,7 +1,7 @@
 # Awesome NoLogin Tools
 
 [![Awesome](https://img.shields.io/badge/Awesome-fc60a8?logo=awesomelists&logoColor=white)](https://github.com/nologin-tools/awesome-nologin-tools)
-[![Tools](https://img.shields.io/badge/Tools-430-4c1)](https://nologin.tools)
+[![Tools](https://img.shields.io/badge/Tools-439-4c1)](https://nologin.tools)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Website](https://img.shields.io/badge/nologin.tools-Visit-blue)](https://nologin.tools)
 [![Submit a Tool](https://img.shields.io/badge/Submit_a_Tool-orange)](https://nologin.tools/submit)
@@ -45,9 +45,9 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Search the web with AI-powered answers and citations_
 - **[Shotmelo](https://shotmelo.com)** — Visual prompt builder and motion planner for image-to-video AI workflows without mandatory signup.
   > _No-login task: Plan and generate image-to-video prompts_
-- **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1751) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
+- **[Teachable Machine](https://teachablemachine.withgoogle.com)** ([Source](https://github.com/googlecreativelab/teachablemachine-community) ⭐1752) — Google's no-code tool for training machine learning models in the browser. Train image, sound, or pose recognition models with your own data, all processed client-side.
   > _No-login task: Train machine learning models without coding_
-- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐13098) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
+- **[TensorFlow Playground](https://playground.tensorflow.org)** ([Source](https://github.com/tensorflow/playground) ⭐13103) — Interactive neural network visualization in the browser. Experiment with layers, neurons, activation functions, and learning rates to understand how neural networks learn.
   > _No-login task: Visualize and experiment with neural networks interactively_
 - **[Z.ai Chat](https://chat.z.ai/)** — Free AI chatbot powered by GLM-5 and GLM-4.7 from Zhipu AI. Supports multilingual conversation, coding assistance, and data analysis.
   > _No-login task: Chat with GLM AI models for writing, coding, and analysis_
@@ -82,7 +82,7 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Create flowcharts and diagrams_
 - **[Excalidraw ★](https://excalidraw.com)** ([Source](https://github.com/excalidraw/excalidraw) ⭐135757) — Virtual whiteboard for sketching hand-drawn like diagrams. Supports real-time collaboration, export to PNG/SVG, and has a library of shapes and icons.
   > _No-login task: Create hand-drawn style diagrams and sketches collaboratively_
-- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17819) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
+- **[Favicon.io](https://favicon.io)** ([Source](https://github.com/twitter/twemoji) ⭐17818) — Generate favicons from text, images, or emojis. Download in multiple sizes and formats for your website.
   > _No-login task: Generate website favicons_
 - **[Fffuel](https://fffuel.co)** — A collection of 40+ free, browser-based color tools and SVG generators for creating backgrounds, patterns, textures, gradients, and shapes. Each tool works directly in the browser with zero signup required. Perfect for web designers and developers who need custom visuals without opening heavy design software.
   > _No-login task: Generate custom SVG backgrounds, patterns, gradients, and textures for web design projects_
@@ -104,6 +104,8 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Search Japanese colors or HEX codes, curate custom palette swatches, and export the palette list as CSV._
 - **[KeepMot](https://ps.keepmot.com/)** — A free online collage and image editing tool. No login required, completely free to use. Built entirely on the front end, ensuring absolute privacy and security for your images. Download high-resolution results with no watermarks. A clean and professional tool for creating beautiful visual works.
   > _No-login task: 1. Grid Collage 2. Photo Wall Collage 3. Long Image Stitching 4. Image Cropping 5. Image Effects_
+- **[Knitting Chart 🛡️](https://knittingchart.com/)** — Browser-based knitting colorwork and stitch chart maker with true stitch proportions, stitch symbols, gauge calculation, and unwatermarked PNG/PDF/written-instruction export without sign-up. SVG designer pack and cloud sync require Pro.
+  > _No-login task: Draw or fill a knitting colorwork/stitch chart on the canvas grid and export an unwatermarked PNG, PDF, or written row-by-row instructions without signing in._
 - **[Letriza](https://letriza.com/)** — Online Unicode text and aesthetic font generator offering over 3600 decorative styles, custom mixing, and one-click clipboard copying without sign-up.
   > _No-login task: Generate and copy styled Unicode text across decorative font categories._
 - **[Logo Fast](https://www.indietool.io/tools/logo-fast)** — Fast client-side logo maker for designing clean startup icons and downloading vector SVG or high-res PNG without an account.
@@ -130,21 +132,23 @@ Know a great tool that works without login? **[Submit it here](https://nologin.t
   > _No-login task: Generate and preview signature-style font text in the browser without logging in._
 - **[SpriteFuse Sprite Sheet Cutter](https://spritefuse.com/sprite-sheet-cutter)** — Browser-based sprite sheet cutter to split images into individual PNG frames with live animation preview and ZIP download.
   > _No-login task: Slice sprite sheets into individual PNG frames and export them as a ZIP archive without signing up._
-- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐26193) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
+- **[Squoosh](https://squoosh.app)** ([Source](https://github.com/GoogleChromeLabs/squoosh) ⭐26194) — Google-built image compression tool that runs entirely in the browser. Compare original vs compressed side-by-side, supports WebP, AVIF, MozJPEG, and more.
   > _No-login task: Compress and optimize images with visual quality comparison_
 - **[SVG Viewer](https://svgviewer.app/)** — SVG Viewer is a free online toolkit designed to help designers, developers, and creators view, edit, optimize, and convert SVG files directly in their web browser. Instead of installing dedicated graphics software, users can upload an SVG file or paste SVG code and immediately see a real-time visual preview. The platform requires no sign-up, making it a convenient solution for quickly working with vector graphics.
   > _No-login task: View & edit SVG files with real-time preview_
-- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/svg/svgo) ⭐22818) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
+- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** ([Source](https://github.com/svg/svgo) ⭐22824) — Optimize and compress SVG files with a visual interface. Built by Jake Archibald, powered by SVGO.
   > _No-login task: Optimize and compress SVG files_
 - **[Tesla Wrap 3D Preview](https://teslawrapgenerator.com/tesla-wrap-3d-preview)** — Interactive 3D Tesla wrap previewer and Paint Shop file fixer that maps PNG designs onto a 3D Model Y and exports compliant wraps.
   > _No-login task: Preview Tesla wraps on a 3D model and fix Paint Shop specifications without signing up._
 - **[Text Logo](https://textlogo.app/)** — Create custom text logos, wordmarks, and typography logos in your browser with editable fonts, colors, icons, shapes, backgrounds, and SVG, PNG, WebP, or ICO export.
   > _No-login task: Create a custom text logo and export it as SVG or PNG without creating an account or logging in._
+- **[The Cross Stitch Pattern Maker 🛡️](https://thecrossstitchpatternmaker.com/)** — Browser-based photo-to-cross-stitch pattern converter with 454 DMC thread colors, symbol/color grid preview, skein calculations, and unwatermarked PDF/PNG export without sign-up (first PDF free; larger charts and OXS export require Pro).
+  > _No-login task: Upload a photo, adjust stitch width, color count, and fabric count, and export a printable DMC symbol cross-stitch PDF without signing in._
 - **[The Rasterbator](https://rasterbator.im/)** — Create tiled multi-page wall posters with custom halftone raster effects and printable PDF export.
   > _No-login task: Upload an image, configure halftone raster styles and multi-page grid sizes, and download a tiled printable PDF without an account._
 - **[TinyPNG](https://tinypng.com)** ([Source](https://github.com/tinify/iMessage-Panda-sticker) ⭐86) — Smart lossy compression for PNG, JPEG, and WebP images. Reduce file sizes while preserving visual quality.
   > _No-login task: Compress PNG, JPEG, and WebP images_
-- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐51426) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
+- **[tldraw](https://tldraw.com)** ([Source](https://github.com/tldraw/tldraw) ⭐51446) — A collaborative digital whiteboard with a clean, minimal interface. Draw freehand, add shapes, arrows, text, and sticky notes to create diagrams and visual notes.
   > _No-login task: Draw diagrams and visual notes on an infinite canvas_
 - **[TryInk](https://tryink.me/)** — TryInk is a tattoo try-on tool: upload a body photo, place a design, and preview size and placement on your own skin before an appointment.
   > _No-login task: upload a body photo, place a design, and preview size and placement on your own skin_
@@ -221,7 +225,7 @@ https://textkit.tech
   > _No-login task: Count words and characters, format and validate JSON, convert text case, generate URL slugs, diff two texts, find and replace with regex, sort and dedupe lists, extract emails, build markdown tables,_
 - **[WordPad Online](https://wordpad-online.com/)** — A browser-based WordPad editor for writing, formatting and saving notes without installing software or creating an account.
   > _No-login task: Write, format and save notes directly in the browser without logging in._
-- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5290) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
+- **[Write.as](https://write.as)** ([Source](https://github.com/writefreely/writefreely) ⭐5293) — A privacy-first writing and publishing platform that requires no account to use. Write anything, click publish, and instantly get a permanent shareable URL. No ads, no tracking, no required signup — just a clean editor that gets out of your way.
   > _No-login task: Write and publish text to the web instantly without an account — get a permanent shareable URL in seconds._
 - **[ZenPen](https://zenpen.io)** ([Source](https://github.com/tholman/zenpen) ⭐3767) — Minimal distraction-free writing environment. Just open and start writing — no toolbar clutter, no distractions.
   > _No-login task: Write in a distraction-free editor_
@@ -244,7 +248,7 @@ https://textkit.tech
   > _No-login task: Check email client HTML/CSS support_
 - **[Can I Use](https://caniuse.com)** ([Source](https://github.com/fyrd/caniuse) ⭐5881) — Up-to-date browser support tables for web technologies including HTML5, CSS3, SVG, and JavaScript APIs. Essential reference for web developers.
   > _No-login task: Check browser compatibility for web technologies_
-- **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36147) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
+- **[Carbon](https://carbon.now.sh)** ([Source](https://github.com/carbon-app/carbon) ⭐36144) — Create and share beautiful images of your source code. Choose from dozens of syntax themes, languages, and export to PNG or SVG.
   > _No-login task: Generate beautiful images of source code snippets_
 - **[Claude-resets](https://claude-resets.com)** — A real-time tracking dashboard for Anthropic Claude Code rate limit reset intervals, historical cooldown periods, and usage reset announcements.
   > _No-login task: Check current time elapsed since the last Claude Code rate limit reset and review historical interval statistics without logging in._
@@ -323,7 +327,7 @@ Supported Categories:
   > _No-login task: Verify CSV file encoding and preview decoded text locally without creating an account._
 - **[MamaTool 🛡️](https://mamatool.com/)** — Collection of 44 in-browser utilities to format JSON, generate passwords, create QR codes, and convert files privately without accounts.
   > _No-login task: Format, validate, and manipulate JSON and daily data locally in the browser._
-- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6907) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
+- **[Mermaid Live Editor](https://mermaid.live)** ([Source](https://github.com/mermaid-js/mermaid-live-editor) ⭐6913) — Create flowcharts, sequence diagrams, Gantt charts, and more using simple text syntax. Live preview with export to SVG/PNG.
   > _No-login task: Create diagrams with text syntax_
 - **[Metatags.io](https://metatags.io)** — Preview and generate social media meta tags. See how your page looks on Google, Facebook, Twitter, LinkedIn, and more.
   > _No-login task: Preview and generate meta tags_
@@ -341,7 +345,7 @@ Supported Categories:
   > _No-login task: Convert cURL commands to code in 23 languages and copy the result without an account._
 - **[PDFtoMDConverter](https://pdftomdconverter.app/)** — Convert text PDFs and clear English scans to editable Markdown in your browser, free with no sign-up.
   > _No-login task: Use PDFtoMDConverter directly in the browser without creating an account or logging in._
-- **[Prettier Playground](https://prettier.io/playground)** ([Source](https://github.com/prettier/prettier) ⭐52414) — Preview Prettier code formatting results online. Experiment with options and see formatted output for JavaScript, TypeScript, CSS, and more.
+- **[Prettier Playground](https://prettier.io/playground)** ([Source](https://github.com/prettier/prettier) ⭐52419) — Preview Prettier code formatting results online. Experiment with options and see formatted output for JavaScript, TypeScript, CSS, and more.
   > _No-login task: Preview Prettier code formatting_
 - **[Ray.so](https://ray.so)** — Create beautiful code screenshots with customizable themes, backgrounds, and padding. By Raycast.
   > _No-login task: Generate beautiful code screenshots_
@@ -353,7 +357,7 @@ Supported Categories:
   > _No-login task: View Gerber, ODB++ and IPC-2581 files, run a DRC, diff two layers, and see a pick-and-place view, all in the browser with nothing to install and no upload._
 - **[Seonix llms.txt Generator](https://seonix.ai/tools/llms-txt-generator)** — Free client-side llms.txt generator to create standard Markdown site descriptions and link sections for AI crawler discovery without an account.
   > _No-login task: Describe website and documentation links to generate and export valid llms.txt markdown._
-- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐27400) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
+- **[Shields.io](https://shields.io)** ([Source](https://github.com/badges/shields) ⭐27406) — Generate quality badges for your README and documentation. Hundreds of integrations for build status, coverage, version, and more.
   > _No-login task: Generate README status badges_
 - **[Sitelemetry Launch Readiness](https://sitelemetry.com/launch-readiness)** — Free website launch readiness checker auditing DNS, mail policies, TLS certificates, and HTTP security headers without requiring an account.
   > _No-login task: Audit domain DNS, TLS, mail, and security headers and export high-resolution PNG score cards._
@@ -386,6 +390,8 @@ Supported Categories:
   > _No-login task: Envoyer et recevoir gratuitement des fichiers volumineux par lien, QR code ou code de retrait, sans créer de compte ni installer de logiciel._
 - **[AION 2 Pets](https://aion2pets.app/)** — Plan companion pet soul upgrades, calculate analysis crystal budgets, and explore farming maps for AION 2.
   > _No-login task: Calculate soul upgrade requirements, analyze trait crystal budgets, and track farming locations without an account._
+- **[AION 2 Pets](https://aion2pets.org/)** — Searchable AION 2 companion database and local collection tracker covering 209 pets with an interactive spawn-point map, genus/region filters, farming targets, and URL-hash progress sharing without sign-in.
+  > _No-login task: Search and filter the 209-pet database, inspect spawn clusters on the interactive map, and track farming targets and collection progress in browser storage without an account._
 - **[All2URL](https://all2url.com/)** — Convert and share HTML files, ZIP projects, PDFs, images, and documents as live URLs without an account.
   > _No-login task: Upload files or paste HTML to instantly generate a shareable web URL without registration._
 - **[Archive.today](https://archive.ph/)** — Save permanent snapshots of web pages. Archive any URL to preserve its content — useful for citations, research, and bypassing paywalls.
@@ -400,6 +406,8 @@ Supported Categories:
   > _No-login task: Display a clean fullscreen black screen or export custom resolution solid color wallpapers._
 - **[Brisqnex 🛡️](https://www.brisqnex.com/)** ([Source](https://github.com/brisqnex/brisqnex) ⭐0) — Multi-category utility suite offering 83 free online tools for PDF editing, image conversion, and text processing directly in the browser.
   > _No-login task: Reorder and organize PDF document pages and export clean new PDF files client-side without registration._
+- **[CalcAhead](https://calcahead.com)** — Ad-free online calculator suite covering finance, math, health, date/time, and home projects with currency/unit preferences, CSV breakdown and PNG exports, and local device saving without sign-in.
+  > _No-login task: Search or select a calculator, enter parameters to compute comparative results, and export a CSV breakdown or PNG summary without signing in._
 - **[CalcRobin](https://calcrobin.com/)** — Suite of 270+ client-side calculators, LLM token counters, and conversion utilities running entirely offline in the browser.
   > _No-login task: Calculate values, estimate LLM tokens, and export calculation summary cards without creating an account._
 - **[Calculator Campus](https://www.calculatorcampus.com/)** — Calculator Campus is a free collection of practical browser-based calculators. Each tool pairs a focused input flow with formulas, assumptions, worked examples, FAQs, and named sources. Core calculators work without an account.
@@ -420,7 +428,7 @@ Supported Categories:
   > _No-login task: Start a synced countdown, share the link, use the OBS/streaming overlay, install as a PWA_
 - **[Dealcove](https://focus2grow.app/dealcove/)** — A privacy-first CRM for small businesses that keeps leads, deals, follow-ups, notes, pipeline stages and sales KPIs in the browser. Import and export contacts by CSV, run focused sales sprints, and work without a cloud account.
   > _No-login task: Manage sales leads, deal pipelines, follow-up tasks, and customer contacts locally_
-- **[Enshrouded Save Editor](https://enshroudedsaveeditor.com/)** — In-browser character save file editor for Enshrouded (.ksd files).
+- **[Enshrouded Save Editor 🛡️](https://enshroudedsaveeditor.com/)** — In-browser character save file editor for Enshrouded (.ksd files).
   > _No-login task: Upload an Enshrouded .ksd character save file to customize level, skills, and gear._
 - **[EntityMinder State Deadline Lookup](https://entityminder-smoke.web.app/em/lookup/)** — Look up the annual or biennial report deadline for an LLC or corporation in any US state: the official report name, the filing cadence, whether a separate franchise tax applies, and a direct link to that state's filing page. All 50 states plus DC. No account, no email, no paywall. Built by EntityMinder, which also sells a paid multi-entity deadline tracker; this lookup is the free part. Figures are compiled from official state sources — confirm on the linked state page before filing.
   > _No-login task: Select any US state and immediately see that state's LLC/corporation annual-report deadline, official report name, franchise-tax note and a link to the state filing page._
@@ -438,6 +446,8 @@ Supported Categories:
   > _No-login task: Roll dice, flip coins, generate random numbers, and pick from custom decision lists_
 - **[FileOnTap](https://fileontap.com/)** — A private in-browser file converter and compression suite that converts HEIC, WebP, PNG, JPG, and PDF documents on your device without server uploads.
   > _No-login task: Convert and compress images or compile multi-page PDF documents locally in the browser without an account._
+- **[Fits Duo](https://fitsduo.com/)** — Searchable iPhone Duo app compatibility lookup covering 3,048 iOS apps with status filters (Fits, Partly fits, Should fit, Letterboxed), verified owner screenshots, and category sorting without sign-in.
+  > _No-login task: Search an iOS app or filter by compatibility status and screenshot availability to check iPhone Duo display support without an account._
 - **[FluxOps Overstock & Reorder Calculator](https://fluxops.nanocorp.app/tools/reorder-calculator)** — Free Overstock & Reorder Calculator for e-commerce brands — see stockout risk + weekly hours saved.
   > _No-login task: Calculate inventory days left, reorder points, and overstock alerts from sales and lead time data_
 - **[Free Graph Paper](https://freegraphpaper.org/)** — Free customizable printable graph paper, grid sheets, and dot paper generator that exports unwatermarked PDF and PNG documents.
@@ -609,7 +619,9 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Extract and download MP4 video, MP3 audio, subtitles, and cover images from public video URLs._
 - **[Converters.live 🛡️](https://converters.live)** — Free online file converter for images, video, and audio - works instantly with no account or login required.
   > _No-login task: Convert images (JPG, PNG, WEBP, HEIC, SVG) to PDF, video (MP4, MKV, WEBM) to GIF, and audio (MP3, WAV, FLAC, M4A) - all directly in the browser, no signup._
-- **[Convertio](https://convertio.co)** ([Source](https://github.com/convertio/convertio-php) ⭐276) — Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.
+- **[ConvertHEICtoJPG](https://convertheictojpg.org)** — Ad-supported browser-based image converter supporting HEIC, PNG, WebP, GIF, SVG, and PDF across 18 format routes with batch conversion and unwatermarked downloads without sign-in.
+  > _No-login task: Drop HEIC or other supported images into the browser converter and download converted JPG, PNG, or WebP files without uploading or signing in._
+- **[Convertio](https://convertio.co)** ([Source](https://github.com/convertio/convertio-php) ⭐275) — Advanced online file converter supporting 300+ formats. Convert documents, images, audio, video, ebooks, archives, and more with a simple drag-and-drop interface.
   > _No-login task: Convert files between 300+ formats with drag and drop_
 - **[Convertlo](https://convertlo.pro/)** — Convert images, documents, audio, and video directly in the browser with no file uploads and configurable quality settings.
   > _No-login task: Convert file formats locally in the browser_
@@ -679,6 +691,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Drop in a video to trim clips, automatically blur faces or license plates, and export the edited file locally._
 - **[SirenMix](https://sirenmix.com/tools)** — Free browser-based DJ and audio tools for changing BPM and musical key, converting formats, and inspecting spectra. Selected files are processed locally with WebAssembly and are not uploaded.
   > _No-login task: Change BPM and musical key, convert audio formats, inspect full-track spectra, preview results, and export audio without creating an account or uploading files._
+- **[Songluna BPM Tapper 🛡️](https://songluna.com/tools/bpm-tapper)** — Browser-based BPM tap tempo calculator with spacebar or click input, half-time and double-time readouts, click track playback, and millisecond delay/echo note-length calculations without sign-in.
+  > _No-login task: Tap the beat pad or press Space repeatedly to measure BPM and calculate quarter, eighth, dotted, triplet, and sixteenth delay times in milliseconds._
 - **[SVG Repo](https://svgrepo.com)** — Browse and download 500,000+ free SVG icons and vectors. Search by keyword, customize colors, and copy SVG code directly.
   > _No-login task: Find and download free SVG icons_
 - **[Tap Metronome](https://tapmetronome.app/)** — Free online metronome with tap tempo detection, customizable time signatures, rhythm subdivisions, accent patterns, and practice timer.
@@ -726,7 +740,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Inspect and remove supported metadata from JPG, PNG and WebP images, then download the cleaned copy_
 - **[MTempMail](https://mtempmail.com/)** — Disposable email generator for creating temporary inboxes and custom email aliases without registration.
   > _No-login task: Generate temporary disposable email inboxes with custom aliases._
-- **[privacy.sexy ★](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐6180) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
+- **[privacy.sexy ★](https://privacy.sexy)** ([Source](https://github.com/undergroundwires/privacy.sexy) ⭐6183) — Open-source browser tool that generates customizable privacy hardening scripts for Windows, macOS, and Linux. Browse 900+ organized tweaks — disable telemetry, advertising IDs, data collection services, and more — select what you want, and download a ready-to-run script. All script generation runs client-side: no account, no uploads, nothing leaves your browser.
   > _No-login task: Generate OS privacy hardening scripts for Windows, macOS, or Linux directly in your browser — select the tweaks you want and download a ready-to-run script._
 - **[PrivacyTests](https://privacytests.org)** ([Source](https://github.com/privacytests/privacytests.org) ⭐1247) — Open-source tests of web browser privacy. Compares tracking protection, fingerprinting resistance, and other privacy features across major browsers.
   > _No-login task: Compare web browser privacy features and tracking protection_
@@ -753,25 +767,25 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Run SQL queries online_
 - **[Football Legends DB](https://footballlegends.si/)** — Interactive football archive and player comparison workbench comparing career records, honors, and tactical roles without registration.
   > _No-login task: Compare career statistics, honors, and tactical profiles of historical football players._
-- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2278) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
+- **[GeoJSON.io](https://geojson.io)** ([Source](https://github.com/mapbox/geojson.io) ⭐2279) — Create, edit, and visualize GeoJSON data on an interactive map. Draw points, lines, and polygons with instant code output.
   > _No-login task: Create and edit GeoJSON on a map_
-- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44597) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
+- **[JSON Crack](https://jsoncrack.com)** ([Source](https://github.com/AykutSarac/jsoncrack.com) ⭐44602) — Visualize JSON data into interactive graphs. Seamlessly explore complex JSON structures with a tree-like graph view, search, and filter capabilities.
   > _No-login task: Visualize JSON data as interactive node graphs_
 - **[MarkAny](https://markany.ai/)** — Convert PDF, Word, Excel, PowerPoint, HTML, EPUB, and image files to structured Markdown with automatic OCR, or export editable Markdown to common document, image, ebook, slide, and spreadsheet formats.
   > _No-login task: Batch-convert documents, web pages, and files into clean Markdown_
-- **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐13239) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
+- **[Markmap](https://markmap.js.org)** ([Source](https://github.com/markmap/markmap) ⭐13254) — Convert Markdown to interactive mind maps. Write structured Markdown and see it transform into a zoomable, navigable tree visualization.
   > _No-login task: Convert Markdown to mind maps_
 - **[Mockaroo](https://mockaroo.com)** ([Source](https://github.com/mockaroo/mockaroo-enterprise) ⭐101) — Generate realistic test data in CSV, JSON, SQL, and Excel formats. Customize schemas with 100+ data types.
   > _No-login task: Generate realistic test data_
 - **[PolymarketScan](https://polymarketscan.org)** — Free independent Polymarket analytics and public record of who wins on prediction markets. Browse wallets, markets, and whale alerts without an account.
   > _No-login task: Browse Polymarket wallets, markets, whale alerts, and trader records without creating an account._
-- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐9059) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
+- **[RAWGraphs](https://rawgraphs.io)** ([Source](https://github.com/rawgraphs/rawgraphs-app) ⭐9058) — Open-source data visualization framework. Paste your data, choose a chart type, and export beautiful visualizations as SVG or PNG.
   > _No-login task: Visualize data without coding_
 - **[SiteAge](https://siteage.org)** ([Source](https://github.com/SiteAge-org/SiteAge.org) ⭐0) — Trace the origins of any website through the Internet Archive. Look up any domain to receive a certified age badge with birth date, longevity ranking, historical timeline, and embeddable SVG badges for your website or README.
   > _No-login task: Look up any domain's age, view historical timeline, and get embeddable SVG age badges_
 - **[TableConvert](https://tableconvert.com)** — Convert between table formats: Excel, CSV, JSON, HTML, SQL, Markdown, LaTeX, and more. Edit tables visually and export in your preferred format.
   > _No-login task: Convert tables between Excel, CSV, JSON, Markdown, and more_
-- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9259) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
+- **[transform.tools](https://transform.tools)** ([Source](https://github.com/ritz078/transform) ⭐9258) — Multi-format code and data transformer. Convert between JSON, YAML, CSV, TypeScript, GraphQL, and many more formats instantly.
   > _No-login task: Convert between data formats_
 - **[WheyIndex](https://www.wheyindex.com)** — An interactive protein powder index and price comparison calculator that normalizes cost per 25g of protein and scores ingredient formulation purity across 480+ products.
   > _No-login task: Search, filter by dietary requirements, and compare normalized protein cost and formulation scores across powders without an account._
@@ -782,7 +796,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Create and host AMA sessions, share links, ask and answer questions_
 - **[IcyZip](https://icyzip.com/)** — IcyZip pairs exactly two open browsers by QR code or short private link. Current v4 clients exchange P-256 ECDH public keys after pairing and derive separate text and file keys with HKDF-SHA-256; no encryption key is embedded in the QR code or link. The relay sees ciphertext plus necessary connection data and file name, type and size. No account or app is required; both browsers stay open and online. The hosted service is proprietary; its isolated E2EE component and tests are Apache-2.0.
   > _No-login task: Pair two browsers, move live text, and send one file by QR code or link._
-- **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐30238) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
+- **[Jitsi Meet](https://meet.jit.si)** ([Source](https://github.com/jitsi/jitsi-meet) ⭐30245) — Free, open-source video conferencing that works directly in your browser. Create a room and share the link — no account, download, or plugin needed.
   > _No-login task: Start instant video calls without accounts or downloads_
 - **[MatchMyType 🛡️](https://matchmytype.org/)** — Interactive MBTI personality compatibility matrix analyzing 136 pairings across romantic relationships, workplace collaboration, and friendship.
   > _No-login task: Select two MBTI personality types to instantly view multi-dimensional relationship scores, dynamic compatibility breakdowns, and communication advice._
@@ -798,7 +812,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: P2P file sharing across devices_
 - **[Wormhole](https://wormhole.app)** — End-to-end encrypted file transfer up to 10 GB. Files are encrypted in the browser before upload — no one else can read them.
   > _No-login task: Transfer files with E2E encryption_
-- **[Yopass](https://yopass.se)** ([Source](https://github.com/jhaals/yopass) ⭐3240) — Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.
+- **[Yopass](https://yopass.se)** ([Source](https://github.com/jhaals/yopass) ⭐3243) — Share secrets securely with end-to-end encryption. Messages self-destruct after being read or after a set expiration time.
   > _No-login task: Share encrypted self-destructing secrets_
 
 ## Education
@@ -821,7 +835,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Estimate BAC and approximate time to zero, compare standard drinks, and read BAC reference guides without signing up._
 - **[Flexbox Froggy](https://flexboxfroggy.com)** ([Source](https://github.com/thomaspark/flexboxfroggy) ⭐7389) — Learn CSS Flexbox through a fun frog-themed game. Complete 24 levels to master flexbox properties like justify-content and align-items.
   > _No-login task: Learn CSS Flexbox through a game_
-- **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2389) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
+- **[GeoGebra](https://geogebra.org/calculator)** ([Source](https://github.com/geogebra/geogebra) ⭐2393) — Free dynamic mathematics software for all levels of education. Combine geometry, algebra, spreadsheets, graphing, statistics, and calculus in one interactive tool.
   > _No-login task: Explore geometry, algebra, and calculus with interactive math tools_
 - **[Geometry Calculator](https://geometry-formulas.com/geometry-calculator/)** — Free browser-based geometry formulas and calculators for common 2D and 3D shapes. Includes area, perimeter, volume, surface area formulas, diagrams, worked examples, and step-by-step calculator outputs without requiring an account.
   > _No-login task: Calculate 2D and 3D geometry formulas, perimeters, areas, and volumes_
@@ -833,6 +847,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Generate and export customized printable mazes with answer keys in PDF format._
 - **[Name Tracing Generator](https://nametracing.org/)** — Generate customized name tracing and handwriting practice worksheets with customizable line sizes, fonts, and print-ready PDF export.
   > _No-login task: Generate and print custom name tracing handwriting worksheets in PDF or PNG without creating an account._
+- **[NamePractice](https://namepractice.com/)** — Server-rendered printable name tracing worksheet generator with Trace-Copy-Write rows, age-band sizing, and unwatermarked PDF export for up to 10 free pages per month without sign-in.
+  > _No-login task: Enter a child's name, pick an age band and paper format, and download a printable Trace-Copy-Write PDF worksheet without signing in._
 - **[Particle Life Simulator](https://particlelife.app/)** — Interactive artificial life sandbox simulating emergent cellular dynamics, swarm behaviors, and configurable attraction-repulsion physics in the browser.
   > _No-login task: Simulate emergent multi-color particle life physics and customize force parameters in real-time without registration._
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** ([Source](https://github.com/phetsims/phet-info) ⭐114) — Free browser-based science and math simulations from the University of Colorado Boulder. Over 150 interactive HTML5 simulations covering physics, chemistry, biology, earth science, and math — all usable directly in the browser with no account required.
@@ -849,7 +865,7 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Visualize sorting algorithms_
 - **[SpellGenie 🛡️](https://getspellgenie.com/)** — Audio spelling test maker and interactive practice cards with automatic grading, pre-set grade-level lists, and zero registration.
   > _No-login task: Generate audio spelling quizzes and practice tests with automatic grading._
-- **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2253) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
+- **[SQL Murder Mystery](https://mystery.knightlab.com)** ([Source](https://github.com/NUKnightLab/sql-mysteries) ⭐2255) — Learn SQL by solving a murder mystery. Use SELECT, JOIN, WHERE, and more to query the database and catch the killer.
   > _No-login task: Learn SQL through a detective game_
 - **[StudyTools](https://studycalcpro.com/)** — Free online calculators and study tools for students — GPA calculator, final grade, percentage, weighted and cumulative GPA, pomodoro timer, exam countdown and more. No sign-up, no ads before the answer.
   > _No-login task: Use every calculator and read every study guide instantly_
@@ -918,6 +934,8 @@ banner ads — no popups, no paywalled features.
   > _No-login task: Resolve US import duty layers by HTS code and estimate landed costs without registration._
 - **[The Measure of a Plan](https://themeasureofaplan.com)** — Personal finance calculators, spreadsheets and educational guides. The Savings Goal Solver updates a browser-based calculation from your assumptions; the site also displays third-party ads.
   > _No-login task: Explore savings assumptions with an interactive calculator_
+- **[Thexly ROAS Calculator](https://thexly.com/tools/roas-calculator)** — Free browser-based ROAS (Return on Ad Spend) calculator that computes multiplier and percentage returns live and adjusts interpretation notes by revenue source without sign-up.
+  > _No-login task: Enter ad spend and revenue and choose the revenue source to calculate ROAS as a multiplier and percentage in-browser without signing in._
 - **[Tools Berry](https://tools-berry.com)** — Tools Berry is a free collection of fast, no-login online tools — paycheck and take-home-pay calculators for all 50 US states, plus image resizing and compression, QR and password generators, invoice and word-count tools, and dozens of everyday calculators. Everything runs in your browser — no signup, no uploads.
   > _No-login task: Calculate take-home pay for any US state, count words, and generate QR codes, invoices, and passwords — all in the browser, no account._
 - **[US Law Explained Substantial Presence Test](https://uslawexplained.com/tools/substantial_presence_test)** — Interactive calculator and travel planner evaluating IRS 183-day substantial presence tax residency status with downloadable worksheets.
