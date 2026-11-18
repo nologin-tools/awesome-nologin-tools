@@ -261,7 +261,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3056
+    "githubStars": 3060
   },
   {
     "slug": "www-autobracketmaker-com",
@@ -294,6 +294,18 @@
     "description": "BanglaTools provides online Bengali Unicode and Bijoy text conversion tools for students, educators, and content creators. The tools can be used without creating an account.",
     "coreTask": "Convert Bengali Unicode and Bijoy text online",
     "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "batchquotelab-com",
+    "name": "BatchQuote Lab",
+    "url": "https://batchquotelab.com",
+    "description": "In-browser 3D print cost calculator for comparing single-color vs. multicolor slicer estimates, planning batch production, and exporting CSV/PDF quotes locally.",
+    "coreTask": "Configure filament and production assumptions or load a slicer file, compare plate costs, and export a quote CSV.",
+    "category": "Finance",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -429,7 +441,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9622
+    "githubStars": 9623
   },
   {
     "slug": "bunengchi-com",
@@ -549,7 +561,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5881
+    "githubStars": 5883
   },
   {
     "slug": "www-markstudios-com-tools-caption-checker",
@@ -1041,7 +1053,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 562
+    "githubStars": 563
   },
   {
     "slug": "flukeout-github-io",
@@ -1137,7 +1149,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36419
+    "githubStars": 36430
   },
   {
     "slug": "dataformatkit-com",
@@ -1197,7 +1209,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GeiserX/DeclaRenta",
-    "githubStars": 56
+    "githubStars": 57
   },
   {
     "slug": "decode-base64-com",
@@ -1245,7 +1257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39643
+    "githubStars": 39651
   },
   {
     "slug": "app-diagrams-net",
@@ -1257,7 +1269,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9387
+    "githubStars": 9446
   },
   {
     "slug": "diagrflow-com",
@@ -1293,7 +1305,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8300
+    "githubStars": 8302
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1425,7 +1437,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135757
+    "githubStars": 135892
   },
   {
     "slug": "excelcraft-app",
@@ -1449,7 +1461,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14343
+    "githubStars": 14347
   },
   {
     "slug": "extract-express",
@@ -1642,6 +1654,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
     "githubStars": 7389
+  },
+  {
+    "slug": "flipaview-com",
+    "name": "Flipaview",
+    "url": "https://flipaview.com/",
+    "description": "Zero-friction HTML canvas image flipper and rotator for mirroring photos horizontally/vertically or rotating in 90-degree increments locally.",
+    "coreTask": "Upload or paste an image, apply horizontal/vertical flips or 90-degree rotations, and download the transformed file.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "fluxops-nanocorp-app-tools-reorder-calculator",
@@ -2352,6 +2376,18 @@
     "githubStars": null
   },
   {
+    "slug": "isthissongai-app",
+    "name": "Is This Song AI",
+    "url": "https://isthissongai.app/",
+    "description": "AI music detector that checks uploaded audio files or song links for Suno/Udio generation signals with 5 free daily reports, no login required.",
+    "coreTask": "Upload an audio track or enter a song title/link, run AI detection, and save the shareable PNG report.",
+    "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "aiexpert-fun-iskraai-en-tools-proofreader",
     "name": "Iskra AI Proofreader",
     "url": "https://aiexpert.fun/iskraai/en/tools/proofreader/",
@@ -2373,7 +2409,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41280
+    "githubStars": 41303
   },
   {
     "slug": "meet-jit-si",
@@ -2553,7 +2589,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15264
+    "githubStars": 15271
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2925,7 +2961,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 21050
+    "githubStars": 21058
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -3117,7 +3153,7 @@
     "featured": false,
     "badge": "explicit",
     "repoUrl": "https://github.com/nitroideofficial/nitroide",
-    "githubStars": 26
+    "githubStars": 27
   },
   {
     "slug": "nologin-tools",
@@ -3453,7 +3489,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8529
+    "githubStars": 8534
   },
   {
     "slug": "photoready-app",
@@ -3622,6 +3658,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
     "githubStars": 1247
+  },
+  {
+    "slug": "privatevideotools-com",
+    "name": "Private Video Tools",
+    "url": "https://privatevideotools.com/",
+    "description": "Browser-based video utility suite for compressing, trimming, cropping, resizing, and converting videos locally using native browser encoding.",
+    "coreTask": "Upload a local video file, configure compression or editing settings, and download the processed video without uploading footage.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "privnote-com",
@@ -4284,6 +4332,30 @@
     "githubStars": 1
   },
   {
+    "slug": "stencilmytattoo-com-try-on-tattoo",
+    "name": "Stencil My Tattoo Simulator",
+    "url": "https://stencilmytattoo.com/try-on-tattoo",
+    "description": "In-browser tattoo simulator that overlays uploaded tattoo designs onto body presets or custom photos with on-device segmentation and unwatermarked PNG export.",
+    "coreTask": "Upload a tattoo design image, adjust placement and scale on a body photo, and download a composited preview PNG.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "stickerbanner-org",
+    "name": "Sticker Banner",
+    "url": "https://stickerbanner.org/",
+    "description": "In-browser TikTok sticker banner maker that splits a photo, GIF, or video into aligned 3-, 6-, or 9-tile sticker videos with unwatermarked local export.",
+    "coreTask": "Upload an image or clip, choose 3, 6, or 9 tiles, adjust framing, and download the sticker videos.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "studycalcpro-com",
     "name": "StudyTools",
     "url": "https://studycalcpro.com/",
@@ -4342,6 +4414,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
     "githubStars": 22824
+  },
+  {
+    "slug": "www-sxuan-com-90507-html",
+    "name": "SxuanAI Background Remover",
+    "url": "https://www.sxuan.com/90507.html",
+    "description": "In-browser AI background remover that runs a cached client-side segmentation model to output unwatermarked transparent PNGs without uploading photos.",
+    "coreTask": "Upload a photo, run one-click local AI background removal, and download the transparent PNG.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "syncwhen-com",
@@ -4821,7 +4905,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111825
+    "githubStars": 111839
   },
   {
     "slug": "u2c-app",
@@ -5037,7 +5121,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6805
+    "githubStars": 6806
   },
   {
     "slug": "webutilslab-com-tools",
