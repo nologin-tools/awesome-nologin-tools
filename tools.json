@@ -360,6 +360,30 @@
     "githubStars": null
   },
   {
+    "slug": "blockblast-co-solver",
+    "name": "Block Blast Solver",
+    "url": "https://blockblast.co/solver",
+    "description": "Free Block Blast 8x8 board solver supporting screenshot parsing, interactive crop adjustment, manual cell entry, and ranked 3-piece placement plans.",
+    "coreTask": "Upload a Block Blast screenshot or enter an 8x8 board manually to compute optimal 3-block placement steps.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "blockposter-net",
+    "name": "BlockPoster",
+    "url": "https://blockposter.net",
+    "description": "Free multi-page block poster maker that splits images across printable pages with paper size, orientation, grid, and crop controls.",
+    "coreTask": "Upload or load an image, configure poster grid pages, orientation, and paper size, and export a printable poster without login.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "blur-face-com-blur-face",
     "name": "Blur Face",
     "url": "https://blur-face.com/blur-face/",
@@ -480,6 +504,18 @@
     "githubStars": null
   },
   {
+    "slug": "caesarcipher-org",
+    "name": "Caesar Cipher",
+    "url": "https://caesarcipher.org/",
+    "description": "Free classical cipher workbench supporting Caesar, ROT13, Vigenere, Atbash, and brute-force decoding with instant clipboard copy.",
+    "coreTask": "Encrypt, decrypt, or brute-force solve text using Caesar and classical substitution ciphers directly in the browser.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "calcahead-com",
     "name": "CalcAhead",
     "url": "https://calcahead.com",
@@ -585,7 +621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36144
+    "githubStars": 36148
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -813,7 +849,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19190
+    "githubStars": 19199
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1173,7 +1209,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 413
+    "githubStars": 417
   },
   {
     "slug": "db-fiddle-com",
@@ -1182,6 +1218,18 @@
     "description": "Run SQL queries online against MySQL, PostgreSQL, and SQLite. Test schemas and queries without installing a database.",
     "coreTask": "Run SQL queries online",
     "category": "Data",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-dblqr-xyz",
+    "name": "DBLQR.xyz",
+    "url": "https://www.dblqr.xyz/",
+    "description": "Free Dragon Ball Legends QR code generator for Activity QR and Add Friends codes with batch PNG download.",
+    "coreTask": "Generate and download Dragon Ball Legends activity and friend QR codes from 8-character friend codes.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1545,7 +1593,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17818
+    "githubStars": 17823
   },
   {
     "slug": "fffuel-co",
@@ -1653,7 +1701,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7389
+    "githubStars": 7388
   },
   {
     "slug": "flipaview-com",
@@ -1764,18 +1812,6 @@
     "githubStars": null
   },
   {
-    "slug": "fwd2-app",
-    "name": "Forward To",
-    "url": "https://fwd2.app",
-    "description": "This is a no login URL shortner that has a full API. It's unique because every URL comes with a revocation key that allows the user to disable the url at any time. Keys are provide upon URL generation there is no user login to use any services.",
-    "coreTask": "Create short links that can be revoked using a key, create canary links that alert you if your webhook has been fired to the URL destination of your choosing, remove and cancel a short link",
-    "category": "Privacy",
-    "featured": false,
-    "badge": "none",
-    "repoUrl": null,
-    "githubStars": null
-  },
-  {
     "slug": "freegraphpaper-org",
     "name": "Free Graph Paper",
     "url": "https://freegraphpaper.org/",
@@ -1845,7 +1881,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2393
+    "githubStars": 2398
   },
   {
     "slug": "geojson-io",
@@ -1985,6 +2021,18 @@
     "url": "https://graziechef.com/tools/qr-menu-generator?src=nologin-tools",
     "description": "Free menu page and QR code generator for restaurants without signup or email requirements.",
     "coreTask": "Generate QR code and web page for restaurant menu",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "gridcraft-me",
+    "name": "GridCraft",
+    "url": "https://gridcraft.me/",
+    "description": "Free browser-based open-source spreadsheet workspace with Excel-style ribbon controls, formulas, conditional formatting, and charts.",
+    "coreTask": "Launch a blank or template spreadsheet in the browser to edit cells, compute formulas, and visualize charts without login.",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
@@ -2145,7 +2193,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80827
+    "githubStars": 80849
   },
   {
     "slug": "hosthtmlfile-com",
@@ -2193,7 +2241,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13636
+    "githubStars": 13637
   },
   {
     "slug": "humanizeink-com",
@@ -2421,7 +2469,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30245
+    "githubStars": 30257
   },
   {
     "slug": "jottools-com",
@@ -2445,7 +2493,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44602
+    "githubStars": 44600
   },
   {
     "slug": "jsonformatter-org",
@@ -2564,18 +2612,6 @@
     "category": "Design",
     "featured": false,
     "badge": "explicit",
-    "repoUrl": null,
-    "githubStars": null
-  },
-  {
-    "slug": "kuakua-app",
-    "name": "Kuakua",
-    "url": "https://kuakua.app/",
-    "description": "Kuakua.app is your AI-powered hub for mental health resources, mindfulness meditation, and positive psychology games. Take science-backed quizzes, play brain-boosting tasks, and unlock daily affirmations to feel happier, calmer, and more resilient—anytime, on any device.",
-    "coreTask": "Access psychology resources, mindfulness exercises, and mental well-being tools",
-    "category": "Education",
-    "featured": false,
-    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -2760,6 +2796,18 @@
     "githubStars": null
   },
   {
+    "slug": "markdownonline-app",
+    "name": "Markdown Online",
+    "url": "https://markdownonline.app",
+    "description": "Free browser Markdown editor with live split-pane preview, heading outline, templates, dark mode, and .md/.html/PDF export.",
+    "coreTask": "Write, upload, preview, and export Markdown documents to .md, standalone .html, or PDF without signing in.",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "mdprevieweditor-com",
     "name": "Markdown Preview Editor",
     "url": "https://mdprevieweditor.com",
@@ -2877,7 +2925,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6913
+    "githubStars": 6918
   },
   {
     "slug": "metadataremover-ai",
@@ -3204,6 +3252,18 @@
     "githubStars": 0
   },
   {
+    "slug": "oil-capacity-com",
+    "name": "Oil-Capacity.com",
+    "url": "https://oil-capacity.com/",
+    "description": "Free engine oil capacity, viscosity grade, and filter lookup tool supporting Year/Make/Model selection and 17-character VIN decoding.",
+    "coreTask": "Look up vehicle engine oil capacity, recommended viscosity grade, and filter specifications by vehicle model or VIN.",
+    "category": "Data",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "olivez-in-tool-image-compressor",
     "name": "Olivex Image Compressor",
     "url": "https://olivez.in/tool/image-compressor",
@@ -3285,7 +3345,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11818
+    "githubStars": 11842
   },
   {
     "slug": "parsebloom-com",
@@ -3585,7 +3645,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52419
+    "githubStars": 52417
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3657,7 +3717,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1247
+    "githubStars": 1249
   },
   {
     "slug": "privatevideotools-com",
@@ -3828,6 +3888,18 @@
     "githubStars": null
   },
   {
+    "slug": "rasterbator-org",
+    "name": "Rasterbator",
+    "url": "https://rasterbator.org",
+    "description": "Free 6-step halftone wall poster generator converting photos into printable multi-page posters with style, color, and paper controls.",
+    "coreTask": "Load an image, configure paper size, halftone style, and color options, and generate a printable poster without signing in.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "rawgraphs-io",
     "name": "RAWGraphs",
     "url": "https://rawgraphs.io",
@@ -3885,7 +3957,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 933
+    "githubStars": 934
   },
   {
     "slug": "reficompass-com",
@@ -3921,7 +3993,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4122
+    "githubStars": 4125
   },
   {
     "slug": "remove-bg",
@@ -4101,7 +4173,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10769
+    "githubStars": 10768
   },
   {
     "slug": "shields-io",
@@ -4113,7 +4185,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27406
+    "githubStars": 27414
   },
   {
     "slug": "shotmelo-com",
@@ -4293,7 +4365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26194
+    "githubStars": 26200
   },
   {
     "slug": "stackedit-io",
@@ -4413,7 +4485,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22824
+    "githubStars": 22829
   },
   {
     "slug": "www-sxuan-com-90507-html",
@@ -4506,6 +4578,18 @@
     "description": "Telemetry 的免费 SQL 练习场：无需注册，即可在浏览器中对内置的模拟应用事件运行查询，查看错误率、请求量和延迟，练习如何验证一次发布后的结果。示例在浏览器内通过 DuckDB 执行，不代表真实客户数据或性能基准。此提交仅指公开练习场；接入自己的事件数据需要注册 Telemetry。由产品创建者 JR（@TheBuilderJR）提交，文案使用 AI 辅助整理。",
     "coreTask": "选择内置的模拟事件示例，在浏览器中编辑并执行 SQL，查看请求量、错误率和延迟结果，无需账号。",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "teleprompteronline-net",
+    "name": "Teleprompter Online",
+    "url": "https://teleprompteronline.net",
+    "description": "Free browser teleprompter featuring horizontal mirror mode, WPM speed control, voice scrolling, file upload, and local script saving.",
+    "coreTask": "Paste or upload a script and run a configurable, mirror-capable browser teleprompter without signing in.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4716,6 +4800,18 @@
     "githubStars": null
   },
   {
+    "slug": "timelinevisualizer-org",
+    "name": "Timeline Visualizer",
+    "url": "https://timelinevisualizer.org",
+    "description": "Free browser studio that turns Google Maps Timeline JSON files into animated 9:16 or 16:9 travel route videos locally.",
+    "coreTask": "Load a Google Maps Timeline JSON or sample trip, customize route dates, style, and motion, and record an animated travel video.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "tinhgpa-com",
     "name": "TinhGPA",
     "url": "https://tinhgpa.com/",
@@ -4761,7 +4857,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51446
+    "githubStars": 51487
   },
   {
     "slug": "tmp-tf",
