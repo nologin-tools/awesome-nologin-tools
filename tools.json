@@ -1,4 +1,6 @@
 [
+  {"slug": "dogeshorts-pdf-tools", "name": "Dogeshorts PDF Tools", "url": "https://dogeshorts.com/pdftools", "description": "Free PDF tools that run entirely in your browser: merge, split, compress, convert, rotate, watermark, protect and unlock PDFs with no account, no uploads and no watermark.", "coreTask": "Merge, split, compress, convert, rotate, watermark, protect and unlock PDFs for free without creating an account.", "category": "Productivity", "featured": false, "badge": "none", "repoUrl": null, "githubStars": null},
+  
   {
     "slug": "1600-now",
     "name": "1600.now",
