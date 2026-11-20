@@ -312,6 +312,18 @@
     "githubStars": null
   },
   {
+    "slug": "bestllmfor-com-recommandeur-quantification",
+    "name": "BestLLMfor Quantization Recommender",
+    "url": "https://bestllmfor.com/recommandeur-quantification/",
+    "description": "VRAM-based LLM quantization recommender that matches your GPU or unified memory budget, context length, and workload to viable GGUF, GPTQ, or AWQ models.",
+    "coreTask": "Enter available memory, hardware type, context window, and workload to get matching quantized LLM recommendations.",
+    "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "betterhabitsdaily-com-tracker",
     "name": "BetterHabitsDaily",
     "url": "https://betterhabitsdaily.com/tracker",
@@ -597,7 +609,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5883
+    "githubStars": 5884
   },
   {
     "slug": "www-markstudios-com-tools-caption-checker",
@@ -1089,7 +1101,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 563
+    "githubStars": 562
   },
   {
     "slug": "flukeout-github-io",
@@ -1185,7 +1197,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36430
+    "githubStars": 36485
   },
   {
     "slug": "dataformatkit-com",
@@ -1305,7 +1317,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39651
+    "githubStars": 39654
   },
   {
     "slug": "app-diagrams-net",
@@ -1317,7 +1329,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9446
+    "githubStars": 9483
   },
   {
     "slug": "diagrflow-com",
@@ -1353,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8302
+    "githubStars": 8301
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1485,7 +1497,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135892
+    "githubStars": 135996
   },
   {
     "slug": "excelcraft-app",
@@ -1509,7 +1521,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14347
+    "githubStars": 14352
   },
   {
     "slug": "extract-express",
@@ -1650,6 +1662,18 @@
     "description": "Offline-first personal budget manager inspired by YNAB. Envelope budgeting with automatic sync — all data stays on your device.",
     "coreTask": "Manage personal budgets offline",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "findkeybpm-com",
+    "name": "Find Key & BPM",
+    "url": "https://findkeybpm.com/",
+    "description": "Browser-based musical key, BPM, and Camelot wheel detector for MP3 and WAV audio files with companion Tap Tempo, chord-key, and BPM-to-ms utilities.",
+    "coreTask": "Drop an MP3 or WAV file (at least 4 seconds) or load the sample clip to detect BPM, musical key, and Camelot code.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1812,6 +1836,18 @@
     "githubStars": null
   },
   {
+    "slug": "freeattractivenesstest-com",
+    "name": "Free Attractiveness Test",
+    "url": "https://freeattractivenesstest.com/",
+    "description": "On-device AI facial proportion and score analyzer that evaluates eye size, eye spacing, brow height, jaw width, and canthal tilt locally in the browser and exports a PNG summary card.",
+    "coreTask": "Upload a portrait photo (or select a sample portrait) to run local facial proportion analysis and download the result card.",
+    "category": "AI",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "freegraphpaper-org",
     "name": "Free Graph Paper",
     "url": "https://freegraphpaper.org/",
@@ -1893,7 +1929,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2279
+    "githubStars": 2282
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -2457,7 +2493,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41303
+    "githubStars": 41314
   },
   {
     "slug": "meet-jit-si",
@@ -2625,7 +2661,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15271
+    "githubStars": 15279
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2841,7 +2877,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13254
+    "githubStars": 13271
   },
   {
     "slug": "matchmytype-org",
@@ -2886,6 +2922,18 @@
     "description": "Convert PDF, Office documents, and EPUBs into clean structured Markdown locally in the browser with zero server uploads.",
     "coreTask": "Convert PDF and documents to clean Markdown locally in the browser without sign-up.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "medleads-io-tools-clinic-website-scanner",
+    "name": "Medleads Clinic Website Opportunity Scanner",
+    "url": "https://medleads.io/tools/clinic-website-scanner/",
+    "description": "Free public clinic website auditor that crawls up to 20 same-site HTML pages across 26 specialty-specific patient-information checks and exports a Markdown developer checklist.",
+    "coreTask": "Enter a public clinic website URL and specialty to run a 20-page audit and download a developer checklist.",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3501,7 +3549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/phetsims/phet-info",
-    "githubStars": 114
+    "githubStars": 115
   },
   {
     "slug": "photocraftguide-com",
@@ -3705,7 +3753,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6183
+    "githubStars": 6184
   },
   {
     "slug": "privacytests-org",
@@ -3774,6 +3822,18 @@
     "description": "Build, format, and download ATS-friendly resumes in PDF or Word completely on-device without an account.",
     "coreTask": "Customize resume templates, check ATS scores, and export PDF or DOCX files without creating an account.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-pwdgen-xyz",
+    "name": "PwdGen Random Password Generator",
+    "url": "https://www.pwdgen.xyz/",
+    "description": "Multilingual batch random password generator that creates 5 to 20 customizable passwords (6–64 characters) locally in the browser with individual, selected, and bulk clipboard copy.",
+    "coreTask": "Adjust password length, batch size, and character filters, then click Regenerate and Copy all to export passwords.",
+    "category": "Privacy",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3981,7 +4041,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/firasdib/Regex101",
-    "githubStars": 3527
+    "githubStars": 3530
   },
   {
     "slug": "regexlearn-com",
@@ -4208,6 +4268,18 @@
     "category": "Media",
     "featured": false,
     "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-sichtschutz-im-garten-info",
+    "name": "Sichtschutz im Garten Finder",
+    "url": "https://www.sichtschutz-im-garten.info/",
+    "description": "Interactive German garden privacy screen finder and cost calculator that compares 30 hedge, fence, and portable screen solutions by length, budget, maintenance effort, and ecological criteria.",
+    "coreTask": "Set your garden border length, budget, maintenance tolerance, and requirements to filter and price matching privacy screen options.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -4569,7 +4641,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/googlecreativelab/teachablemachine-community",
-    "githubStars": 1752
+    "githubStars": 1751
   },
   {
     "slug": "telemetry-sh-sql-playground",
@@ -4617,7 +4689,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13103
+    "githubStars": 13114
   },
   {
     "slug": "teslawrapgenerator-com-tesla-wrap-3d-preview",
@@ -4929,7 +5001,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9258
+    "githubStars": 9260
   },
   {
     "slug": "treadmillpace-com",
@@ -5001,7 +5073,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111839
+    "githubStars": 111865
   },
   {
     "slug": "u2c-app",
@@ -5217,7 +5289,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6806
+    "githubStars": 6807
   },
   {
     "slug": "webutilslab-com-tools",
@@ -5361,7 +5433,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5293
+    "githubStars": 5291
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -5397,7 +5469,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3243
+    "githubStars": 3245
   },
   {
     "slug": "z-ai",
