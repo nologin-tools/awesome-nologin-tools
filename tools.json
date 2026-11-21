@@ -261,7 +261,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3060
+    "githubStars": 3059
   },
   {
     "slug": "www-autobracketmaker-com",
@@ -633,7 +633,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36148
+    "githubStars": 36147
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -861,7 +861,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19199
+    "githubStars": 19201
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1137,7 +1137,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3398
+    "githubStars": 3396
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1605,7 +1605,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17823
+    "githubStars": 17822
   },
   {
     "slug": "fffuel-co",
@@ -1725,7 +1725,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7388
+    "githubStars": 7383
   },
   {
     "slug": "flipaview-com",
@@ -2505,7 +2505,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30257
+    "githubStars": 30274
   },
   {
     "slug": "jottools-com",
@@ -2529,7 +2529,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44600
+    "githubStars": 44603
   },
   {
     "slug": "jsonformatter-org",
@@ -2748,6 +2748,18 @@
     "githubStars": null
   },
   {
+    "slug": "livnaro-cc",
+    "name": "Livnaro",
+    "url": "https://livnaro.cc/",
+    "description": "Multi-carton CBM and chargeable weight calculator for Sea LCL, Air, Express, and Road freight with container fill checks and CSV export.",
+    "coreTask": "Enter or paste carton dimensions and weights, compare Sea/Air/Express/Road chargeable weight, and export a CSV packing worksheet.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "joysky77-github-io-csv-cleanup-services-csv-encoding-checker-html",
     "name": "Local CSV Encoding Checker",
     "url": "https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html",
@@ -2862,6 +2874,18 @@
     "description": "Convert Markdown documents to Word online for writing and documentation workflows.",
     "coreTask": "Convert Markdown to a Word document without login.",
     "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "markitdownai-org",
+    "name": "MarkItDown Online",
+    "url": "https://markitdownai.org/",
+    "description": "Browser-based document-to-Markdown converter supporting PDF, DOCX, PPTX, XLSX, HTML, CSV, JSON, and XML.",
+    "coreTask": "Select a supported document or data file in Basic mode, convert it locally to Markdown, and download or copy the .md output.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3057,7 +3081,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 21058
+    "githubStars": 21072
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -3213,7 +3237,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6185
+    "githubStars": 6186
   },
   {
     "slug": "next-tools-dev",
@@ -3282,6 +3306,18 @@
     "description": "World's largest cost of living database. Compare prices, rent, groceries, and quality of life across cities worldwide.",
     "coreTask": "Compare cost of living across cities",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "nxlxtx-com",
+    "name": "nxlxtx",
+    "url": "https://nxlxtx.com/",
+    "description": "Bidirectional browser-based PDF-to-Image and Image-to-PDF converter with page sizing, ordering, margins, and ZIP/PDF export.",
+    "coreTask": "Switch between PDF-to-Image or Image-to-PDF, select local files and layout options, and download the converted images, ZIP, or PDF.",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -3393,7 +3429,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11842
+    "githubStars": 11856
   },
   {
     "slug": "parsebloom-com",
@@ -3624,6 +3660,18 @@
     "githubStars": null
   },
   {
+    "slug": "pipecuttemplates-com",
+    "name": "Pipe Cut Templates",
+    "url": "https://pipecuttemplates.com/",
+    "description": "Pipe and tube notching template generator computing unwrapped cut lines, printable 1:1 PDFs, and DXF profiles.",
+    "coreTask": "Enter cut tube diameter, mating tube diameter, and included angle to generate a 1:1 printable PDF or DXF pipe notching template.",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pixeltools-io",
     "name": "Pixeltools",
     "url": "https://pixeltools.io",
@@ -3765,7 +3813,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1249
+    "githubStars": 1247
   },
   {
     "slug": "privatevideotools-com",
@@ -3932,6 +3980,18 @@
     "category": "Productivity",
     "featured": false,
     "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "radiostation-live-en",
+    "name": "RadioStation",
+    "url": "https://radiostation.live/en/",
+    "description": "Free browser-based live radio player with global station search, country filters, sleep timer, floating player, and local favorites.",
+    "coreTask": "Search for a live radio station by keyword or country, start playback, and save favorites without creating an account.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -4233,7 +4293,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10768
+    "githubStars": 10767
   },
   {
     "slug": "shields-io",
@@ -4437,7 +4497,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26200
+    "githubStars": 26210
   },
   {
     "slug": "stackedit-io",
@@ -4449,7 +4509,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23102
+    "githubStars": 23101
   },
   {
     "slug": "newellabs-com-tools-bank-statement-converter",
@@ -4557,7 +4617,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22829
+    "githubStars": 22833
   },
   {
     "slug": "www-sxuan-com-90507-html",
@@ -4929,7 +4989,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51487
+    "githubStars": 51518
   },
   {
     "slug": "tmp-tf",
@@ -5124,12 +5184,36 @@
     "githubStars": null
   },
   {
+    "slug": "uspaycheckguide-com",
+    "name": "USPaycheckGuide",
+    "url": "https://uspaycheckguide.com/",
+    "description": "2026 US paycheck and take-home pay calculator breaking down federal, state, FICA taxes, and pre-tax deductions across all 50 states.",
+    "coreTask": "Enter salary or hourly pay, select state and filing status, and calculate per-paycheck take-home pay and tax breakdown.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "utilbear-com",
     "name": "UtilBear",
     "url": "https://utilbear.com/",
     "description": "UtilBear offers free, privacy-first tools for counting text and converting WebP and HEIC images. Processing happens locally in the browser, so files are never uploaded. No account or watermark is required, the tools work on desktop and mobile, and the interface supports eight languages.",
     "coreTask": "Count words and characters, convert HEIC photos to JPG or PNG, and convert WebP images to PNG. Every tool works without an account; files and text are processed locally in the browser.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "videotextremover-net-remove-audio-from-video",
+    "name": "Video Audio Remover",
+    "url": "https://videotextremover.net/remove-audio-from-video",
+    "description": "Browser-based local video audio remover that strips audio tracks from MP4, MOV, or WebM clips up to 200 MiB without uploading.",
+    "coreTask": "Choose a video file, preview it, remove all audio tracks locally in the browser, and download the silent MP4 copy.",
+    "category": "Media",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
