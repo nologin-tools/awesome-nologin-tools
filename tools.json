@@ -252,6 +252,18 @@
     "githubStars": null
   },
   {
+    "slug": "audioknife-calcsunny-com",
+    "name": "Audioknife",
+    "url": "https://audioknife.calcsunny.com/",
+    "description": "Free 24-tool browser audio suite with batch format converter, MP3 cutter, joiner, 10-band equalizer, noise remover, LUFS meter, and BPM/key finder with no uploads.",
+    "coreTask": "Convert, cut, equalize, or analyze audio files locally in the browser and download the result",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "audiomass-co",
     "name": "AudioMass",
     "url": "https://audiomass.co",
@@ -609,7 +621,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5884
+    "githubStars": 5885
   },
   {
     "slug": "www-markstudios-com-tools-caption-checker",
@@ -1101,7 +1113,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 562
+    "githubStars": 561
   },
   {
     "slug": "flukeout-github-io",
@@ -1197,7 +1209,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36485
+    "githubStars": 36501
   },
   {
     "slug": "dataformatkit-com",
@@ -1221,7 +1233,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/simonw/datasette-lite",
-    "githubStars": 417
+    "githubStars": 419
   },
   {
     "slug": "db-fiddle-com",
@@ -1317,7 +1329,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39654
+    "githubStars": 39657
   },
   {
     "slug": "app-diagrams-net",
@@ -1329,7 +1341,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9483
+    "githubStars": 9509
   },
   {
     "slug": "diagrflow-com",
@@ -1365,7 +1377,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8301
+    "githubStars": 8300
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1497,7 +1509,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 135996
+    "githubStars": 136090
   },
   {
     "slug": "excelcraft-app",
@@ -1521,7 +1533,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14352
+    "githubStars": 14353
   },
   {
     "slug": "extract-express",
@@ -1710,6 +1722,18 @@
     "description": "Searchable iPhone Duo app compatibility lookup covering 3,048 iOS apps with status filters (Fits, Partly fits, Should fit, Letterboxed), verified owner screenshots, and category sorting without sign-in.",
     "coreTask": "Search an iOS app or filter by compatibility status and screenshot availability to check iPhone Duo display support without an account.",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "glyahh-top-flatnest",
+    "name": "FlatNest",
+    "url": "https://glyahh.top/flatnest/",
+    "description": "Online JSON flattener and unflattener that converts nested JSON objects to dot-notation keys or restores nested structures with configurable separators and .json export.",
+    "coreTask": "Flatten nested JSON into dot-notation keys or unflatten a flat map and download the JSON result",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2229,7 +2253,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80849
+    "githubStars": 80867
   },
   {
     "slug": "hosthtmlfile-com",
@@ -2277,7 +2301,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13637
+    "githubStars": 13639
   },
   {
     "slug": "humanizeink-com",
@@ -2493,7 +2517,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41314
+    "githubStars": 41324
   },
   {
     "slug": "meet-jit-si",
@@ -2640,6 +2664,18 @@
     "githubStars": null
   },
   {
+    "slug": "knitchartmaker-com",
+    "name": "Knit Chart Maker",
+    "url": "https://knitchartmaker.com/",
+    "description": "Free browser-based Fair Isle and stranded colorwork knitting chart designer with live realistic yarn preview, gauge sizing, float checks, and PDF/image export.",
+    "coreTask": "Design a colorwork knitting chart with live yarn simulation and export a printable PDF pattern",
+    "category": "Design",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "knittingchart-com",
     "name": "Knitting Chart",
     "url": "https://knittingchart.com/",
@@ -2661,7 +2697,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15279
+    "githubStars": 15287
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -2865,7 +2901,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 32
+    "githubStars": 34
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -2997,7 +3033,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6918
+    "githubStars": 6920
   },
   {
     "slug": "metadataremover-ai",
@@ -3528,6 +3564,18 @@
     "githubStars": null
   },
   {
+    "slug": "pdfminto-com-merge-pdf",
+    "name": "PDFMinto Merge PDF",
+    "url": "https://pdfminto.com/merge-pdf/",
+    "description": "Free browser-based PDF merger supporting 2 to 40 PDFs with file reordering, 90-degree rotation, and unwatermarked download without registration.",
+    "coreTask": "Combine multiple PDF files into one ordered PDF and download the merged document",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pdftomdconverter-app",
     "name": "PDFtoMDConverter",
     "url": "https://pdftomdconverter.app/",
@@ -3633,7 +3681,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8534
+    "githubStars": 8536
   },
   {
     "slug": "photoready-app",
@@ -3741,7 +3789,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52417
+    "githubStars": 52440
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -4080,6 +4128,18 @@
     "githubStars": 934
   },
   {
+    "slug": "recipetool-net",
+    "name": "RecipeTool",
+    "url": "https://recipetool.net/",
+    "description": "Free USDA-backed recipe calorie and macro calculator that computes per-serving nutrition from ingredients and exports a 400x600 PNG nutrition label without signup.",
+    "coreTask": "Enter recipe ingredients and servings to calculate per-serving macros and download a PNG nutrition label",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "reficompass-com",
     "name": "Refi Compass",
     "url": "https://reficompass.com",
@@ -4113,7 +4173,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4125
+    "githubStars": 4126
   },
   {
     "slug": "remove-bg",
@@ -4146,6 +4206,18 @@
     "description": "Full retirement planner with no login: year-by-year projections, Roth conversion optimizer, and Monte Carlo simulation — all computed in your browser. Nothing to sign up for; your plan is stored locally on your device.",
     "coreTask": "Build retirement financial plans, Monte Carlo projections, and Roth conversion models",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "revpado-com",
+    "name": "Revision Garden",
+    "url": "https://revpado.com/",
+    "description": "Free exam revision planner and study timetable builder with daily minute limits, blocked dates, spaced review scheduling, practice timer, and CSV/.ics export.",
+    "coreTask": "Build a custom exam study timetable across topics and export it as CSV or .ics calendar",
+    "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4305,7 +4377,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27414
+    "githubStars": 27422
   },
   {
     "slug": "shotmelo-com",
@@ -4410,6 +4482,18 @@
     "description": "Free concrete calculator for slabs, cylinders, curbs and stairs. Enter dimensions in imperial or metric and get volume, bag counts (40/50/60/80 lb), weight and an installed-cost estimate, with an adjustable waste factor. No account, no signup, nothing to install. Honest caveat: the cost figures are not contractor quotes - they come from state DOT paving bid records reprojected onto residential jobs, so the ranges are wide. The volume and bag-count side has no such caveat.",
     "coreTask": "Calculate concrete volume, bag counts, weight and cost for a slab, cylinder, curb or stairs without an account",
     "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "slpagecalc-com",
+    "name": "SLP Chronological Age Calculator",
+    "url": "https://slpagecalc.com/",
+    "description": "Free speech-language pathology chronological age calculator in Y;M;D protocol format with calendar or 30-day borrowing, batch caseload input, and companion SLP tools.",
+    "coreTask": "Calculate exact chronological age in years, months, and days from birth and test dates and copy the result",
+    "category": "Education",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -5133,7 +5217,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111865
+    "githubStars": 111870
   },
   {
     "slug": "u2c-app",
@@ -5373,7 +5457,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6807
+    "githubStars": 6808
   },
   {
     "slug": "webutilslab-com-tools",
