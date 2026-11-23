@@ -645,7 +645,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36147
+    "githubStars": 36146
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -873,7 +873,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19201
+    "githubStars": 19203
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1149,7 +1149,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3396
+    "githubStars": 3397
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1617,7 +1617,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17822
+    "githubStars": 17820
   },
   {
     "slug": "fffuel-co",
@@ -1749,7 +1749,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7383
+    "githubStars": 7384
   },
   {
     "slug": "flipaview-com",
@@ -1941,7 +1941,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2398
+    "githubStars": 2401
   },
   {
     "slug": "geojson-io",
@@ -1953,7 +1953,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mapbox/geojson.io",
-    "githubStars": 2282
+    "githubStars": 2281
   },
   {
     "slug": "geometry-formulas-com-geometry-calculator",
@@ -2529,7 +2529,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30274
+    "githubStars": 30281
   },
   {
     "slug": "jottools-com",
@@ -2937,7 +2937,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/markmap/markmap",
-    "githubStars": 13271
+    "githubStars": 13283
   },
   {
     "slug": "matchmytype-org",
@@ -3465,7 +3465,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11856
+    "githubStars": 11883
   },
   {
     "slug": "parsebloom-com",
@@ -3849,7 +3849,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/undergroundwires/privacy.sexy",
-    "githubStars": 6184
+    "githubStars": 6186
   },
   {
     "slug": "privacytests-org",
@@ -4077,7 +4077,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rawgraphs/rawgraphs-app",
-    "githubStars": 9058
+    "githubStars": 9060
   },
   {
     "slug": "ray-so",
@@ -4257,7 +4257,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1441
+    "githubStars": 1442
   },
   {
     "slug": "rvstopguide-com",
@@ -4365,7 +4365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10767
+    "githubStars": 10766
   },
   {
     "slug": "shields-io",
@@ -4569,7 +4569,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/NUKnightLab/sql-mysteries",
-    "githubStars": 2255
+    "githubStars": 2254
   },
   {
     "slug": "squoosh-app",
@@ -4581,7 +4581,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26210
+    "githubStars": 26220
   },
   {
     "slug": "stackedit-io",
@@ -4701,7 +4701,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22833
+    "githubStars": 22838
   },
   {
     "slug": "www-sxuan-com-90507-html",
@@ -4833,7 +4833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tensorflow/playground",
-    "githubStars": 13114
+    "githubStars": 13117
   },
   {
     "slug": "teslawrapgenerator-com-tesla-wrap-3d-preview",
@@ -5073,7 +5073,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51518
+    "githubStars": 51535
   },
   {
     "slug": "tmp-tf",
@@ -5145,7 +5145,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ritz078/transform",
-    "githubStars": 9260
+    "githubStars": 9259
   },
   {
     "slug": "treadmillpace-com",
@@ -5601,7 +5601,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/writefreely/writefreely",
-    "githubStars": 5291
+    "githubStars": 5297
   },
   {
     "slug": "xe-com-currencyconverter",
@@ -5637,7 +5637,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jhaals/yopass",
-    "githubStars": 3245
+    "githubStars": 3247
   },
   {
     "slug": "z-ai",
