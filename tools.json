@@ -144,6 +144,18 @@
     "githubStars": null
   },
   {
+    "slug": "agentonduty-neocities-org-apple-health-to-excel-free",
+    "name": "Apple Health Export to Excel",
+    "url": "https://agentonduty.neocities.org/apple-health-to-excel-free",
+    "description": "Browser-based Apple Health export.xml and export.zip converter that summarizes metrics and exports clean Excel (.xlsx) spreadsheets without uploading data.",
+    "coreTask": "Parse Apple Health XML/ZIP exports locally and download selected health metrics as an Excel spreadsheet",
+    "category": "Data",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "archive-ph",
     "name": "Archive.today",
     "url": "https://archive.ph/",
@@ -489,7 +501,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9623
+    "githubStars": 9625
   },
   {
     "slug": "bunengchi-com",
@@ -621,7 +633,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fyrd/caniuse",
-    "githubStars": 5885
+    "githubStars": 5886
   },
   {
     "slug": "www-markstudios-com-tools-caption-checker",
@@ -666,6 +678,18 @@
     "description": "Open-source FIRE retirement portfolio simulator that runs your plan against 150+ years of historical US market data. Configure portfolio size, annual spending, asset allocation, withdrawal strategies, Social Security income, and more to see what percentage of historical scenarios your retirement survives.",
     "coreTask": "Simulate retirement portfolio longevity using historical market sequences and Monte Carlo analysis, with configurable withdrawal strategies and income sources",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "boringutils-com-chart-link",
+    "name": "Chart Link",
+    "url": "https://boringutils.com/chart-link",
+    "description": "Browser-based CSV and JSON chart maker with editable table mode, Bar/Line/Area presets, URL-hash state sharing, and clean PNG or SVG export.",
+    "coreTask": "Paste CSV or JSON data, customize chart type and layout, and download or copy high-res PNG or SVG charts",
+    "category": "Data",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -1209,7 +1233,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36501
+    "githubStars": 36513
   },
   {
     "slug": "dataformatkit-com",
@@ -1341,7 +1365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9509
+    "githubStars": 9543
   },
   {
     "slug": "diagrflow-com",
@@ -1509,7 +1533,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 136090
+    "githubStars": 136202
   },
   {
     "slug": "excelcraft-app",
@@ -1533,7 +1557,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14353
+    "githubStars": 14354
   },
   {
     "slug": "extract-express",
@@ -1809,7 +1833,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1441
+    "githubStars": 1443
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -2517,7 +2541,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41324
+    "githubStars": 41344
   },
   {
     "slug": "meet-jit-si",
@@ -2697,7 +2721,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15287
+    "githubStars": 15294
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -3117,7 +3141,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 21072
+    "githubStars": 21080
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -3273,7 +3297,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6186
+    "githubStars": 6189
   },
   {
     "slug": "next-tools-dev",
@@ -3681,7 +3705,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8536
+    "githubStars": 8535
   },
   {
     "slug": "photoready-app",
@@ -4308,6 +4332,18 @@
     "githubStars": null
   },
   {
+    "slug": "yougkxm-github-io",
+    "name": "Seller Profit & Break-Even Calculator",
+    "url": "https://yougkxm.github.io/",
+    "description": "Free browser-based Etsy, Gumroad, and Shopify profit and break-even fee calculator with return-rate impact and target-margin pricing.",
+    "coreTask": "Calculate net profit, break-even price, and per-100-order breakdown across marketplace fee presets",
+    "category": "Finance",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "sellwhere-app",
     "name": "SellWhere",
     "url": "https://sellwhere.app",
@@ -4593,7 +4629,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23101
+    "githubStars": 23104
   },
   {
     "slug": "newellabs-com-tools-bank-statement-converter",
@@ -4644,6 +4680,18 @@
     "githubStars": null
   },
   {
+    "slug": "strikethroughgen-com",
+    "name": "Strikethrough Text Generator",
+    "url": "https://strikethroughgen.com/",
+    "description": "Browser-based Unicode strikethrough and crossed-out text generator with live chat-bubble preview, clipboard copy, and .txt download.",
+    "coreTask": "Convert plain text into Unicode strikethrough variants and copy or download the styled output",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "studycalcpro-com",
     "name": "StudyTools",
     "url": "https://studycalcpro.com/",
@@ -4662,6 +4710,18 @@
     "description": "Convert normal text into copy-and-paste Unicode superscript or subscript. Formula mode keeps ordinary text readable while shifting exponents, indices, and scientific notation; tiny-text mode converts every supported character. Includes live previews, character tables, worked examples, and one-click copying.",
     "coreTask": "Type or paste text, choose superscript or subscript and a use-case mode, preview the Unicode result, and copy it without signing in.",
     "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "pic2svg-com-svg-cut-file-checker",
+    "name": "SVG Cut-File Checker",
+    "url": "https://pic2svg.com/svg-cut-file-checker/",
+    "description": "Browser-based SVG cut-file inspector for Cricut, Silhouette, and laser cutters that flags open outlines, live text, stroke-only paths, and DPI sizing issues.",
+    "coreTask": "Inspect SVG markup locally for cutting-machine issues across 9 diagnostic checks",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4770,6 +4830,18 @@
     "description": "US import duty stack resolver and landed cost calculator with HTS code classification, Section 301/232 flags, and instant CSV planning exports.",
     "coreTask": "Resolve US import duty layers by HTS code and estimate landed costs without registration.",
     "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "tattoofontgen-com",
+    "name": "Tattoo Font Generator",
+    "url": "https://tattoofontgen.com/",
+    "description": "Real-size tattoo lettering previewer and stencil generator with body-placement sizing, blur-risk checks, and 300 dpi PNG or SVG export.",
+    "coreTask": "Preview custom tattoo lettering at exact physical dimensions and export print-ready PNG or SVG stencils",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -5100,6 +5172,18 @@
     "githubStars": null
   },
   {
+    "slug": "toolmight-com",
+    "name": "ToolMight",
+    "url": "https://toolmight.com/",
+    "description": "Browser-based suite of 49+ developer utilities, builders, and algorithm visualizers including JSON formatting, key sorting, and TypeScript generation.",
+    "coreTask": "Format, validate, sort keys, and export JSON or developer utility outputs directly in the browser",
+    "category": "Development",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "tools-berry-com",
     "name": "Tools Berry",
     "url": "https://tools-berry.com",
@@ -5217,7 +5301,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111870
+    "githubStars": 111874
   },
   {
     "slug": "u2c-app",
@@ -5457,7 +5541,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6808
+    "githubStars": 6811
   },
   {
     "slug": "webutilslab-com-tools",
