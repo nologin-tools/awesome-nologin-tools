@@ -24,6 +24,18 @@
     "githubStars": null
   },
   {
+    "slug": "lab-haoming-luo-com-morph",
+    "name": "AgentFEM × Morph Lab",
+    "url": "https://lab.haoming-luo.com/morph/",
+    "description": "Interactive flexible-rod inverse design lab for reaching target endpoints, fitting drawn curves, exploring solution branches, and exporting actuation JSON.",
+    "coreTask": "Adjust target shapes or actuation parameters on the live mechanics canvas, preview quasi-static loading, and export the design as JSON.",
+    "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "aislopdetector-net",
     "name": "AI Slop Detector",
     "url": "https://aislopdetector.net/",
@@ -237,7 +249,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6542
+    "githubStars": 6543
   },
   {
     "slug": "audiotrimmer-com",
@@ -657,7 +669,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36146
+    "githubStars": 36148
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -897,7 +909,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19203
+    "githubStars": 19204
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1149,7 +1161,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2867
+    "githubStars": 2866
   },
   {
     "slug": "cssgradient-io",
@@ -1173,7 +1185,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3397
+    "githubStars": 3396
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1209,7 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/LeaVerou/cubic-bezier",
-    "githubStars": 184
+    "githubStars": 185
   },
   {
     "slug": "cutefontgen-com-upside-down-text",
@@ -1641,7 +1653,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17820
+    "githubStars": 17824
   },
   {
     "slug": "fffuel-co",
@@ -1773,7 +1785,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7384
+    "githubStars": 7381
   },
   {
     "slug": "flipaview-com",
@@ -1965,7 +1977,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2401
+    "githubStars": 2403
   },
   {
     "slug": "geojson-io",
@@ -2049,7 +2061,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/golang/playground",
-    "githubStars": 808
+    "githubStars": 806
   },
   {
     "slug": "goblin-tools",
@@ -2277,7 +2289,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80867
+    "githubStars": 80956
   },
   {
     "slug": "hosthtmlfile-com",
@@ -2460,6 +2472,18 @@
     "githubStars": null
   },
   {
+    "slug": "imgflow-taoliapp-com-en",
+    "name": "ImgFlow",
+    "url": "https://imgflow.taoliapp.com/en/",
+    "description": "On-device image compressor and format converter with live split-view comparison, EXIF/GPS stripping, offline PWA support, and batch processing.",
+    "coreTask": "Drop or choose images, adjust Fine-tune or format settings, compare before/after output, and download compressed images.",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "imgrove-com",
     "name": "imgrove",
     "url": "https://imgrove.com/",
@@ -2553,7 +2577,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30281
+    "githubStars": 30283
   },
   {
     "slug": "jottools-com",
@@ -2577,7 +2601,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44603
+    "githubStars": 44609
   },
   {
     "slug": "jsonformatter-org",
@@ -2925,7 +2949,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ovasendin/markdown_preview_editor",
-    "githubStars": 34
+    "githubStars": 35
   },
   {
     "slug": "mdconvert-net-zh-markdown-to-word",
@@ -3057,7 +3081,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6920
+    "githubStars": 6924
   },
   {
     "slug": "metadataremover-ai",
@@ -3152,6 +3176,18 @@
     "category": "Communication",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "morsecove-com",
+    "name": "Morsecove",
+    "url": "https://morsecove.com/",
+    "description": "Bidirectional Morse code translator with adjustable WPM speed, Hz tone synthesis, character pulse visualization, and clean WAV audio download.",
+    "coreTask": "Translate text to or from Morse code, synthesize adjustable audio signals in the browser, and export a WAV audio file.",
+    "category": "Communication",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -3480,6 +3516,18 @@
     "githubStars": null
   },
   {
+    "slug": "getestimatedesk-com-tools-painting-estimate-follow-up",
+    "name": "Painting Estimate Follow-Up Builder",
+    "url": "https://getestimatedesk.com/tools/painting-estimate-follow-up",
+    "description": "Free estimate follow-up message builder for painting and cabinet-refinishing businesses with situation presets, editable drafts, and clipboard copy.",
+    "coreTask": "Select a follow-up situation and project type, generate and customize the draft message, and copy it to the clipboard.",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pairdrop-net",
     "name": "PairDrop",
     "url": "https://pairdrop.net",
@@ -3489,7 +3537,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11883
+    "githubStars": 11899
   },
   {
     "slug": "parsebloom-com",
@@ -3528,6 +3576,18 @@
     "githubStars": null
   },
   {
+    "slug": "jobinterviewat-com-pay-raise-calculator",
+    "name": "Pay Raise Calculator",
+    "url": "https://jobinterviewat.com/pay-raise-calculator/",
+    "description": "Pay raise calculator converting hourly or salary raises into updated pay-period tables while comparing against CPI inflation and raise benchmarks.",
+    "coreTask": "Enter current hourly or annual pay and a raise percentage or amount, click Calculate, and review updated pay periods and inflation margin.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "pdfandimagetools-com",
     "name": "PDF & Image Tools",
     "url": "https://pdfandimagetools.com",
@@ -3557,6 +3617,18 @@
     "url": "https://pdfinjpgumwandeln.com/",
     "description": "Browser-based PDF and JPG conversion tool for quick file conversion without account signup. It also covers JPG to PDF and related image-document workflows.",
     "coreTask": "Convert PDF files to JPG images and combine JPG files into PDF directly in the browser.",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "calendar-tanfujun-com",
+    "name": "PDF to Calendar",
+    "url": "https://calendar.tanfujun.com/",
+    "description": "Side-by-side PDF and image schedule reviewer that lets users verify extracted events and export clean .ics calendar files without an account.",
+    "coreTask": "Open a schedule PDF or sample notice, verify event dates and details against the source preview, and download an .ics calendar file.",
     "category": "Productivity",
     "featured": false,
     "badge": "none",
@@ -3813,7 +3885,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52440
+    "githubStars": 52446
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -3885,7 +3957,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/privacytests/privacytests.org",
-    "githubStars": 1247
+    "githubStars": 1248
   },
   {
     "slug": "privatevideotools-com",
@@ -4197,7 +4269,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4126
+    "githubStars": 4124
   },
   {
     "slug": "remove-bg",
@@ -4260,6 +4332,18 @@
     "githubStars": null
   },
   {
+    "slug": "gamedevtool-com-roblox-tax-calculator",
+    "name": "Robux Tax Calculator",
+    "url": "https://gamedevtool.com/roblox/tax-calculator",
+    "description": "Roblox marketplace tax calculator computing net Robux after the 30% fee, tax-covered listing prices, DevEx USD estimates, and clipboard breakdown copy.",
+    "coreTask": "Enter a Robux amount, select a sale type to inspect after-tax and tax-covered prices, and copy the breakdown to clipboard.",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "rumikejawi-com",
     "name": "Rumi ke Jawi",
     "url": "https://rumikejawi.com/",
@@ -4281,7 +4365,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1442
+    "githubStars": 1443
   },
   {
     "slug": "rvstopguide-com",
@@ -4413,7 +4497,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27422
+    "githubStars": 27430
   },
   {
     "slug": "shotmelo-com",
@@ -4617,7 +4701,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26220
+    "githubStars": 26225
   },
   {
     "slug": "stackedit-io",
@@ -4653,7 +4737,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/keenanlk/stayput",
-    "githubStars": 1
+    "githubStars": 2
   },
   {
     "slug": "stencilmytattoo-com-try-on-tattoo",
@@ -4761,7 +4845,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22838
+    "githubStars": 22837
   },
   {
     "slug": "www-sxuan-com-90507-html",
@@ -5145,7 +5229,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51535
+    "githubStars": 51580
   },
   {
     "slug": "tmp-tf",
@@ -5522,7 +5606,7 @@
   {
     "slug": "aup4-aivismonitor-com",
     "name": "Waveward",
-    "url": "https://aup4.aivismonitor.com/",
+    "url": "https://waveward.app/",
     "description": "Opens Audacity project files (.aup4 from Audacity 4, .aup3 from Audacity 3) directly in the browser: see every track and clip, play the mix, export WAV or MP3, run a recovery report on a damaged project, and downgrade an .aup4 so Audacity 3.7 opens it again. The project is parsed locally with SQLite compiled to WebAssembly and never uploaded. Free to open, play and export the mix; rebuild, downgrade and stems are a one-time $19 license. No account for anything.",
     "coreTask": "Open an .aup4/.aup3 project, play the mix and export it to WAV or MP3",
     "category": "Media",
@@ -5745,7 +5829,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tholman/zenpen",
-    "githubStars": 3767
+    "githubStars": 3765
   },
   {
     "slug": "zerowidthcleaner-com-zero-width-space",
