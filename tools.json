@@ -297,7 +297,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/pkalogiros/AudioMass",
-    "githubStars": 3059
+    "githubStars": 3062
   },
   {
     "slug": "www-autobracketmaker-com",
@@ -681,7 +681,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/carbon-app/carbon",
-    "githubStars": 36148
+    "githubStars": 36152
   },
   {
     "slug": "carejobs-now-tools-healthcare-cover-letter-generator",
@@ -921,7 +921,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/compiler-explorer/compiler-explorer",
-    "githubStars": 19204
+    "githubStars": 19203
   },
   {
     "slug": "investor-gov-financial-tools-calculators-calculators-compound-interest-calculator",
@@ -1197,7 +1197,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/gridgarden",
-    "githubStars": 3396
+    "githubStars": 3398
   },
   {
     "slug": "csv-safecheck-pages-dev",
@@ -1221,7 +1221,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/FlatFilers/csvjson-app",
-    "githubStars": 459
+    "githubStars": 460
   },
   {
     "slug": "cubic-bezier-com",
@@ -1341,7 +1341,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GeiserX/DeclaRenta",
-    "githubStars": 57
+    "githubStars": 56
   },
   {
     "slug": "decode-base64-com",
@@ -1713,7 +1713,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
-    "githubStars": 17824
+    "githubStars": 17828
   },
   {
     "slug": "fffuel-co",
@@ -1824,6 +1824,18 @@
     "githubStars": null
   },
   {
+    "slug": "flagmakerfree-com",
+    "name": "Flag Maker Free",
+    "url": "https://flagmakerfree.com/",
+    "description": "Browser-based flag designer with 17 layouts, 20 vector symbols, custom text layers, undo/redo controls, URL-hash sharing, and unwatermarked PNG/SVG export.",
+    "coreTask": "Design a multi-layer custom flag and export an unwatermarked PNG or SVG",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "glyahh-top-flatnest",
     "name": "FlatNest",
     "url": "https://glyahh.top/flatnest/",
@@ -1845,7 +1857,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/thomaspark/flexboxfroggy",
-    "githubStars": 7381
+    "githubStars": 7384
   },
   {
     "slug": "flipaview-com",
@@ -1905,7 +1917,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/Jack000/fontjoy",
-    "githubStars": 1443
+    "githubStars": 1445
   },
   {
     "slug": "kitelabs-netlify-app-kitchen",
@@ -2037,7 +2049,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/geogebra/geogebra",
-    "githubStars": 2403
+    "githubStars": 2406
   },
   {
     "slug": "geojson-io",
@@ -2334,6 +2346,18 @@
     "description": "Comprehensive collection of 300+ free client-side developer utilities across formatting, conversion, cryptography, and network calculations.",
     "coreTask": "Access over 300 in-browser developer utilities such as JSON formatting, JWT decoding, and regex testing with instant file export.",
     "category": "Development",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "www-hikkoshinote-com-move-in-fridge-fit",
+    "name": "HikkoshiNote Fridge Fit Simulator",
+    "url": "https://www.hikkoshinote.com/move-in/fridge-fit",
+    "description": "Japanese browser-based moving clearance simulator for checking refrigerator and large-furniture delivery paths through hallways, turns, and doorways with visual diagrams and PNG/PDF export.",
+    "coreTask": "Simulate L-shaped corridor clearance for appliances and export a delivery check diagram",
+    "category": "Productivity",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -2637,7 +2661,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jitsi/jitsi-meet",
-    "githubStars": 30283
+    "githubStars": 30299
   },
   {
     "slug": "jottools-com",
@@ -2661,7 +2685,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/AykutSarac/jsoncrack.com",
-    "githubStars": 44609
+    "githubStars": 44618
   },
   {
     "slug": "jsonformatter-org",
@@ -2936,6 +2960,18 @@
     "category": "Design",
     "featured": false,
     "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "magicremover-org",
+    "name": "MagicRemover",
+    "url": "https://magicremover.org/",
+    "description": "AI photo object, person, text, and watermark remover with interactive brush masking, before/after comparison, and 2 free unauthenticated edits per day.",
+    "coreTask": "Paint a brush mask on an uploaded photo to erase objects and download an unwatermarked JPEG",
+    "category": "Media",
+    "featured": false,
+    "badge": "none",
     "repoUrl": null,
     "githubStars": null
   },
@@ -3225,7 +3261,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/monkeytypegame/monkeytype",
-    "githubStars": 21080
+    "githubStars": 21095
   },
   {
     "slug": "morsecodetranslator-tools",
@@ -3324,6 +3360,18 @@
     "githubStars": null
   },
   {
+    "slug": "namefontgenerator-com",
+    "name": "Name Font Generator",
+    "url": "https://namefontgenerator.com/",
+    "description": "Free online Unicode font generator offering 60 copy-and-paste text styles, decorative symbol wrappers, and category filters.",
+    "coreTask": "Convert plain text into stylized Unicode fonts with symbol decorations for copying",
+    "category": "Writing",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "nametracing-org",
     "name": "Name Tracing Generator",
     "url": "https://nametracing.org/",
@@ -3393,7 +3441,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/adamgiebl/neumorphism",
-    "githubStars": 6189
+    "githubStars": 6192
   },
   {
     "slug": "next-tools-dev",
@@ -3492,6 +3540,18 @@
     "githubStars": 0
   },
   {
+    "slug": "odluck-com-en-password-generator-12-characters",
+    "name": "ODLUCK Password Generator",
+    "url": "https://odluck.com/en/password-generator-12-characters",
+    "description": "Browser-based random password generator with editable character pools (lowercase, uppercase, digits, symbols) and configurable length.",
+    "coreTask": "Customize character sets and length to generate a random password in the browser",
+    "category": "Privacy",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "oil-capacity-com",
     "name": "Oil-Capacity.com",
     "url": "https://oil-capacity.com/",
@@ -3552,6 +3612,18 @@
     "githubStars": null
   },
   {
+    "slug": "onlineminitools-com-pdf-merger",
+    "name": "OnlineMiniTools PDF Merger",
+    "url": "https://onlineminitools.com/pdf-merger",
+    "description": "Browser-based PDF merger for combining multiple PDF files, selecting specific pages, and reordering output order without uploading documents.",
+    "coreTask": "Combine and reorder PDF files in the browser and download a merged PDF",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "www-ottopoll-com",
     "name": "Otto",
     "url": "https://www.ottopoll.com",
@@ -3597,7 +3669,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "githubStars": 11899
+    "githubStars": 11909
   },
   {
     "slug": "parsebloom-com",
@@ -3978,6 +4050,18 @@
     "description": "Custom printable worksheet, planner, and handwriting template generator for downloading print-ready PDFs without registration.",
     "coreTask": "Generate custom name tracing sheets, handwriting worksheets, and planners, then download print-ready vector PDFs directly.",
     "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "printablegrid-com-graph-paper",
+    "name": "PrintableGrid Graph Paper Generator",
+    "url": "https://printablegrid.com/graph-paper",
+    "description": "Browser-based graph paper generator with configurable MM/INCH units, paper sizes, margins, cell dimensions, line styles, weights, and unwatermarked PDF export.",
+    "coreTask": "Configure custom graph paper grid parameters and export a print-ready PDF",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4449,7 +4533,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/rust-lang/rust-playground",
-    "githubStars": 1443
+    "githubStars": 1441
   },
   {
     "slug": "rvstopguide-com",
@@ -4569,7 +4653,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/ShareDropio/sharedrop",
-    "githubStars": 10766
+    "githubStars": 10767
   },
   {
     "slug": "shields-io",
@@ -4785,7 +4869,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/GoogleChromeLabs/squoosh",
-    "githubStars": 26225
+    "githubStars": 26231
   },
   {
     "slug": "stackedit-io",
@@ -4797,7 +4881,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/benweet/stackedit",
-    "githubStars": 23104
+    "githubStars": 23105
   },
   {
     "slug": "newellabs-com-tools-bank-statement-converter",
@@ -4929,7 +5013,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/svg/svgo",
-    "githubStars": 22837
+    "githubStars": 22842
   },
   {
     "slug": "www-sxuan-com-90507-html",
@@ -5337,7 +5421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/tldraw/tldraw",
-    "githubStars": 51580
+    "githubStars": 51620
   },
   {
     "slug": "tmp-tf",
@@ -5442,6 +5526,18 @@
     "description": "TryInk is a tattoo try-on tool: upload a body photo, place a design, and preview size and placement on your own skin before an appointment.",
     "coreTask": "upload a body photo, place a design, and preview size and placement on your own skin",
     "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "tuskshift-schema-check-surge-sh-translate",
+    "name": "TuskShift SQL Translator",
+    "url": "https://tuskshift-schema-check.surge.sh/translate",
+    "description": "In-browser MySQL-to-PostgreSQL SQL translator for raw queries and Laravel fragments, outputting converted Postgres SQL with per-change explanations.",
+    "coreTask": "Translate MySQL queries into PostgreSQL syntax with change-by-change notes in the browser",
+    "category": "Development",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
