@@ -24,6 +24,18 @@
     "githubStars": null
   },
   {
+    "slug": "aftertherelationship-com-no-contact",
+    "name": "After the Relationship No-Contact Tool",
+    "url": "https://aftertherelationship.com/no-contact/",
+    "description": "Account-free unsent message draft box and reflection tool that keeps drafts in-browser and exports a 1080x1920 PNG milestone card.",
+    "coreTask": "Write an unsent message draft privately, log not sending it, and export a 1080x1920 story card PNG",
+    "category": "Writing",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "lab-haoming-luo-com-morph",
     "name": "AgentFEM × Morph Lab",
     "url": "https://lab.haoming-luo.com/morph/",
@@ -249,7 +261,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/fkling/astexplorer",
-    "githubStars": 6543
+    "githubStars": 6544
   },
   {
     "slug": "audiotrimmer-com",
@@ -370,6 +382,18 @@
     "badge": "none",
     "repoUrl": null,
     "githubStars": null
+  },
+  {
+    "slug": "billsmith-app",
+    "name": "Billsmith",
+    "url": "https://billsmith.app/",
+    "description": "Free client-side invoice, quote, and receipt generator supporting UK/US tax rules, custom logos, and watermark-free PDF and Word (.docx) export without sign-up.",
+    "coreTask": "Create a customized invoice with logo and line items and export it as a PDF or Word document",
+    "category": "Finance",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": "https://github.com/JOrdaN-Labs005/free-invoice-templates",
+    "githubStars": 0
   },
   {
     "slug": "binarytranslator-dev",
@@ -525,7 +549,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/pastelsky/bundlephobia",
-    "githubStars": 9629
+    "githubStars": 9630
   },
   {
     "slug": "bunengchi-com",
@@ -788,6 +812,18 @@
     "category": "Writing",
     "featured": false,
     "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "classnoise-com",
+    "name": "ClassNoise",
+    "url": "https://classnoise.com/",
+    "description": "Animated classroom noise meter with shy wildlife feedback, countdown timer, noise presets, and editable instruction banner without login.",
+    "coreTask": "Monitor simulated or microphone noise levels against classroom thresholds with a countdown timer and on-screen note",
+    "category": "Education",
+    "featured": false,
+    "badge": "explicit",
     "repoUrl": null,
     "githubStars": null
   },
@@ -1161,7 +1197,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/cronitorio/cronitor-cli",
-    "githubStars": 561
+    "githubStars": 562
   },
   {
     "slug": "flukeout-github-io",
@@ -1173,7 +1209,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/flukeout/css-diner",
-    "githubStars": 2866
+    "githubStars": 2867
   },
   {
     "slug": "cssgradient-io",
@@ -1269,7 +1305,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/gchq/CyberChef",
-    "githubStars": 36536
+    "githubStars": 36594
   },
   {
     "slug": "dataformatkit-com",
@@ -1389,7 +1425,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/freeCodeCamp/devdocs",
-    "githubStars": 39663
+    "githubStars": 39667
   },
   {
     "slug": "devtoolry-com",
@@ -1413,7 +1449,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/jgraph/drawio",
-    "githubStars": 9588
+    "githubStars": 9625
   },
   {
     "slug": "diagrflow-com",
@@ -1449,7 +1485,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/joemccann/dillinger",
-    "githubStars": 8301
+    "githubStars": 8300
   },
   {
     "slug": "discrete-logarithm-tomasz-slapinski-pl",
@@ -1605,7 +1641,7 @@
     "featured": true,
     "badge": "none",
     "repoUrl": "https://github.com/excalidraw/excalidraw",
-    "githubStars": 136330
+    "githubStars": 136421
   },
   {
     "slug": "excelcraft-app",
@@ -1629,7 +1665,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/idank/explainshell",
-    "githubStars": 14356
+    "githubStars": 14361
   },
   {
     "slug": "extract-express",
@@ -1714,6 +1750,18 @@
     "badge": "none",
     "repoUrl": "https://github.com/twitter/twemoji",
     "githubStars": 17828
+  },
+  {
+    "slug": "fee-lantern-netlify-app-reconcile-etsy-deposits",
+    "name": "Fee Lantern Etsy Deposit Reconciler",
+    "url": "https://fee-lantern.netlify.app/reconcile-etsy-deposits/",
+    "description": "Free browser-based Etsy monthly statement and bank deposit CSV reconciliation tool with configurable matching window and review CSV export without login.",
+    "coreTask": "Compare Etsy payment statement CSV transfers against bank credit CSV records and export a reconciliation review CSV",
+    "category": "Finance",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
   },
   {
     "slug": "fffuel-co",
@@ -2373,7 +2421,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/hoppscotch/hoppscotch",
-    "githubStars": 80956
+    "githubStars": 81003
   },
   {
     "slug": "hosthtmlfile-com",
@@ -2421,7 +2469,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/requests/httpbin",
-    "githubStars": 13639
+    "githubStars": 13637
   },
   {
     "slug": "humanizeink-com",
@@ -2580,6 +2628,18 @@
     "githubStars": null
   },
   {
+    "slug": "invoiceize-com",
+    "name": "Invoiceize",
+    "url": "https://invoiceize.com/",
+    "description": "Free browser-based invoice, receipt, quotation, and pay stub generator with customizable templates, custom logos, local autosave, and watermark-free PDF download without signup.",
+    "coreTask": "Customize an invoice with business details, logo, and line items and download a PDF without signing up",
+    "category": "Finance",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "invosmith-com-invoice-generator",
     "name": "Invosmith Invoice Maker",
     "url": "https://invosmith.com/invoice-generator",
@@ -2649,7 +2709,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/CorentinTh/it-tools",
-    "githubStars": 41365
+    "githubStars": 41382
   },
   {
     "slug": "meet-jit-si",
@@ -2772,6 +2832,18 @@
     "githubStars": 0
   },
   {
+    "slug": "kitbun-com",
+    "name": "Kitbun",
+    "url": "https://kitbun.com/",
+    "description": "Installable offline-capable suite of 113 browser-based file compression, conversion, archive, and encryption tools with automatic file routing and no login.",
+    "coreTask": "Drop a file to match compatible tools or compress a PNG in-browser and download the watermark-free result",
+    "category": "Productivity",
+    "featured": false,
+    "badge": "explicit",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
     "slug": "kitparlor-com",
     "name": "KitParlor",
     "url": "https://kitparlor.com",
@@ -2829,7 +2901,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/languagetool-org/languagetool",
-    "githubStars": 15301
+    "githubStars": 15314
   },
   {
     "slug": "lanternpathbooks-com-free-tools",
@@ -3177,7 +3249,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/mermaid-js/mermaid-live-editor",
-    "githubStars": 6924
+    "githubStars": 6928
   },
   {
     "slug": "metadataremover-ai",
@@ -3909,7 +3981,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/photopea/photopea",
-    "githubStars": 8538
+    "githubStars": 8544
   },
   {
     "slug": "photoready-app",
@@ -4029,7 +4101,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/prettier/prettier",
-    "githubStars": 52446
+    "githubStars": 52461
   },
   {
     "slug": "preuveenmain-ca-app",
@@ -4377,7 +4449,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/juxtopposed/realtimecolors",
-    "githubStars": 934
+    "githubStars": 936
   },
   {
     "slug": "recipeagents-usestarbase-com",
@@ -4425,7 +4497,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/firasdib/Regex101",
-    "githubStars": 3532
+    "githubStars": 3531
   },
   {
     "slug": "regexlearn-com",
@@ -4437,7 +4509,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/aykutkardas/regexlearn.com",
-    "githubStars": 4124
+    "githubStars": 4126
   },
   {
     "slug": "remove-bg",
@@ -4665,7 +4737,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/badges/shields",
-    "githubStars": 27430
+    "githubStars": 27447
   },
   {
     "slug": "shotmelo-com",
@@ -4758,6 +4830,18 @@
     "description": "SizeCompare is a free visual size comparison tool for phones, tablets, laptops, tires, animals, and everyday objects. Compare verified dimensions at true scale, with calculators for tires, height, screens, and custom measurements.",
     "coreTask": "Compare real-world object dimensions at true scale and enter custom measurements.",
     "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "sketchphotoai-com",
+    "name": "SketchPhotoAI",
+    "url": "https://sketchphotoai.com/",
+    "description": "Free client-side photo-to-sketch converter supporting pencil, charcoal, line art, and watercolor styles with watermark-free PNG download; cloud AI generation requires sign-in.",
+    "coreTask": "Upload a photo, select a local sketch style (pencil, charcoal, line art, or watercolor), and download the resulting PNG without signing in",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -4905,7 +4989,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/keenanlk/stayput",
-    "githubStars": 2
+    "githubStars": 3
   },
   {
     "slug": "stencilmytattoo-com-try-on-tattoo",
@@ -4950,6 +5034,18 @@
     "description": "Free online calculators and study tools for students — GPA calculator, final grade, percentage, weighted and cumulative GPA, pomodoro timer, exam countdown and more. No sign-up, no ads before the answer.",
     "coreTask": "Use every calculator and read every study guide instantly",
     "category": "Education",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "stylegpt-app",
+    "name": "StyleGPT",
+    "url": "https://stylegpt.app/",
+    "description": "AI apparel product photo studio that transforms garment photos into ghost mannequin packshots with 2K export and no login required for trial runs.",
+    "coreTask": "Upload a garment image, run ghost mannequin generation, and export a 2K product packshot without signing in",
+    "category": "Design",
     "featured": false,
     "badge": "none",
     "repoUrl": null,
@@ -5589,7 +5685,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/microsoft/TypeScript",
-    "githubStars": 111908
+    "githubStars": 111925
   },
   {
     "slug": "u2c-app",
@@ -5609,6 +5705,18 @@
     "url": "https://uicolors.app",
     "description": "Generate Tailwind CSS color scales from any color. Get a complete 50–950 shade palette with one click, ready for your config.",
     "coreTask": "Generate Tailwind CSS color scales",
+    "category": "Design",
+    "featured": false,
+    "badge": "none",
+    "repoUrl": null,
+    "githubStars": null
+  },
+  {
+    "slug": "uncrop-si",
+    "name": "uncrop.si",
+    "url": "https://uncrop.si/",
+    "description": "Free browser-based image outpainting and aspect-ratio expander supporting blur, mirror, stretch, color, texture, and transparent fills without signup.",
+    "coreTask": "Upload an image, select a target aspect ratio and edge-fill mode, and download the expanded image without logging in",
     "category": "Design",
     "featured": false,
     "badge": "none",
@@ -5841,7 +5949,7 @@
     "featured": false,
     "badge": "none",
     "repoUrl": "https://github.com/webhooksite/webhook.site",
-    "githubStars": 6816
+    "githubStars": 6819
   },
   {
     "slug": "webutilslab-com-tools",
